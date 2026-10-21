@@ -1,0 +1,195 @@
+injury_event_id,player_id,player_name,partition,event_date,all_outings_previous_30d,eligible_outings_previous_30d,eligible_outings_7_30d,reason
+72990ef23b32a51b62e62f6723b54d5c,150274,Joe Nathan,train,2015-04-07,1,0,0,quality/history/active episode or intervening-event exclusion
+feb58be2f4b0786775871049d0488501,435045,Sergio Santos,train,2015-06-15,5,5,4,observable
+56e5c30c816acdb6a87994aa99d5291c,435221,Brandon McCarthy,train,2015-04-26,4,0,0,quality/history/active episode or intervening-event exclusion
+562eb48aaea7c992cc0abba32be1e812,450306,Jason Vargas,train,2015-07-22,1,1,0,observable
+afab452e6fb2b11ea8cb5033957b3ebb,456501,Johnny Cueto,train,2018-07-29,4,4,3,observable
+6ca1d12cf291c76f906a0373a8e6e901,456701,Homer Bailey,train,2015-04-25,2,0,0,quality/history/active episode or intervening-event exclusion
+fbab79485cd554a6eff86e9f6a412dad,456713,Matt Bush,train,2018-06-14,8,8,5,observable
+8048e8bc84602be62c933edbd5da6006,467094,Félix Doubront,train,2016-04-04,0,0,0,no MLB outing in prior 30 days in retained partition
+fc257228fa3533fa68e069decb0064d4,474029,Zach Putnam,train,2017-04-23,7,7,5,observable
+ef0daa5e8f10e6cd9d8467ca1fd87d5d,475479,David Phelps,train,2018-03-26,0,0,0,no MLB outing in prior 30 days in retained partition
+1eff14d7cee1d2592b129035eb87f6b1,476589,Adam Warren,train,2019-06-08,11,11,9,observable
+ed65d6fc3a5c23732a851e32aa72b2c3,500724,JC Ramírez,train,2018-04-08,2,2,0,observable
+bfb30c24284fe2a33fa1a7163e0a932f,502028,Blake Wood,train,2018-04-23,13,13,10,observable
+90ea75a9d52932656191e66b9ecab58b,502085,David Robertson,train,2019-04-15,7,7,6,observable
+c6df5eeadc32411eae386a473f57d707,502171,Alex Cobb,train,2015-03-27,0,0,0,no MLB outing in prior 30 days in retained partition
+6a1fef440c293e247637d60d8e2e6659,502264,Nate Adcock,train,2015-07-30,5,5,4,observable
+d0943dac396ca19ac5ced01312bc46f6,502578,Aaron Barrett,train,2015-08-06,10,9,6,observable
+50fd5d86ec3a643b2a0de2ad1dd0bc94,518693,Sam Freeman,train,2020-08-13,7,6,4,observable
+de8d0a9fb7b34549178c4ed5f3c24c25,518771,Mitch Harris,train,2016-03-25,0,0,0,no MLB outing in prior 30 days in retained partition
+4bba77c14f08f1654cbe139fe394073f,519242,Chris Sale,train,2020-06-28,0,0,0,no MLB outing in prior 30 days in retained partition
+4bc2fed1837bd89957ae70449b9a8560,519322,Drew Storen,train,2017-09-10,9,9,9,observable
+25800d7f89f07357a884570336b30304,519443,Brandon Workman,train,2015-04-03,0,0,0,no MLB outing in prior 30 days in retained partition
+deb3a30ab7301a18b986478681f45301,519455,Jordan Zimmermann,train,2019-04-26,6,6,5,observable
+1b6e38aa0070ce7c300b553468ab3e97,534910,Jesse Hahn,train,2018-03-06,0,0,0,no MLB outing in prior 30 days in retained partition
+f88d97ab9be1855a0ee138f744930d92,543101,Anthony DeSclafani,train,2017-04-02,0,0,0,no MLB outing in prior 30 days in retained partition
+1a64c342ae9016b1bb374c3a200d5d36,543135,Nathan Eovaldi,train,2016-08-11,6,6,5,observable
+81cacc00019f1771e3e1585abfe350d2,543169,Brian Flynn,train,2019-03-25,0,0,0,no MLB outing in prior 30 days in retained partition
+b18c0e572e1378d37f673182d80f8131,543594,Sean Nolin,train,2016-03-25,0,0,0,no MLB outing in prior 30 days in retained partition
+8a85a6ca52fb1f60cb7e57a9e1bba7d9,543900,Daniel Webb,train,2016-04-29,1,1,0,observable
+876b9e6c40ce64c75213454974af5c8f,544759,Bo Schultz,train,2017-03-30,0,0,0,no MLB outing in prior 30 days in retained partition
+09b25238773ad1f8cd629991cd12ebe9,552640,Andrew Kittredge,train,2020-08-12,8,8,4,observable
+63214c2615beb440d5cb585a76408b2f,570810,Lisalverto Bonilla,train,2015-03-31,0,0,0,no MLB outing in prior 30 days in retained partition
+6adb2bdd604ffbcc0d2d42947b410b3d,571704,Ken Giles,train,2020-09-16,2,2,0,observable
+bff23ce6121d745ca6655a130273dd26,571760,Andrew Heaney,train,2016-04-06,1,1,0,observable
+77d2d6a87be13d47bc205587d0ef80ee,571760,Andrew Heaney,train,2017-03-30,0,0,0,no MLB outing in prior 30 days in retained partition
+a4023b0955aff17d08f74d267869be5b,571946,Shelby Miller,train,2017-04-24,4,4,2,observable
+16b659a3fdebfa875730d86525f24062,572038,Branden Pinder,train,2016-04-21,1,1,0,observable
+dcf6ee6b64b4a7c5a930e4422273d62c,572070,Garrett Richards,train,2016-05-06,5,5,4,observable
+1ba19467301f1fdad1c8eed6f0bb53dc,572070,Garrett Richards,train,2018-07-11,3,2,1,observable
+ba249ff9f1a619b1478e875f0d25a69d,572096,Trevor Rosenthal,train,2017-08-17,10,10,8,observable
+20b58a976c9e3e94e8d2753fe4425581,572362,Robbie Erlin,train,2016-04-18,3,1,0,observable
+c370df39e09c4d9362e81348bbe67812,592279,Jesen Therrien,train,2017-09-11,10,10,10,observable
+cd275af0214d87430c86b82cfb4aab12,592346,Chi Chi González,train,2017-04-02,0,0,0,no MLB outing in prior 30 days in retained partition
+89c65f6b1132df1e39a3bd518332894d,592499,Artie Lewicki,train,2018-08-14,2,2,0,observable
+ac30354db0a705a6658d2fb0fcf84161,592712,Connor Sadzeck,train,2019-06-03,11,11,8,observable
+231171b4bb838f2ffc6ecfeba316bc66,592767,Drew Smyly,train,2017-03-31,0,0,0,no MLB outing in prior 30 days in retained partition
+d07260becbf152742a732e6a20f565b4,592789,Noah Syndergaard,train,2020-06-27,0,0,0,no MLB outing in prior 30 days in retained partition
+b277c3547323ba176c3c4e9a36d3b0fb,592791,Jameson Taillon,train,2019-05-04,5,5,4,observable
+465b370ea35521863e7a853ea3842559,592804,Tyler Thornburg,train,2020-09-11,7,7,6,observable
+0c427570be4d14c32440a90894713095,592836,Taijuan Walker,train,2018-04-15,3,3,2,observable
+fa5bafbd24baea6214c0ec3a2bdbc58d,594311,Jandel Gustave,train,2017-04-19,6,6,4,observable
+4e14492d109f275df6f0c20ec4e3db6e,594951,Ryan O'Rourke,train,2017-03-30,0,0,0,no MLB outing in prior 30 days in retained partition
+f0601660f142a5e8b00ace1ad17a7982,595032,Chase Whitley,train,2015-05-15,4,0,0,quality/history/active episode or intervening-event exclusion
+95f44e8c014f9fe05d6592fc8170797c,595307,Seth Maness,train,2016-08-14,11,11,8,observable
+6bb1d7b3b0ef2eabd9bdeaef3c9d43ba,595897,Nick Burdi,train,2020-08-05,3,3,2,observable
+30d32c7de8bbad8d9fd620f51b5405e7,605121,Justin Anderson,train,2020-07-23,0,0,0,no MLB outing in prior 30 days in retained partition
+c05b9c7bc9561e8c733957d94d506585,605135,Chris Bassitt,train,2016-04-29,5,5,3,observable
+3e8699ef4bbd41000eaafe553e95c853,605154,John Brebbia,train,2020-06-27,0,0,0,no MLB outing in prior 30 days in retained partition
+917d1725681b3c72db108eea23a900bb,605254,Daniel Gossett,train,2018-06-04,3,3,1,observable
+69add502531d723353feeafc98e28a49,605304,Erik Johnson,train,2016-06-29,4,4,3,observable
+baa12791000c8e8093018abeaee99253,605452,Joe Ross,train,2017-07-11,6,6,5,observable
+e67e06df6af1fc4e3a54f8fb118aac7c,605476,Carson Smith,train,2016-05-15,3,3,1,observable
+aa878babd17736855846a34245fa068f,606965,Chris Devenski,train,2021-05-15,6,6,4,observable
+145e0e825fa297bb1cfe406e2983335e,607074,Carlos Rodón,train,2019-05-02,6,6,4,observable
+85b6a969c370406af439bd4aa09f8f56,607215,Eric Skoglund,train,2018-05-26,6,6,4,observable
+5be41f133a131e9266d6b8ce1fca3aa3,607374,Nick Tropeano,train,2016-07-19,3,3,2,observable
+63a407625c7aa69d60620b36f9ac8a18,607374,Nick Tropeano,train,2017-04-01,0,0,0,no MLB outing in prior 30 days in retained partition
+6ed9c3c5c1a7a30c7ab4d4b7e011207c,607473,Chasen Bradford,train,2019-06-03,3,3,1,observable
+b57a2bdf3deb00f277e79c6669ac06c7,608349,Corey Knebel,train,2019-03-25,0,0,0,no MLB outing in prior 30 days in retained partition
+3b0cb26613ffbcf948b14ba9c701b40c,608718,Brent Suter,train,2018-07-23,4,2,1,observable
+592632fbbb47e546c1a57df2bf2075fd,611093,Silvino Bracho,train,2019-03-11,0,0,0,no MLB outing in prior 30 days in retained partition
+071a719d101f6aa0e24d604d9f63a2ed,611093,Silvino Bracho,train,2020-06-28,0,0,0,no MLB outing in prior 30 days in retained partition
+6a42d762951047867c6cb94b4e654f95,621114,Ryan Burr,train,2019-05-25,6,6,4,observable
+ca8476f94658f26089e0f205ac1666aa,621294,Ben Heller,train,2018-03-27,0,0,0,no MLB outing in prior 30 days in retained partition
+776213dadfb55efb8935fb4a1b9753e6,621363,Colin Poche,train,2020-07-21,0,0,0,no MLB outing in prior 30 days in retained partition
+5f11ea38a69ff482065bbf5712bad66b,622259,Trey Wingenter,train,2020-07-20,0,0,0,no MLB outing in prior 30 days in retained partition
+50ecd273affc3e5ccc24a2e05bc3c12c,622554,Seranthony Domínguez,train,2019-06-06,12,12,9,observable
+60faee0a0f5a61156deeb4803525a31f,622554,Seranthony Domínguez,train,2020-06-28,0,0,0,no MLB outing in prior 30 days in retained partition
+3ffb3a61364d3481f552423f7686d10c,630023,Yonny Chirinos,train,2020-08-17,3,1,0,observable
+4184b52b39ad53f1a331797d893d3bef,639373,Gerson Bautista,train,2020-07-22,0,0,0,no MLB outing in prior 30 days in retained partition
+176ffb4619bed1adb566209e90170df9,641712,Dakota Hudson,train,2020-09-18,6,6,4,observable
+1257cfd3ae26d8f0611832afac4b31c1,641771,Chad Kuhl,train,2018-06-27,6,6,4,observable
+c938ef357396b5e0c0a79857603a38bb,641835,Tim Mayza,train,2019-09-18,10,10,9,observable
+f12f4581715adc5a337fd8eed2ea696b,641871,Keynan Middleton,train,2018-05-14,9,3,0,observable
+9508a77c5ea2362edb19c5cf39fb8798,642028,Josh Rogers,train,2019-06-26,4,3,1,observable
+c6ce47c91945149b326b5c970bc9fc5f,642759,Julian Fernández,train,2018-03-29,0,0,0,no MLB outing in prior 30 days in retained partition
+53aa0737746b80e7bead70bef72a52e0,645307,Ricardo Sánchez,train,2020-08-29,3,0,0,quality/history/active episode or intervening-event exclusion
+222f5a6384960e159f769e1035bb5003,656186,Dan Altavilla,train,2018-06-07,9,9,7,observable
+a26dac511db1e5e664fcfe8c83d53938,656222,Jalen Beeks,train,2020-08-26,11,10,7,observable
+6d47d4abaac255a0058eacff3e1aea47,656492,Foster Griffin,train,2020-07-28,1,0,0,quality/history/active episode or intervening-event exclusion
+0d9b1dbaa0bdacf2b2d148a461004d09,656629,Michael Kopech,train,2018-09-08,4,0,0,quality/history/active episode or intervening-event exclusion
+5db9ef4bb5f6aa0b1d33a8e58239ccab,656756,Jordan Montgomery,train,2018-05-02,6,6,4,observable
+1af6b476358900bfc12f94cac5ec5d13,657571,Caleb Ferguson,train,2020-09-16,12,12,10,observable
+f7a7d24bef648036646b32adcb80d4b2,659275,Dinelson Lamet,train,2018-03-26,0,0,0,no MLB outing in prior 30 days in retained partition
+080be047d76952ab3a8026eb7d3a617f,660271,Shohei Ohtani,train,2018-06-07,4,4,3,observable
+e8083b61d4a3d2d74c48d592ab3f6a18,660271,Shohei Ohtani,train,2019-03-25,0,0,0,no MLB outing in prior 30 days in retained partition
+581a8e41645189df6b599841429c1a2e,663855,Jordan Hicks,train,2019-06-23,12,11,7,observable
+09ae827a618bea311927fb3db930f5a6,664977,Blake Cederlind,train,2021-03-12,0,0,0,no MLB outing in prior 30 days in retained partition
+c3db3b49bf107cb0ee0ecbb4042dab32,448281,Sean Doolittle,validation,2022-04-20,6,6,3,observable
+4a6b1bd912bfc5bc247d31bf4d8a368d,500610,Deolis Guerra,validation,2022-04-07,0,0,0,no MLB outing in prior 30 days in retained partition
+00063184096cfacffd696681ef4d4744,528748,Humberto Castellanos,validation,2022-06-01,6,6,4,observable
+64fcf9e74a7b8e7c8821147b96d573fc,554431,Tyler Matzek,validation,2023-03-30,0,0,0,no MLB outing in prior 30 days in retained partition
+104ec2ec6d39949f07e6e9ab9fe853fa,571510,Matthew Boyd,validation,2023-06-27,6,6,4,observable
+78e1b28bdc3f1ac24dc9208089b39e9a,592662,Robbie Ray,validation,2023-04-01,1,1,0,observable
+445cddddcb2b7cbfb00effa84297ef8a,594798,Jacob deGrom,validation,2023-04-29,6,6,4,observable
+3c8fe958ea8079a6433ddf83b36c03e7,608566,Germán Márquez,validation,2023-04-27,4,1,0,observable
+d97c89079432e061f19be26106ea299e,621111,Walker Buehler,validation,2022-06-11,6,6,5,observable
+f22ecf0ddaa0c19605dc9e15d110435e,622608,Antonio Senzatela,validation,2023-05-11,2,2,0,observable
+fffdc4403458b2c33faeeb92df4b21b0,623364,Brad Wieck,validation,2022-03-17,0,0,0,no MLB outing in prior 30 days in retained partition
+e16811ce0f58d06ec45cdd4bef35022d,641816,Tyler Mahle,validation,2023-04-30,5,5,4,observable
+2bedb7c5b2d786006234380caad7ca49,642152,Lou Trivino III,validation,2023-03-27,0,0,0,no MLB outing in prior 30 days in retained partition
+8c945a320728dd144f1dccaa07472b52,642585,Félix Bautista,validation,2023-08-26,11,11,8,observable
+f93de3fa6de096118fc03445d6b62293,650671,José Quijada,validation,2023-04-29,10,10,9,observable
+42d5e2ab29891c3fd33aa3acc11bc228,656755,Bryce Montes de Oca,validation,2023-03-27,0,0,0,no MLB outing in prior 30 days in retained partition
+7261018d2abf8bb2c7ce4e3f9d102d38,656818,Connor Overton,validation,2023-04-15,3,3,1,observable
+aecc78a67612cc72750dbfc5f3a42594,656876,Drew Rasmussen,validation,2023-05-12,6,6,4,observable
+233c8830584db96a709ddfdb427a1bff,656887,Sean Reid-Foley,validation,2022-05-01,7,7,5,observable
+1f9ae48d8625ae83a061f6f2ff5f1547,660623,Huascar Ynoa,validation,2023-03-30,0,0,0,no MLB outing in prior 30 days in retained partition
+e4eec2cb47485f3540f6cd1613d2592f,663432,Tanner Rainey,validation,2022-07-13,10,10,9,observable
+9e0f3604336fedc6fbd3e26da3ecc461,663556,Shane McClanahan,validation,2023-08-03,4,4,2,observable
+dddd773130d715058360e2acad91e52f,663753,Reiss Knehr,validation,2023-06-28,1,1,0,observable
+dafa10ed89d3cf696b69a68ac6adc2d2,663978,Chris Paddack,validation,2022-05-09,5,5,4,observable
+a4df2b6fb9f2538b0c1f9b89db21e252,664062,Tony Gonsolin,validation,2023-08-19,6,6,5,observable
+85eaa362ae49032c59a7198a62287823,664141,JT Brubaker,validation,2023-03-27,0,0,0,no MLB outing in prior 30 days in retained partition
+dfe8a42b574749e33f1ce90ef8e06051,665665,Reiver Sanmartin,validation,2023-05-08,10,10,8,observable
+8f9b81f78d7dfc9074200ac898587f4c,668834,Easton McGee,validation,2023-04-30,1,0,0,quality/history/active episode or intervening-event exclusion
+b8c709ba2285198a20ea9de37551445f,669160,Dustin May,validation,2023-05-18,5,5,3,observable
+fae28b12535c521d62c9956ae54987a5,669622,Anthony Bender,validation,2022-08-14,6,6,3,observable
+da6e1dd22978d40ca764868815d39dc9,676974,Max Meyer,validation,2022-07-24,2,0,0,quality/history/active episode or intervening-event exclusion
+07b37d14536faba796273866c7823305,677651,Luis Garcia,validation,2023-05-02,6,6,5,observable
+2d2e7ce82dff5c427400750b02cc369e,681810,Austin Warren,validation,2023-04-24,2,2,0,observable
+13b42bbc3fa91953acb32506b1d86c3b,686753,Drey Jameson,validation,2023-07-07,7,7,6,observable
+c3e8b88c633ffc46258dd080a1a69dc9,489119,Wade Miley,test,2024-04-19,2,2,1,observable
+4e35d008d818c716f6c904ea6cf604d6,548384,Brooks Raley,test,2024-04-21,8,8,6,observable
+177fdf3fc7fca97cb6d1255c541b67d3,592866,Trevor Williams,test,2025-07-04,5,5,4,observable
+ffd07fa87fae224503e8644471a9dffa,593423,Frankie Montas,test,2025-08-22,4,4,4,observable
+23e84322663732d5a87049897b07b3fd,594902,Ben Lively,test,2025-05-13,6,6,5,observable
+c38ae6918286127e87e7864b2b5f4508,608678,Dominic Leone,test,2024-08-15,5,5,2,observable
+9eb6950d50c16fb09e52de3d8af4306d,623465,Evan Phillips,test,2025-05-07,7,7,5,observable
+6a0505e212c3e69b7881b72dbe2c13ed,640462,A.J. Puk,test,2025-04-18,8,8,5,observable
+2c0e3d5b1db0d1c7e7f289ec2964d8f5,642585,Félix Bautista,test,2024-02-14,0,0,0,no MLB outing in prior 30 days in retained partition
+19b0aeae3071dec41d8626b5e1537726,657006,Justin Steele,test,2025-04-08,4,4,3,observable
+4fa1889382bc97df3e62baf8e0dbaa33,657376,Clarke Schmidt,test,2025-07-04,6,6,4,observable
+1fecdd098b466441252231540450b46e,663776,Patrick Sandoval,test,2024-06-22,6,6,5,observable
+60c3571f40a6c549834594aa738baec9,663804,Jackson Kowar,test,2024-03-10,0,0,0,no MLB outing in prior 30 days in retained partition
+63b504671b5bd0278dc35450a8ee587b,664299,Cristian Javier,test,2024-05-24,3,3,2,observable
+0cb9a4054a059bd70cffce4d8b58d3cf,664849,Danny Young,test,2025-04-27,9,9,7,observable
+39f304aeee476d941c2590f5a0e48774,666201,Alek Manoah,test,2024-05-30,5,5,3,observable
+d6cc11a3d6030e6bce033f4b4836c0a7,666374,Matt Brash,test,2024-03-25,0,0,0,no MLB outing in prior 30 days in retained partition
+21ff6e8cd23ca61c628e38ea1c3e72ef,666374,Matt Brash,test,2025-03-24,0,0,0,no MLB outing in prior 30 days in retained partition
+1f0047d6395ccaad6d180c7adc8c2a68,669203,Corbin Burnes,test,2025-06-02,5,5,3,observable
+06ab6aca113a8078ed101cc4664baa1f,669330,Tyler Wells,test,2024-04-13,3,3,2,observable
+24a1b840d0aa90fcd632cadbc6fe5810,669684,Chris Murphy,test,2024-03-28,0,0,0,no MLB outing in prior 30 days in retained partition
+730411f974b93dc44455e61b676bbf25,669713,Hayden Wesneski,test,2025-05-07,5,5,4,observable
+2dc37e464369d12298c70ac56767daed,669854,Ronel Blanco,test,2025-05-20,5,5,4,observable
+c3871d851a43a5f6c77065b8d4691d6d,669947,Jesse Scholtens,test,2024-02-27,0,0,0,no MLB outing in prior 30 days in retained partition
+2f0f9063dd4a5bffca542e0878412fee,672715,Luis Patiño,test,2024-03-19,0,0,0,no MLB outing in prior 30 days in retained partition
+c4b8b0cebc1352240df5a25495c97433,673380,Dedniel Núñez,test,2025-07-03,5,5,3,observable
+6dce6db1a205df6e60e87854c501e964,673820,Robinson Piña,test,2025-09-02,0,0,0,no MLB outing in prior 30 days in retained partition
+4d9a83be33d0282138dc05e2b06c9c4d,674003,Cody Bradford,test,2025-03-24,0,0,0,no MLB outing in prior 30 days in retained partition
+c3b8b29255bc196a576d23c6f87de0ad,675911,Spencer Strider,test,2024-04-07,2,2,1,observable
+efe7bbada8d4204a28d489774d214c89,677651,Luis Garcia,test,2025-09-10,2,2,1,observable
+864c106cc759eae1e8437e84e2a88b01,678495,Randy Rodríguez,test,2025-08-23,8,8,6,observable
+e27e13fce8d41eb795ba9670d008fb45,679885,Justin Martinez,test,2025-06-10,5,5,3,observable
+ffc32105e96b1776be8465a25d97e611,680694,Kyle Bradish,test,2024-03-25,0,0,0,no MLB outing in prior 30 days in retained partition
+35c60394c60b37b21166db644c288d26,680694,Kyle Bradish,test,2024-06-15,5,4,3,observable
+51b0eabf370cd3e90d0957b004db5d4d,681035,Christian Scott,test,2024-07-22,4,4,3,observable
+725584ba118e1adfdc5431dd6ccc8260,683003,Jared Jones,test,2025-03-24,0,0,0,no MLB outing in prior 30 days in retained partition
+d55ef1353a72f715f61ba9d3d63ec578,686218,Emmet Sheehan,test,2024-03-19,0,0,0,no MLB outing in prior 30 days in retained partition
+c164c64cde221066cb20fbe17e6cba13,686796,Blake Walston,test,2025-03-23,0,0,0,no MLB outing in prior 30 days in retained partition
+f407494e866846aeba34a3c904e22f92,687888,Brandon Walter,test,2025-07-24,5,5,3,observable
+5c110f47c206272390878246d984ffc3,688107,Robert Gasser,test,2024-06-02,5,0,0,quality/history/active episode or intervening-event exclusion
+50ab9ceda9c1150bdfe0a37cbdb0e583,691587,Eury Pérez,test,2024-03-25,0,0,0,no MLB outing in prior 30 days in retained partition
+223ecfdd6544d6142bf28095bae4230a,695549,Jackson Jobe,test,2025-05-29,6,6,4,observable
+fe0b62e00b79f9129228ca8c0aea16d7,700363,AJ Smith-Shawver,test,2025-05-29,5,5,5,observable
+cfa9a55ed93d6c0ec57206542b744a44,621107,Zach Eflin,descriptive_2026,2026-04-01,1,1,0,observable
+01c06899a1dcdd2da5fb9ad2470d0158,641745,Brad Keller,descriptive_2026,2026-07-13,2,1,0,observable
+9244d4f7915565200d7ddb61214fb5e3,668881,Hunter Greene,descriptive_2026,2026-08-02,5,5,4,observable
+26891c4513559a90126d19a7cfc88740,669211,Keegan Akin,descriptive_2026,2026-06-28,11,11,9,observable
+358024ca51729265060f931c2076ca35,672582,Angel Zerpa,descriptive_2026,2026-04-26,12,12,10,observable
+243c2617ad879fc80cec652c60d7ef37,673929,Jordan Leasure,descriptive_2026,2026-05-29,4,4,2,observable
+3e031217025485f54f21e8d93539fe11,679883,Luinder Avila,descriptive_2026,2026-08-02,5,5,4,observable
+bb5cd6118ff6cd7f3593136d3760758f,680730,Mitchell Parker,descriptive_2026,2026-06-29,9,9,6,observable
+f65eeb0a7b6bbcf0a49c5bc76911f148,686610,Ken Waldichuk,descriptive_2026,2026-04-13,5,5,4,observable
+7fadec3c97c8a1f06e63ad58191f5e10,686790,Trevor McDonald,descriptive_2026,2026-07-21,5,5,4,observable
+3f3d3bb67ba8e04ac7c75ecc44300f92,687863,Porter Hodge,descriptive_2026,2026-03-22,0,0,0,no MLB outing in prior 30 days in retained partition
+bb5d4cac1c6fc33506b8d51bc6c6fe80,687931,Carson Whisenhunt,descriptive_2026,2026-08-25,6,6,5,observable
+f1cce9d5007f59fc232b76acb3ad34fa,690928,Hunter Dobbins,descriptive_2026,2026-08-22,5,5,3,observable
+bcae161b538c60c09173d1b421ba8a70,690990,Cade Horton,descriptive_2026,2026-04-04,2,2,1,observable
+e3c7e3a8eb7fcc139077486e32458e06,691008,Max Rajcic,descriptive_2026,2026-07-04,6,1,0,observable
+f01e724092843e3dc3da60274bb9bfad,700327,Welinton Herrera,descriptive_2026,2026-05-30,3,0,0,quality/history/active episode or intervening-event exclusion
+cddf8d245ad3bdec36bf10f1ae430d88,702153,Brian Fitzpatrick,descriptive_2026,2026-06-06,2,0,0,quality/history/active episode or intervening-event exclusion
+55ec09d4f346c35decb8ad3ffdcbed90,702281,Robby Snelling,descriptive_2026,2026-05-13,1,0,0,quality/history/active episode or intervening-event exclusion
+bdeb0910cf8c7e12243685eb74bb45b5,801403,Chase Dollander,descriptive_2026,2026-05-15,6,6,5,observable

@@ -1,0 +1,4 @@
+Installed kernelspec mlb-ucl-analysis in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/share/jupyter/kernels/mlb-ucl-analysis
+EXECUTING 03_candidate_set_and_freeze.ipynb
+{"name": "03_candidate_set_and_freeze.ipynb", "success": true, "seconds": 1.01, "code_cells": 5, "executed_cells": 5, "errors": 0, "sha256": "43907cb2635a592a5d3d1db5d8589605db49d5115480345257c4142c13a9d3d5"}
+Executed 3 notebooks; sources unchanged. Manifest: /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/reports/feature_consolidation/notebook_execution.json

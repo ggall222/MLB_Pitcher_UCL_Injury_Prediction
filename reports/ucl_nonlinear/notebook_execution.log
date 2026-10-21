@@ -1,0 +1,8 @@
+Installed kernelspec mlb-ucl-analysis in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/share/jupyter/kernels/mlb-ucl-analysis
+EXECUTING 01_model_form_and_validation.ipynb
+{"name": "01_model_form_and_validation.ipynb", "success": true, "seconds": 2.1, "code_cells": 6, "executed_cells": 6, "errors": 0, "sha256": "fd4948e0e5080e8eee101ac82176bada33ba63ec2f3913cf0fbc5eaaa0971e8b"}
+EXECUTING 02_nonlinear_effects_and_stability.ipynb
+{"name": "02_nonlinear_effects_and_stability.ipynb", "success": true, "seconds": 1.53, "code_cells": 7, "executed_cells": 7, "errors": 0, "sha256": "4cd599fd0951686bbd3ed833a00dd434131e8652bfc699da5deb9c4108c5b6e8"}
+EXECUTING 03_warning_transfer_and_conclusions.ipynb
+{"name": "03_warning_transfer_and_conclusions.ipynb", "success": true, "seconds": 6.98, "code_cells": 7, "executed_cells": 7, "errors": 0, "sha256": "fb075298fac0bd1e855bef70a5c7fbc89225a694dcb2d2f87da95d3e666abb50"}
+Executed 3 notebooks; sources unchanged. Manifest: /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/reports/ucl_nonlinear/notebook_execution.json

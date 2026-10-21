@@ -1,0 +1,124 @@
+{
+  "models": [
+    "Linear|Departure",
+    "Departure__Spline__0p1",
+    "Departure__Boosting__8",
+    "Linear|Stable 62",
+    "Profile__Spline__0p1",
+    "Profile__Boosting__4",
+    "Linear|Profile"
+  ],
+  "effect_features": {
+    "Linear|Departure": {
+      "features": [
+        "velo_z",
+        "release_x_z",
+        "release_z_z",
+        "release_x_sd_z",
+        "release_z_sd_z",
+        "extension_z",
+        "spin_z",
+        "zone_pct_z"
+      ],
+      "pairs": [
+        [
+          "velo_z",
+          "release_z_sd_z"
+        ],
+        [
+          "velo_z",
+          "extension_z"
+        ]
+      ]
+    },
+    "Departure__Spline__0p1": {
+      "features": [
+        "velo_z",
+        "release_x_z",
+        "release_z_z",
+        "release_x_sd_z",
+        "release_z_sd_z",
+        "extension_z",
+        "spin_z",
+        "zone_pct_z"
+      ],
+      "pairs": [
+        [
+          "velo_z",
+          "release_z_sd_z"
+        ],
+        [
+          "velo_z",
+          "extension_z"
+        ]
+      ]
+    },
+    "Departure__Boosting__8": {
+      "features": [
+        "velo_z",
+        "release_x_z",
+        "release_z_z",
+        "release_x_sd_z",
+        "release_z_sd_z",
+        "extension_z",
+        "spin_z",
+        "zone_pct_z"
+      ],
+      "pairs": [
+        [
+          "velo_z",
+          "release_z_sd_z"
+        ],
+        [
+          "velo_z",
+          "extension_z"
+        ]
+      ]
+    },
+    "Linear|Stable 62": {
+      "features": [
+        "velo_z",
+        "release_x_z",
+        "release_z_z",
+        "release_x_sd_z",
+        "extension_z",
+        "age_at_appearance"
+      ],
+      "pairs": [
+        [
+          "velo_z",
+          "extension_z"
+        ]
+      ]
+    },
+    "Profile__Spline__0p1": {
+      "features": [
+        "avg_fb_velo_baseline_mean",
+        "release_z_sd_baseline_mean",
+        "extension_avg_baseline_mean",
+        "age_at_appearance"
+      ],
+      "pairs": []
+    },
+    "Profile__Boosting__4": {
+      "features": [
+        "avg_fb_velo_baseline_mean",
+        "release_z_sd_baseline_mean",
+        "extension_avg_baseline_mean",
+        "age_at_appearance"
+      ],
+      "pairs": []
+    },
+    "Linear|Profile": {
+      "features": [
+        "avg_fb_velo_baseline_mean",
+        "release_z_sd_baseline_mean",
+        "extension_avg_baseline_mean",
+        "age_at_appearance"
+      ],
+      "pairs": []
+    }
+  },
+  "refit_settings": "fixed before resampling; no transfer inspection",
+  "reference_rows": 4000
+}

@@ -1,0 +1,57 @@
+category,repeat_status,feature,mean,low,high,n,pitchers
+Elbow / UCL,First observed qualifying episode,velo_z,-0.35424237066762587,-0.5043596094825193,-0.2318784648181151,171,171
+Elbow / UCL,First observed qualifying episode,extension_z,0.004615597068613678,-0.12156949612758143,0.1412321333264649,171,171
+Elbow / UCL,First observed qualifying episode,release_z_sd_z,-0.04636623195922727,-0.1827523226442266,0.08306010906829729,171,171
+Elbow / UCL,First observed qualifying episode,workload_acceleration_7d_vs_21d,-0.38844650955620336,-0.9160454796998163,0.12127157063222116,168,168
+Elbow / UCL,Repeat after observed MLB pitching,velo_z,-0.37892943120714834,-0.49878131009601345,-0.25804356900438497,276,216
+Elbow / UCL,Repeat after observed MLB pitching,extension_z,0.06861307554360148,-0.0521665141783933,0.16799566744249608,276,216
+Elbow / UCL,Repeat after observed MLB pitching,release_z_sd_z,-0.05820928792468124,-0.16276315213303477,0.04357203870272607,276,216
+Elbow / UCL,Repeat after observed MLB pitching,workload_acceleration_7d_vs_21d,-0.03169186192995713,-0.40556649744860246,0.41677745420504014,270,210
+Forearm,First observed qualifying episode,velo_z,-0.14515880374560286,-0.36978485297614144,0.04526307096026079,77,77
+Forearm,First observed qualifying episode,extension_z,0.020242309261812957,-0.1857202073595663,0.21260641448234077,77,77
+Forearm,First observed qualifying episode,release_z_sd_z,-0.1092697061560163,-0.2936756702886548,0.12652642788745133,77,77
+Forearm,First observed qualifying episode,workload_acceleration_7d_vs_21d,-0.4027479412817757,-1.1897922633965867,0.398361043978995,76,76
+Forearm,Repeat after observed MLB pitching,velo_z,-0.2789575466020602,-0.4528847426242571,-0.12556526251972835,126,112
+Forearm,Repeat after observed MLB pitching,extension_z,0.15941190989815315,-0.012431131234624478,0.3190086227759222,126,112
+Forearm,Repeat after observed MLB pitching,release_z_sd_z,-0.11015503427031381,-0.2635274619922248,0.022125072427402227,126,112
+Forearm,Repeat after observed MLB pitching,workload_acceleration_7d_vs_21d,0.08140454594536235,-0.5721234662786434,0.7049505360550843,126,112
+Hand / wrist,First observed qualifying episode,velo_z,-0.15513700345112105,-0.3762732007229121,0.07996626745236833,62,62
+Hand / wrist,First observed qualifying episode,extension_z,-0.14872952106195175,-0.35146646985279223,0.02961200458998306,62,62
+Hand / wrist,First observed qualifying episode,release_z_sd_z,0.17640858972376441,-0.10149628172583793,0.5536037501788487,62,62
+Hand / wrist,First observed qualifying episode,workload_acceleration_7d_vs_21d,-0.8669120107059215,-1.717053548195234,-0.027891806996022957,61,61
+Hand / wrist,Repeat after observed MLB pitching,velo_z,-0.21244507912773986,-0.39483688167417524,-0.019341539924749927,101,77
+Hand / wrist,Repeat after observed MLB pitching,extension_z,0.09976934088215908,-0.08708782972541967,0.29070973747471074,102,78
+Hand / wrist,Repeat after observed MLB pitching,release_z_sd_z,-0.13359090113424676,-0.30630386201141996,0.048250656386120444,102,78
+Hand / wrist,Repeat after observed MLB pitching,workload_acceleration_7d_vs_21d,-1.1009609124177724,-1.7387558390022677,-0.4318013848396503,101,78
+Lower body,First observed qualifying episode,velo_z,-0.243819458929416,-0.39027790554571573,-0.10178580076138413,170,170
+Lower body,First observed qualifying episode,extension_z,0.07235566638720745,-0.054940080282936184,0.1982509453193115,170,170
+Lower body,First observed qualifying episode,release_z_sd_z,0.05792135351239048,-0.06225083039471676,0.1878180750476814,170,170
+Lower body,First observed qualifying episode,workload_acceleration_7d_vs_21d,-0.5470326986810502,-1.0560335909511733,-0.07936207717801137,169,169
+Lower body,Repeat after observed MLB pitching,velo_z,-0.22380126253199878,-0.3260794885873098,-0.128205343008125,430,292
+Lower body,Repeat after observed MLB pitching,extension_z,-0.0793995941549026,-0.16233368533321318,0.015449216499256988,430,292
+Lower body,Repeat after observed MLB pitching,release_z_sd_z,-0.039729066773769965,-0.10897019488500904,0.037200935543262835,430,292
+Lower body,Repeat after observed MLB pitching,workload_acceleration_7d_vs_21d,-0.34607880888204334,-0.686723510683764,0.012793630462735446,424,287
+Other arm,First observed qualifying episode,velo_z,-0.24296913136696863,-0.48075033694557956,-0.03537103633670827,68,68
+Other arm,First observed qualifying episode,extension_z,0.0023627677582507833,-0.19017556610445302,0.23955997915774357,68,68
+Other arm,First observed qualifying episode,release_z_sd_z,0.028412778632564206,-0.1838847739244035,0.2204236399830591,68,68
+Other arm,First observed qualifying episode,workload_acceleration_7d_vs_21d,-0.7717353608109911,-1.6786708850206749,0.15100715286114438,68,68
+Other arm,Repeat after observed MLB pitching,velo_z,-0.20242516192095825,-0.39264465947162636,-0.0005305797631877239,100,91
+Other arm,Repeat after observed MLB pitching,extension_z,0.16031985467688423,-0.0042007348501350095,0.31645083628854626,100,91
+Other arm,Repeat after observed MLB pitching,release_z_sd_z,-0.03195714552853696,-0.22485249815371172,0.14813319551270465,100,91
+Other arm,Repeat after observed MLB pitching,workload_acceleration_7d_vs_21d,0.36054421768707484,-0.41032800751879694,1.0688289965986393,100,91
+Shoulder,First observed qualifying episode,velo_z,-0.46614644242807746,-0.6050611051817332,-0.3477996647267535,234,234
+Shoulder,First observed qualifying episode,extension_z,0.03266305020312828,-0.07672285232208689,0.13866819331809754,234,234
+Shoulder,First observed qualifying episode,release_z_sd_z,0.07431867191192441,-0.04157121012642581,0.18549885196945617,234,234
+Shoulder,First observed qualifying episode,workload_acceleration_7d_vs_21d,-0.3217678964766641,-0.794802734875543,0.07125054742927156,233,233
+Shoulder,Repeat after observed MLB pitching,velo_z,-0.517950416250557,-0.6172844980712155,-0.39548215892566807,347,261
+Shoulder,Repeat after observed MLB pitching,extension_z,0.10379353942258177,-0.007178969718788041,0.19754667399195447,347,261
+Shoulder,Repeat after observed MLB pitching,release_z_sd_z,0.02040832553076718,-0.07626195412942408,0.12056501095966657,347,261
+Shoulder,Repeat after observed MLB pitching,workload_acceleration_7d_vs_21d,-0.22238456735351148,-0.682253779061877,0.1708010967064662,345,260
+Trunk / neck,First observed qualifying episode,velo_z,-0.24629064296923497,-0.39527343858091013,-0.11098138526198821,164,164
+Trunk / neck,First observed qualifying episode,extension_z,0.06653643704769462,-0.04836089919557249,0.18116851962266226,164,164
+Trunk / neck,First observed qualifying episode,release_z_sd_z,0.07160632941853416,-0.10053769906898448,0.23271702025813853,164,164
+Trunk / neck,First observed qualifying episode,workload_acceleration_7d_vs_21d,-0.576892179636082,-1.1189804041535312,0.004913721586195,164,164
+Trunk / neck,Repeat after observed MLB pitching,velo_z,-0.2909699336231031,-0.3997060906892412,-0.17156727005182115,274,207
+Trunk / neck,Repeat after observed MLB pitching,extension_z,-0.017649642675060563,-0.13121992569966573,0.08629243529916138,274,207
+Trunk / neck,Repeat after observed MLB pitching,release_z_sd_z,0.06557776518672741,-0.02907633882671397,0.17113853048243596,274,207
+Trunk / neck,Repeat after observed MLB pitching,workload_acceleration_7d_vs_21d,-0.7591826313858877,-1.2181598890540468,-0.35254304556312466,272,205

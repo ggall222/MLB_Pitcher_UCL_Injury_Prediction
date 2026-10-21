@@ -1,0 +1,11 @@
+game_id,game_date,season,status,reason
+415766,2015-09-12,2015,Cancelled,Rain
+449187,2016-09-25,2016,Cancelled,Tragedy
+449246,2016-10-03,2016,Cancelled,
+531548,2018-09-09,2018,Cancelled,Inclement Weather
+567304,2019-09-27,2019,Cancelled,
+631472,2020-08-13,2020,Cancelled,COVID-19
+631471,2020-08-13,2020,Cancelled,COVID-19
+632457,2021-09-16,2021,Cancelled,Inclement Weather
+746577,2024-09-29,2024,Cancelled,Rain
+823490,2026-09-27,2026,Cancelled,Rain

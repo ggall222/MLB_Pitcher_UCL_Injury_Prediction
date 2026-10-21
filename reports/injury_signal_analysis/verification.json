@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "source_signature_unchanged": true,
+    "executed_three_notebooks_without_errors": true,
+    "notebook_hashes_match_execution": true,
+    "analysis_code_hashes_match_execution": true,
+    "identical_population_across_variants": true,
+    "complete_18_by_7_comparisons": true,
+    "original_full_model_ap_reproduced": true,
+    "constant_balanced_event_support": true,
+    "original_matched_event_ids_preserved": true,
+    "all_aligned_appearances_before_anchor": true,
+    "no_duplicate_aligned_appearances": true
+  },
+  "all_passed": true,
+  "matched_pairs": 1225,
+  "trajectory_features": 27,
+  "csv_tables": 28,
+  "figures_png_pdf": 12,
+  "source_signature": {
+    "database": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/mlb_ucl.duckdb",
+    "database_bytes": 17895796736,
+    "database_mtime_ns": 1789002299179560729,
+    "events_sha256": "18d9ae297bd70d0b78178ae45fe731a26f6a459ec9ab65d68d17783c8862f468",
+    "config_sha256": "096e17f7445f34bf50938f06be973540577a4b9193bfd450c7acf0c8cd3d00b6",
+    "feature_config_sha256": "5b60e14a805a5e75c4159666edb41764741fe9fa7ac1eb5dce1cf8bc7c871672"
+  }
+}

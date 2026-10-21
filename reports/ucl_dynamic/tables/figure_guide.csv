@@ -1,0 +1,7 @@
+figure,question,interpretation,research_role
+01_endpoint_and_opportunity,Which UCL events can be evaluated?,Specificity and missing pre-event MLB opportunities reduce usable N.,Endpoint ascertainment
+02_horizon_discrimination,Does dynamic representation improve risk ranking?,Broader benchmarks rank better; horizons differ in prevalence and follow-up.,Mixed profile/departure
+03_warning_lead_and_burden,How early and at what burden?,Selected departure warnings fail to transfer consistently; false/nonactionable burden is large.,Warning usefulness
+04_matched_risk_trajectories,Does risk rise before UCL injury?,No uniform rising departure pattern; support and uncertainty are explicit.,Persistent versus changing risk
+05_individual_risk_heterogeneity,Are average paths universal?,Individual UCL trajectories vary in direction and risk level.,Heterogeneous departures
+06_calibration_and_refit_stability,Are predictions calibrated and stable?,Rare outcomes and pitcher resampling limit confidence in apparent gains.,Model stability

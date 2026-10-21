@@ -1,0 +1,37 @@
+block,condition,rows,components,subspace_overlap
+Current feature space,Pitcher capped at 20 outings,25313,2,0.9053868242870055
+Current feature space,Pitcher capped at 20 outings,25313,3,0.8933328758070377
+Current feature space,Pitcher capped at 20 outings,25313,5,0.9631238590745742
+Current feature space,Complete measurements,101290,2,0.9236877874760225
+Current feature space,Complete measurements,101290,3,0.6786763789364992
+Current feature space,Complete measurements,101290,5,0.9902238985008414
+Current feature space,Early training 2015–2018,75561,2,0.7545927712347111
+Current feature space,Early training 2015–2018,75561,3,0.915873613573234
+Current feature space,Early training 2015–2018,75561,5,0.9471158916510956
+Current feature space,Recent training 2019–2021,48272,2,0.8386682342101202
+Current feature space,Recent training 2019–2021,48272,3,0.8397492455816377
+Current feature space,Recent training 2019–2021,48272,5,0.9473728184646365
+Prior pitcher profile,Pitcher capped at 20 outings,25313,2,0.6753817179670337
+Prior pitcher profile,Pitcher capped at 20 outings,25313,3,0.9403424797621165
+Prior pitcher profile,Pitcher capped at 20 outings,25313,5,0.9848646701744933
+Prior pitcher profile,Complete measurements,123698,2,0.9999878011156988
+Prior pitcher profile,Complete measurements,123698,3,0.9999956831940691
+Prior pitcher profile,Complete measurements,123698,5,0.9999968104444932
+Prior pitcher profile,Early training 2015–2018,75561,2,0.7259527891463515
+Prior pitcher profile,Early training 2015–2018,75561,3,0.9850527102737393
+Prior pitcher profile,Early training 2015–2018,75561,5,0.9877704203868681
+Prior pitcher profile,Recent training 2019–2021,48272,2,0.8731175008012293
+Prior pitcher profile,Recent training 2019–2021,48272,3,0.8609225017536625
+Prior pitcher profile,Recent training 2019–2021,48272,5,0.9871596818875978
+Within-pitcher departure,Pitcher capped at 20 outings,25313,2,0.6002838242348467
+Within-pitcher departure,Pitcher capped at 20 outings,25313,3,0.9623760525299461
+Within-pitcher departure,Pitcher capped at 20 outings,25313,5,0.9923002304490247
+Within-pitcher departure,Complete measurements,122131,2,0.9991030885493759
+Within-pitcher departure,Complete measurements,122131,3,0.997246932083162
+Within-pitcher departure,Complete measurements,122131,5,0.9966977305713869
+Within-pitcher departure,Early training 2015–2018,75561,2,0.9950163399227633
+Within-pitcher departure,Early training 2015–2018,75561,3,0.9910181971098599
+Within-pitcher departure,Early training 2015–2018,75561,5,0.975180377527425
+Within-pitcher departure,Recent training 2019–2021,48272,2,0.5104006235998156
+Within-pitcher departure,Recent training 2019–2021,48272,3,0.6810504170600566
+Within-pitcher departure,Recent training 2019–2021,48272,5,0.9818600724955437

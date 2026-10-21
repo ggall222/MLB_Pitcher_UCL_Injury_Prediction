@@ -1,0 +1,75 @@
+{
+  "source": {
+    "database": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/mlb_ucl.duckdb",
+    "database_bytes": 17895796736,
+    "database_mtime_ns": 1789002299179560729,
+    "events_sha256": "18d9ae297bd70d0b78178ae45fe731a26f6a459ec9ab65d68d17783c8862f468",
+    "config_sha256": "096e17f7445f34bf50938f06be973540577a4b9193bfd450c7acf0c8cd3d00b6",
+    "feature_config_sha256": "5b60e14a805a5e75c4159666edb41764741fe9fa7ac1eb5dce1cf8bc7c871672"
+  },
+  "configuration": {
+    "seed": 20260919,
+    "output_path": "reports/injury_supervised_reduction",
+    "cache_path": "data/injury/analysis/supervised_reduction",
+    "horizon_days": 30,
+    "logistic_tolerance": 1e-09,
+    "pls_tolerance": 1e-10,
+    "bootstrap_replicates": 300,
+    "training_refits": 12,
+    "stability_categories": [
+      "Shoulder",
+      "Lower body"
+    ],
+    "stability_blocks": [
+      "Original 62",
+      "Combined"
+    ],
+    "component_grids": {
+      "Original 62": [
+        1,
+        2,
+        3,
+        5,
+        10,
+        20,
+        30
+      ],
+      "Profile": [
+        1,
+        2,
+        3,
+        5,
+        8,
+        12
+      ],
+      "Departure": [
+        1,
+        2,
+        3,
+        5,
+        8
+      ],
+      "Combined": [
+        1,
+        2,
+        3,
+        5,
+        8,
+        10,
+        15,
+        20
+      ]
+    },
+    "plateau_fraction_of_validation_ap_gain": 0.95
+  },
+  "config_sha256": "a4f6eae94d334a5649ac0a3b21d5bc669eea410287ddcb382dd6f17a4a1561e7",
+  "code_sha256": {
+    "src/injury_analysis/supervised_plots.py": "e458364fae5161770f44b591dd3ed933d290bd12b7809ac15a92ed18fe23b1a2",
+    "src/injury_analysis/supervised_report.py": "469432cc30b29a659d07f2229b3e424239fd468b2954b8be81978e98a713994c",
+    "src/injury_analysis/supervised_reduction.py": "da15f1f6acc4ca7f6078e1a506b177ff95b4cd4dae90c8fad3145c9c83df3e65",
+    "src/injury_analysis/supervised_diagnostics.py": "a398fead863e299b7a56b59dcd130ec476b14d4fc2d25e4b11f5d768243a73dd",
+    "src/injury_analysis/supervised_workflow.py": "e82c8256b26d68c5f7ac518384a7f226e29c88bb0b3d40fa24194ec83a6d250a"
+  },
+  "previous_profile_predictions_sha256": "c818eef358e64bfdc645d454e3bc842991882afd937d21ce17eb2fcdfc89b000",
+  "test_status": "2024\u20132025 was previously examined; exploratory, not independent confirmation."
+}

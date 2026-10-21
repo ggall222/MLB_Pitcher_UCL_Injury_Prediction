@@ -1,0 +1,4 @@
+era,start_season,end_season,note
+full_statcast_era,2015,2026,Broad features; retain tracking-definition sensitivity flags.
+enhanced_tracking_era,2020,2026,Hawk-Eye era; 2026 location-definition change still needs sensitivity analysis.
+modern_feature_era,2020,2026,First >=50% arm-angle starter coverage; check every subsequent season and use optional modern features.

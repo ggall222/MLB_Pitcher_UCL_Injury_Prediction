@@ -1,0 +1,45 @@
+partition,family,mode,events,dependency_clusters,final_minus_distant_difference,ci_low,ci_high,fraction_events_increasing,interpretation
+validation,Appearance performance,calendar,7,7,0.013464090840386689,-0.6544728542831189,0.7542620398110624,0.5714285714285714,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Appearance performance,calendar,9,8,-0.030863919472275427,-0.5229884849743097,0.28200651222932455,0.5555555555555556,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Appearance performance,outings,17,16,-0.5408740746718472,-0.981866234131076,-0.09956512526274507,0.35294117647058826,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Appearance performance,outings,20,19,0.14593967297289712,-0.3415801779898413,0.5487883144458926,0.6,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Extension,calendar,7,7,0.06015659388525128,-0.4959544726756638,0.7952613834749386,0.42857142857142855,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Extension,calendar,9,8,0.2190303237827489,-0.2715051823421194,0.6651943384436002,0.5555555555555556,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Extension,outings,17,16,-0.06374341756980463,-0.26253690514795064,0.0873943896384607,0.47058823529411764,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Extension,outings,20,19,0.07841598843524993,-0.15183003914302515,0.25862290525124276,0.6,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Location and strike fractions,calendar,7,7,0.1331813355130885,-0.19380389111586266,0.5721547325474929,0.5714285714285714,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Location and strike fractions,calendar,9,8,-0.3597969814846956,-0.9242243990760817,0.22646728548358264,0.4444444444444444,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Location and strike fractions,outings,17,16,-0.29868237703760286,-0.809202505089373,0.19623443093936524,0.35294117647058826,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Location and strike fractions,outings,20,19,-0.3854624147373061,-0.686918420488893,-0.08828699321383898,0.35,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Pitch mix and pitch-type counts,calendar,7,7,0.133126945377204,-0.15175366541958416,0.47858475195742606,0.5714285714285714,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Pitch mix and pitch-type counts,calendar,9,8,0.4106310479976899,-0.370602568550728,1.5064040483956203,0.4444444444444444,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Pitch mix and pitch-type counts,outings,17,16,0.20355687272478834,0.042611027494873624,0.3777518243233949,0.6470588235294118,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Pitch mix and pitch-type counts,outings,20,19,0.0793656966075141,-0.27193089442113494,0.5321947082609805,0.55,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Pitch movement,calendar,7,7,-0.12013047082862147,-0.4134393155021881,0.1403425394340311,0.5714285714285714,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Pitch movement,calendar,9,8,-0.13108513867754834,-0.5518205379291915,0.4492569294844161,0.3333333333333333,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Pitch movement,outings,17,16,-0.02461127629996399,-0.38232746734886425,0.2888365628559792,0.47058823529411764,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Pitch movement,outings,20,19,-0.028852164232689225,-0.3681258448902978,0.29874154615526777,0.6,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Pitcher background and experience,calendar,7,7,-0.021306916938547325,-0.04580068783176152,0.006289494705420028,0.2857142857142857,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Pitcher background and experience,calendar,9,8,-0.02400790991542359,-0.052151781849487246,0.015522841023218022,0.3333333333333333,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Pitcher background and experience,outings,17,16,-0.03218601666173028,-0.08963477621255998,0.016264667948245506,0.29411764705882354,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Pitcher background and experience,outings,20,19,0.007341599793163922,-0.05990527448637987,0.0812009673651049,0.6,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Release position and variability,calendar,7,7,0.05479461441894321,-0.5266492072783635,0.6069762431462026,0.5714285714285714,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Release position and variability,calendar,9,8,0.15318840614742402,-0.3447199182907867,0.6818231991567213,0.4444444444444444,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Release position and variability,outings,17,16,-0.11547502247695227,-0.3469602328806616,0.144825950849296,0.4117647058823529,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Release position and variability,outings,20,19,-0.097676698265511,-0.40404753124996995,0.23605623261191716,0.45,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Role and recent starts,calendar,7,7,-0.10747487013806949,-0.20345863887178922,-0.02671682955575094,0.0,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Role and recent starts,calendar,9,8,0.1444734835108475,-0.6339183845887763,0.9022457570881606,0.5555555555555556,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Role and recent starts,outings,17,16,0.004454271520168575,-0.21742216219512514,0.32715129437540713,0.17647058823529413,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Role and recent starts,outings,20,19,-0.03833445875733586,-0.42189758868998717,0.2794910647118831,0.4,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Spin,calendar,7,7,-0.31700911829383344,-0.6294138081784262,0.1153610468612037,0.14285714285714285,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Spin,calendar,9,8,0.022065339237724406,-0.5697988857041427,0.4691114327807113,0.5555555555555556,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Spin,outings,17,16,0.139171534614224,-0.04644712358331826,0.35355866433772765,0.5882352941176471,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Spin,outings,20,19,-0.022226226409211285,-0.26985026199568274,0.2298231261915869,0.45,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Velocity,calendar,7,7,0.027140547305532274,-0.22359833490876405,0.33105140025212215,0.42857142857142855,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Velocity,calendar,9,8,-0.02751143839556957,-0.36784242411631607,0.39721229373425426,0.4444444444444444,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Velocity,outings,17,16,0.01682336446269138,-0.20251904750940972,0.23649787974828912,0.6470588235294118,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Velocity,outings,20,19,0.0208465939530318,-0.15674479378257436,0.21479040735861543,0.65,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Workload and rest,calendar,7,7,-0.4037780439014019,-0.7305112116177472,-0.10847737290303593,0.14285714285714285,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Workload and rest,calendar,9,8,-0.28299753399844857,-0.6374159082236794,0.07600376679587131,0.3333333333333333,Pointwise exploratory paired contrast; no physiological or prospective claim
+validation,Workload and rest,outings,17,16,-0.44751508337802376,-0.8094861181490187,-0.10900011119529047,0.4117647058823529,Pointwise exploratory paired contrast; no physiological or prospective claim
+test,Workload and rest,outings,20,19,-0.01594437191234388,-0.40356409748368066,0.3163059632605259,0.6,Pointwise exploratory paired contrast; no physiological or prospective claim

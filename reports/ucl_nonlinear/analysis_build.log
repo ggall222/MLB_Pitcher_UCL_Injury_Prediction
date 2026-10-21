@@ -1,0 +1,56 @@
+Fit refit_00__Linear__Departure: 8 raw fields, 0.1s
+Fit refit_00__Departure__Spline__0p1: 8 raw fields, 0.3s
+Fit refit_00__Departure__Boosting__8: 8 raw fields, 0.8s
+Fit refit_00__Linear__Stable 62: 62 raw fields, 1.2s
+Fit refit_00__Profile__Spline__0p1: 13 raw fields, 0.4s
+Fit refit_00__Profile__Boosting__4: 13 raw fields, 1.0s
+Fit refit_00__Linear__Profile: 13 raw fields, 0.2s
+Fit refit_01__Linear__Departure: 8 raw fields, 0.1s
+Fit refit_01__Departure__Spline__0p1: 8 raw fields, 0.3s
+Fit refit_01__Departure__Boosting__8: 8 raw fields, 0.8s
+Fit refit_01__Linear__Stable 62: 62 raw fields, 1.1s
+Fit refit_01__Profile__Spline__0p1: 13 raw fields, 0.4s
+Fit refit_01__Profile__Boosting__4: 13 raw fields, 1.0s
+Fit refit_01__Linear__Profile: 13 raw fields, 0.2s
+Fit refit_02__Linear__Departure: 8 raw fields, 0.1s
+Fit refit_02__Departure__Spline__0p1: 8 raw fields, 0.3s
+Fit refit_02__Departure__Boosting__8: 8 raw fields, 0.8s
+Fit refit_02__Linear__Stable 62: 62 raw fields, 1.1s
+Fit refit_02__Profile__Spline__0p1: 13 raw fields, 0.4s
+Fit refit_02__Profile__Boosting__4: 13 raw fields, 0.9s
+Fit refit_02__Linear__Profile: 13 raw fields, 0.2s
+Fit refit_03__Linear__Departure: 8 raw fields, 0.1s
+Fit refit_03__Departure__Spline__0p1: 8 raw fields, 0.3s
+Fit refit_03__Departure__Boosting__8: 8 raw fields, 0.8s
+Fit refit_03__Linear__Stable 62: 62 raw fields, 1.1s
+Fit refit_03__Profile__Spline__0p1: 13 raw fields, 0.4s
+Fit refit_03__Profile__Boosting__4: 13 raw fields, 0.9s
+Fit refit_03__Linear__Profile: 13 raw fields, 0.2s
+Fit refit_04__Linear__Departure: 8 raw fields, 0.1s
+Fit refit_04__Departure__Spline__0p1: 8 raw fields, 0.3s
+Fit refit_04__Departure__Boosting__8: 8 raw fields, 0.8s
+Fit refit_04__Linear__Stable 62: 62 raw fields, 1.4s
+Fit refit_04__Profile__Spline__0p1: 13 raw fields, 0.4s
+Fit refit_04__Profile__Boosting__4: 13 raw fields, 0.9s
+Fit refit_04__Linear__Profile: 13 raw fields, 0.2s
+Fit refit_05__Linear__Departure: 8 raw fields, 0.1s
+Fit refit_05__Departure__Spline__0p1: 8 raw fields, 0.3s
+Fit refit_05__Departure__Boosting__8: 8 raw fields, 0.8s
+Fit refit_05__Linear__Stable 62: 62 raw fields, 1.0s
+Fit refit_05__Profile__Spline__0p1: 13 raw fields, 0.4s
+Fit refit_05__Profile__Boosting__4: 13 raw fields, 1.0s
+Fit refit_05__Linear__Profile: 13 raw fields, 0.2s
+Fit refit_06__Linear__Departure: 8 raw fields, 0.1s
+Fit refit_06__Departure__Spline__0p1: 8 raw fields, 0.3s
+Fit refit_06__Departure__Boosting__8: 8 raw fields, 0.8s
+Fit refit_06__Linear__Stable 62: 62 raw fields, 1.2s
+Fit refit_06__Profile__Spline__0p1: 13 raw fields, 0.5s
+Fit refit_06__Profile__Boosting__4: 13 raw fields, 1.0s
+Fit refit_06__Linear__Profile: 13 raw fields, 0.2s
+Fit refit_07__Linear__Departure: 8 raw fields, 0.1s
+Fit refit_07__Departure__Spline__0p1: 8 raw fields, 0.3s
+Fit refit_07__Departure__Boosting__8: 8 raw fields, 0.8s
+Fit refit_07__Linear__Stable 62: 62 raw fields, 1.3s
+Fit refit_07__Profile__Spline__0p1: 13 raw fields, 0.4s
+Fit refit_07__Profile__Boosting__4: 13 raw fields, 1.0s
+Fit refit_07__Linear__Profile: 13 raw fields, 0.2s

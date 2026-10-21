@@ -1,0 +1,43 @@
+{
+  "checks": {
+    "source_database_and_events_unchanged": true,
+    "all_prior_artifact_hashes_unchanged": true,
+    "configuration_hash_matches": true,
+    "frozen_models_unchanged": true,
+    "analysis_code_hashes_match": true,
+    "input_hashes_match": true,
+    "focused_notebook_executed_without_errors": true,
+    "executed_notebook_hash_matches": true,
+    "executed_analysis_code_matches": true,
+    "original_match_identities_preserved": true,
+    "original_matched_outings_and_times_preserved": true,
+    "matched_windows_and_anchors_outside_training": true,
+    "scores_strictly_pre_event_or_control_anchor": true,
+    "historical_predictors_strictly_prior": true,
+    "component_selection_matches_frozen_training_rule": true,
+    "scores_reproduce_frozen_transform_and_training_scale": true,
+    "incomplete_measurements_not_plotted": true,
+    "common_balanced_support_all_axes_and_times": true,
+    "shared_case_and_control_pitchers_resampled_together": true,
+    "joint_uncertainty_reproduces": true,
+    "individual_cells_match_unclipped_balanced_values": true,
+    "individual_row_order_matches_declared_rule": true,
+    "component_squared_weights_sum_to_one": true,
+    "predictive_curves_and_warning_results_unchanged": true,
+    "explicit_ucl_subset_audited_without_relabeling": true,
+    "four_nonempty_png_and_pdf_pairs": true,
+    "four_figure_interpretations_and_captions": true
+  },
+  "all_passed": true,
+  "preserved_prior_artifacts": 348,
+  "figure_pairs": 4,
+  "csv_tables": 19,
+  "source": {
+    "database": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/mlb_ucl.duckdb",
+    "database_bytes": 17895796736,
+    "database_mtime_ns": 1789002299179560729,
+    "events_sha256": "18d9ae297bd70d0b78178ae45fe731a26f6a459ec9ab65d68d17783c8862f468",
+    "config_sha256": "096e17f7445f34bf50938f06be973540577a4b9193bfd450c7acf0c8cd3d00b6",
+    "feature_config_sha256": "5b60e14a805a5e75c4159666edb41764741fe9fa7ac1eb5dce1cf8bc7c871672"
+  }
+}

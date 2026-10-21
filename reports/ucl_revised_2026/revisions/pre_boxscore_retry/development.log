@@ -1,0 +1,28 @@
+UCL adjudication: 196 primary; 62 strict official; 224 expanded.
+Traceback (most recent call last):
+  File "<stdin>", line 2, in <module>
+  File "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/src/injury_analysis/ucl_revised_models.py", line 94, in run_development
+    a,e,specs=prepare();catalog=candidates(specs)
+  File "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/src/injury_analysis/ucl_revised_data.py", line 44, in prepare
+    a,names=departure_trajectories(a)
+  File "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/src/injury_analysis/ucl_dynamic_data.py", line 52, in departure_trajectories
+    out.loc[g.index[i],f'dyn_{c}_persist4']=(np.abs(v[:,j])>=CFG['absolute_departure_threshold']).mean()
+  File "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/lib/python3.9/site-packages/pandas/core/indexing.py", line 911, in __setitem__
+    iloc._setitem_with_indexer(indexer, value, self.name)
+  File "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/lib/python3.9/site-packages/pandas/core/indexing.py", line 1942, in _setitem_with_indexer
+    self._setitem_with_indexer_split_path(indexer, value, name)
+  File "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/lib/python3.9/site-packages/pandas/core/indexing.py", line 2035, in _setitem_with_indexer_split_path
+    self._setitem_single_column(loc, value, pi)
+  File "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/lib/python3.9/site-packages/pandas/core/indexing.py", line 2175, in _setitem_single_column
+    self.obj._mgr.column_setitem(loc, plane_indexer, value)
+  File "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/lib/python3.9/site-packages/pandas/core/internals/managers.py", line 1337, in column_setitem
+    new_mgr = col_mgr.setitem((idx,), value)
+  File "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/lib/python3.9/site-packages/pandas/core/internals/managers.py", line 415, in setitem
+    return self.apply("setitem", indexer=indexer, value=value)
+  File "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/lib/python3.9/site-packages/pandas/core/internals/managers.py", line 363, in apply
+    applied = getattr(b, f)(**kwargs)
+  File "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/lib/python3.9/site-packages/pandas/core/internals/blocks.py", line 1409, in setitem
+    casted = np_can_hold_element(values.dtype, value)
+  File "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/lib/python3.9/site-packages/pandas/core/dtypes/cast.py", line 1861, in np_can_hold_element
+    if np.isnan(casted) or casted == element:
+KeyboardInterrupt

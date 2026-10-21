@@ -1,0 +1,111 @@
+{
+  "started_at": "2026-09-19T05:29:44.232700+00:00",
+  "python": "3.9.6 (default, Nov 11 2024, 03:15:38) \n[Clang 16.0.0 (clang-1600.0.26.6)]",
+  "executable": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/bin/python",
+  "source_signature": {
+    "database": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/mlb_ucl.duckdb",
+    "database_bytes": 17895796736,
+    "database_mtime_ns": 1789002299179560729,
+    "events_sha256": "18d9ae297bd70d0b78178ae45fe731a26f6a459ec9ab65d68d17783c8862f468",
+    "config_sha256": "096e17f7445f34bf50938f06be973540577a4b9193bfd450c7acf0c8cd3d00b6",
+    "feature_config_sha256": "5b60e14a805a5e75c4159666edb41764741fe9fa7ac1eb5dce1cf8bc7c871672"
+  },
+  "notebooks": [
+    {
+      "name": "01_overview_and_categories.ipynb",
+      "success": true,
+      "seconds": 12.96,
+      "code_cells": 4,
+      "executed_cells": 4,
+      "errors": 0,
+      "sha256": "b47e1a82491d4658b21c278797e005d4861e345c32b87e9af422ead9dd6cbe3a"
+    },
+    {
+      "name": "02_preinjury_trajectories.ipynb",
+      "success": true,
+      "seconds": 17.7,
+      "code_cells": 4,
+      "executed_cells": 4,
+      "errors": 0,
+      "sha256": "7749eab6684d550dd03fb6f7024149ce8e45ec116fdf7d4a9e12a663e58caa82"
+    },
+    {
+      "name": "03_comparative_predictability.ipynb",
+      "success": true,
+      "seconds": 22.99,
+      "code_cells": 3,
+      "executed_cells": 3,
+      "errors": 0,
+      "sha256": "70031db70e33375c53cf50ef4ac52f718d6ed85afeccd01024facb529e012b8f"
+    },
+    {
+      "name": "04_severity_and_censoring.ipynb",
+      "success": true,
+      "seconds": 2.01,
+      "code_cells": 3,
+      "executed_cells": 3,
+      "errors": 0,
+      "sha256": "eaca98eaa74970c257177e005a8209e8a41c1188bebe28148615666594f74db3"
+    },
+    {
+      "name": "05_recurrence_and_transitions.ipynb",
+      "success": true,
+      "seconds": 2.14,
+      "code_cells": 3,
+      "executed_cells": 3,
+      "errors": 0,
+      "sha256": "3ae14e9366dc3cee29af2d0a3c256dbbbbc9f3a51f7348141a5e1ee93eb2b3cd"
+    },
+    {
+      "name": "06_warning_timing_and_alerts.ipynb",
+      "success": true,
+      "seconds": 2.15,
+      "code_cells": 3,
+      "executed_cells": 3,
+      "errors": 0,
+      "sha256": "e36e00061fe6838cd539793808ba11c2a6ee16abad6283a8ae3c4e0d7c7bfbf4"
+    },
+    {
+      "name": "07_feature_families_and_interactions.ipynb",
+      "success": true,
+      "seconds": 29.3,
+      "code_cells": 3,
+      "executed_cells": 3,
+      "errors": 0,
+      "sha256": "14b801dfc944991b9ecb1876a44a11887207411cb043de31379b1bfe56d1b523"
+    },
+    {
+      "name": "08_capstone_summary.ipynb",
+      "success": true,
+      "seconds": 1.4,
+      "code_cells": 3,
+      "executed_cells": 3,
+      "errors": 0,
+      "sha256": "6510aeb42e3c5476679ea52f7c6c18c05dd89f3cef172e8a634bf0eed47f0a67"
+    }
+  ],
+  "package_versions": {
+    "duckdb": "1.4.3",
+    "pandas": "2.2.3",
+    "numpy": "2.0.2",
+    "scikit-learn": "1.6.1",
+    "scipy": "1.13.1",
+    "matplotlib": "3.9.4",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.2",
+    "ipykernel": "6.29.5"
+  },
+  "database_unchanged": true,
+  "finished_at": "2026-09-19T05:31:14.929194+00:00",
+  "code_sha256": {
+    "src/injury_analysis/__init__.py": "eedcc07307d3875a3c5a759a3ef73802f7d800ba8e5a9ee241a460e4577177e0",
+    "src/injury_analysis/cohort.py": "ab40b2e872420e4f5f53c252c1bea2e497d8ff586e247a46144f5a230977c70e",
+    "src/injury_analysis/common.py": "1f38d1b31fc92ad647741f2ad2915dbb9817411b63f4944ba4d642696b5cb234",
+    "src/injury_analysis/outcomes.py": "3a30216d5f5d168d86d3565b4e27228d0d9d686773fd4e76f2f58dc94d2a72b6",
+    "src/injury_analysis/plots.py": "86943544eb7fc365da7df837c955c605545ca9bcdb8db9b74173f7de8d6e00b8",
+    "src/injury_analysis/prediction.py": "862bc1746788ee8536b9733addeb3a32d8ede18b551ead464c2b678faebbc53c",
+    "src/injury_analysis/report.py": "f3f736b5b88c5dc9cb143eea28e8d5c7bdbcf3266d151851bb7a197a4f53b058",
+    "src/injury_analysis/trajectories.py": "eba56ebf06d7c8ea3da60d5169d5a4de5156fc5c2379b571aba3dce174a2611d"
+  },
+  "documentation_edit_after_execution": "Corrected a notebook markdown description of available prior history; no executed code or results changed."
+}

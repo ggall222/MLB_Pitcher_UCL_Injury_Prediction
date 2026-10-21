@@ -1,0 +1,80 @@
+2026-09-18 17:05:19,583 INFO Transactions: 12/141 monthly windows; 0 failures
+2026-09-18 17:05:19,706 INFO Transactions: 24/141 monthly windows; 0 failures
+2026-09-18 17:05:19,835 INFO Transactions: 36/141 monthly windows; 0 failures
+2026-09-18 17:05:19,952 INFO Transactions: 48/141 monthly windows; 0 failures
+2026-09-18 17:05:20,133 INFO Transactions: 60/141 monthly windows; 0 failures
+2026-09-18 17:05:20,240 INFO Transactions: 72/141 monthly windows; 0 failures
+2026-09-18 17:05:20,391 INFO Transactions: 84/141 monthly windows; 0 failures
+2026-09-18 17:05:20,587 INFO Transactions: 96/141 monthly windows; 0 failures
+2026-09-18 17:05:20,777 INFO Transactions: 108/141 monthly windows; 0 failures
+2026-09-18 17:05:20,915 INFO Transactions: 120/141 monthly windows; 0 failures
+2026-09-18 17:05:21,083 INFO Transactions: 132/141 monthly windows; 0 failures
+2026-09-18 17:05:21,228 INFO Transactions: 141/141 monthly windows; 0 failures
+2026-09-18 17:05:22,487 INFO Classifying transaction actions and injury text
+2026-09-18 17:05:29,611 INFO IL identity: 18917 transactions, 10705 retained for MLB pitchers
+2026-09-18 17:05:32,396 INFO Constructed 5556 episodes; fetching independent RosterResource evidence
+2026-09-18 17:05:39,074 INFO Finished: 5556 episodes, 1616 pitchers; outputs in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/data/injury/processed
+2026-09-18 18:18:21,170 INFO Transactions: 12/141 monthly windows; 0 failures
+2026-09-18 18:18:21,286 INFO Transactions: 24/141 monthly windows; 0 failures
+2026-09-18 18:18:21,418 INFO Transactions: 36/141 monthly windows; 0 failures
+2026-09-18 18:18:21,539 INFO Transactions: 48/141 monthly windows; 0 failures
+2026-09-18 18:18:21,679 INFO Transactions: 60/141 monthly windows; 0 failures
+2026-09-18 18:18:21,775 INFO Transactions: 72/141 monthly windows; 0 failures
+2026-09-18 18:18:21,937 INFO Transactions: 84/141 monthly windows; 0 failures
+2026-09-18 18:18:22,130 INFO Transactions: 96/141 monthly windows; 0 failures
+2026-09-18 18:18:22,309 INFO Transactions: 108/141 monthly windows; 0 failures
+2026-09-18 18:18:22,442 INFO Transactions: 120/141 monthly windows; 0 failures
+2026-09-18 18:18:22,616 INFO Transactions: 132/141 monthly windows; 0 failures
+2026-09-18 18:18:22,765 INFO Transactions: 141/141 monthly windows; 0 failures
+2026-09-18 18:18:23,980 INFO Classifying transaction actions and injury text
+2026-09-18 18:18:28,550 INFO IL identity: 18917 transactions, 10705 retained for MLB pitchers
+2026-09-18 18:18:31,413 INFO Constructed 5364 episodes; fetching independent RosterResource evidence
+2026-09-18 18:18:32,994 INFO Finished: 5364 episodes, 1616 pitchers; outputs in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/data/injury/processed
+2026-09-18 18:24:16,659 INFO Transactions: 12/141 monthly windows; 0 failures
+2026-09-18 18:24:16,784 INFO Transactions: 24/141 monthly windows; 0 failures
+2026-09-18 18:24:16,914 INFO Transactions: 36/141 monthly windows; 0 failures
+2026-09-18 18:24:17,027 INFO Transactions: 48/141 monthly windows; 0 failures
+2026-09-18 18:24:17,165 INFO Transactions: 60/141 monthly windows; 0 failures
+2026-09-18 18:24:17,274 INFO Transactions: 72/141 monthly windows; 0 failures
+2026-09-18 18:24:17,442 INFO Transactions: 84/141 monthly windows; 0 failures
+2026-09-18 18:24:17,634 INFO Transactions: 96/141 monthly windows; 0 failures
+2026-09-18 18:24:17,896 INFO Transactions: 108/141 monthly windows; 0 failures
+2026-09-18 18:24:18,031 INFO Transactions: 120/141 monthly windows; 0 failures
+2026-09-18 18:24:18,231 INFO Transactions: 132/141 monthly windows; 0 failures
+2026-09-18 18:24:18,382 INFO Transactions: 141/141 monthly windows; 0 failures
+2026-09-18 18:24:19,550 INFO Classifying transaction actions and injury text
+2026-09-18 18:24:24,380 INFO IL identity: 18917 transactions, 10705 retained for MLB pitchers
+2026-09-18 18:24:27,396 INFO Constructed 5383 episodes; fetching independent RosterResource evidence
+2026-09-18 18:24:29,171 INFO Finished: 5383 episodes, 1616 pitchers; outputs in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/data/injury/processed
+2026-09-18 18:26:24,038 INFO Transactions: 12/141 monthly windows; 0 failures
+2026-09-18 18:26:24,163 INFO Transactions: 24/141 monthly windows; 0 failures
+2026-09-18 18:26:24,284 INFO Transactions: 36/141 monthly windows; 0 failures
+2026-09-18 18:26:24,406 INFO Transactions: 48/141 monthly windows; 0 failures
+2026-09-18 18:26:24,550 INFO Transactions: 60/141 monthly windows; 0 failures
+2026-09-18 18:26:24,641 INFO Transactions: 72/141 monthly windows; 0 failures
+2026-09-18 18:26:24,806 INFO Transactions: 84/141 monthly windows; 0 failures
+2026-09-18 18:26:25,025 INFO Transactions: 96/141 monthly windows; 0 failures
+2026-09-18 18:26:25,216 INFO Transactions: 108/141 monthly windows; 0 failures
+2026-09-18 18:26:25,358 INFO Transactions: 120/141 monthly windows; 0 failures
+2026-09-18 18:26:25,532 INFO Transactions: 132/141 monthly windows; 0 failures
+2026-09-18 18:26:25,682 INFO Transactions: 141/141 monthly windows; 0 failures
+2026-09-18 18:26:26,959 INFO Classifying transaction actions and injury text
+2026-09-18 18:26:31,825 INFO IL identity: 18917 transactions, 10705 retained for MLB pitchers
+2026-09-18 18:26:34,675 INFO Constructed 5381 episodes; fetching independent RosterResource evidence
+2026-09-18 18:26:36,492 INFO Finished: 5381 episodes, 1616 pitchers; outputs in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/data/injury/processed
+2026-09-18 18:32:17,122 INFO Transactions: 12/141 monthly windows; 0 failures
+2026-09-18 18:32:17,253 INFO Transactions: 24/141 monthly windows; 0 failures
+2026-09-18 18:32:17,391 INFO Transactions: 36/141 monthly windows; 0 failures
+2026-09-18 18:32:17,519 INFO Transactions: 48/141 monthly windows; 0 failures
+2026-09-18 18:32:17,666 INFO Transactions: 60/141 monthly windows; 0 failures
+2026-09-18 18:32:17,759 INFO Transactions: 72/141 monthly windows; 0 failures
+2026-09-18 18:32:17,945 INFO Transactions: 84/141 monthly windows; 0 failures
+2026-09-18 18:32:18,153 INFO Transactions: 96/141 monthly windows; 0 failures
+2026-09-18 18:32:18,350 INFO Transactions: 108/141 monthly windows; 0 failures
+2026-09-18 18:32:18,499 INFO Transactions: 120/141 monthly windows; 0 failures
+2026-09-18 18:32:18,686 INFO Transactions: 132/141 monthly windows; 0 failures
+2026-09-18 18:32:18,845 INFO Transactions: 141/141 monthly windows; 0 failures
+2026-09-18 18:32:20,135 INFO Classifying transaction actions and injury text
+2026-09-18 18:32:25,352 INFO IL identity: 18917 transactions, 10705 retained for MLB pitchers
+2026-09-18 18:32:28,275 INFO Constructed 5381 episodes; fetching independent RosterResource evidence
+2026-09-18 18:32:30,105 INFO Finished: 5381 episodes, 1616 pitchers; outputs in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/data/injury/processed

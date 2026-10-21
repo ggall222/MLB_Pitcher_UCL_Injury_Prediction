@@ -1,0 +1,56 @@
+group,repeat,features,baseline_ap,permuted_ap,ap_drop,strata,interpretation
+Appearance performance,0,11,0.030614584602816207,0.030822943688945913,-0.00020835908612970577,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Appearance performance,1,11,0.030614584602816207,0.03026856309545105,0.0003460215073651553,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Appearance performance,2,11,0.030614584602816207,0.030185681190445457,0.00042890341237074997,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Appearance performance,3,11,0.030614584602816207,0.030910399623784505,-0.0002958150209682979,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Appearance performance,4,11,0.030614584602816207,0.030164001295847256,0.0004505833069689512,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Extension,0,27,0.030614584602816207,0.023559750908597132,0.0070548336942190745,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Extension,1,27,0.030614584602816207,0.025961999217104223,0.004652585385711984,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Extension,2,27,0.030614584602816207,0.024545137372929494,0.0060694472298867125,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Extension,3,27,0.030614584602816207,0.024489249279010236,0.006125335323805971,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Extension,4,27,0.030614584602816207,0.024015771016779555,0.006598813586036652,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Location and strike fractions,0,34,0.030614584602816207,0.02951046498992543,0.001104119612890777,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Location and strike fractions,1,34,0.030614584602816207,0.031757912605491496,-0.0011433280026752896,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Location and strike fractions,2,34,0.030614584602816207,0.030516847665061696,9.77369377545105e-05,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Location and strike fractions,3,34,0.030614584602816207,0.030385632800566203,0.00022895180225000408,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Location and strike fractions,4,34,0.030614584602816207,0.03184846531198596,-0.0012338807091697504,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitch mix and pitch-type counts,0,66,0.030614584602816207,0.028781030396512128,0.0018335542063040791,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitch mix and pitch-type counts,1,66,0.030614584602816207,0.030830166407965306,-0.00021558180514909958,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitch mix and pitch-type counts,2,66,0.030614584602816207,0.02952974656042456,0.001084838042391647,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitch mix and pitch-type counts,3,66,0.030614584602816207,0.029716557558090575,0.0008980270447256321,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitch mix and pitch-type counts,4,66,0.030614584602816207,0.02974798690527276,0.0008665976975434468,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitch movement,0,21,0.030614584602816207,0.02541951342604209,0.005195071176774115,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitch movement,1,21,0.030614584602816207,0.025473443940812895,0.005141140662003312,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitch movement,2,21,0.030614584602816207,0.02483472660606408,0.005779857996752128,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitch movement,3,21,0.030614584602816207,0.025914078955966514,0.0047005056468496925,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitch movement,4,21,0.030614584602816207,0.025503356768169488,0.005111227834646719,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitcher background and experience,0,7,0.030614584602816207,0.025894258858044264,0.004720325744771943,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitcher background and experience,1,7,0.030614584602816207,0.026135579622074887,0.00447900498074132,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitcher background and experience,2,7,0.030614584602816207,0.026998874325522653,0.003615710277293554,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitcher background and experience,3,7,0.030614584602816207,0.02541617553935937,0.005198409063456838,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Pitcher background and experience,4,7,0.030614584602816207,0.02601533488472005,0.004599249718096159,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Release position and variability,0,70,0.030614584602816207,0.0266018157681294,0.004012768834686806,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Release position and variability,1,70,0.030614584602816207,0.02541371120796032,0.005200873394855886,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Release position and variability,2,70,0.030614584602816207,0.025314425212143978,0.005300159390672229,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Release position and variability,3,70,0.030614584602816207,0.027147816737868292,0.0034667678649479144,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Release position and variability,4,70,0.030614584602816207,0.026421170618148037,0.00419341398466817,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Role and recent starts,0,5,0.030614584602816207,0.025596519022142696,0.005018065580673511,season,Marginal grouped permutation conditional only on season/role strata
+Role and recent starts,1,5,0.030614584602816207,0.026531153490887912,0.004083431111928295,season,Marginal grouped permutation conditional only on season/role strata
+Role and recent starts,2,5,0.030614584602816207,0.025325892216373724,0.005288692386442483,season,Marginal grouped permutation conditional only on season/role strata
+Role and recent starts,3,5,0.030614584602816207,0.027445401118513547,0.0031691834843026595,season,Marginal grouped permutation conditional only on season/role strata
+Role and recent starts,4,5,0.030614584602816207,0.026210291099354636,0.004404293503461571,season,Marginal grouped permutation conditional only on season/role strata
+Spin,0,26,0.030614584602816207,0.02479329828858413,0.005821286314232076,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Spin,1,26,0.030614584602816207,0.02416247839956327,0.006452106203252938,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Spin,2,26,0.030614584602816207,0.02498988342406117,0.005624701178755038,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Spin,3,26,0.030614584602816207,0.024530678275140036,0.006083906327676171,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Spin,4,26,0.030614584602816207,0.024427346884258464,0.006187237718557743,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Velocity,0,37,0.030614584602816207,0.02603583977398886,0.004578744828827346,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Velocity,1,37,0.030614584602816207,0.02662973493583829,0.003984849666977916,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Velocity,2,37,0.030614584602816207,0.02735876853158199,0.003255816071234218,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Velocity,3,37,0.030614584602816207,0.02577824041513944,0.004836344187676766,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Velocity,4,37,0.030614584602816207,0.026692628417712853,0.0039219561851033535,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Workload and rest,0,29,0.030614584602816207,0.027286745667649298,0.003327838935166909,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Workload and rest,1,29,0.030614584602816207,0.024085030663134985,0.006529553939681222,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Workload and rest,2,29,0.030614584602816207,0.024964013834764,0.005650570768052206,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Workload and rest,3,29,0.030614584602816207,0.02629818711893996,0.004316397483876248,season;is_starter,Marginal grouped permutation conditional only on season/role strata
+Workload and rest,4,29,0.030614584602816207,0.028436303840554983,0.002178280762261224,season;is_starter,Marginal grouped permutation conditional only on season/role strata

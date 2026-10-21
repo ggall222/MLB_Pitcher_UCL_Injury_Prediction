@@ -1,0 +1,15 @@
+analysis_group,kind,appearances,events,pitchers
+Elbow / UCL,Control,2640,225,225
+Elbow / UCL,Injury,2518,225,211
+Forearm,Control,999,84,84
+Forearm,Injury,1014,84,81
+Hand / wrist,Control,840,68,68
+Hand / wrist,Injury,712,68,63
+Lower body,Control,3255,280,280
+Lower body,Injury,3230,280,235
+Other arm,Control,1031,85,85
+Other arm,Injury,1008,85,83
+Shoulder,Control,3350,277,277
+Shoulder,Injury,3322,277,241
+Trunk / neck,Control,2431,206,206
+Trunk / neck,Injury,2584,206,182

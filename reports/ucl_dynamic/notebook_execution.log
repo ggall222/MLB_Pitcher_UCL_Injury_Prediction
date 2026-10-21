@@ -1,0 +1,8 @@
+Installed kernelspec mlb-ucl-analysis in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/share/jupyter/kernels/mlb-ucl-analysis
+EXECUTING 01_endpoint_and_landmarks.ipynb
+{"name": "01_endpoint_and_landmarks.ipynb", "success": true, "seconds": 5.47, "code_cells": 7, "executed_cells": 7, "errors": 0, "sha256": "139ea2c7bc52ac909bc7a3f335268091c1d348d5012757ae56e2ac3493326477"}
+EXECUTING 02_dynamic_models_and_warning.ipynb
+{"name": "02_dynamic_models_and_warning.ipynb", "success": true, "seconds": 1.45, "code_cells": 7, "executed_cells": 7, "errors": 0, "sha256": "52e5eb5d5b7231d702875b12629b8d185ea523babe35da1b4195bb4004e67985"}
+EXECUTING 03_trajectories_robustness_and_freeze.ipynb
+{"name": "03_trajectories_robustness_and_freeze.ipynb", "success": true, "seconds": 18.36, "code_cells": 8, "executed_cells": 8, "errors": 0, "sha256": "60759ae423f977ca36da6accea53f8830903379266b20322fbd3fceebbf6665b"}
+Executed 3 notebooks; sources unchanged. Manifest: /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/reports/ucl_dynamic/notebook_execution.json

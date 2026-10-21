@@ -1,0 +1,243 @@
+representation,feature,derivation,timing
+Background,throws_left,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Background,age_at_appearance,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Background,days_since_mlb_debut,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Background,observed_prior_mlb_appearances,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Background,observed_prior_mlb_starts,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Background,prior_reported_il_count,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Background,calendar_month,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile,avg_fb_velo_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile,release_x_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile,release_z_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile,release_x_sd_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile,release_z_sd_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile,extension_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile,spin_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile,zone_pct_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile,age_at_appearance,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile,throws_left,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile,observed_prior_mlb_starts,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile,days_since_mlb_debut,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile,prior_reported_il_count,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Departure,velo_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Departure,release_x_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Departure,release_z_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Departure,release_x_sd_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Departure,release_z_sd_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Departure,extension_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Departure,spin_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Departure,zone_pct_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,avg_fb_velo_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,release_x_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,release_z_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,release_x_sd_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,release_z_sd_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,extension_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,spin_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,zone_pct_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,age_at_appearance,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,throws_left,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,observed_prior_mlb_starts,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,days_since_mlb_debut,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,prior_reported_il_count,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,velo_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,release_x_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,release_z_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,release_x_sd_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,release_z_sd_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,extension_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,spin_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure,zone_pct_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,avg_fb_velo_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,release_x_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,release_z_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,release_x_sd_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,release_z_sd_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,extension_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,spin_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,zone_pct_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,age_at_appearance,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,throws_left,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,observed_prior_mlb_starts,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,days_since_mlb_debut,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,prior_reported_il_count,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,velo_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,release_x_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,release_z_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,release_x_sd_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,release_z_sd_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,extension_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,spin_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,zone_pct_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,dyn_velo_z_slope4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,dyn_velo_z_absmean4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,dyn_velo_z_persist4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,dyn_release_z_sd_z_slope4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,dyn_release_z_sd_z_absmean4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,dyn_release_z_sd_z_persist4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,dyn_extension_z_slope4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,dyn_extension_z_absmean4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,dyn_extension_z_persist4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,dyn_spin_z_slope4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,dyn_spin_z_absmean4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory,dyn_spin_z_persist4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,avg_fb_velo_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,release_x_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,release_z_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,release_x_sd_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,release_z_sd_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,extension_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,spin_avg_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,zone_pct_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,age_at_appearance,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,throws_left,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,observed_prior_mlb_starts,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,days_since_mlb_debut,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,prior_reported_il_count,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,velo_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,release_x_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,release_z_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,release_x_sd_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,release_z_sd_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,extension_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,spin_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,zone_pct_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,dyn_velo_z_slope4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,dyn_velo_z_absmean4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,dyn_velo_z_persist4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,dyn_release_z_sd_z_slope4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,dyn_release_z_sd_z_absmean4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,dyn_release_z_sd_z_persist4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,dyn_extension_z_slope4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,dyn_extension_z_absmean4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,dyn_extension_z_persist4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,dyn_spin_z_slope4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,dyn_spin_z_absmean4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,dyn_spin_z_persist4,current + three prior valid-day outings within 30 days,after completed outing; historical terms strictly prior
+Profile + departure + trajectory + interactions,avg_fb_velo_baseline_mean × velo_z,product of training-standardized main effects; product mean/SD fit on training only,after completed outing
+Profile + departure + trajectory + interactions,release_z_sd_baseline_mean × release_z_sd_z,product of training-standardized main effects; product mean/SD fit on training only,after completed outing
+Profile + departure + trajectory + interactions,extension_avg_baseline_mean × extension_z,product of training-standardized main effects; product mean/SD fit on training only,after completed outing
+Previous 62,avg_fb_velo,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,fb_velo_sd,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,fb_velo_change_vs_prev_3,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,fb_velo_change_vs_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,velo_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,fb_velo_slope_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,avg_fb_velo_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,release_x_avg,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,release_z_avg,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,release_x_sd,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,release_z_sd,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,extension_avg,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,extension_sd,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,release_x_change_vs_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,release_z_change_vs_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,extension_change_vs_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,release_x_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,release_z_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,extension_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,spin_avg,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,spin_change_vs_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,spin_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,horizontal_movement_avg,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,vertical_movement_avg,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,horizontal_movement_avg_change_vs_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,vertical_movement_avg_change_vs_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,fastball_usage_pct,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,fastball_usage_pct_change_vs_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,sl_usage_pct,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,sl_usage_pct_change_vs_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,ch_usage_pct,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,cu_usage_pct,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,zone_pct,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,location_variability,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,strike_pct,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,first_pitch_strike_pct,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,zone_pct_change_vs_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,location_variability_change_vs_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,walk_rate,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,hbp_rate,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,total_pitches,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,innings_pitched,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,rest_days,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,pitches_prev_7d,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,pitches_prev_14d,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,pitches_prev_28d,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,appearances_prev_14d,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,appearances_prev_28d,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,season_pitch_count,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,season_innings,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,previous_season_innings,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,workload_acceleration_7d_vs_21d,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,acute_chronic_pitch_ratio,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,starts_prev_30d,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,starter_share_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,age_at_appearance,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,throws_left,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,observed_prior_mlb_starts,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,days_since_mlb_debut,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,is_starter,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,prior_reported_il_count,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Previous 62,calendar_month,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,acute_chronic_pitch_ratio,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,age_at_appearance,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,appearances_prev_14d,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,avg_fb_velo_baseline_sd,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,calendar_month,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,ch_avg_velocity_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,ch_release_x_avg_prev_10,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,ch_usage_pct_prev_3,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,ch_vertical_movement_avg,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,cu_avg_velocity_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,cu_extension_avg_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,cu_pitch_count,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,cu_release_z_avg_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,cu_spin_avg_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,current_vs_previous_season_workload,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,days_since_mlb_debut,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,extension_avg_baseline_sd,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,extension_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,fastball_usage_pct,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,fb_velo_sd_change_vs_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,fb_velo_sd_prev_3,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,ff_avg_velocity_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,ff_pitch_count,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,ff_spin_avg,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,ff_vertical_movement_avg,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,first_pitch_strike_pct_prev_10,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,first_pitch_strike_pct_prev_3,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,fs_pitch_count,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,high_velocity_pitch_count,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,innings_7d,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,innings_pitched,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,is_starter,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,ivb_inches,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,kc_pitch_count,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,observed_prior_mlb_appearances,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,observed_prior_mlb_starts,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,release_x_avg_baseline_sd,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,release_x_change_vs_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,release_x_sd_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,release_x_sd_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,release_x_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,release_z_change_vs_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,release_z_slope_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,release_z_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,rest_days,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,season_pitch_count,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,season_starts,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,si_extension_avg,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,si_release_z_avg_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,si_spin_avg_prev_10,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,si_zone_pct,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,sl_horizontal_movement_avg,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,sl_usage_pct_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,sl_vertical_movement_avg,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,sl_zone_pct,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,spin_avg_baseline_sd,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,st_pitch_count,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,starter_share_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,strikeout_rate,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,sv_usage_pct_prev_5,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,velo_z,unchanged frozen existing field,after completed outing; historical terms strictly prior
+Stable 62,zone_pct_baseline_mean,unchanged frozen existing field,after completed outing; historical terms strictly prior

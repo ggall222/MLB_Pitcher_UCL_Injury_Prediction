@@ -1,0 +1,72 @@
+{
+  "signature": {
+    "source": {
+      "database": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/mlb_ucl.duckdb",
+      "database_bytes": 17895796736,
+      "database_mtime_ns": 1789002299179560729,
+      "events_sha256": "18d9ae297bd70d0b78178ae45fe731a26f6a459ec9ab65d68d17783c8862f468",
+      "config_sha256": "096e17f7445f34bf50938f06be973540577a4b9193bfd450c7acf0c8cd3d00b6",
+      "feature_config_sha256": "5b60e14a805a5e75c4159666edb41764741fe9fa7ac1eb5dce1cf8bc7c871672"
+    },
+    "allowlist": "74c9ca219c12f14b8e2e480c1840950c06209eb8604747804ab515bc2aac68f9",
+    "dictionary": "292c40407b30c74d3f33f9b0de13f8e04d4f0dcd0c99f9583bc29d70cc827382",
+    "cohort": "35cf22761f8ec21dc8e662522e78b4f650bef898fbf90ad607337b852ee20b70"
+  },
+  "config": {
+    "seed": 20261008,
+    "output_path": "reports/feature_consolidation",
+    "cache_path": "data/injury/analysis/feature_consolidation",
+    "category": "Elbow / UCL",
+    "horizon_days": 30,
+    "maximum_training_missing_fraction": 0.6,
+    "minimum_observed_training_pitchers": 100,
+    "correlation_appearances_per_pitcher": 12,
+    "minimum_correlation_pairs": 250,
+    "correlation_cut": 0.9,
+    "high_pair_cut": 0.9,
+    "bootstrap_replicates": 300,
+    "training_refits": 16,
+    "permutation_repeats": 5,
+    "elastic_net_C": [
+      0.003,
+      0.03,
+      0.3
+    ],
+    "elastic_net_l1_ratio": [
+      0.25,
+      0.75
+    ],
+    "elastic_net_max_iter": 5000,
+    "elastic_net_tolerance": 0.0001,
+    "logistic_C": 1.0,
+    "logistic_tolerance": 1e-06,
+    "winsor_quantiles": [
+      0.005,
+      0.995
+    ],
+    "selection_frequencies": [
+      0.9,
+      0.75,
+      0.5,
+      0.25
+    ],
+    "coefficient_nonzero_tolerance": 1e-05,
+    "top_rank_fraction": 0.1,
+    "maximum_validation_warning_events_lost": 2
+  },
+  "config_sha256": "92db5e7f454caa2a8a7679cb7d2a7e2f7f040a63a01ebe185c70d824646b79e4",
+  "code_sha256": {
+    "src/injury_analysis/consolidation_redundancy.py": "c44aa1cac3774b92b4b868b18994122e269eb3e7872a220caffa279029f241bb",
+    "src/injury_analysis/consolidation_plots.py": "d13ceae5f3032c1ec5abf7fe7a583c27998b6a68ccd03c2b2eddda17abb48298",
+    "src/injury_analysis/consolidation_selection.py": "0170de70304200621c40ed75e13065234b323a1bcdb7996b3e3ce0897c86083c",
+    "src/injury_analysis/consolidation_inventory.py": "0b680fd8be702462e26fe48dea5f67bde9b73c81c5aa98b291c29b16c56266bd",
+    "src/injury_analysis/consolidation_workflow.py": "8e79ca939605e3ad2bf457bd8e7509bf583e41567923d39683b9033e24eb714d",
+    "src/injury_analysis/consolidation_models.py": "32cfa191adc859827fee534ddf0d82214bbd0c458b2fb799db7d208c605367b8",
+    "src/injury_analysis/consolidation_representations.py": "3e9d0478ab7bdcceb94d36ff7cc544f6ba4fcb08cf6223119c357974b07c4af8",
+    "src/injury_analysis/consolidation_stability.py": "e86f2cc8cfa71f011277b12beaef537668f623962674afbeb319235bc6de5aa7",
+    "src/injury_analysis/consolidation_report.py": "a178e6bd73ce49ba4218c06a15a686667613b8c3937b0e997fe0f7967fb8aaaa",
+    "src/injury_analysis/consolidation_common.py": "f2569609957fd8122cd257dd6376fa47b2073d4930971e25176e170fda378c75"
+  },
+  "endpoint": "Broad Elbow / UCL initial-anatomy outcome, not confirmed-UCL-only",
+  "evaluation": "Previously examined 2024\u20132025; exploratory temporal transfer only"
+}

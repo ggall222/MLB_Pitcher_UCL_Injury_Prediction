@@ -1,0 +1,361 @@
+category,feature,family,repeat,baseline_ap,permuted_ap,ap_drop,inspection_basis
+Elbow / UCL,age_at_appearance,pitcher_history,0,0.028254193927830476,0.02920299527641061,-0.0009488013485801326,top two individual families by validation AP; exploratory selection
+Elbow / UCL,age_at_appearance,pitcher_history,1,0.028254193927830476,0.028716822974288878,-0.0004626290464584022,top two individual families by validation AP; exploratory selection
+Elbow / UCL,age_at_appearance,pitcher_history,2,0.028254193927830476,0.029078874367079177,-0.0008246804392487012,top two individual families by validation AP; exploratory selection
+Elbow / UCL,age_at_appearance,pitcher_history,3,0.028254193927830476,0.02891270001922845,-0.0006585060913979757,top two individual families by validation AP; exploratory selection
+Elbow / UCL,age_at_appearance,pitcher_history,4,0.028254193927830476,0.02893613286470878,-0.0006819389368783041,top two individual families by validation AP; exploratory selection
+Elbow / UCL,throws_left,pitcher_history,0,0.028254193927830476,0.026646719633317023,0.001607474294513453,top two individual families by validation AP; exploratory selection
+Elbow / UCL,throws_left,pitcher_history,1,0.028254193927830476,0.028338728057805327,-8.453412997485102e-05,top two individual families by validation AP; exploratory selection
+Elbow / UCL,throws_left,pitcher_history,2,0.028254193927830476,0.027827718592267646,0.00042647533556283007,top two individual families by validation AP; exploratory selection
+Elbow / UCL,throws_left,pitcher_history,3,0.028254193927830476,0.02784256487811408,0.00041162904971639436,top two individual families by validation AP; exploratory selection
+Elbow / UCL,throws_left,pitcher_history,4,0.028254193927830476,0.026830104822153065,0.0014240891056774112,top two individual families by validation AP; exploratory selection
+Elbow / UCL,observed_prior_mlb_starts,pitcher_history,0,0.028254193927830476,0.024994008495332457,0.003260185432498019,top two individual families by validation AP; exploratory selection
+Elbow / UCL,observed_prior_mlb_starts,pitcher_history,1,0.028254193927830476,0.026288743365966434,0.001965450561864042,top two individual families by validation AP; exploratory selection
+Elbow / UCL,observed_prior_mlb_starts,pitcher_history,2,0.028254193927830476,0.025159738306491344,0.0030944556213391324,top two individual families by validation AP; exploratory selection
+Elbow / UCL,observed_prior_mlb_starts,pitcher_history,3,0.028254193927830476,0.02529495663553493,0.0029592372922955454,top two individual families by validation AP; exploratory selection
+Elbow / UCL,observed_prior_mlb_starts,pitcher_history,4,0.028254193927830476,0.025895124272153187,0.0023590696556772886,top two individual families by validation AP; exploratory selection
+Elbow / UCL,days_since_mlb_debut,pitcher_history,0,0.028254193927830476,0.025477549023270585,0.0027766449045598905,top two individual families by validation AP; exploratory selection
+Elbow / UCL,days_since_mlb_debut,pitcher_history,1,0.028254193927830476,0.025014660269971914,0.003239533657858562,top two individual families by validation AP; exploratory selection
+Elbow / UCL,days_since_mlb_debut,pitcher_history,2,0.028254193927830476,0.02589308941872648,0.0023611045091039944,top two individual families by validation AP; exploratory selection
+Elbow / UCL,days_since_mlb_debut,pitcher_history,3,0.028254193927830476,0.0255290507982722,0.0027251431295582766,top two individual families by validation AP; exploratory selection
+Elbow / UCL,days_since_mlb_debut,pitcher_history,4,0.028254193927830476,0.026195143467652223,0.002059050460178253,top two individual families by validation AP; exploratory selection
+Elbow / UCL,prior_reported_il_count,pitcher_history,0,0.028254193927830476,0.027209085458926523,0.0010451084689039533,top two individual families by validation AP; exploratory selection
+Elbow / UCL,prior_reported_il_count,pitcher_history,1,0.028254193927830476,0.02706041002611774,0.001193783901712736,top two individual families by validation AP; exploratory selection
+Elbow / UCL,prior_reported_il_count,pitcher_history,2,0.028254193927830476,0.026861779862844142,0.0013924140649863338,top two individual families by validation AP; exploratory selection
+Elbow / UCL,prior_reported_il_count,pitcher_history,3,0.028254193927830476,0.0271127147668903,0.0011414791609401752,top two individual families by validation AP; exploratory selection
+Elbow / UCL,prior_reported_il_count,pitcher_history,4,0.028254193927830476,0.02787457183606892,0.0003796220917615563,top two individual families by validation AP; exploratory selection
+Elbow / UCL,calendar_month,pitcher_history,0,0.028254193927830476,0.02628454269404798,0.001969651233782496,top two individual families by validation AP; exploratory selection
+Elbow / UCL,calendar_month,pitcher_history,1,0.028254193927830476,0.026511380316477373,0.0017428136113531029,top two individual families by validation AP; exploratory selection
+Elbow / UCL,calendar_month,pitcher_history,2,0.028254193927830476,0.025513059752852264,0.0027411341749782117,top two individual families by validation AP; exploratory selection
+Elbow / UCL,calendar_month,pitcher_history,3,0.028254193927830476,0.025990809184701407,0.002263384743129069,top two individual families by validation AP; exploratory selection
+Elbow / UCL,calendar_month,pitcher_history,4,0.028254193927830476,0.026097478731192756,0.00215671519663772,top two individual families by validation AP; exploratory selection
+Elbow / UCL,avg_fb_velo,velocity,0,0.028254193927830476,0.028633637028256036,-0.00037944310042556037,top two individual families by validation AP; exploratory selection
+Elbow / UCL,avg_fb_velo,velocity,1,0.028254193927830476,0.029263010416836342,-0.0010088164890058662,top two individual families by validation AP; exploratory selection
+Elbow / UCL,avg_fb_velo,velocity,2,0.028254193927830476,0.028295671182056347,-4.147725422587109e-05,top two individual families by validation AP; exploratory selection
+Elbow / UCL,avg_fb_velo,velocity,3,0.028254193927830476,0.028577856359190332,-0.0003236624313598564,top two individual families by validation AP; exploratory selection
+Elbow / UCL,avg_fb_velo,velocity,4,0.028254193927830476,0.029013392656904974,-0.0007591987290744978,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_sd,velocity,0,0.028254193927830476,0.027551998085363176,0.0007021958424673,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_sd,velocity,1,0.028254193927830476,0.027724582987112972,0.0005296109407175037,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_sd,velocity,2,0.028254193927830476,0.027718376891589264,0.0005358170362412124,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_sd,velocity,3,0.028254193927830476,0.0267564380746689,0.001497755853161576,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_sd,velocity,4,0.028254193927830476,0.027069629034480104,0.001184564893350372,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_change_vs_prev_3,velocity,0,0.028254193927830476,0.028290714266624217,-3.652033879374128e-05,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_change_vs_prev_3,velocity,1,0.028254193927830476,0.028172863516249844,8.133041158063167e-05,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_change_vs_prev_3,velocity,2,0.028254193927830476,0.02861738792694415,-0.000363193999113675,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_change_vs_prev_3,velocity,3,0.028254193927830476,0.02833735009469759,-8.315616686711477e-05,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_change_vs_prev_3,velocity,4,0.028254193927830476,0.02857436243243112,-0.00032016850460064514,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_change_vs_prev_5,velocity,0,0.028254193927830476,0.02830189158879668,-4.76976609662047e-05,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_change_vs_prev_5,velocity,1,0.028254193927830476,0.02859194576103523,-0.00033775183320475244,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_change_vs_prev_5,velocity,2,0.028254193927830476,0.027784021836716875,0.00047017209111360064,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_change_vs_prev_5,velocity,3,0.028254193927830476,0.02854135803609159,-0.0002871641082611148,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_change_vs_prev_5,velocity,4,0.028254193927830476,0.02806766799004805,0.00018652593778242452,top two individual families by validation AP; exploratory selection
+Elbow / UCL,velo_z,velocity,0,0.028254193927830476,0.025715102094211018,0.0025390918336194584,top two individual families by validation AP; exploratory selection
+Elbow / UCL,velo_z,velocity,1,0.028254193927830476,0.026817881175293993,0.0014363127525364831,top two individual families by validation AP; exploratory selection
+Elbow / UCL,velo_z,velocity,2,0.028254193927830476,0.025915087626763835,0.002339106301066641,top two individual families by validation AP; exploratory selection
+Elbow / UCL,velo_z,velocity,3,0.028254193927830476,0.02629547928490309,0.0019587146429273852,top two individual families by validation AP; exploratory selection
+Elbow / UCL,velo_z,velocity,4,0.028254193927830476,0.025656853471689754,0.0025973404561407225,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_slope_prev_5,velocity,0,0.028254193927830476,0.02802810968756056,0.00022608424026991647,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_slope_prev_5,velocity,1,0.028254193927830476,0.027721958356543723,0.000532235571286753,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_slope_prev_5,velocity,2,0.028254193927830476,0.028117426030865294,0.00013676789696518213,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_slope_prev_5,velocity,3,0.028254193927830476,0.027932774397589625,0.0003214195302408511,top two individual families by validation AP; exploratory selection
+Elbow / UCL,fb_velo_slope_prev_5,velocity,4,0.028254193927830476,0.027947573335482742,0.00030662059234773387,top two individual families by validation AP; exploratory selection
+Elbow / UCL,avg_fb_velo_baseline_mean,velocity,0,0.028254193927830476,0.02643915608003303,0.0018150378477974453,top two individual families by validation AP; exploratory selection
+Elbow / UCL,avg_fb_velo_baseline_mean,velocity,1,0.028254193927830476,0.026053415692166463,0.002200778235664013,top two individual families by validation AP; exploratory selection
+Elbow / UCL,avg_fb_velo_baseline_mean,velocity,2,0.028254193927830476,0.02613039234181628,0.002123801586014197,top two individual families by validation AP; exploratory selection
+Elbow / UCL,avg_fb_velo_baseline_mean,velocity,3,0.028254193927830476,0.026822238588372828,0.0014319553394576481,top two individual families by validation AP; exploratory selection
+Elbow / UCL,avg_fb_velo_baseline_mean,velocity,4,0.028254193927830476,0.02618769000591462,0.002066503921915857,top two individual families by validation AP; exploratory selection
+Shoulder,total_pitches,workload,0,0.04472869371900468,0.04450449973410287,0.00022419398490181042,top two individual families by validation AP; exploratory selection
+Shoulder,total_pitches,workload,1,0.04472869371900468,0.04409202718682548,0.0006366665321792045,top two individual families by validation AP; exploratory selection
+Shoulder,total_pitches,workload,2,0.04472869371900468,0.04418623817537365,0.0005424555436310333,top two individual families by validation AP; exploratory selection
+Shoulder,total_pitches,workload,3,0.04472869371900468,0.04376516113308335,0.0009635325859213353,top two individual families by validation AP; exploratory selection
+Shoulder,total_pitches,workload,4,0.04472869371900468,0.043710704795382214,0.0010179889236224676,top two individual families by validation AP; exploratory selection
+Shoulder,innings_pitched,workload,0,0.04472869371900468,0.03898262923662505,0.005746064482379631,top two individual families by validation AP; exploratory selection
+Shoulder,innings_pitched,workload,1,0.04472869371900468,0.03866227278397496,0.006066420935029723,top two individual families by validation AP; exploratory selection
+Shoulder,innings_pitched,workload,2,0.04472869371900468,0.038471539163605,0.0062571545553996855,top two individual families by validation AP; exploratory selection
+Shoulder,innings_pitched,workload,3,0.04472869371900468,0.03800054378726471,0.006728149931739973,top two individual families by validation AP; exploratory selection
+Shoulder,innings_pitched,workload,4,0.04472869371900468,0.03651633396320289,0.008212359755801792,top two individual families by validation AP; exploratory selection
+Shoulder,rest_days,workload,0,0.04472869371900468,0.042105333660905964,0.0026233600580987185,top two individual families by validation AP; exploratory selection
+Shoulder,rest_days,workload,1,0.04472869371900468,0.0424606740138898,0.0022680197051148793,top two individual families by validation AP; exploratory selection
+Shoulder,rest_days,workload,2,0.04472869371900468,0.043214390099599875,0.0015143036194048068,top two individual families by validation AP; exploratory selection
+Shoulder,rest_days,workload,3,0.04472869371900468,0.04195289420383905,0.0027757995151656348,top two individual families by validation AP; exploratory selection
+Shoulder,rest_days,workload,4,0.04472869371900468,0.04140220440171761,0.0033264893172870735,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_7d,workload,0,0.04472869371900468,0.04448497340812462,0.00024372031088006063,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_7d,workload,1,0.04472869371900468,0.04471558632438248,1.3107394622201285e-05,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_7d,workload,2,0.04472869371900468,0.044137418222645185,0.0005912754963594974,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_7d,workload,3,0.04472869371900468,0.044509302166057835,0.00021939155294684737,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_7d,workload,4,0.04472869371900468,0.04400586726768264,0.000722826451322045,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_14d,workload,0,0.04472869371900468,0.04207095952063909,0.0026577341983655897,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_14d,workload,1,0.04472869371900468,0.04267748515235674,0.0020512085666479427,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_14d,workload,2,0.04472869371900468,0.04203128511043938,0.0026974086085653007,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_14d,workload,3,0.04472869371900468,0.042461904835881706,0.0022667888831229763,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_14d,workload,4,0.04472869371900468,0.0425967509149983,0.00213194280400638,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_28d,workload,0,0.04472869371900468,0.04568050263855299,-0.0009518089195483109,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_28d,workload,1,0.04472869371900468,0.04584153108298374,-0.0011128373639790606,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_28d,workload,2,0.04472869371900468,0.04618659616137692,-0.00145790244237224,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_28d,workload,3,0.04472869371900468,0.04598777432233292,-0.0012590806033282373,top two individual families by validation AP; exploratory selection
+Shoulder,pitches_prev_28d,workload,4,0.04472869371900468,0.04540861376357026,-0.0006799200445655809,top two individual families by validation AP; exploratory selection
+Shoulder,appearances_prev_14d,workload,0,0.04472869371900468,0.04432642667895129,0.000402267040053389,top two individual families by validation AP; exploratory selection
+Shoulder,appearances_prev_14d,workload,1,0.04472869371900468,0.04465290764617368,7.578607283099947e-05,top two individual families by validation AP; exploratory selection
+Shoulder,appearances_prev_14d,workload,2,0.04472869371900468,0.04398831302935715,0.0007403806896475323,top two individual families by validation AP; exploratory selection
+Shoulder,appearances_prev_14d,workload,3,0.04472869371900468,0.04394878670451037,0.0007799070144943118,top two individual families by validation AP; exploratory selection
+Shoulder,appearances_prev_14d,workload,4,0.04472869371900468,0.044780567389680635,-5.1873670675953165e-05,top two individual families by validation AP; exploratory selection
+Shoulder,appearances_prev_28d,workload,0,0.04472869371900468,0.04468041533236816,4.827838663652023e-05,top two individual families by validation AP; exploratory selection
+Shoulder,appearances_prev_28d,workload,1,0.04472869371900468,0.04406466829177089,0.0006640254272337887,top two individual families by validation AP; exploratory selection
+Shoulder,appearances_prev_28d,workload,2,0.04472869371900468,0.04421843661247626,0.000510257106528425,top two individual families by validation AP; exploratory selection
+Shoulder,appearances_prev_28d,workload,3,0.04472869371900468,0.04486228331702249,-0.00013358959801780534,top two individual families by validation AP; exploratory selection
+Shoulder,appearances_prev_28d,workload,4,0.04472869371900468,0.04432724962606991,0.0004014440929347718,top two individual families by validation AP; exploratory selection
+Shoulder,season_pitch_count,workload,0,0.04472869371900468,0.03801557378548772,0.006713119933516962,top two individual families by validation AP; exploratory selection
+Shoulder,season_pitch_count,workload,1,0.04472869371900468,0.03630697349172674,0.00842172022727794,top two individual families by validation AP; exploratory selection
+Shoulder,season_pitch_count,workload,2,0.04472869371900468,0.03686572893557599,0.00786296478342869,top two individual families by validation AP; exploratory selection
+Shoulder,season_pitch_count,workload,3,0.04472869371900468,0.03673614727874192,0.00799254644026276,top two individual families by validation AP; exploratory selection
+Shoulder,season_pitch_count,workload,4,0.04472869371900468,0.0358241723770235,0.008904521341981185,top two individual families by validation AP; exploratory selection
+Shoulder,season_innings,workload,0,0.04472869371900468,0.04492936952652082,-0.00020067580751613467,top two individual families by validation AP; exploratory selection
+Shoulder,season_innings,workload,1,0.04472869371900468,0.04240889249150866,0.0023198012274960253,top two individual families by validation AP; exploratory selection
+Shoulder,season_innings,workload,2,0.04472869371900468,0.04346837906723859,0.001260314651766091,top two individual families by validation AP; exploratory selection
+Shoulder,season_innings,workload,3,0.04472869371900468,0.04045326829519597,0.00427542542380871,top two individual families by validation AP; exploratory selection
+Shoulder,season_innings,workload,4,0.04472869371900468,0.041044287428576506,0.0036844062904281757,top two individual families by validation AP; exploratory selection
+Shoulder,previous_season_innings,workload,0,0.04472869371900468,0.04723447628259995,-0.0025057825635952657,top two individual families by validation AP; exploratory selection
+Shoulder,previous_season_innings,workload,1,0.04472869371900468,0.0457384353155133,-0.0010097415965086148,top two individual families by validation AP; exploratory selection
+Shoulder,previous_season_innings,workload,2,0.04472869371900468,0.04682852232122336,-0.0020998286022186757,top two individual families by validation AP; exploratory selection
+Shoulder,previous_season_innings,workload,3,0.04472869371900468,0.0456076998755282,-0.000879006156523518,top two individual families by validation AP; exploratory selection
+Shoulder,previous_season_innings,workload,4,0.04472869371900468,0.047371961356210156,-0.0026432676372054736,top two individual families by validation AP; exploratory selection
+Shoulder,workload_acceleration_7d_vs_21d,workload,0,0.04472869371900468,0.044812842912876266,-8.41491938715841e-05,top two individual families by validation AP; exploratory selection
+Shoulder,workload_acceleration_7d_vs_21d,workload,1,0.04472869371900468,0.04520186239526846,-0.0004731686762637771,top two individual families by validation AP; exploratory selection
+Shoulder,workload_acceleration_7d_vs_21d,workload,2,0.04472869371900468,0.04547286791820775,-0.0007441741992030709,top two individual families by validation AP; exploratory selection
+Shoulder,workload_acceleration_7d_vs_21d,workload,3,0.04472869371900468,0.045354383550314466,-0.0006256898313097836,top two individual families by validation AP; exploratory selection
+Shoulder,workload_acceleration_7d_vs_21d,workload,4,0.04472869371900468,0.045506456211811465,-0.0007777624928067828,top two individual families by validation AP; exploratory selection
+Shoulder,acute_chronic_pitch_ratio,workload,0,0.04472869371900468,0.04391326404242923,0.0008154296765754548,top two individual families by validation AP; exploratory selection
+Shoulder,acute_chronic_pitch_ratio,workload,1,0.04472869371900468,0.04381837104494291,0.0009103226740617698,top two individual families by validation AP; exploratory selection
+Shoulder,acute_chronic_pitch_ratio,workload,2,0.04472869371900468,0.043854087375072466,0.000874606343932216,top two individual families by validation AP; exploratory selection
+Shoulder,acute_chronic_pitch_ratio,workload,3,0.04472869371900468,0.043162413173815126,0.0015662805451895565,top two individual families by validation AP; exploratory selection
+Shoulder,acute_chronic_pitch_ratio,workload,4,0.04472869371900468,0.04338175779379782,0.001346935925206863,top two individual families by validation AP; exploratory selection
+Shoulder,starts_prev_30d,workload,0,0.04472869371900468,0.042994068068328575,0.0017346256506761068,top two individual families by validation AP; exploratory selection
+Shoulder,starts_prev_30d,workload,1,0.04472869371900468,0.04276553371860388,0.001963160000400803,top two individual families by validation AP; exploratory selection
+Shoulder,starts_prev_30d,workload,2,0.04472869371900468,0.043012773097732195,0.0017159206212724876,top two individual families by validation AP; exploratory selection
+Shoulder,starts_prev_30d,workload,3,0.04472869371900468,0.042879324236608236,0.0018493694823964457,top two individual families by validation AP; exploratory selection
+Shoulder,starts_prev_30d,workload,4,0.04472869371900468,0.04198113426188974,0.0027475594571149398,top two individual families by validation AP; exploratory selection
+Shoulder,starter_share_prev_5,workload,0,0.04472869371900468,0.04131651230397486,0.0034121814150298233,top two individual families by validation AP; exploratory selection
+Shoulder,starter_share_prev_5,workload,1,0.04472869371900468,0.04144163846867205,0.0032870552503326336,top two individual families by validation AP; exploratory selection
+Shoulder,starter_share_prev_5,workload,2,0.04472869371900468,0.04202881126109834,0.0026998824579063455,top two individual families by validation AP; exploratory selection
+Shoulder,starter_share_prev_5,workload,3,0.04472869371900468,0.04160964145503837,0.0031190522639663112,top two individual families by validation AP; exploratory selection
+Shoulder,starter_share_prev_5,workload,4,0.04472869371900468,0.04178308948287484,0.0029456042361298423,top two individual families by validation AP; exploratory selection
+Shoulder,extension_avg,extension,0,0.04472869371900468,0.04166161322367229,0.003067080495332393,top two individual families by validation AP; exploratory selection
+Shoulder,extension_avg,extension,1,0.04472869371900468,0.04171996664108777,0.0030087270779169117,top two individual families by validation AP; exploratory selection
+Shoulder,extension_avg,extension,2,0.04472869371900468,0.04352995526183963,0.0011987384571650536,top two individual families by validation AP; exploratory selection
+Shoulder,extension_avg,extension,3,0.04472869371900468,0.04206168525549358,0.002667008463511103,top two individual families by validation AP; exploratory selection
+Shoulder,extension_avg,extension,4,0.04472869371900468,0.04253414739415069,0.0021945463248539895,top two individual families by validation AP; exploratory selection
+Shoulder,extension_sd,extension,0,0.04472869371900468,0.044643985234984404,8.470848402027803e-05,top two individual families by validation AP; exploratory selection
+Shoulder,extension_sd,extension,1,0.04472869371900468,0.044739180032771025,-1.0486313766343291e-05,top two individual families by validation AP; exploratory selection
+Shoulder,extension_sd,extension,2,0.04472869371900468,0.04451584015389099,0.0002128535651136909,top two individual families by validation AP; exploratory selection
+Shoulder,extension_sd,extension,3,0.04472869371900468,0.04439970842548635,0.00032898529351833156,top two individual families by validation AP; exploratory selection
+Shoulder,extension_sd,extension,4,0.04472869371900468,0.04455625213929205,0.0001724415797126344,top two individual families by validation AP; exploratory selection
+Shoulder,extension_change_vs_prev_5,extension,0,0.04472869371900468,0.0430037597814087,0.001724933937595985,top two individual families by validation AP; exploratory selection
+Shoulder,extension_change_vs_prev_5,extension,1,0.04472869371900468,0.042470512643785006,0.0022581810752196757,top two individual families by validation AP; exploratory selection
+Shoulder,extension_change_vs_prev_5,extension,2,0.04472869371900468,0.04303711277082036,0.0016915809481843208,top two individual families by validation AP; exploratory selection
+Shoulder,extension_change_vs_prev_5,extension,3,0.04472869371900468,0.04648087943479289,-0.0017521857157882098,top two individual families by validation AP; exploratory selection
+Shoulder,extension_change_vs_prev_5,extension,4,0.04472869371900468,0.04304139919382251,0.0016872945251821744,top two individual families by validation AP; exploratory selection
+Shoulder,extension_z,extension,0,0.04472869371900468,0.04480506626363086,-7.637254462617565e-05,top two individual families by validation AP; exploratory selection
+Shoulder,extension_z,extension,1,0.04472869371900468,0.04473574655879525,-7.052839790570864e-06,top two individual families by validation AP; exploratory selection
+Shoulder,extension_z,extension,2,0.04472869371900468,0.04474633429592028,-1.764057691559795e-05,top two individual families by validation AP; exploratory selection
+Shoulder,extension_z,extension,3,0.04472869371900468,0.044699971753959865,2.8721965044817277e-05,top two individual families by validation AP; exploratory selection
+Shoulder,extension_z,extension,4,0.04472869371900468,0.04486832939027661,-0.000139635671271926,top two individual families by validation AP; exploratory selection
+Forearm,extension_avg,extension,0,0.014749168994124467,0.013876900990418628,0.0008722680037058384,top two individual families by validation AP; exploratory selection
+Forearm,extension_avg,extension,1,0.014749168994124467,0.014260144765427378,0.0004890242286970884,top two individual families by validation AP; exploratory selection
+Forearm,extension_avg,extension,2,0.014749168994124467,0.013990744980962987,0.0007584240131614794,top two individual families by validation AP; exploratory selection
+Forearm,extension_avg,extension,3,0.014749168994124467,0.01442435194186521,0.0003248170522592575,top two individual families by validation AP; exploratory selection
+Forearm,extension_avg,extension,4,0.014749168994124467,0.014295230473273164,0.0004539385208513023,top two individual families by validation AP; exploratory selection
+Forearm,extension_sd,extension,0,0.014749168994124467,0.014715952844872577,3.321614925188947e-05,top two individual families by validation AP; exploratory selection
+Forearm,extension_sd,extension,1,0.014749168994124467,0.01470925430830985,3.991468581461717e-05,top two individual families by validation AP; exploratory selection
+Forearm,extension_sd,extension,2,0.014749168994124467,0.014751629475082881,-2.4604809584147236e-06,top two individual families by validation AP; exploratory selection
+Forearm,extension_sd,extension,3,0.014749168994124467,0.014699841259633794,4.9327734490673195e-05,top two individual families by validation AP; exploratory selection
+Forearm,extension_sd,extension,4,0.014749168994124467,0.014727408939618488,2.1760054505978732e-05,top two individual families by validation AP; exploratory selection
+Forearm,extension_change_vs_prev_5,extension,0,0.014749168994124467,0.014764858105553273,-1.568911142880644e-05,top two individual families by validation AP; exploratory selection
+Forearm,extension_change_vs_prev_5,extension,1,0.014749168994124467,0.014769329386891397,-2.016039276693006e-05,top two individual families by validation AP; exploratory selection
+Forearm,extension_change_vs_prev_5,extension,2,0.014749168994124467,0.0147658222920539,-1.6653297929433014e-05,top two individual families by validation AP; exploratory selection
+Forearm,extension_change_vs_prev_5,extension,3,0.014749168994124467,0.014760261894264343,-1.1092900139876571e-05,top two individual families by validation AP; exploratory selection
+Forearm,extension_change_vs_prev_5,extension,4,0.014749168994124467,0.014754693512023081,-5.5245178986144255e-06,top two individual families by validation AP; exploratory selection
+Forearm,extension_z,extension,0,0.014749168994124467,0.014641913772007539,0.00010725522211692783,top two individual families by validation AP; exploratory selection
+Forearm,extension_z,extension,1,0.014749168994124467,0.014718852038352166,3.0316955772300563e-05,top two individual families by validation AP; exploratory selection
+Forearm,extension_z,extension,2,0.014749168994124467,0.014415103675403449,0.00033406531872101804,top two individual families by validation AP; exploratory selection
+Forearm,extension_z,extension,3,0.014749168994124467,0.014448150726021397,0.0003010182681030694,top two individual families by validation AP; exploratory selection
+Forearm,extension_z,extension,4,0.014749168994124467,0.014841017566370823,-9.184857224635648e-05,top two individual families by validation AP; exploratory selection
+Forearm,total_pitches,workload,0,0.014749168994124467,0.014595356568057632,0.0001538124260668343,top two individual families by validation AP; exploratory selection
+Forearm,total_pitches,workload,1,0.014749168994124467,0.014569624391522245,0.00017954460260222183,top two individual families by validation AP; exploratory selection
+Forearm,total_pitches,workload,2,0.014749168994124467,0.01465082183944152,9.834715468294737e-05,top two individual families by validation AP; exploratory selection
+Forearm,total_pitches,workload,3,0.014749168994124467,0.014516386027449183,0.00023278296667528404,top two individual families by validation AP; exploratory selection
+Forearm,total_pitches,workload,4,0.014749168994124467,0.014612166595458838,0.00013700239866562894,top two individual families by validation AP; exploratory selection
+Forearm,innings_pitched,workload,0,0.014749168994124467,0.01407338619378412,0.0006757828003403476,top two individual families by validation AP; exploratory selection
+Forearm,innings_pitched,workload,1,0.014749168994124467,0.014353919245630505,0.00039524974849396155,top two individual families by validation AP; exploratory selection
+Forearm,innings_pitched,workload,2,0.014749168994124467,0.01413038626665454,0.0006187827274699263,top two individual families by validation AP; exploratory selection
+Forearm,innings_pitched,workload,3,0.014749168994124467,0.013933033469936984,0.0008161355241874824,top two individual families by validation AP; exploratory selection
+Forearm,innings_pitched,workload,4,0.014749168994124467,0.0145024551935172,0.0002467138006072671,top two individual families by validation AP; exploratory selection
+Forearm,rest_days,workload,0,0.014749168994124467,0.014555211453024979,0.00019395754109948794,top two individual families by validation AP; exploratory selection
+Forearm,rest_days,workload,1,0.014749168994124467,0.014598910067200514,0.00015025892692395286,top two individual families by validation AP; exploratory selection
+Forearm,rest_days,workload,2,0.014749168994124467,0.014512446337861787,0.0002367226562626796,top two individual families by validation AP; exploratory selection
+Forearm,rest_days,workload,3,0.014749168994124467,0.014625555437238593,0.00012361355688587407,top two individual families by validation AP; exploratory selection
+Forearm,rest_days,workload,4,0.014749168994124467,0.014525172354002367,0.00022399664012210004,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_7d,workload,0,0.014749168994124467,0.014759739994755121,-1.05710006306544e-05,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_7d,workload,1,0.014749168994124467,0.014542717248378344,0.0002064517457461227,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_7d,workload,2,0.014749168994124467,0.014772322009864777,-2.3153015740309812e-05,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_7d,workload,3,0.014749168994124467,0.014661670152562218,8.74988415622488e-05,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_7d,workload,4,0.014749168994124467,0.014662556761572366,8.661223255210064e-05,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_14d,workload,0,0.014749168994124467,0.014761722406649743,-1.2553412525276308e-05,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_14d,workload,1,0.014749168994124467,0.014691325337717652,5.784365640681445e-05,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_14d,workload,2,0.014749168994124467,0.014707074845609713,4.209414851475378e-05,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_14d,workload,3,0.014749168994124467,0.014758640994983687,-9.472000859220633e-06,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_14d,workload,4,0.014749168994124467,0.014581404675526372,0.0001677643185980949,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_28d,workload,0,0.014749168994124467,0.014850309618077375,-0.000101140623952908,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_28d,workload,1,0.014749168994124467,0.014492631677397578,0.0002565373167268889,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_28d,workload,2,0.014749168994124467,0.014622454306900725,0.00012671468722374145,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_28d,workload,3,0.014749168994124467,0.013945954037903418,0.0008032149562210485,top two individual families by validation AP; exploratory selection
+Forearm,pitches_prev_28d,workload,4,0.014749168994124467,0.013891756882190801,0.0008574121119336656,top two individual families by validation AP; exploratory selection
+Forearm,appearances_prev_14d,workload,0,0.014749168994124467,0.015002290188903287,-0.00025312119477882006,top two individual families by validation AP; exploratory selection
+Forearm,appearances_prev_14d,workload,1,0.014749168994124467,0.01499833812642554,-0.00024916913230107335,top two individual families by validation AP; exploratory selection
+Forearm,appearances_prev_14d,workload,2,0.014749168994124467,0.01485157237151347,-0.0001024033773890029,top two individual families by validation AP; exploratory selection
+Forearm,appearances_prev_14d,workload,3,0.014749168994124467,0.014529427301744561,0.00021974169237990587,top two individual families by validation AP; exploratory selection
+Forearm,appearances_prev_14d,workload,4,0.014749168994124467,0.014567011144084173,0.00018215785004029386,top two individual families by validation AP; exploratory selection
+Forearm,appearances_prev_28d,workload,0,0.014749168994124467,0.014677547139520573,7.162185460389374e-05,top two individual families by validation AP; exploratory selection
+Forearm,appearances_prev_28d,workload,1,0.014749168994124467,0.014657669187299745,9.149980682472171e-05,top two individual families by validation AP; exploratory selection
+Forearm,appearances_prev_28d,workload,2,0.014749168994124467,0.014654831871877551,9.433712224691561e-05,top two individual families by validation AP; exploratory selection
+Forearm,appearances_prev_28d,workload,3,0.014749168994124467,0.014665550828020363,8.361816610410328e-05,top two individual families by validation AP; exploratory selection
+Forearm,appearances_prev_28d,workload,4,0.014749168994124467,0.01467687859956481,7.229039455965668e-05,top two individual families by validation AP; exploratory selection
+Forearm,season_pitch_count,workload,0,0.014749168994124467,0.014808081155393307,-5.89121612688398e-05,top two individual families by validation AP; exploratory selection
+Forearm,season_pitch_count,workload,1,0.014749168994124467,0.014292530908732792,0.00045663808539167516,top two individual families by validation AP; exploratory selection
+Forearm,season_pitch_count,workload,2,0.014749168994124467,0.01469429070054975,5.4878293574716144e-05,top two individual families by validation AP; exploratory selection
+Forearm,season_pitch_count,workload,3,0.014749168994124467,0.014284134544380659,0.00046503444974380775,top two individual families by validation AP; exploratory selection
+Forearm,season_pitch_count,workload,4,0.014749168994124467,0.014697692338877624,5.147665524684285e-05,top two individual families by validation AP; exploratory selection
+Forearm,season_innings,workload,0,0.014749168994124467,0.015516310586303612,-0.000767141592179145,top two individual families by validation AP; exploratory selection
+Forearm,season_innings,workload,1,0.014749168994124467,0.015700073642333796,-0.0009509046482093289,top two individual families by validation AP; exploratory selection
+Forearm,season_innings,workload,2,0.014749168994124467,0.015219246290094248,-0.00047007729596978097,top two individual families by validation AP; exploratory selection
+Forearm,season_innings,workload,3,0.014749168994124467,0.015672595125387292,-0.000923426131262825,top two individual families by validation AP; exploratory selection
+Forearm,season_innings,workload,4,0.014749168994124467,0.015930435857092296,-0.0011812668629678294,top two individual families by validation AP; exploratory selection
+Forearm,previous_season_innings,workload,0,0.014749168994124467,0.01515883024215583,-0.0004096612480313632,top two individual families by validation AP; exploratory selection
+Forearm,previous_season_innings,workload,1,0.014749168994124467,0.01512985699237435,-0.00038068799824988314,top two individual families by validation AP; exploratory selection
+Forearm,previous_season_innings,workload,2,0.014749168994124467,0.015150951288622864,-0.0004017822944983977,top two individual families by validation AP; exploratory selection
+Forearm,previous_season_innings,workload,3,0.014749168994124467,0.01510981368809309,-0.0003606446939686224,top two individual families by validation AP; exploratory selection
+Forearm,previous_season_innings,workload,4,0.014749168994124467,0.015261044700285928,-0.0005118757061614611,top two individual families by validation AP; exploratory selection
+Forearm,workload_acceleration_7d_vs_21d,workload,0,0.014749168994124467,0.014595218650693112,0.00015395034343135446,top two individual families by validation AP; exploratory selection
+Forearm,workload_acceleration_7d_vs_21d,workload,1,0.014749168994124467,0.0146312313812536,0.00011793761287086715,top two individual families by validation AP; exploratory selection
+Forearm,workload_acceleration_7d_vs_21d,workload,2,0.014749168994124467,0.014603321356956026,0.00014584763716844057,top two individual families by validation AP; exploratory selection
+Forearm,workload_acceleration_7d_vs_21d,workload,3,0.014749168994124467,0.014521485855010114,0.00022768313911435308,top two individual families by validation AP; exploratory selection
+Forearm,workload_acceleration_7d_vs_21d,workload,4,0.014749168994124467,0.014708706275047986,4.046271907648044e-05,top two individual families by validation AP; exploratory selection
+Forearm,acute_chronic_pitch_ratio,workload,0,0.014749168994124467,0.01422451858384735,0.0005246504102771176,top two individual families by validation AP; exploratory selection
+Forearm,acute_chronic_pitch_ratio,workload,1,0.014749168994124467,0.014321678297483003,0.0004274906966414641,top two individual families by validation AP; exploratory selection
+Forearm,acute_chronic_pitch_ratio,workload,2,0.014749168994124467,0.014253290746195713,0.0004958782479287539,top two individual families by validation AP; exploratory selection
+Forearm,acute_chronic_pitch_ratio,workload,3,0.014749168994124467,0.014208223548537353,0.0005409454455871134,top two individual families by validation AP; exploratory selection
+Forearm,acute_chronic_pitch_ratio,workload,4,0.014749168994124467,0.014355398977370459,0.0003937700167540078,top two individual families by validation AP; exploratory selection
+Forearm,starts_prev_30d,workload,0,0.014749168994124467,0.01416581276236288,0.0005833562317615875,top two individual families by validation AP; exploratory selection
+Forearm,starts_prev_30d,workload,1,0.014749168994124467,0.014600345226968712,0.0001488237671557549,top two individual families by validation AP; exploratory selection
+Forearm,starts_prev_30d,workload,2,0.014749168994124467,0.01457170740279472,0.0001774615913297476,top two individual families by validation AP; exploratory selection
+Forearm,starts_prev_30d,workload,3,0.014749168994124467,0.014434170394583081,0.00031499859954138565,top two individual families by validation AP; exploratory selection
+Forearm,starts_prev_30d,workload,4,0.014749168994124467,0.01387296030961693,0.0008762086845075373,top two individual families by validation AP; exploratory selection
+Forearm,starter_share_prev_5,workload,0,0.014749168994124467,0.014601994432292804,0.0001471745618316627,top two individual families by validation AP; exploratory selection
+Forearm,starter_share_prev_5,workload,1,0.014749168994124467,0.014751346861187564,-2.177867063097444e-06,top two individual families by validation AP; exploratory selection
+Forearm,starter_share_prev_5,workload,2,0.014749168994124467,0.014622421374609887,0.00012674761951458023,top two individual families by validation AP; exploratory selection
+Forearm,starter_share_prev_5,workload,3,0.014749168994124467,0.014790345572609588,-4.1176578485121323e-05,top two individual families by validation AP; exploratory selection
+Forearm,starter_share_prev_5,workload,4,0.014749168994124467,0.014785276326575314,-3.6107332450846866e-05,top two individual families by validation AP; exploratory selection
+Lower body,total_pitches,workload,0,0.04535419143986845,0.045006521897163705,0.0003476695427047441,top two individual families by validation AP; exploratory selection
+Lower body,total_pitches,workload,1,0.04535419143986845,0.04492492300674111,0.0004292684331273361,top two individual families by validation AP; exploratory selection
+Lower body,total_pitches,workload,2,0.04535419143986845,0.04495832630548958,0.00039586513437887133,top two individual families by validation AP; exploratory selection
+Lower body,total_pitches,workload,3,0.04535419143986845,0.04475744020137213,0.0005967512384963194,top two individual families by validation AP; exploratory selection
+Lower body,total_pitches,workload,4,0.04535419143986845,0.04501025138369635,0.0003439400561721026,top two individual families by validation AP; exploratory selection
+Lower body,innings_pitched,workload,0,0.04535419143986845,0.043305002417836996,0.002049189022031453,top two individual families by validation AP; exploratory selection
+Lower body,innings_pitched,workload,1,0.04535419143986845,0.04287988074612538,0.0024743106937430703,top two individual families by validation AP; exploratory selection
+Lower body,innings_pitched,workload,2,0.04535419143986845,0.04299007308948588,0.0023641183503825686,top two individual families by validation AP; exploratory selection
+Lower body,innings_pitched,workload,3,0.04535419143986845,0.04263513755575335,0.0027190538841150996,top two individual families by validation AP; exploratory selection
+Lower body,innings_pitched,workload,4,0.04535419143986845,0.04320539698412904,0.002148794455739407,top two individual families by validation AP; exploratory selection
+Lower body,rest_days,workload,0,0.04535419143986845,0.04533721327454631,1.697816532213875e-05,top two individual families by validation AP; exploratory selection
+Lower body,rest_days,workload,1,0.04535419143986845,0.045315143124446115,3.9048315422333946e-05,top two individual families by validation AP; exploratory selection
+Lower body,rest_days,workload,2,0.04535419143986845,0.04539553191177248,-4.134047190403056e-05,top two individual families by validation AP; exploratory selection
+Lower body,rest_days,workload,3,0.04535419143986845,0.045299072632756544,5.511880711190492e-05,top two individual families by validation AP; exploratory selection
+Lower body,rest_days,workload,4,0.04535419143986845,0.04522563728821698,0.0001285541516514721,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_7d,workload,0,0.04535419143986845,0.045417144773745796,-6.295333387734692e-05,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_7d,workload,1,0.04535419143986845,0.045389511975854405,-3.5320535985955415e-05,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_7d,workload,2,0.04535419143986845,0.04544971526437403,-9.5523824505582e-05,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_7d,workload,3,0.04535419143986845,0.04542788567487438,-7.369423500593053e-05,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_7d,workload,4,0.04535419143986845,0.045399779753613916,-4.558831374546629e-05,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_14d,workload,0,0.04535419143986845,0.04552910642506293,-0.0001749149851944798,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_14d,workload,1,0.04535419143986845,0.045714949378763976,-0.00036075793889552704,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_14d,workload,2,0.04535419143986845,0.04556458485093058,-0.00021039341106213194,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_14d,workload,3,0.04535419143986845,0.044946973729334636,0.0004072177105338137,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_14d,workload,4,0.04535419143986845,0.0455929400914358,-0.0002387486515673526,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_28d,workload,0,0.04535419143986845,0.045812790248215496,-0.0004585988083470466,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_28d,workload,1,0.04535419143986845,0.045414342788622254,-6.0151348753804956e-05,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_28d,workload,2,0.04535419143986845,0.04536623968380888,-1.204824394043097e-05,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_28d,workload,3,0.04535419143986845,0.04551040069638921,-0.0001562092565207604,top two individual families by validation AP; exploratory selection
+Lower body,pitches_prev_28d,workload,4,0.04535419143986845,0.045190055981345165,0.0001641354585232846,top two individual families by validation AP; exploratory selection
+Lower body,appearances_prev_14d,workload,0,0.04535419143986845,0.04406159294625228,0.0012925984936161677,top two individual families by validation AP; exploratory selection
+Lower body,appearances_prev_14d,workload,1,0.04535419143986845,0.044160472634307835,0.0011937188055606146,top two individual families by validation AP; exploratory selection
+Lower body,appearances_prev_14d,workload,2,0.04535419143986845,0.04406080165969387,0.0012933897801745767,top two individual families by validation AP; exploratory selection
+Lower body,appearances_prev_14d,workload,3,0.04535419143986845,0.04368652568148405,0.0016676657583844026,top two individual families by validation AP; exploratory selection
+Lower body,appearances_prev_14d,workload,4,0.04535419143986845,0.04406250479826223,0.0012916866416062198,top two individual families by validation AP; exploratory selection
+Lower body,appearances_prev_28d,workload,0,0.04535419143986845,0.04491641430981949,0.000437777130048958,top two individual families by validation AP; exploratory selection
+Lower body,appearances_prev_28d,workload,1,0.04535419143986845,0.0450758662847688,0.0002783251550996513,top two individual families by validation AP; exploratory selection
+Lower body,appearances_prev_28d,workload,2,0.04535419143986845,0.045147486651438945,0.00020670478842950424,top two individual families by validation AP; exploratory selection
+Lower body,appearances_prev_28d,workload,3,0.04535419143986845,0.04490737069820668,0.0004468207416617673,top two individual families by validation AP; exploratory selection
+Lower body,appearances_prev_28d,workload,4,0.04535419143986845,0.044815199339794935,0.000538992100073514,top two individual families by validation AP; exploratory selection
+Lower body,season_pitch_count,workload,0,0.04535419143986845,0.044542240782446424,0.0008119506574220253,top two individual families by validation AP; exploratory selection
+Lower body,season_pitch_count,workload,1,0.04535419143986845,0.044021449117237745,0.0013327423226307047,top two individual families by validation AP; exploratory selection
+Lower body,season_pitch_count,workload,2,0.04535419143986845,0.04379043518661936,0.0015637562532490878,top two individual families by validation AP; exploratory selection
+Lower body,season_pitch_count,workload,3,0.04535419143986845,0.044066139985432164,0.0012880514544362856,top two individual families by validation AP; exploratory selection
+Lower body,season_pitch_count,workload,4,0.04535419143986845,0.044258993505430416,0.001095197934438033,top two individual families by validation AP; exploratory selection
+Lower body,season_innings,workload,0,0.04535419143986845,0.046476824051762115,-0.001122632611893666,top two individual families by validation AP; exploratory selection
+Lower body,season_innings,workload,1,0.04535419143986845,0.04562799736021538,-0.0002738059203469326,top two individual families by validation AP; exploratory selection
+Lower body,season_innings,workload,2,0.04535419143986845,0.04690958959339075,-0.0015553981535222985,top two individual families by validation AP; exploratory selection
+Lower body,season_innings,workload,3,0.04535419143986845,0.046160692872448145,-0.0008065014325796954,top two individual families by validation AP; exploratory selection
+Lower body,season_innings,workload,4,0.04535419143986845,0.045789341381112326,-0.00043514994124387724,top two individual families by validation AP; exploratory selection
+Lower body,previous_season_innings,workload,0,0.04535419143986845,0.04504613408963512,0.0003080573502333289,top two individual families by validation AP; exploratory selection
+Lower body,previous_season_innings,workload,1,0.04535419143986845,0.04513782019688392,0.00021637124298452826,top two individual families by validation AP; exploratory selection
+Lower body,previous_season_innings,workload,2,0.04535419143986845,0.04507758277546737,0.0002766086644010804,top two individual families by validation AP; exploratory selection
+Lower body,previous_season_innings,workload,3,0.04535419143986845,0.04505255152971538,0.00030163991015307035,top two individual families by validation AP; exploratory selection
+Lower body,previous_season_innings,workload,4,0.04535419143986845,0.04502709796566595,0.00032709347420249724,top two individual families by validation AP; exploratory selection
+Lower body,workload_acceleration_7d_vs_21d,workload,0,0.04535419143986845,0.04593681060963642,-0.00058261916976797,top two individual families by validation AP; exploratory selection
+Lower body,workload_acceleration_7d_vs_21d,workload,1,0.04535419143986845,0.045694990031213835,-0.00034079859134538565,top two individual families by validation AP; exploratory selection
+Lower body,workload_acceleration_7d_vs_21d,workload,2,0.04535419143986845,0.04560728215189306,-0.00025309071202461036,top two individual families by validation AP; exploratory selection
+Lower body,workload_acceleration_7d_vs_21d,workload,3,0.04535419143986845,0.04563533041179287,-0.0002811389719244231,top two individual families by validation AP; exploratory selection
+Lower body,workload_acceleration_7d_vs_21d,workload,4,0.04535419143986845,0.045272644304987654,8.154713488079529e-05,top two individual families by validation AP; exploratory selection
+Lower body,acute_chronic_pitch_ratio,workload,0,0.04535419143986845,0.04440973789471917,0.0009444535451492778,top two individual families by validation AP; exploratory selection
+Lower body,acute_chronic_pitch_ratio,workload,1,0.04535419143986845,0.04493745991653092,0.0004167315233375296,top two individual families by validation AP; exploratory selection
+Lower body,acute_chronic_pitch_ratio,workload,2,0.04535419143986845,0.04463080308522081,0.0007233883546476361,top two individual families by validation AP; exploratory selection
+Lower body,acute_chronic_pitch_ratio,workload,3,0.04535419143986845,0.044479099406712456,0.0008750920331559928,top two individual families by validation AP; exploratory selection
+Lower body,acute_chronic_pitch_ratio,workload,4,0.04535419143986845,0.04387584104343244,0.0014783503964360123,top two individual families by validation AP; exploratory selection
+Lower body,starts_prev_30d,workload,0,0.04535419143986845,0.04511138566781632,0.00024280577205212928,top two individual families by validation AP; exploratory selection
+Lower body,starts_prev_30d,workload,1,0.04535419143986845,0.044820205766446686,0.0005339856734217635,top two individual families by validation AP; exploratory selection
+Lower body,starts_prev_30d,workload,2,0.04535419143986845,0.044860779514306996,0.000493411925561453,top two individual families by validation AP; exploratory selection
+Lower body,starts_prev_30d,workload,3,0.04535419143986845,0.04507133284581405,0.00028285859405439984,top two individual families by validation AP; exploratory selection
+Lower body,starts_prev_30d,workload,4,0.04535419143986845,0.04469157502574002,0.0006626164141284308,top two individual families by validation AP; exploratory selection
+Lower body,starter_share_prev_5,workload,0,0.04535419143986845,0.04529739328653012,5.679815333833188e-05,top two individual families by validation AP; exploratory selection
+Lower body,starter_share_prev_5,workload,1,0.04535419143986845,0.04536331710834068,-9.125668472227677e-06,top two individual families by validation AP; exploratory selection
+Lower body,starter_share_prev_5,workload,2,0.04535419143986845,0.045378717784323834,-2.4526344455384763e-05,top two individual families by validation AP; exploratory selection
+Lower body,starter_share_prev_5,workload,3,0.04535419143986845,0.04537551484310777,-2.1323403239320582e-05,top two individual families by validation AP; exploratory selection
+Lower body,starter_share_prev_5,workload,4,0.04535419143986845,0.04535617476739553,-1.9833275270789152e-06,top two individual families by validation AP; exploratory selection
+Lower body,fastball_usage_pct,pitch_mix,0,0.04535419143986845,0.04531927982824888,3.4911611619566074e-05,top two individual families by validation AP; exploratory selection
+Lower body,fastball_usage_pct,pitch_mix,1,0.04535419143986845,0.04533006369376329,2.412774610516255e-05,top two individual families by validation AP; exploratory selection
+Lower body,fastball_usage_pct,pitch_mix,2,0.04535419143986845,0.04533136453043882,2.282690942963239e-05,top two individual families by validation AP; exploratory selection
+Lower body,fastball_usage_pct,pitch_mix,3,0.04535419143986845,0.0453299570649861,2.4234374882352305e-05,top two individual families by validation AP; exploratory selection
+Lower body,fastball_usage_pct,pitch_mix,4,0.04535419143986845,0.04533659174412622,1.7599695742227806e-05,top two individual families by validation AP; exploratory selection
+Lower body,fastball_usage_pct_change_vs_prev_5,pitch_mix,0,0.04535419143986845,0.04535508815782379,-8.967179553412419e-07,top two individual families by validation AP; exploratory selection
+Lower body,fastball_usage_pct_change_vs_prev_5,pitch_mix,1,0.04535419143986845,0.04535451376941824,-3.2232954978728134e-07,top two individual families by validation AP; exploratory selection
+Lower body,fastball_usage_pct_change_vs_prev_5,pitch_mix,2,0.04535419143986845,0.04536848867994649,-1.4297240078044171e-05,top two individual families by validation AP; exploratory selection
+Lower body,fastball_usage_pct_change_vs_prev_5,pitch_mix,3,0.04535419143986845,0.045338909671918504,1.5281767949945624e-05,top two individual families by validation AP; exploratory selection
+Lower body,fastball_usage_pct_change_vs_prev_5,pitch_mix,4,0.04535419143986845,0.04534335302959218,1.0838410276270416e-05,top two individual families by validation AP; exploratory selection
+Lower body,sl_usage_pct,pitch_mix,0,0.04535419143986845,0.04364578059798351,0.0017084108418849372,top two individual families by validation AP; exploratory selection
+Lower body,sl_usage_pct,pitch_mix,1,0.04535419143986845,0.04319418573962073,0.0021600057002477205,top two individual families by validation AP; exploratory selection
+Lower body,sl_usage_pct,pitch_mix,2,0.04535419143986845,0.0438655195109474,0.0014886719289210482,top two individual families by validation AP; exploratory selection
+Lower body,sl_usage_pct,pitch_mix,3,0.04535419143986845,0.043173749261017594,0.0021804421788508555,top two individual families by validation AP; exploratory selection
+Lower body,sl_usage_pct,pitch_mix,4,0.04535419143986845,0.043100818020943635,0.0022533734189248145,top two individual families by validation AP; exploratory selection
+Lower body,sl_usage_pct_change_vs_prev_5,pitch_mix,0,0.04535419143986845,0.04534874539369106,5.446046177387531e-06,top two individual families by validation AP; exploratory selection
+Lower body,sl_usage_pct_change_vs_prev_5,pitch_mix,1,0.04535419143986845,0.04531081535684074,4.337608302770746e-05,top two individual families by validation AP; exploratory selection
+Lower body,sl_usage_pct_change_vs_prev_5,pitch_mix,2,0.04535419143986845,0.045393605044413116,-3.941360454466636e-05,top two individual families by validation AP; exploratory selection
+Lower body,sl_usage_pct_change_vs_prev_5,pitch_mix,3,0.04535419143986845,0.04525948418632893,9.470725353952214e-05,top two individual families by validation AP; exploratory selection
+Lower body,sl_usage_pct_change_vs_prev_5,pitch_mix,4,0.04535419143986845,0.04541963227653032,-6.544083666187167e-05,top two individual families by validation AP; exploratory selection
+Lower body,ch_usage_pct,pitch_mix,0,0.04535419143986845,0.04535361429660874,5.771432597112547e-07,top two individual families by validation AP; exploratory selection
+Lower body,ch_usage_pct,pitch_mix,1,0.04535419143986845,0.04531612739406338,3.806404580507239e-05,top two individual families by validation AP; exploratory selection
+Lower body,ch_usage_pct,pitch_mix,2,0.04535419143986845,0.04531660793981041,3.75835000580374e-05,top two individual families by validation AP; exploratory selection
+Lower body,ch_usage_pct,pitch_mix,3,0.04535419143986845,0.04532375650152588,3.0434938342566165e-05,top two individual families by validation AP; exploratory selection
+Lower body,ch_usage_pct,pitch_mix,4,0.04535419143986845,0.04532972481245497,2.4466627413476105e-05,top two individual families by validation AP; exploratory selection
+Lower body,cu_usage_pct,pitch_mix,0,0.04535419143986845,0.04540572937263163,-5.153793276318347e-05,top two individual families by validation AP; exploratory selection
+Lower body,cu_usage_pct,pitch_mix,1,0.04535419143986845,0.04529745709797951,5.673434188893656e-05,top two individual families by validation AP; exploratory selection
+Lower body,cu_usage_pct,pitch_mix,2,0.04535419143986845,0.04521880622725459,0.00013538521261385883,top two individual families by validation AP; exploratory selection
+Lower body,cu_usage_pct,pitch_mix,3,0.04535419143986845,0.04529630164637423,5.788979349422019e-05,top two individual families by validation AP; exploratory selection
+Lower body,cu_usage_pct,pitch_mix,4,0.04535419143986845,0.045284104980764385,7.008645910406425e-05,top two individual families by validation AP; exploratory selection

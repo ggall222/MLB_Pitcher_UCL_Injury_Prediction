@@ -1,0 +1,11 @@
+analysis_group,all_episodes,target_eligible,strict_qa_eligible,unique_pitchers
+Elbow / UCL,1027,650,340,664
+Forearm,379,277,168,308
+Hand / wrist,234,208,145,173
+Illness,76,0,0,71
+Lower body,877,763,534,540
+Other,92,0,0,85
+Other arm,288,241,162,247
+Shoulder,992,844,501,654
+Trunk / neck,658,569,414,459
+Unknown,758,0,0,550

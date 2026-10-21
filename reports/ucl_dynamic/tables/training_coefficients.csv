@@ -1,0 +1,1689 @@
+model,horizon,feature,coefficient
+Background,7,throws_left,-0.20362909235452908
+Background,7,age_at_appearance,-0.3695305859512894
+Background,7,days_since_mlb_debut,-0.4542986296953284
+Background,7,observed_prior_mlb_appearances,0.2170366401636325
+Background,7,observed_prior_mlb_starts,0.168604479554499
+Background,7,prior_reported_il_count,0.034282744688397475
+Background,7,calendar_month,-0.2844050688402053
+Background,7,missingindicator_throws_left,-0.06065939492299595
+Profile,7,avg_fb_velo_baseline_mean,0.15245237820718885
+Profile,7,release_x_avg_baseline_mean,-0.16220203333490915
+Profile,7,release_z_avg_baseline_mean,0.15313733035563873
+Profile,7,release_x_sd_baseline_mean,-0.22591623549099174
+Profile,7,release_z_sd_baseline_mean,-0.08686713177662411
+Profile,7,extension_avg_baseline_mean,-0.22150657279466246
+Profile,7,spin_avg_baseline_mean,-0.14165475198440453
+Profile,7,zone_pct_baseline_mean,-0.08031871100554182
+Profile,7,age_at_appearance,-0.3038567895145896
+Profile,7,throws_left,-0.0605490615677242
+Profile,7,observed_prior_mlb_starts,0.14911670476661412
+Profile,7,days_since_mlb_debut,-0.3403001244366517
+Profile,7,prior_reported_il_count,0.07716460727834124
+Profile,7,missingindicator_avg_fb_velo_baseline_mean,-0.061109967670836346
+Profile,7,missingindicator_release_x_avg_baseline_mean,-0.0005279437656096029
+Profile,7,missingindicator_release_z_avg_baseline_mean,-0.0005279437656096029
+Profile,7,missingindicator_release_x_sd_baseline_mean,-0.03011809676450559
+Profile,7,missingindicator_release_z_sd_baseline_mean,-0.03011809676450559
+Profile,7,missingindicator_extension_avg_baseline_mean,-0.04154408327768233
+Profile,7,missingindicator_spin_avg_baseline_mean,-0.04859529246692717
+Profile,7,missingindicator_zone_pct_baseline_mean,-0.0005279437656096029
+Profile,7,missingindicator_throws_left,-0.027611640546266955
+Departure,7,velo_z,-0.5447189980363254
+Departure,7,release_x_z,0.05774879783292296
+Departure,7,release_z_z,0.0486613394957936
+Departure,7,release_x_sd_z,0.028092312436095227
+Departure,7,release_z_sd_z,-0.1774294384296942
+Departure,7,extension_z,9.744324376729538e-05
+Departure,7,spin_z,-0.15674247408314895
+Departure,7,zone_pct_z,0.011621877715635743
+Departure,7,missingindicator_velo_z,-0.28383322275512124
+Departure,7,missingindicator_release_x_z,0.003293202570498254
+Departure,7,missingindicator_release_z_z,0.003293202570498254
+Departure,7,missingindicator_release_x_sd_z,-0.1474342830961967
+Departure,7,missingindicator_release_z_sd_z,-0.1474342830961967
+Departure,7,missingindicator_extension_z,-0.09257441122200155
+Departure,7,missingindicator_spin_z,-0.10004582626834313
+Departure,7,missingindicator_zone_pct_z,0.003293202570498254
+Profile + departure,7,avg_fb_velo_baseline_mean,0.11589326452194877
+Profile + departure,7,release_x_avg_baseline_mean,-0.14885136071398397
+Profile + departure,7,release_z_avg_baseline_mean,0.15365918257746916
+Profile + departure,7,release_x_sd_baseline_mean,-0.20905759097706758
+Profile + departure,7,release_z_sd_baseline_mean,-0.11098845216323074
+Profile + departure,7,extension_avg_baseline_mean,-0.21985053983255617
+Profile + departure,7,spin_avg_baseline_mean,-0.15335494631437668
+Profile + departure,7,zone_pct_baseline_mean,-0.06701987249077067
+Profile + departure,7,age_at_appearance,-0.32134987212966465
+Profile + departure,7,throws_left,-0.08227646753665668
+Profile + departure,7,observed_prior_mlb_starts,0.13546952962647507
+Profile + departure,7,days_since_mlb_debut,-0.33378600835072564
+Profile + departure,7,prior_reported_il_count,0.06201236872769885
+Profile + departure,7,velo_z,-0.5461651225396601
+Profile + departure,7,release_x_z,0.043909152088589865
+Profile + departure,7,release_z_z,0.04477289006764436
+Profile + departure,7,release_x_sd_z,0.014064111967315924
+Profile + departure,7,release_z_sd_z,-0.17813063945238253
+Profile + departure,7,extension_z,-0.005964446875468854
+Profile + departure,7,spin_z,-0.16611077290443213
+Profile + departure,7,zone_pct_z,0.004503846542368184
+Profile + departure,7,missingindicator_avg_fb_velo_baseline_mean,-0.016589430241538715
+Profile + departure,7,missingindicator_release_x_avg_baseline_mean,-0.002703324817756702
+Profile + departure,7,missingindicator_release_z_avg_baseline_mean,-0.002703324817756702
+Profile + departure,7,missingindicator_release_x_sd_baseline_mean,-0.007066866820572785
+Profile + departure,7,missingindicator_release_z_sd_baseline_mean,-0.007066866820572785
+Profile + departure,7,missingindicator_extension_avg_baseline_mean,-0.011706308398961964
+Profile + departure,7,missingindicator_spin_avg_baseline_mean,-0.013607819149492857
+Profile + departure,7,missingindicator_zone_pct_baseline_mean,-0.002703324817756702
+Profile + departure,7,missingindicator_throws_left,-0.02996978200106293
+Profile + departure,7,missingindicator_velo_z,-0.2667195722538401
+Profile + departure,7,missingindicator_release_x_z,-0.0026771471276652303
+Profile + departure,7,missingindicator_release_z_z,-0.0026771471276652303
+Profile + departure,7,missingindicator_release_x_sd_z,-0.1430721557401601
+Profile + departure,7,missingindicator_release_z_sd_z,-0.1430721557401601
+Profile + departure,7,missingindicator_extension_z,-0.08535997397480846
+Profile + departure,7,missingindicator_spin_z,-0.0958701624103036
+Profile + departure,7,missingindicator_zone_pct_z,-0.0026771471276652303
+Profile + departure + trajectory,7,avg_fb_velo_baseline_mean,0.12257322545980853
+Profile + departure + trajectory,7,release_x_avg_baseline_mean,-0.14207351971339358
+Profile + departure + trajectory,7,release_z_avg_baseline_mean,0.1492513927054212
+Profile + departure + trajectory,7,release_x_sd_baseline_mean,-0.20782905985604821
+Profile + departure + trajectory,7,release_z_sd_baseline_mean,-0.11868992759979544
+Profile + departure + trajectory,7,extension_avg_baseline_mean,-0.22011707026452515
+Profile + departure + trajectory,7,spin_avg_baseline_mean,-0.15361583864653722
+Profile + departure + trajectory,7,zone_pct_baseline_mean,-0.06165446584781203
+Profile + departure + trajectory,7,age_at_appearance,-0.30946915768468986
+Profile + departure + trajectory,7,throws_left,-0.08601631458735737
+Profile + departure + trajectory,7,observed_prior_mlb_starts,0.12567099143993898
+Profile + departure + trajectory,7,days_since_mlb_debut,-0.3249987040387893
+Profile + departure + trajectory,7,prior_reported_il_count,0.05511213348757056
+Profile + departure + trajectory,7,velo_z,-0.5179021398091511
+Profile + departure + trajectory,7,release_x_z,0.03513175843628884
+Profile + departure + trajectory,7,release_z_z,0.049719045588827775
+Profile + departure + trajectory,7,release_x_sd_z,0.015633710358384848
+Profile + departure + trajectory,7,release_z_sd_z,-0.22288562133459297
+Profile + departure + trajectory,7,extension_z,-0.016659139889101022
+Profile + departure + trajectory,7,spin_z,-0.16660894478705932
+Profile + departure + trajectory,7,zone_pct_z,0.0017701203481995114
+Profile + departure + trajectory,7,dyn_velo_z_slope4,0.10726589137690427
+Profile + departure + trajectory,7,dyn_velo_z_absmean4,0.19753461257875224
+Profile + departure + trajectory,7,dyn_velo_z_persist4,-0.06347687182873987
+Profile + departure + trajectory,7,dyn_release_z_sd_z_slope4,0.11449672924159275
+Profile + departure + trajectory,7,dyn_release_z_sd_z_absmean4,0.005830437525150732
+Profile + departure + trajectory,7,dyn_release_z_sd_z_persist4,-0.0009329828785807319
+Profile + departure + trajectory,7,dyn_extension_z_slope4,0.003256791798520376
+Profile + departure + trajectory,7,dyn_extension_z_absmean4,0.170138942391351
+Profile + departure + trajectory,7,dyn_extension_z_persist4,0.002302242431679672
+Profile + departure + trajectory,7,dyn_spin_z_slope4,0.017513446829309033
+Profile + departure + trajectory,7,dyn_spin_z_absmean4,0.1258211254002992
+Profile + departure + trajectory,7,dyn_spin_z_persist4,-0.15939332944786988
+Profile + departure + trajectory,7,missingindicator_avg_fb_velo_baseline_mean,-0.025073927237864307
+Profile + departure + trajectory,7,missingindicator_release_x_avg_baseline_mean,0.001245392205796129
+Profile + departure + trajectory,7,missingindicator_release_z_avg_baseline_mean,0.001245392205796129
+Profile + departure + trajectory,7,missingindicator_release_x_sd_baseline_mean,-0.009016701722373675
+Profile + departure + trajectory,7,missingindicator_release_z_sd_baseline_mean,-0.009016701722373675
+Profile + departure + trajectory,7,missingindicator_extension_avg_baseline_mean,-0.01010759141584615
+Profile + departure + trajectory,7,missingindicator_spin_avg_baseline_mean,-0.012541985824377015
+Profile + departure + trajectory,7,missingindicator_zone_pct_baseline_mean,0.001245392205796129
+Profile + departure + trajectory,7,missingindicator_throws_left,-0.028743119278426668
+Profile + departure + trajectory,7,missingindicator_velo_z,-0.24534418671686128
+Profile + departure + trajectory,7,missingindicator_release_x_z,0.0005561533599925001
+Profile + departure + trajectory,7,missingindicator_release_z_z,0.0005561533599925001
+Profile + departure + trajectory,7,missingindicator_release_x_sd_z,-0.13973432247247494
+Profile + departure + trajectory,7,missingindicator_release_z_sd_z,-0.13973432247247494
+Profile + departure + trajectory,7,missingindicator_extension_z,-0.10274501918844726
+Profile + departure + trajectory,7,missingindicator_spin_z,-0.10478452433797693
+Profile + departure + trajectory,7,missingindicator_zone_pct_z,0.0005561533599925001
+Profile + departure + trajectory,7,missingindicator_dyn_velo_z_slope4,-0.06750046849950894
+Profile + departure + trajectory,7,missingindicator_dyn_velo_z_absmean4,-0.06750046849950894
+Profile + departure + trajectory,7,missingindicator_dyn_velo_z_persist4,-0.06750046849950894
+Profile + departure + trajectory,7,missingindicator_dyn_release_z_sd_z_slope4,-0.02130139605240634
+Profile + departure + trajectory,7,missingindicator_dyn_release_z_sd_z_absmean4,-0.02130139605240634
+Profile + departure + trajectory,7,missingindicator_dyn_release_z_sd_z_persist4,-0.02130139605240634
+Profile + departure + trajectory,7,missingindicator_dyn_extension_z_slope4,0.12416635098088671
+Profile + departure + trajectory,7,missingindicator_dyn_extension_z_absmean4,0.12416635098088671
+Profile + departure + trajectory,7,missingindicator_dyn_extension_z_persist4,0.12416635098088671
+Profile + departure + trajectory,7,missingindicator_dyn_spin_z_slope4,-0.012093766613034889
+Profile + departure + trajectory,7,missingindicator_dyn_spin_z_absmean4,-0.012093766613034889
+Profile + departure + trajectory,7,missingindicator_dyn_spin_z_persist4,-0.012093766613034889
+Profile + departure + trajectory + interactions,7,avg_fb_velo_baseline_mean,0.0800941799425914
+Profile + departure + trajectory + interactions,7,release_x_avg_baseline_mean,-0.14312309901260484
+Profile + departure + trajectory + interactions,7,release_z_avg_baseline_mean,0.15059612613000015
+Profile + departure + trajectory + interactions,7,release_x_sd_baseline_mean,-0.20885612677686857
+Profile + departure + trajectory + interactions,7,release_z_sd_baseline_mean,-0.10782844463490665
+Profile + departure + trajectory + interactions,7,extension_avg_baseline_mean,-0.21387833657807392
+Profile + departure + trajectory + interactions,7,spin_avg_baseline_mean,-0.15333048841751762
+Profile + departure + trajectory + interactions,7,zone_pct_baseline_mean,-0.06257462063576051
+Profile + departure + trajectory + interactions,7,age_at_appearance,-0.3107837150252754
+Profile + departure + trajectory + interactions,7,throws_left,-0.08464938147023277
+Profile + departure + trajectory + interactions,7,observed_prior_mlb_starts,0.12779208646837986
+Profile + departure + trajectory + interactions,7,days_since_mlb_debut,-0.3257002705315934
+Profile + departure + trajectory + interactions,7,prior_reported_il_count,0.05392285742305555
+Profile + departure + trajectory + interactions,7,velo_z,-0.49907082350737464
+Profile + departure + trajectory + interactions,7,release_x_z,0.03491127870488943
+Profile + departure + trajectory + interactions,7,release_z_z,0.04945832877461032
+Profile + departure + trajectory + interactions,7,release_x_sd_z,0.012847278885243457
+Profile + departure + trajectory + interactions,7,release_z_sd_z,-0.2108882672653404
+Profile + departure + trajectory + interactions,7,extension_z,-0.006453913168842296
+Profile + departure + trajectory + interactions,7,spin_z,-0.1676545642647777
+Profile + departure + trajectory + interactions,7,zone_pct_z,0.00035071309066012974
+Profile + departure + trajectory + interactions,7,dyn_velo_z_slope4,0.11068578014452743
+Profile + departure + trajectory + interactions,7,dyn_velo_z_absmean4,0.1924491592965015
+Profile + departure + trajectory + interactions,7,dyn_velo_z_persist4,-0.06147682799305576
+Profile + departure + trajectory + interactions,7,dyn_release_z_sd_z_slope4,0.11744364109370245
+Profile + departure + trajectory + interactions,7,dyn_release_z_sd_z_absmean4,0.006211880176959816
+Profile + departure + trajectory + interactions,7,dyn_release_z_sd_z_persist4,-0.0010801023527433908
+Profile + departure + trajectory + interactions,7,dyn_extension_z_slope4,0.0035469825810388917
+Profile + departure + trajectory + interactions,7,dyn_extension_z_absmean4,0.17053138232544196
+Profile + departure + trajectory + interactions,7,dyn_extension_z_persist4,0.0016161448233219043
+Profile + departure + trajectory + interactions,7,dyn_spin_z_slope4,0.01855023088975118
+Profile + departure + trajectory + interactions,7,dyn_spin_z_absmean4,0.12518268769295474
+Profile + departure + trajectory + interactions,7,dyn_spin_z_persist4,-0.15784123759816307
+Profile + departure + trajectory + interactions,7,missingindicator_avg_fb_velo_baseline_mean,-0.02461314997821679
+Profile + departure + trajectory + interactions,7,missingindicator_release_x_avg_baseline_mean,0.0011732714914626098
+Profile + departure + trajectory + interactions,7,missingindicator_release_z_avg_baseline_mean,0.0011732714914626098
+Profile + departure + trajectory + interactions,7,missingindicator_release_x_sd_baseline_mean,-0.009149332034917267
+Profile + departure + trajectory + interactions,7,missingindicator_release_z_sd_baseline_mean,-0.009149332034917267
+Profile + departure + trajectory + interactions,7,missingindicator_extension_avg_baseline_mean,-0.009932255713164341
+Profile + departure + trajectory + interactions,7,missingindicator_spin_avg_baseline_mean,-0.012482089962645595
+Profile + departure + trajectory + interactions,7,missingindicator_zone_pct_baseline_mean,0.0011732714914626098
+Profile + departure + trajectory + interactions,7,missingindicator_throws_left,-0.0297833473619722
+Profile + departure + trajectory + interactions,7,missingindicator_velo_z,-0.2460967775014588
+Profile + departure + trajectory + interactions,7,missingindicator_release_x_z,0.00048795930533013416
+Profile + departure + trajectory + interactions,7,missingindicator_release_z_z,0.00048795930533013416
+Profile + departure + trajectory + interactions,7,missingindicator_release_x_sd_z,-0.138243480736774
+Profile + departure + trajectory + interactions,7,missingindicator_release_z_sd_z,-0.138243480736774
+Profile + departure + trajectory + interactions,7,missingindicator_extension_z,-0.10204861603640217
+Profile + departure + trajectory + interactions,7,missingindicator_spin_z,-0.10436057632058471
+Profile + departure + trajectory + interactions,7,missingindicator_zone_pct_z,0.00048795930533013416
+Profile + departure + trajectory + interactions,7,missingindicator_dyn_velo_z_slope4,-0.06735540829665686
+Profile + departure + trajectory + interactions,7,missingindicator_dyn_velo_z_absmean4,-0.06735540829665686
+Profile + departure + trajectory + interactions,7,missingindicator_dyn_velo_z_persist4,-0.06735540829665686
+Profile + departure + trajectory + interactions,7,missingindicator_dyn_release_z_sd_z_slope4,-0.021027561248916825
+Profile + departure + trajectory + interactions,7,missingindicator_dyn_release_z_sd_z_absmean4,-0.021027561248916825
+Profile + departure + trajectory + interactions,7,missingindicator_dyn_release_z_sd_z_persist4,-0.021027561248916825
+Profile + departure + trajectory + interactions,7,missingindicator_dyn_extension_z_slope4,0.12432698756108343
+Profile + departure + trajectory + interactions,7,missingindicator_dyn_extension_z_absmean4,0.12432698756108343
+Profile + departure + trajectory + interactions,7,missingindicator_dyn_extension_z_persist4,0.12432698756108343
+Profile + departure + trajectory + interactions,7,missingindicator_dyn_spin_z_slope4,-0.012238099227172982
+Profile + departure + trajectory + interactions,7,missingindicator_dyn_spin_z_absmean4,-0.012238099227172982
+Profile + departure + trajectory + interactions,7,missingindicator_dyn_spin_z_persist4,-0.012238099227172982
+Profile + departure + trajectory + interactions,7,avg_fb_velo_baseline_mean × velo_z,-0.07307799222401902
+Profile + departure + trajectory + interactions,7,release_z_sd_baseline_mean × release_z_sd_z,0.07036415018938563
+Profile + departure + trajectory + interactions,7,extension_avg_baseline_mean × extension_z,0.07658422148992165
+Previous 62,7,avg_fb_velo,-0.037744734930410175
+Previous 62,7,fb_velo_sd,0.2288276882500317
+Previous 62,7,fb_velo_change_vs_prev_3,-0.22693717639608801
+Previous 62,7,fb_velo_change_vs_prev_5,0.4507707518652492
+Previous 62,7,velo_z,-0.6004083137459878
+Previous 62,7,fb_velo_slope_prev_5,-0.09769115779154913
+Previous 62,7,avg_fb_velo_baseline_mean,0.24973934470308595
+Previous 62,7,release_x_avg,-0.26254007731057666
+Previous 62,7,release_z_avg,0.11303715970531764
+Previous 62,7,release_x_sd,-0.1448432047359889
+Previous 62,7,release_z_sd,-0.24536101241823813
+Previous 62,7,extension_avg,-0.1463552083057345
+Previous 62,7,extension_sd,0.17342747357690083
+Previous 62,7,release_x_change_vs_prev_5,-0.43396363501658186
+Previous 62,7,release_z_change_vs_prev_5,0.33486314540053913
+Previous 62,7,extension_change_vs_prev_5,-0.2410412405898741
+Previous 62,7,release_x_z,0.4003461940527668
+Previous 62,7,release_z_z,-0.244486506480522
+Previous 62,7,extension_z,0.25364020489845734
+Previous 62,7,spin_avg,-0.10474686457688633
+Previous 62,7,spin_change_vs_prev_5,0.3586077495279514
+Previous 62,7,spin_z,-0.3404310947226786
+Previous 62,7,horizontal_movement_avg,0.1539567276571238
+Previous 62,7,vertical_movement_avg,0.10402132061357235
+Previous 62,7,horizontal_movement_avg_change_vs_prev_5,-0.09300659443687398
+Previous 62,7,vertical_movement_avg_change_vs_prev_5,-0.02051298113906475
+Previous 62,7,fastball_usage_pct,-0.1799792559201797
+Previous 62,7,fastball_usage_pct_change_vs_prev_5,-0.03801920615791578
+Previous 62,7,sl_usage_pct,0.4571789730165164
+Previous 62,7,sl_usage_pct_change_vs_prev_5,-0.4671918880727035
+Previous 62,7,ch_usage_pct,0.1293943596458615
+Previous 62,7,cu_usage_pct,-0.07651286024456803
+Previous 62,7,zone_pct,-0.13770000906341862
+Previous 62,7,location_variability,-0.41496864304639447
+Previous 62,7,strike_pct,-0.00399622140029045
+Previous 62,7,first_pitch_strike_pct,-0.08288877390298036
+Previous 62,7,zone_pct_change_vs_prev_5,0.16381871065903827
+Previous 62,7,location_variability_change_vs_prev_5,0.3629283663686477
+Previous 62,7,walk_rate,0.1642588066115892
+Previous 62,7,hbp_rate,-0.15626321059479123
+Previous 62,7,total_pitches,-0.5848546395983805
+Previous 62,7,innings_pitched,-0.3618976440929662
+Previous 62,7,rest_days,-0.11824094127013401
+Previous 62,7,pitches_prev_7d,-0.21754408029213107
+Previous 62,7,pitches_prev_14d,0.23805605923787337
+Previous 62,7,pitches_prev_28d,0.6079944846778456
+Previous 62,7,appearances_prev_14d,-0.48843096612132453
+Previous 62,7,appearances_prev_28d,-0.45977115673542224
+Previous 62,7,season_pitch_count,0.26930012955325094
+Previous 62,7,season_innings,-0.8552676765529064
+Previous 62,7,previous_season_innings,0.2085634978239647
+Previous 62,7,workload_acceleration_7d_vs_21d,0.289638558225869
+Previous 62,7,acute_chronic_pitch_ratio,-0.38874749855809404
+Previous 62,7,starts_prev_30d,-0.5749378612927241
+Previous 62,7,starter_share_prev_5,0.4629959548131992
+Previous 62,7,age_at_appearance,-0.12010775753722336
+Previous 62,7,throws_left,-0.03611821430797642
+Previous 62,7,observed_prior_mlb_starts,-0.21902769483249004
+Previous 62,7,days_since_mlb_debut,-0.5712845116440886
+Previous 62,7,is_starter,0.6364771443382038
+Previous 62,7,prior_reported_il_count,0.05208397688831653
+Previous 62,7,calendar_month,0.04097517085003946
+Previous 62,7,missingindicator_avg_fb_velo,-0.06416948323042103
+Previous 62,7,missingindicator_fb_velo_sd,-0.17763538059207237
+Previous 62,7,missingindicator_fb_velo_change_vs_prev_3,-0.19658745514364645
+Previous 62,7,missingindicator_fb_velo_change_vs_prev_5,-0.06772125069341593
+Previous 62,7,missingindicator_velo_z,-0.07321867566725646
+Previous 62,7,missingindicator_fb_velo_slope_prev_5,-0.0746256635418096
+Previous 62,7,missingindicator_avg_fb_velo_baseline_mean,-0.04896657997770888
+Previous 62,7,missingindicator_release_x_avg,-0.0012657937503849244
+Previous 62,7,missingindicator_release_z_avg,-0.0012657937503849244
+Previous 62,7,missingindicator_release_x_sd,-0.04599991585145668
+Previous 62,7,missingindicator_release_z_sd,-0.04599991585145668
+Previous 62,7,missingindicator_extension_avg,-0.0158458132075915
+Previous 62,7,missingindicator_extension_sd,-0.07991824258008108
+Previous 62,7,missingindicator_release_x_change_vs_prev_5,-0.0012657937503849244
+Previous 62,7,missingindicator_release_z_change_vs_prev_5,-0.0012657937503849244
+Previous 62,7,missingindicator_extension_change_vs_prev_5,-0.0158458132075915
+Previous 62,7,missingindicator_release_x_z,-0.0008947567379225128
+Previous 62,7,missingindicator_release_z_z,-0.0008947567379225128
+Previous 62,7,missingindicator_extension_z,-0.07040075385078201
+Previous 62,7,missingindicator_spin_avg,-0.013834958956391825
+Previous 62,7,missingindicator_spin_change_vs_prev_5,-0.013803485016111247
+Previous 62,7,missingindicator_spin_z,-0.06963945039768861
+Previous 62,7,missingindicator_horizontal_movement_avg,-0.0008034889755754186
+Previous 62,7,missingindicator_vertical_movement_avg,-0.0008034889755754186
+Previous 62,7,missingindicator_horizontal_movement_avg_change_vs_prev_5,-0.0008034889755754186
+Previous 62,7,missingindicator_vertical_movement_avg_change_vs_prev_5,-0.0008034889755754186
+Previous 62,7,missingindicator_zone_pct,-0.0012657937503849244
+Previous 62,7,missingindicator_location_variability,-0.04599991585145668
+Previous 62,7,missingindicator_first_pitch_strike_pct,-0.0498709294824576
+Previous 62,7,missingindicator_zone_pct_change_vs_prev_5,-0.0012657937503849244
+Previous 62,7,missingindicator_location_variability_change_vs_prev_5,-0.04599991585145668
+Previous 62,7,missingindicator_walk_rate,-0.062114671047684276
+Previous 62,7,missingindicator_rest_days,-0.18051668765535842
+Previous 62,7,missingindicator_pitches_prev_7d,0.042056612972485606
+Previous 62,7,missingindicator_pitches_prev_14d,0.08166161133458072
+Previous 62,7,missingindicator_pitches_prev_28d,0.13298486620460506
+Previous 62,7,missingindicator_appearances_prev_14d,0.08166161133458072
+Previous 62,7,missingindicator_appearances_prev_28d,0.13298486620460506
+Previous 62,7,missingindicator_season_pitch_count,-0.2809243962796505
+Previous 62,7,missingindicator_season_innings,-0.2809243962796505
+Previous 62,7,missingindicator_previous_season_innings,-0.8086594531792682
+Previous 62,7,missingindicator_workload_acceleration_7d_vs_21d,0.13298486620460506
+Previous 62,7,missingindicator_acute_chronic_pitch_ratio,0.13298486620460506
+Previous 62,7,missingindicator_starts_prev_30d,0.08871904989263649
+Previous 62,7,missingindicator_throws_left,-0.041472460169429876
+Stable 62,7,acute_chronic_pitch_ratio,-0.23484772160934916
+Stable 62,7,age_at_appearance,-0.2864204210376604
+Stable 62,7,appearances_prev_14d,-0.5570910989558712
+Stable 62,7,avg_fb_velo_baseline_sd,0.18985071433162778
+Stable 62,7,calendar_month,0.002430677481846561
+Stable 62,7,ch_avg_velocity_prev_5,-0.012719970551662525
+Stable 62,7,ch_release_x_avg_prev_10,-0.08396283869280871
+Stable 62,7,ch_usage_pct_prev_3,0.22745134873476172
+Stable 62,7,ch_vertical_movement_avg,-0.040885567810566764
+Stable 62,7,cu_avg_velocity_prev_5,0.03457090518871994
+Stable 62,7,cu_extension_avg_prev_5,-0.20852877356426036
+Stable 62,7,cu_pitch_count,0.26364010266731114
+Stable 62,7,cu_release_z_avg_prev_5,-0.21062835460002252
+Stable 62,7,cu_spin_avg_prev_5,-0.04315227724267237
+Stable 62,7,current_vs_previous_season_workload,-0.28005735650234925
+Stable 62,7,days_since_mlb_debut,-0.638171515154847
+Stable 62,7,extension_avg_baseline_sd,0.22429969316597528
+Stable 62,7,extension_z,-0.0036057128463266625
+Stable 62,7,fastball_usage_pct,-0.3419898159967102
+Stable 62,7,fb_velo_sd_change_vs_prev_5,0.0849466875054908
+Stable 62,7,fb_velo_sd_prev_3,0.20143263114857576
+Stable 62,7,ff_avg_velocity_prev_5,-0.1390260378819564
+Stable 62,7,ff_pitch_count,-0.036465758141116335
+Stable 62,7,ff_spin_avg,-0.21720254249314147
+Stable 62,7,ff_vertical_movement_avg,-0.19226176376420326
+Stable 62,7,first_pitch_strike_pct_prev_10,0.18116067717728074
+Stable 62,7,first_pitch_strike_pct_prev_3,0.04990954543261015
+Stable 62,7,fs_pitch_count,0.021024708501028336
+Stable 62,7,high_velocity_pitch_count,0.18229393724324208
+Stable 62,7,innings_7d,0.2265099057363259
+Stable 62,7,innings_pitched,-0.9839930662117354
+Stable 62,7,is_starter,0.5138044880333987
+Stable 62,7,ivb_inches,0.6123073113879167
+Stable 62,7,kc_pitch_count,-0.11158519338369877
+Stable 62,7,observed_prior_mlb_appearances,0.27821015214388484
+Stable 62,7,observed_prior_mlb_starts,-0.038675716441517585
+Stable 62,7,release_x_avg_baseline_sd,0.01896197533970898
+Stable 62,7,release_x_change_vs_prev_5,-0.47116270326708504
+Stable 62,7,release_x_sd_baseline_mean,-0.4451316584603639
+Stable 62,7,release_x_sd_z,-0.02188045097460358
+Stable 62,7,release_x_z,0.41175960319787747
+Stable 62,7,release_z_change_vs_prev_5,0.38822809009671777
+Stable 62,7,release_z_slope_prev_5,0.06592289527150169
+Stable 62,7,release_z_z,-0.27405506194620827
+Stable 62,7,rest_days,-0.1377811664938403
+Stable 62,7,season_pitch_count,-0.5439135620801553
+Stable 62,7,season_starts,0.1632053254623984
+Stable 62,7,si_extension_avg,0.060976797072062126
+Stable 62,7,si_release_z_avg_prev_5,0.46440421395926984
+Stable 62,7,si_spin_avg_prev_10,0.15076106799859013
+Stable 62,7,si_zone_pct,0.14984091648051961
+Stable 62,7,sl_horizontal_movement_avg,0.2563174610999769
+Stable 62,7,sl_usage_pct_prev_5,0.48034710128628844
+Stable 62,7,sl_vertical_movement_avg,-0.1482614357911307
+Stable 62,7,sl_zone_pct,0.04249697343694624
+Stable 62,7,spin_avg_baseline_sd,0.07465090245750844
+Stable 62,7,st_pitch_count,0.006131603344745552
+Stable 62,7,starter_share_prev_5,0.3996634584293354
+Stable 62,7,strikeout_rate,-0.16105274028425634
+Stable 62,7,sv_usage_pct_prev_5,-0.27001840638397695
+Stable 62,7,velo_z,-0.537729160855059
+Stable 62,7,zone_pct_baseline_mean,-0.0972857327620481
+Stable 62,7,missingindicator_acute_chronic_pitch_ratio,0.5568376070049273
+Stable 62,7,missingindicator_appearances_prev_14d,0.1764962404573206
+Stable 62,7,missingindicator_avg_fb_velo_baseline_sd,-0.019119178830453113
+Stable 62,7,missingindicator_ch_avg_velocity_prev_5,-0.2745169719375748
+Stable 62,7,missingindicator_ch_release_x_avg_prev_10,0.4621855298480326
+Stable 62,7,missingindicator_ch_vertical_movement_avg,0.03510052261425384
+Stable 62,7,missingindicator_cu_avg_velocity_prev_5,0.1422008260947811
+Stable 62,7,missingindicator_cu_extension_avg_prev_5,0.07606494837323037
+Stable 62,7,missingindicator_cu_release_z_avg_prev_5,0.1422008260947811
+Stable 62,7,missingindicator_cu_spin_avg_prev_5,-0.2221779477642174
+Stable 62,7,missingindicator_current_vs_previous_season_workload,-0.7575464757714934
+Stable 62,7,missingindicator_extension_avg_baseline_sd,-0.010481745936577094
+Stable 62,7,missingindicator_extension_z,-0.12863981356341195
+Stable 62,7,missingindicator_fb_velo_sd_change_vs_prev_5,-0.20097422973598003
+Stable 62,7,missingindicator_fb_velo_sd_prev_3,-0.28520170249312987
+Stable 62,7,missingindicator_ff_avg_velocity_prev_5,0.10986402507152944
+Stable 62,7,missingindicator_ff_spin_avg,-0.0017374644005227304
+Stable 62,7,missingindicator_ff_vertical_movement_avg,0.09417104946705128
+Stable 62,7,missingindicator_first_pitch_strike_pct_prev_10,-0.23716317955240743
+Stable 62,7,missingindicator_innings_7d,0.047822228538261825
+Stable 62,7,missingindicator_ivb_inches,-0.16030637153982838
+Stable 62,7,missingindicator_release_x_avg_baseline_sd,-0.002290262496286498
+Stable 62,7,missingindicator_release_x_change_vs_prev_5,-0.001608248314405267
+Stable 62,7,missingindicator_release_x_sd_baseline_mean,-0.009346674525212866
+Stable 62,7,missingindicator_release_x_sd_z,-0.19508300102683782
+Stable 62,7,missingindicator_release_x_z,-0.0027874086013866253
+Stable 62,7,missingindicator_release_z_change_vs_prev_5,-0.001608248314405267
+Stable 62,7,missingindicator_release_z_z,-0.0027874086013866253
+Stable 62,7,missingindicator_rest_days,-0.16130754921403145
+Stable 62,7,missingindicator_season_pitch_count,-0.058316376384284434
+Stable 62,7,missingindicator_season_starts,-0.058316376384284434
+Stable 62,7,missingindicator_si_extension_avg,-0.0018854814034234566
+Stable 62,7,missingindicator_si_release_z_avg_prev_5,-0.30072924223415753
+Stable 62,7,missingindicator_si_spin_avg_prev_10,0.19872662043443823
+Stable 62,7,missingindicator_si_zone_pct,0.04986025818360251
+Stable 62,7,missingindicator_sl_horizontal_movement_avg,0.005516150364899795
+Stable 62,7,missingindicator_sl_vertical_movement_avg,0.005516150364899795
+Stable 62,7,missingindicator_sl_zone_pct,0.005508292293675071
+Stable 62,7,missingindicator_spin_avg_baseline_sd,-0.02034577323096499
+Stable 62,7,missingindicator_strikeout_rate,-0.060971801930565624
+Stable 62,7,missingindicator_velo_z,-0.2482454635869123
+Stable 62,7,missingindicator_zone_pct_baseline_mean,-0.002290262496286498
+Background,14,throws_left,-0.23865567918130365
+Background,14,age_at_appearance,-0.37758481122925636
+Background,14,days_since_mlb_debut,-0.391011735727889
+Background,14,observed_prior_mlb_appearances,0.23091896268661205
+Background,14,observed_prior_mlb_starts,0.08971164577393005
+Background,14,prior_reported_il_count,0.04869912840545102
+Background,14,calendar_month,-0.25359626090674037
+Background,14,missingindicator_throws_left,-0.0650693303929671
+Profile,14,avg_fb_velo_baseline_mean,0.17572214622042998
+Profile,14,release_x_avg_baseline_mean,-0.12433613981071581
+Profile,14,release_z_avg_baseline_mean,0.14333492613362425
+Profile,14,release_x_sd_baseline_mean,-0.20148260876347596
+Profile,14,release_z_sd_baseline_mean,-0.0005205126513777974
+Profile,14,extension_avg_baseline_mean,-0.2056728127880105
+Profile,14,spin_avg_baseline_mean,-0.08464445249966332
+Profile,14,zone_pct_baseline_mean,-0.0999934120833301
+Profile,14,age_at_appearance,-0.2868436153972428
+Profile,14,throws_left,-0.12095491995691901
+Profile,14,observed_prior_mlb_starts,0.06417772098069092
+Profile,14,days_since_mlb_debut,-0.2864564235817692
+Profile,14,prior_reported_il_count,0.09760972590834299
+Profile,14,missingindicator_avg_fb_velo_baseline_mean,-0.0663242753874632
+Profile,14,missingindicator_release_x_avg_baseline_mean,-4.947047783233118e-05
+Profile,14,missingindicator_release_z_avg_baseline_mean,-4.947047783233118e-05
+Profile,14,missingindicator_release_x_sd_baseline_mean,-0.03186514821591065
+Profile,14,missingindicator_release_z_sd_baseline_mean,-0.03186514821591065
+Profile,14,missingindicator_extension_avg_baseline_mean,-0.04719008425965488
+Profile,14,missingindicator_spin_avg_baseline_mean,-0.056467426215059416
+Profile,14,missingindicator_zone_pct_baseline_mean,-4.947047783233118e-05
+Profile,14,missingindicator_throws_left,-0.036573160173168716
+Departure,14,velo_z,-0.48562886128206134
+Departure,14,release_x_z,0.09981035531090217
+Departure,14,release_z_z,-0.10253774285454677
+Departure,14,release_x_sd_z,0.042101410673349264
+Departure,14,release_z_sd_z,-0.19473892961525158
+Departure,14,extension_z,0.08148337709055457
+Departure,14,spin_z,-0.07102682451439311
+Departure,14,zone_pct_z,-0.012832444469062464
+Departure,14,missingindicator_velo_z,-0.31065767528619054
+Departure,14,missingindicator_release_x_z,-0.00366560449825641
+Departure,14,missingindicator_release_z_z,-0.00366560449825641
+Departure,14,missingindicator_release_x_sd_z,-0.156744769677667
+Departure,14,missingindicator_release_z_sd_z,-0.156744769677667
+Departure,14,missingindicator_extension_z,-0.10033952114100723
+Departure,14,missingindicator_spin_z,-0.11005343905635039
+Departure,14,missingindicator_zone_pct_z,-0.00366560449825641
+Profile + departure,14,avg_fb_velo_baseline_mean,0.14361528172856985
+Profile + departure,14,release_x_avg_baseline_mean,-0.10566530307035582
+Profile + departure,14,release_z_avg_baseline_mean,0.14080778382347245
+Profile + departure,14,release_x_sd_baseline_mean,-0.18300116507324382
+Profile + departure,14,release_z_sd_baseline_mean,-0.022203865394962136
+Profile + departure,14,extension_avg_baseline_mean,-0.20025922187483475
+Profile + departure,14,spin_avg_baseline_mean,-0.09375689287436519
+Profile + departure,14,zone_pct_baseline_mean,-0.0938965333196943
+Profile + departure,14,age_at_appearance,-0.3004311994789586
+Profile + departure,14,throws_left,-0.14591939471243723
+Profile + departure,14,observed_prior_mlb_starts,0.04826619745370724
+Profile + departure,14,days_since_mlb_debut,-0.2816755924687071
+Profile + departure,14,prior_reported_il_count,0.07755399813647225
+Profile + departure,14,velo_z,-0.486060027472305
+Profile + departure,14,release_x_z,0.09084168406674631
+Profile + departure,14,release_z_z,-0.10439647727885973
+Profile + departure,14,release_x_sd_z,0.03344932808263702
+Profile + departure,14,release_z_sd_z,-0.19175150678940237
+Profile + departure,14,extension_z,0.07481531200348125
+Profile + departure,14,spin_z,-0.0801190549731475
+Profile + departure,14,zone_pct_z,-0.02497212019938635
+Profile + departure,14,missingindicator_avg_fb_velo_baseline_mean,-0.019592437525239953
+Profile + departure,14,missingindicator_release_x_avg_baseline_mean,-0.0024607856572814646
+Profile + departure,14,missingindicator_release_z_avg_baseline_mean,-0.0024607856572814646
+Profile + departure,14,missingindicator_release_x_sd_baseline_mean,-0.007999805658284752
+Profile + departure,14,missingindicator_release_z_sd_baseline_mean,-0.007999805658284752
+Profile + departure,14,missingindicator_extension_avg_baseline_mean,-0.013569115412981572
+Profile + departure,14,missingindicator_spin_avg_baseline_mean,-0.017017563244509808
+Profile + departure,14,missingindicator_zone_pct_baseline_mean,-0.0024607856572814646
+Profile + departure,14,missingindicator_throws_left,-0.03814600072150699
+Profile + departure,14,missingindicator_velo_z,-0.2934351546360055
+Profile + departure,14,missingindicator_release_x_z,-0.002656427420702587
+Profile + departure,14,missingindicator_release_z_z,-0.002656427420702587
+Profile + departure,14,missingindicator_release_x_sd_z,-0.15178531389021635
+Profile + departure,14,missingindicator_release_z_sd_z,-0.15178531389021635
+Profile + departure,14,missingindicator_extension_z,-0.09018805148878369
+Profile + departure,14,missingindicator_spin_z,-0.1065868287415649
+Profile + departure,14,missingindicator_zone_pct_z,-0.002656427420702587
+Profile + departure + trajectory,14,avg_fb_velo_baseline_mean,0.14948873067218954
+Profile + departure + trajectory,14,release_x_avg_baseline_mean,-0.0976391966609804
+Profile + departure + trajectory,14,release_z_avg_baseline_mean,0.13452916899960937
+Profile + departure + trajectory,14,release_x_sd_baseline_mean,-0.18089632555418741
+Profile + departure + trajectory,14,release_z_sd_baseline_mean,-0.02665582963257453
+Profile + departure + trajectory,14,extension_avg_baseline_mean,-0.20005840514759887
+Profile + departure + trajectory,14,spin_avg_baseline_mean,-0.09531783623707452
+Profile + departure + trajectory,14,zone_pct_baseline_mean,-0.08811699802371317
+Profile + departure + trajectory,14,age_at_appearance,-0.2930548645215829
+Profile + departure + trajectory,14,throws_left,-0.14909723360967586
+Profile + departure + trajectory,14,observed_prior_mlb_starts,0.04071928223207598
+Profile + departure + trajectory,14,days_since_mlb_debut,-0.2783679544338448
+Profile + departure + trajectory,14,prior_reported_il_count,0.07260846595036165
+Profile + departure + trajectory,14,velo_z,-0.5094236610909975
+Profile + departure + trajectory,14,release_x_z,0.08072669044009628
+Profile + departure + trajectory,14,release_z_z,-0.09442918185432446
+Profile + departure + trajectory,14,release_x_sd_z,0.03336356486007791
+Profile + departure + trajectory,14,release_z_sd_z,-0.2102843411075366
+Profile + departure + trajectory,14,extension_z,0.0704615372069039
+Profile + departure + trajectory,14,spin_z,-0.045681443523639426
+Profile + departure + trajectory,14,zone_pct_z,-0.02775552223976015
+Profile + departure + trajectory,14,dyn_velo_z_slope4,0.18805778556762442
+Profile + departure + trajectory,14,dyn_velo_z_absmean4,0.2528892167126366
+Profile + departure + trajectory,14,dyn_velo_z_persist4,-0.20529008078665598
+Profile + departure + trajectory,14,dyn_release_z_sd_z_slope4,0.05413458629174987
+Profile + departure + trajectory,14,dyn_release_z_sd_z_absmean4,0.007048371534402309
+Profile + departure + trajectory,14,dyn_release_z_sd_z_persist4,-0.09354331570419916
+Profile + departure + trajectory,14,dyn_extension_z_slope4,-0.040988441381463514
+Profile + departure + trajectory,14,dyn_extension_z_absmean4,0.13846200690317406
+Profile + departure + trajectory,14,dyn_extension_z_persist4,0.053314334706681066
+Profile + departure + trajectory,14,dyn_spin_z_slope4,-0.060309639769275024
+Profile + departure + trajectory,14,dyn_spin_z_absmean4,0.1166359599868122
+Profile + departure + trajectory,14,dyn_spin_z_persist4,-0.11116229860465389
+Profile + departure + trajectory,14,missingindicator_avg_fb_velo_baseline_mean,-0.02605515173355681
+Profile + departure + trajectory,14,missingindicator_release_x_avg_baseline_mean,-0.002518175804800307
+Profile + departure + trajectory,14,missingindicator_release_z_avg_baseline_mean,-0.002518175804800307
+Profile + departure + trajectory,14,missingindicator_release_x_sd_baseline_mean,-0.009440653624177727
+Profile + departure + trajectory,14,missingindicator_release_z_sd_baseline_mean,-0.009440653624177727
+Profile + departure + trajectory,14,missingindicator_extension_avg_baseline_mean,-0.011474967954087312
+Profile + departure + trajectory,14,missingindicator_spin_avg_baseline_mean,-0.01530907277733638
+Profile + departure + trajectory,14,missingindicator_zone_pct_baseline_mean,-0.002518175804800307
+Profile + departure + trajectory,14,missingindicator_throws_left,-0.03895947473809767
+Profile + departure + trajectory,14,missingindicator_velo_z,-0.2689294025380189
+Profile + departure + trajectory,14,missingindicator_release_x_z,-0.000874806709082343
+Profile + departure + trajectory,14,missingindicator_release_z_z,-0.000874806709082343
+Profile + departure + trajectory,14,missingindicator_release_x_sd_z,-0.14669679232005148
+Profile + departure + trajectory,14,missingindicator_release_z_sd_z,-0.14669679232005148
+Profile + departure + trajectory,14,missingindicator_extension_z,-0.10858100743870808
+Profile + departure + trajectory,14,missingindicator_spin_z,-0.1125694205063737
+Profile + departure + trajectory,14,missingindicator_zone_pct_z,-0.000874806709082343
+Profile + departure + trajectory,14,missingindicator_dyn_velo_z_slope4,-0.07205526661941741
+Profile + departure + trajectory,14,missingindicator_dyn_velo_z_absmean4,-0.07205526661941741
+Profile + departure + trajectory,14,missingindicator_dyn_velo_z_persist4,-0.07205526661941741
+Profile + departure + trajectory,14,missingindicator_dyn_release_z_sd_z_slope4,-0.02839731095337653
+Profile + departure + trajectory,14,missingindicator_dyn_release_z_sd_z_absmean4,-0.02839731095337653
+Profile + departure + trajectory,14,missingindicator_dyn_release_z_sd_z_persist4,-0.02839731095337653
+Profile + departure + trajectory,14,missingindicator_dyn_extension_z_slope4,0.14165751124698867
+Profile + departure + trajectory,14,missingindicator_dyn_extension_z_absmean4,0.14165751124698867
+Profile + departure + trajectory,14,missingindicator_dyn_extension_z_persist4,0.14165751124698867
+Profile + departure + trajectory,14,missingindicator_dyn_spin_z_slope4,-0.028774519381282688
+Profile + departure + trajectory,14,missingindicator_dyn_spin_z_absmean4,-0.028774519381282688
+Profile + departure + trajectory,14,missingindicator_dyn_spin_z_persist4,-0.028774519381282688
+Profile + departure + trajectory + interactions,14,avg_fb_velo_baseline_mean,0.12167372688744044
+Profile + departure + trajectory + interactions,14,release_x_avg_baseline_mean,-0.09823208207209409
+Profile + departure + trajectory + interactions,14,release_z_avg_baseline_mean,0.13560352257027966
+Profile + departure + trajectory + interactions,14,release_x_sd_baseline_mean,-0.18181283455504194
+Profile + departure + trajectory + interactions,14,release_z_sd_baseline_mean,-0.018037622539596166
+Profile + departure + trajectory + interactions,14,extension_avg_baseline_mean,-0.19951194598397942
+Profile + departure + trajectory + interactions,14,spin_avg_baseline_mean,-0.09496246237374358
+Profile + departure + trajectory + interactions,14,zone_pct_baseline_mean,-0.0885885208701349
+Profile + departure + trajectory + interactions,14,age_at_appearance,-0.29363888526167936
+Profile + departure + trajectory + interactions,14,throws_left,-0.14806751934279078
+Profile + departure + trajectory + interactions,14,observed_prior_mlb_starts,0.04249461934783537
+Profile + departure + trajectory + interactions,14,days_since_mlb_debut,-0.2787327063963199
+Profile + departure + trajectory + interactions,14,prior_reported_il_count,0.07204276965476285
+Profile + departure + trajectory + interactions,14,velo_z,-0.4928970037645869
+Profile + departure + trajectory + interactions,14,release_x_z,0.08124956890521855
+Profile + departure + trajectory + interactions,14,release_z_z,-0.09472813278434576
+Profile + departure + trajectory + interactions,14,release_x_sd_z,0.03107411833097363
+Profile + departure + trajectory + interactions,14,release_z_sd_z,-0.20372976579135788
+Profile + departure + trajectory + interactions,14,extension_z,0.07236105356469784
+Profile + departure + trajectory + interactions,14,spin_z,-0.04605344762462278
+Profile + departure + trajectory + interactions,14,zone_pct_z,-0.028654324783054873
+Profile + departure + trajectory + interactions,14,dyn_velo_z_slope4,0.19017596934366618
+Profile + departure + trajectory + interactions,14,dyn_velo_z_absmean4,0.2488206092234623
+Profile + departure + trajectory + interactions,14,dyn_velo_z_persist4,-0.20318676126047155
+Profile + departure + trajectory + interactions,14,dyn_release_z_sd_z_slope4,0.05582179469780522
+Profile + departure + trajectory + interactions,14,dyn_release_z_sd_z_absmean4,0.007115476026834709
+Profile + departure + trajectory + interactions,14,dyn_release_z_sd_z_persist4,-0.09357147636608648
+Profile + departure + trajectory + interactions,14,dyn_extension_z_slope4,-0.04038171192224384
+Profile + departure + trajectory + interactions,14,dyn_extension_z_absmean4,0.13834128828491268
+Profile + departure + trajectory + interactions,14,dyn_extension_z_persist4,0.0533057700618085
+Profile + departure + trajectory + interactions,14,dyn_spin_z_slope4,-0.059552187673882255
+Profile + departure + trajectory + interactions,14,dyn_spin_z_absmean4,0.11637107350978461
+Profile + departure + trajectory + interactions,14,dyn_spin_z_persist4,-0.11069708002989516
+Profile + departure + trajectory + interactions,14,missingindicator_avg_fb_velo_baseline_mean,-0.02661750376357562
+Profile + departure + trajectory + interactions,14,missingindicator_release_x_avg_baseline_mean,-0.0026757163132132464
+Profile + departure + trajectory + interactions,14,missingindicator_release_z_avg_baseline_mean,-0.0026757163132132464
+Profile + departure + trajectory + interactions,14,missingindicator_release_x_sd_baseline_mean,-0.009556351631519732
+Profile + departure + trajectory + interactions,14,missingindicator_release_z_sd_baseline_mean,-0.009556351631519732
+Profile + departure + trajectory + interactions,14,missingindicator_extension_avg_baseline_mean,-0.011290276861919721
+Profile + departure + trajectory + interactions,14,missingindicator_spin_avg_baseline_mean,-0.015139414680515084
+Profile + departure + trajectory + interactions,14,missingindicator_zone_pct_baseline_mean,-0.0026757163132132464
+Profile + departure + trajectory + interactions,14,missingindicator_throws_left,-0.0400279308174991
+Profile + departure + trajectory + interactions,14,missingindicator_velo_z,-0.27000173710650166
+Profile + departure + trajectory + interactions,14,missingindicator_release_x_z,-0.0008457601072977945
+Profile + departure + trajectory + interactions,14,missingindicator_release_z_z,-0.0008457601072977945
+Profile + departure + trajectory + interactions,14,missingindicator_release_x_sd_z,-0.14578254837290147
+Profile + departure + trajectory + interactions,14,missingindicator_release_z_sd_z,-0.14578254837290147
+Profile + departure + trajectory + interactions,14,missingindicator_extension_z,-0.10681420028482415
+Profile + departure + trajectory + interactions,14,missingindicator_spin_z,-0.11220145294600829
+Profile + departure + trajectory + interactions,14,missingindicator_zone_pct_z,-0.0008457601072977945
+Profile + departure + trajectory + interactions,14,missingindicator_dyn_velo_z_slope4,-0.07189976415292001
+Profile + departure + trajectory + interactions,14,missingindicator_dyn_velo_z_absmean4,-0.07189976415292001
+Profile + departure + trajectory + interactions,14,missingindicator_dyn_velo_z_persist4,-0.07189976415292001
+Profile + departure + trajectory + interactions,14,missingindicator_dyn_release_z_sd_z_slope4,-0.02831673725527651
+Profile + departure + trajectory + interactions,14,missingindicator_dyn_release_z_sd_z_absmean4,-0.02831673725527651
+Profile + departure + trajectory + interactions,14,missingindicator_dyn_release_z_sd_z_persist4,-0.02831673725527651
+Profile + departure + trajectory + interactions,14,missingindicator_dyn_extension_z_slope4,0.14100803212155824
+Profile + departure + trajectory + interactions,14,missingindicator_dyn_extension_z_absmean4,0.14100803212155824
+Profile + departure + trajectory + interactions,14,missingindicator_dyn_extension_z_persist4,0.14100803212155824
+Profile + departure + trajectory + interactions,14,missingindicator_dyn_spin_z_slope4,-0.028530697655272306
+Profile + departure + trajectory + interactions,14,missingindicator_dyn_spin_z_absmean4,-0.028530697655272306
+Profile + departure + trajectory + interactions,14,missingindicator_dyn_spin_z_persist4,-0.028530697655272306
+Profile + departure + trajectory + interactions,14,avg_fb_velo_baseline_mean × velo_z,-0.057291708417243195
+Profile + departure + trajectory + interactions,14,release_z_sd_baseline_mean × release_z_sd_z,0.048443835464374356
+Profile + departure + trajectory + interactions,14,extension_avg_baseline_mean × extension_z,0.01930489846262812
+Previous 62,14,avg_fb_velo,-0.07699102117201091
+Previous 62,14,fb_velo_sd,0.21560186325575675
+Previous 62,14,fb_velo_change_vs_prev_3,-0.12169319177459208
+Previous 62,14,fb_velo_change_vs_prev_5,0.3754410879661332
+Previous 62,14,velo_z,-0.5422164457212205
+Previous 62,14,fb_velo_slope_prev_5,-0.14320255478659502
+Previous 62,14,avg_fb_velo_baseline_mean,0.3046610916682006
+Previous 62,14,release_x_avg,-0.1968106314369337
+Previous 62,14,release_z_avg,0.09643837254600347
+Previous 62,14,release_x_sd,-0.21090409232765248
+Previous 62,14,release_z_sd,-0.14450921423334737
+Previous 62,14,extension_avg,-0.1463025843774992
+Previous 62,14,extension_sd,0.12507899185615307
+Previous 62,14,release_x_change_vs_prev_5,-0.5038371609927162
+Previous 62,14,release_z_change_vs_prev_5,0.3248309900733847
+Previous 62,14,extension_change_vs_prev_5,-0.21047396814015362
+Previous 62,14,release_x_z,0.4932402882215087
+Previous 62,14,release_z_z,-0.3631187665868211
+Previous 62,14,extension_z,0.30215688729610773
+Previous 62,14,spin_avg,-0.11157589831251659
+Previous 62,14,spin_change_vs_prev_5,0.26748166796984246
+Previous 62,14,spin_z,-0.23450844017214434
+Previous 62,14,horizontal_movement_avg,0.23256206736718998
+Previous 62,14,vertical_movement_avg,0.13369329184574763
+Previous 62,14,horizontal_movement_avg_change_vs_prev_5,-0.13113417721116913
+Previous 62,14,vertical_movement_avg_change_vs_prev_5,-0.012299891131488988
+Previous 62,14,fastball_usage_pct,-0.11883937502922622
+Previous 62,14,fastball_usage_pct_change_vs_prev_5,0.027228195541112294
+Previous 62,14,sl_usage_pct,0.48028618214145463
+Previous 62,14,sl_usage_pct_change_vs_prev_5,-0.2911406829470355
+Previous 62,14,ch_usage_pct,0.12552547780740836
+Previous 62,14,cu_usage_pct,-0.029035488480928302
+Previous 62,14,zone_pct,-0.2507949302705631
+Previous 62,14,location_variability,-0.4376193011284862
+Previous 62,14,strike_pct,-0.046317568067857535
+Previous 62,14,first_pitch_strike_pct,0.02294222361191586
+Previous 62,14,zone_pct_change_vs_prev_5,0.19289542552686206
+Previous 62,14,location_variability_change_vs_prev_5,0.2992374026034768
+Previous 62,14,walk_rate,0.13460869888703017
+Previous 62,14,hbp_rate,-0.01647610963407468
+Previous 62,14,total_pitches,-0.3898141919319719
+Previous 62,14,innings_pitched,-0.289911561171606
+Previous 62,14,rest_days,-0.10762809341827005
+Previous 62,14,pitches_prev_7d,-0.5064071909435037
+Previous 62,14,pitches_prev_14d,0.3984144931722428
+Previous 62,14,pitches_prev_28d,0.552785569099148
+Previous 62,14,appearances_prev_14d,-0.5299344263289447
+Previous 62,14,appearances_prev_28d,-0.2025861407746855
+Previous 62,14,season_pitch_count,0.6153496746811339
+Previous 62,14,season_innings,-1.1723977368040344
+Previous 62,14,previous_season_innings,0.168805108243297
+Previous 62,14,workload_acceleration_7d_vs_21d,0.39794028125002456
+Previous 62,14,acute_chronic_pitch_ratio,-0.23138063948809223
+Previous 62,14,starts_prev_30d,-0.3730203572383387
+Previous 62,14,starter_share_prev_5,0.3865430834612834
+Previous 62,14,age_at_appearance,-0.14249589165383483
+Previous 62,14,throws_left,-0.1810146305424517
+Previous 62,14,observed_prior_mlb_starts,-0.23890257188939398
+Previous 62,14,days_since_mlb_debut,-0.4522243102737248
+Previous 62,14,is_starter,0.4438033622689158
+Previous 62,14,prior_reported_il_count,0.0421109451733947
+Previous 62,14,calendar_month,0.047258503045442594
+Previous 62,14,missingindicator_avg_fb_velo,-0.05442557688400278
+Previous 62,14,missingindicator_fb_velo_sd,-0.23119868142280167
+Previous 62,14,missingindicator_fb_velo_change_vs_prev_3,-0.21091093609314204
+Previous 62,14,missingindicator_fb_velo_change_vs_prev_5,-0.05702345310426205
+Previous 62,14,missingindicator_velo_z,-0.06529728282121079
+Previous 62,14,missingindicator_fb_velo_slope_prev_5,-0.08435438105530782
+Previous 62,14,missingindicator_avg_fb_velo_baseline_mean,-0.056104082232899574
+Previous 62,14,missingindicator_release_x_avg,-0.0019427175533931818
+Previous 62,14,missingindicator_release_z_avg,-0.0019427175533931818
+Previous 62,14,missingindicator_release_x_sd,-0.04076639020433995
+Previous 62,14,missingindicator_release_z_sd,-0.04076639020433995
+Previous 62,14,missingindicator_extension_avg,-0.015038339356179787
+Previous 62,14,missingindicator_extension_sd,-0.09545535663069082
+Previous 62,14,missingindicator_release_x_change_vs_prev_5,-0.0019427175533931818
+Previous 62,14,missingindicator_release_z_change_vs_prev_5,-0.0019427175533931818
+Previous 62,14,missingindicator_extension_change_vs_prev_5,-0.015038339356179787
+Previous 62,14,missingindicator_release_x_z,-0.0015371585844024512
+Previous 62,14,missingindicator_release_z_z,-0.0015371585844024512
+Previous 62,14,missingindicator_extension_z,-0.07434881925168624
+Previous 62,14,missingindicator_spin_avg,-0.01518455932203908
+Previous 62,14,missingindicator_spin_change_vs_prev_5,-0.015140926660564389
+Previous 62,14,missingindicator_spin_z,-0.08283728196258008
+Previous 62,14,missingindicator_horizontal_movement_avg,-0.0011015150013242395
+Previous 62,14,missingindicator_vertical_movement_avg,-0.0011015150013242395
+Previous 62,14,missingindicator_horizontal_movement_avg_change_vs_prev_5,-0.0011015150013242395
+Previous 62,14,missingindicator_vertical_movement_avg_change_vs_prev_5,-0.0011015150013242395
+Previous 62,14,missingindicator_zone_pct,-0.0019427175533931818
+Previous 62,14,missingindicator_location_variability,-0.04076639020433995
+Previous 62,14,missingindicator_first_pitch_strike_pct,-0.052772240711129154
+Previous 62,14,missingindicator_zone_pct_change_vs_prev_5,-0.0019427175533931818
+Previous 62,14,missingindicator_location_variability_change_vs_prev_5,-0.04076639020433995
+Previous 62,14,missingindicator_walk_rate,-0.06613247667055559
+Previous 62,14,missingindicator_rest_days,-0.2270168969852672
+Previous 62,14,missingindicator_pitches_prev_7d,0.0566794239503403
+Previous 62,14,missingindicator_pitches_prev_14d,0.049002857457175766
+Previous 62,14,missingindicator_pitches_prev_28d,0.15140605374785665
+Previous 62,14,missingindicator_appearances_prev_14d,0.049002857457175766
+Previous 62,14,missingindicator_appearances_prev_28d,0.15140605374785665
+Previous 62,14,missingindicator_season_pitch_count,-0.3118524680554694
+Previous 62,14,missingindicator_season_innings,-0.3118524680554694
+Previous 62,14,missingindicator_previous_season_innings,-0.6948529989556466
+Previous 62,14,missingindicator_workload_acceleration_7d_vs_21d,0.15140605374785665
+Previous 62,14,missingindicator_acute_chronic_pitch_ratio,0.15140605374785665
+Previous 62,14,missingindicator_starts_prev_30d,0.11302244510986025
+Previous 62,14,missingindicator_throws_left,-0.04999088283797328
+Stable 62,14,acute_chronic_pitch_ratio,-0.14614988323107306
+Stable 62,14,age_at_appearance,-0.30517820346937047
+Stable 62,14,appearances_prev_14d,-0.4483067960173278
+Stable 62,14,avg_fb_velo_baseline_sd,0.07125525816308732
+Stable 62,14,calendar_month,5.4960563591310064e-05
+Stable 62,14,ch_avg_velocity_prev_5,0.024954708552777063
+Stable 62,14,ch_release_x_avg_prev_10,-0.03830341617598961
+Stable 62,14,ch_usage_pct_prev_3,0.147033176971056
+Stable 62,14,ch_vertical_movement_avg,-0.03724846242713902
+Stable 62,14,cu_avg_velocity_prev_5,0.02374222110819389
+Stable 62,14,cu_extension_avg_prev_5,-0.19408470352689014
+Stable 62,14,cu_pitch_count,0.25745984667827926
+Stable 62,14,cu_release_z_avg_prev_5,-0.2176829426263251
+Stable 62,14,cu_spin_avg_prev_5,-0.0010252456705715602
+Stable 62,14,current_vs_previous_season_workload,-0.3311541846299177
+Stable 62,14,days_since_mlb_debut,-0.5117522603582204
+Stable 62,14,extension_avg_baseline_sd,0.22489050012930392
+Stable 62,14,extension_z,0.08566228874819316
+Stable 62,14,fastball_usage_pct,-0.4083967179116349
+Stable 62,14,fb_velo_sd_change_vs_prev_5,0.0917822102855291
+Stable 62,14,fb_velo_sd_prev_3,0.21065210878751492
+Stable 62,14,ff_avg_velocity_prev_5,-0.09164887399469013
+Stable 62,14,ff_pitch_count,0.05823753996123775
+Stable 62,14,ff_spin_avg,-0.18380872619655636
+Stable 62,14,ff_vertical_movement_avg,-0.20129095965674274
+Stable 62,14,first_pitch_strike_pct_prev_10,0.21750274253583232
+Stable 62,14,first_pitch_strike_pct_prev_3,-0.08238202584891528
+Stable 62,14,fs_pitch_count,-0.005365730777449235
+Stable 62,14,high_velocity_pitch_count,0.14158288302695893
+Stable 62,14,innings_7d,0.03225841206755422
+Stable 62,14,innings_pitched,-0.6472082710362977
+Stable 62,14,is_starter,0.3685943775320495
+Stable 62,14,ivb_inches,0.5766493295319569
+Stable 62,14,kc_pitch_count,-0.22574388556665956
+Stable 62,14,observed_prior_mlb_appearances,0.2353763907696236
+Stable 62,14,observed_prior_mlb_starts,-0.10055261685236917
+Stable 62,14,release_x_avg_baseline_sd,0.012842688261226764
+Stable 62,14,release_x_change_vs_prev_5,-0.509176718744165
+Stable 62,14,release_x_sd_baseline_mean,-0.32802071001922034
+Stable 62,14,release_x_sd_z,-0.010728190809357342
+Stable 62,14,release_x_z,0.49112279752394106
+Stable 62,14,release_z_change_vs_prev_5,0.3645440213095991
+Stable 62,14,release_z_slope_prev_5,0.08546368388975067
+Stable 62,14,release_z_z,-0.4002950731201063
+Stable 62,14,rest_days,-0.14599805700536503
+Stable 62,14,season_pitch_count,-0.41721204991886784
+Stable 62,14,season_starts,0.04525718003628946
+Stable 62,14,si_extension_avg,0.04702125757613307
+Stable 62,14,si_release_z_avg_prev_5,0.4722965521182365
+Stable 62,14,si_spin_avg_prev_10,0.08888235550890014
+Stable 62,14,si_zone_pct,0.04961986305998794
+Stable 62,14,sl_horizontal_movement_avg,0.31154214641008676
+Stable 62,14,sl_usage_pct_prev_5,0.3790460237208436
+Stable 62,14,sl_vertical_movement_avg,-0.10746357674723478
+Stable 62,14,sl_zone_pct,0.051289897671947145
+Stable 62,14,spin_avg_baseline_sd,0.06759111405014381
+Stable 62,14,st_pitch_count,0.011279579198430669
+Stable 62,14,starter_share_prev_5,0.4189421740668356
+Stable 62,14,strikeout_rate,-0.18278025873490497
+Stable 62,14,sv_usage_pct_prev_5,-0.32176072655912213
+Stable 62,14,velo_z,-0.4476139017073805
+Stable 62,14,zone_pct_baseline_mean,-0.09584220458501119
+Stable 62,14,missingindicator_acute_chronic_pitch_ratio,0.636479630128505
+Stable 62,14,missingindicator_appearances_prev_14d,0.102765083744591
+Stable 62,14,missingindicator_avg_fb_velo_baseline_sd,-0.019760181700724775
+Stable 62,14,missingindicator_ch_avg_velocity_prev_5,-0.177873913788166
+Stable 62,14,missingindicator_ch_release_x_avg_prev_10,0.3263635027079287
+Stable 62,14,missingindicator_ch_vertical_movement_avg,0.13550884666737475
+Stable 62,14,missingindicator_cu_avg_velocity_prev_5,0.21224153118798403
+Stable 62,14,missingindicator_cu_extension_avg_prev_5,0.10937857994392355
+Stable 62,14,missingindicator_cu_release_z_avg_prev_5,0.21224153118798403
+Stable 62,14,missingindicator_cu_spin_avg_prev_5,-0.28423592007079296
+Stable 62,14,missingindicator_current_vs_previous_season_workload,-0.6674416565574999
+Stable 62,14,missingindicator_extension_avg_baseline_sd,-0.009634107398311869
+Stable 62,14,missingindicator_extension_z,-0.14254715779458646
+Stable 62,14,missingindicator_fb_velo_sd_change_vs_prev_5,-0.2634661690061417
+Stable 62,14,missingindicator_fb_velo_sd_prev_3,-0.3164287239840222
+Stable 62,14,missingindicator_ff_avg_velocity_prev_5,0.03569642402232347
+Stable 62,14,missingindicator_ff_spin_avg,-0.03663887183007773
+Stable 62,14,missingindicator_ff_vertical_movement_avg,0.12847682177555614
+Stable 62,14,missingindicator_first_pitch_strike_pct_prev_10,-0.20099271229997545
+Stable 62,14,missingindicator_innings_7d,0.07184007630703751
+Stable 62,14,missingindicator_ivb_inches,-0.21138717680209873
+Stable 62,14,missingindicator_release_x_avg_baseline_sd,0.0002382647299699828
+Stable 62,14,missingindicator_release_x_change_vs_prev_5,-0.0004917449022637404
+Stable 62,14,missingindicator_release_x_sd_baseline_mean,-0.012926309187076377
+Stable 62,14,missingindicator_release_x_sd_z,-0.19166676135023708
+Stable 62,14,missingindicator_release_x_z,-0.00015924260186676214
+Stable 62,14,missingindicator_release_z_change_vs_prev_5,-0.0004917449022637404
+Stable 62,14,missingindicator_release_z_z,-0.00015924260186676214
+Stable 62,14,missingindicator_rest_days,-0.2185079424137261
+Stable 62,14,missingindicator_season_pitch_count,-0.10661832275084722
+Stable 62,14,missingindicator_season_starts,-0.10661832275084722
+Stable 62,14,missingindicator_si_extension_avg,-0.023263744358213326
+Stable 62,14,missingindicator_si_release_z_avg_prev_5,-0.3470098812936904
+Stable 62,14,missingindicator_si_spin_avg_prev_10,0.1980725283471882
+Stable 62,14,missingindicator_si_zone_pct,0.060588472545959504
+Stable 62,14,missingindicator_sl_horizontal_movement_avg,0.023340499031930476
+Stable 62,14,missingindicator_sl_vertical_movement_avg,0.023340499031930476
+Stable 62,14,missingindicator_sl_zone_pct,0.02334623413961386
+Stable 62,14,missingindicator_spin_avg_baseline_sd,-0.030284286605452793
+Stable 62,14,missingindicator_strikeout_rate,-0.06513507737805938
+Stable 62,14,missingindicator_velo_z,-0.25214763719868066
+Stable 62,14,missingindicator_zone_pct_baseline_mean,0.0002382647299699828
+Background,21,throws_left,-0.25051308916011356
+Background,21,age_at_appearance,-0.4039689733360726
+Background,21,days_since_mlb_debut,-0.2863272222392514
+Background,21,observed_prior_mlb_appearances,0.21789448245146825
+Background,21,observed_prior_mlb_starts,0.026922458176012715
+Background,21,prior_reported_il_count,0.05844998780971933
+Background,21,calendar_month,-0.19179009254135368
+Background,21,missingindicator_throws_left,-0.06633550344723742
+Profile,21,avg_fb_velo_baseline_mean,0.18364738084621546
+Profile,21,release_x_avg_baseline_mean,-0.14448089023790373
+Profile,21,release_z_avg_baseline_mean,0.1550196055051198
+Profile,21,release_x_sd_baseline_mean,-0.15768353024094395
+Profile,21,release_z_sd_baseline_mean,0.01483422375482402
+Profile,21,extension_avg_baseline_mean,-0.19850768289090137
+Profile,21,spin_avg_baseline_mean,-0.09669975971908827
+Profile,21,zone_pct_baseline_mean,-0.1317874623356293
+Profile,21,age_at_appearance,-0.3079504848187723
+Profile,21,throws_left,-0.11709483111656933
+Profile,21,observed_prior_mlb_starts,-0.00609095769715458
+Profile,21,days_since_mlb_debut,-0.20368496265185163
+Profile,21,prior_reported_il_count,0.11817339283192291
+Profile,21,missingindicator_avg_fb_velo_baseline_mean,-0.06500817811345926
+Profile,21,missingindicator_release_x_avg_baseline_mean,-0.00012750692094541075
+Profile,21,missingindicator_release_z_avg_baseline_mean,-0.00012750692094541075
+Profile,21,missingindicator_release_x_sd_baseline_mean,-0.03516636328564426
+Profile,21,missingindicator_release_z_sd_baseline_mean,-0.03516636328564426
+Profile,21,missingindicator_extension_avg_baseline_mean,-0.05183119529685729
+Profile,21,missingindicator_spin_avg_baseline_mean,-0.061267519105804254
+Profile,21,missingindicator_zone_pct_baseline_mean,-0.00012750692094541075
+Profile,21,missingindicator_throws_left,-0.040863121129603525
+Departure,21,velo_z,-0.4655633047869524
+Departure,21,release_x_z,0.1266220864023308
+Departure,21,release_z_z,-0.12837434441317253
+Departure,21,release_x_sd_z,0.019809425128539275
+Departure,21,release_z_sd_z,-0.1511227722705487
+Departure,21,extension_z,0.1189246977221276
+Departure,21,spin_z,-0.023986400813269443
+Departure,21,zone_pct_z,0.020307278644803008
+Departure,21,missingindicator_velo_z,-0.325427404159742
+Departure,21,missingindicator_release_x_z,-0.0006270583889365761
+Departure,21,missingindicator_release_z_z,-0.0006270583889365761
+Departure,21,missingindicator_release_x_sd_z,-0.16913172101317714
+Departure,21,missingindicator_release_z_sd_z,-0.16913172101317714
+Departure,21,missingindicator_extension_z,-0.1105295534517558
+Departure,21,missingindicator_spin_z,-0.12023547083578279
+Departure,21,missingindicator_zone_pct_z,-0.0006270583889365761
+Profile + departure,21,avg_fb_velo_baseline_mean,0.15302129601648104
+Profile + departure,21,release_x_avg_baseline_mean,-0.12066748953222708
+Profile + departure,21,release_z_avg_baseline_mean,0.15194637258017663
+Profile + departure,21,release_x_sd_baseline_mean,-0.14359288065557035
+Profile + departure,21,release_z_sd_baseline_mean,-0.0020093072420363715
+Profile + departure,21,extension_avg_baseline_mean,-0.19345586697508158
+Profile + departure,21,spin_avg_baseline_mean,-0.10608701122052225
+Profile + departure,21,zone_pct_baseline_mean,-0.12235869199189886
+Profile + departure,21,age_at_appearance,-0.32076860199628643
+Profile + departure,21,throws_left,-0.14706614404378385
+Profile + departure,21,observed_prior_mlb_starts,-0.022522308062099622
+Profile + departure,21,days_since_mlb_debut,-0.19889778121887852
+Profile + departure,21,prior_reported_il_count,0.09574792045650145
+Profile + departure,21,velo_z,-0.46762038058671884
+Profile + departure,21,release_x_z,0.11847505753475467
+Profile + departure,21,release_z_z,-0.12994977711778113
+Profile + departure,21,release_x_sd_z,0.014943399169599629
+Profile + departure,21,release_z_sd_z,-0.14973485744625636
+Profile + departure,21,extension_z,0.11075562336620356
+Profile + departure,21,spin_z,-0.034616992988646046
+Profile + departure,21,zone_pct_z,0.0023596580494277854
+Profile + departure,21,missingindicator_avg_fb_velo_baseline_mean,-0.018383626662715973
+Profile + departure,21,missingindicator_release_x_avg_baseline_mean,-0.0021102389711318307
+Profile + departure,21,missingindicator_release_z_avg_baseline_mean,-0.0021102389711318307
+Profile + departure,21,missingindicator_release_x_sd_baseline_mean,-0.00814711679468531
+Profile + departure,21,missingindicator_release_z_sd_baseline_mean,-0.00814711679468531
+Profile + departure,21,missingindicator_extension_avg_baseline_mean,-0.013915967810811173
+Profile + departure,21,missingindicator_spin_avg_baseline_mean,-0.018466051210283014
+Profile + departure,21,missingindicator_zone_pct_baseline_mean,-0.0021102389711318307
+Profile + departure,21,missingindicator_throws_left,-0.04107830356742366
+Profile + departure,21,missingindicator_velo_z,-0.3097249573353014
+Profile + departure,21,missingindicator_release_x_z,-0.0020222023038653156
+Profile + departure,21,missingindicator_release_z_z,-0.0020222023038653156
+Profile + departure,21,missingindicator_release_x_sd_z,-0.16427752820511576
+Profile + departure,21,missingindicator_release_z_sd_z,-0.16427752820511576
+Profile + departure,21,missingindicator_extension_z,-0.10025325371382095
+Profile + departure,21,missingindicator_spin_z,-0.11681982440840641
+Profile + departure,21,missingindicator_zone_pct_z,-0.0020222023038653156
+Profile + departure + trajectory,21,avg_fb_velo_baseline_mean,0.16282648717634296
+Profile + departure + trajectory,21,release_x_avg_baseline_mean,-0.11133350022521413
+Profile + departure + trajectory,21,release_z_avg_baseline_mean,0.14402636969128385
+Profile + departure + trajectory,21,release_x_sd_baseline_mean,-0.14007952853319655
+Profile + departure + trajectory,21,release_z_sd_baseline_mean,-0.00799980902712216
+Profile + departure + trajectory,21,extension_avg_baseline_mean,-0.19475277483284137
+Profile + departure + trajectory,21,spin_avg_baseline_mean,-0.10851199430773766
+Profile + departure + trajectory,21,zone_pct_baseline_mean,-0.1135707908849064
+Profile + departure + trajectory,21,age_at_appearance,-0.3101624671156594
+Profile + departure + trajectory,21,throws_left,-0.1477416211674235
+Profile + departure + trajectory,21,observed_prior_mlb_starts,-0.034613170816262286
+Profile + departure + trajectory,21,days_since_mlb_debut,-0.1867688630907077
+Profile + departure + trajectory,21,prior_reported_il_count,0.08769606294616294
+Profile + departure + trajectory,21,velo_z,-0.4774919418517448
+Profile + departure + trajectory,21,release_x_z,0.10584389772887447
+Profile + departure + trajectory,21,release_z_z,-0.11810049398840025
+Profile + departure + trajectory,21,release_x_sd_z,0.015382050907582928
+Profile + departure + trajectory,21,release_z_sd_z,-0.17361366441832418
+Profile + departure + trajectory,21,extension_z,0.10667062705397448
+Profile + departure + trajectory,21,spin_z,0.012248982238149776
+Profile + departure + trajectory,21,zone_pct_z,-0.0020510718781899476
+Profile + departure + trajectory,21,dyn_velo_z_slope4,0.15176143652480029
+Profile + departure + trajectory,21,dyn_velo_z_absmean4,0.18892144629748261
+Profile + departure + trajectory,21,dyn_velo_z_persist4,-0.19755316391625644
+Profile + departure + trajectory,21,dyn_release_z_sd_z_slope4,0.0818762855895007
+Profile + departure + trajectory,21,dyn_release_z_sd_z_absmean4,-0.07646102005449333
+Profile + departure + trajectory,21,dyn_release_z_sd_z_persist4,-0.03143041281172215
+Profile + departure + trajectory,21,dyn_extension_z_slope4,-0.059310033123184926
+Profile + departure + trajectory,21,dyn_extension_z_absmean4,0.15860668679628862
+Profile + departure + trajectory,21,dyn_extension_z_persist4,0.022904708586329803
+Profile + departure + trajectory,21,dyn_spin_z_slope4,-0.08355621238842233
+Profile + departure + trajectory,21,dyn_spin_z_absmean4,0.17956374092406874
+Profile + departure + trajectory,21,dyn_spin_z_persist4,-0.08975723122974053
+Profile + departure + trajectory,21,missingindicator_avg_fb_velo_baseline_mean,-0.02354594046192222
+Profile + departure + trajectory,21,missingindicator_release_x_avg_baseline_mean,0.00019188861013186108
+Profile + departure + trajectory,21,missingindicator_release_z_avg_baseline_mean,0.00019188861013186108
+Profile + departure + trajectory,21,missingindicator_release_x_sd_baseline_mean,-0.009074967997913389
+Profile + departure + trajectory,21,missingindicator_release_z_sd_baseline_mean,-0.009074967997913389
+Profile + departure + trajectory,21,missingindicator_extension_avg_baseline_mean,-0.010069535208479875
+Profile + departure + trajectory,21,missingindicator_spin_avg_baseline_mean,-0.017101022653087054
+Profile + departure + trajectory,21,missingindicator_zone_pct_baseline_mean,0.00019188861013186108
+Profile + departure + trajectory,21,missingindicator_throws_left,-0.04360523299685891
+Profile + departure + trajectory,21,missingindicator_velo_z,-0.28860789348528293
+Profile + departure + trajectory,21,missingindicator_release_x_z,4.3439157551692804e-05
+Profile + departure + trajectory,21,missingindicator_release_z_z,4.3439157551692804e-05
+Profile + departure + trajectory,21,missingindicator_release_x_sd_z,-0.15972186016410148
+Profile + departure + trajectory,21,missingindicator_release_z_sd_z,-0.15972186016410148
+Profile + departure + trajectory,21,missingindicator_extension_z,-0.1249455689719104
+Profile + departure + trajectory,21,missingindicator_spin_z,-0.12105631682535258
+Profile + departure + trajectory,21,missingindicator_zone_pct_z,4.3439157551692804e-05
+Profile + departure + trajectory,21,missingindicator_dyn_velo_z_slope4,-0.06761204825987491
+Profile + departure + trajectory,21,missingindicator_dyn_velo_z_absmean4,-0.06761204825987491
+Profile + departure + trajectory,21,missingindicator_dyn_velo_z_persist4,-0.06761204825987491
+Profile + departure + trajectory,21,missingindicator_dyn_release_z_sd_z_slope4,-0.025767219813551845
+Profile + departure + trajectory,21,missingindicator_dyn_release_z_sd_z_absmean4,-0.025767219813551845
+Profile + departure + trajectory,21,missingindicator_dyn_release_z_sd_z_persist4,-0.025767219813551845
+Profile + departure + trajectory,21,missingindicator_dyn_extension_z_slope4,0.16149872138497542
+Profile + departure + trajectory,21,missingindicator_dyn_extension_z_absmean4,0.16149872138497542
+Profile + departure + trajectory,21,missingindicator_dyn_extension_z_persist4,0.16149872138497542
+Profile + departure + trajectory,21,missingindicator_dyn_spin_z_slope4,-0.035193816535209
+Profile + departure + trajectory,21,missingindicator_dyn_spin_z_absmean4,-0.035193816535209
+Profile + departure + trajectory,21,missingindicator_dyn_spin_z_persist4,-0.035193816535209
+Profile + departure + trajectory + interactions,21,avg_fb_velo_baseline_mean,0.14926155648532807
+Profile + departure + trajectory + interactions,21,release_x_avg_baseline_mean,-0.11055949777310349
+Profile + departure + trajectory + interactions,21,release_z_avg_baseline_mean,0.144202166527229
+Profile + departure + trajectory + interactions,21,release_x_sd_baseline_mean,-0.1403513904893579
+Profile + departure + trajectory + interactions,21,release_z_sd_baseline_mean,-0.005841460695417034
+Profile + departure + trajectory + interactions,21,extension_avg_baseline_mean,-0.1937347592504335
+Profile + departure + trajectory + interactions,21,spin_avg_baseline_mean,-0.10825856376834789
+Profile + departure + trajectory + interactions,21,zone_pct_baseline_mean,-0.113838726633273
+Profile + departure + trajectory + interactions,21,age_at_appearance,-0.3100594668664849
+Profile + departure + trajectory + interactions,21,throws_left,-0.14803622557267418
+Profile + departure + trajectory + interactions,21,observed_prior_mlb_starts,-0.03375753605831897
+Profile + departure + trajectory + interactions,21,days_since_mlb_debut,-0.18713236949587284
+Profile + departure + trajectory + interactions,21,prior_reported_il_count,0.08753866263430175
+Profile + departure + trajectory + interactions,21,velo_z,-0.46889310805149287
+Profile + departure + trajectory + interactions,21,release_x_z,0.10627469737247203
+Profile + departure + trajectory + interactions,21,release_z_z,-0.11838080363765749
+Profile + departure + trajectory + interactions,21,release_x_sd_z,0.014803293224178674
+Profile + departure + trajectory + interactions,21,release_z_sd_z,-0.17186004376234712
+Profile + departure + trajectory + interactions,21,extension_z,0.10553915641627891
+Profile + departure + trajectory + interactions,21,spin_z,0.012336871456675448
+Profile + departure + trajectory + interactions,21,zone_pct_z,-0.0021640776517040613
+Profile + departure + trajectory + interactions,21,dyn_velo_z_slope4,0.15278973572178303
+Profile + departure + trajectory + interactions,21,dyn_velo_z_absmean4,0.1873370665499621
+Profile + departure + trajectory + interactions,21,dyn_velo_z_persist4,-0.19685077107741566
+Profile + departure + trajectory + interactions,21,dyn_release_z_sd_z_slope4,0.08220674750088457
+Profile + departure + trajectory + interactions,21,dyn_release_z_sd_z_absmean4,-0.07659822078778247
+Profile + departure + trajectory + interactions,21,dyn_release_z_sd_z_persist4,-0.031564562779826735
+Profile + departure + trajectory + interactions,21,dyn_extension_z_slope4,-0.0588750922027214
+Profile + departure + trajectory + interactions,21,dyn_extension_z_absmean4,0.15838244225864542
+Profile + departure + trajectory + interactions,21,dyn_extension_z_persist4,0.02306098166157255
+Profile + departure + trajectory + interactions,21,dyn_spin_z_slope4,-0.08321131972658076
+Profile + departure + trajectory + interactions,21,dyn_spin_z_absmean4,0.1793797717611541
+Profile + departure + trajectory + interactions,21,dyn_spin_z_persist4,-0.08968584007533836
+Profile + departure + trajectory + interactions,21,missingindicator_avg_fb_velo_baseline_mean,-0.023912127832797232
+Profile + departure + trajectory + interactions,21,missingindicator_release_x_avg_baseline_mean,-0.000646930226634969
+Profile + departure + trajectory + interactions,21,missingindicator_release_z_avg_baseline_mean,-0.000646930226634969
+Profile + departure + trajectory + interactions,21,missingindicator_release_x_sd_baseline_mean,-0.00934853888872413
+Profile + departure + trajectory + interactions,21,missingindicator_release_z_sd_baseline_mean,-0.00934853888872413
+Profile + departure + trajectory + interactions,21,missingindicator_extension_avg_baseline_mean,-0.010346505515109638
+Profile + departure + trajectory + interactions,21,missingindicator_spin_avg_baseline_mean,-0.017776370724232483
+Profile + departure + trajectory + interactions,21,missingindicator_zone_pct_baseline_mean,-0.000646930226634969
+Profile + departure + trajectory + interactions,21,missingindicator_throws_left,-0.043633210472314506
+Profile + departure + trajectory + interactions,21,missingindicator_velo_z,-0.28894041845731905
+Profile + departure + trajectory + interactions,21,missingindicator_release_x_z,-0.0005445226924553037
+Profile + departure + trajectory + interactions,21,missingindicator_release_z_z,-0.0005445226924553037
+Profile + departure + trajectory + interactions,21,missingindicator_release_x_sd_z,-0.1604438214413234
+Profile + departure + trajectory + interactions,21,missingindicator_release_z_sd_z,-0.1604438214413234
+Profile + departure + trajectory + interactions,21,missingindicator_extension_z,-0.12547033798677798
+Profile + departure + trajectory + interactions,21,missingindicator_spin_z,-0.12204174211335582
+Profile + departure + trajectory + interactions,21,missingindicator_zone_pct_z,-0.0005445226924553037
+Profile + departure + trajectory + interactions,21,missingindicator_dyn_velo_z_slope4,-0.06773179950552549
+Profile + departure + trajectory + interactions,21,missingindicator_dyn_velo_z_absmean4,-0.06773179950552549
+Profile + departure + trajectory + interactions,21,missingindicator_dyn_velo_z_persist4,-0.06773179950552549
+Profile + departure + trajectory + interactions,21,missingindicator_dyn_release_z_sd_z_slope4,-0.025721272144807773
+Profile + departure + trajectory + interactions,21,missingindicator_dyn_release_z_sd_z_absmean4,-0.025721272144807773
+Profile + departure + trajectory + interactions,21,missingindicator_dyn_release_z_sd_z_persist4,-0.025721272144807773
+Profile + departure + trajectory + interactions,21,missingindicator_dyn_extension_z_slope4,0.16068167177986306
+Profile + departure + trajectory + interactions,21,missingindicator_dyn_extension_z_absmean4,0.16068167177986306
+Profile + departure + trajectory + interactions,21,missingindicator_dyn_extension_z_persist4,0.16068167177986306
+Profile + departure + trajectory + interactions,21,missingindicator_dyn_spin_z_slope4,-0.0346663980050316
+Profile + departure + trajectory + interactions,21,missingindicator_dyn_spin_z_absmean4,-0.0346663980050316
+Profile + departure + trajectory + interactions,21,missingindicator_dyn_spin_z_persist4,-0.0346663980050316
+Profile + departure + trajectory + interactions,21,avg_fb_velo_baseline_mean × velo_z,-0.03010145420676032
+Profile + departure + trajectory + interactions,21,release_z_sd_baseline_mean × release_z_sd_z,0.011849317696511479
+Profile + departure + trajectory + interactions,21,extension_avg_baseline_mean × extension_z,-0.004009873445097927
+Previous 62,21,avg_fb_velo,0.24838461969491613
+Previous 62,21,fb_velo_sd,0.20794171594885819
+Previous 62,21,fb_velo_change_vs_prev_3,-0.11612355889574619
+Previous 62,21,fb_velo_change_vs_prev_5,0.2995623596992782
+Previous 62,21,velo_z,-0.5477317116008752
+Previous 62,21,fb_velo_slope_prev_5,-0.1595535029356569
+Previous 62,21,avg_fb_velo_baseline_mean,-0.007045330678906971
+Previous 62,21,release_x_avg,-0.19382161272602635
+Previous 62,21,release_z_avg,0.09840685208219804
+Previous 62,21,release_x_sd,-0.2157196753566721
+Previous 62,21,release_z_sd,-0.08351366449444896
+Previous 62,21,extension_avg,-0.1509571188839577
+Previous 62,21,extension_sd,0.11449817714050213
+Previous 62,21,release_x_change_vs_prev_5,-0.36123079043205214
+Previous 62,21,release_z_change_vs_prev_5,0.25158306702129635
+Previous 62,21,extension_change_vs_prev_5,-0.10403034502566781
+Previous 62,21,release_x_z,0.4014121558088995
+Previous 62,21,release_z_z,-0.3340386904237529
+Previous 62,21,extension_z,0.22639706363794496
+Previous 62,21,spin_avg,-0.15908748440773932
+Previous 62,21,spin_change_vs_prev_5,0.2627005795414269
+Previous 62,21,spin_z,-0.19677016790578383
+Previous 62,21,horizontal_movement_avg,0.30360691231020454
+Previous 62,21,vertical_movement_avg,0.16785342408319848
+Previous 62,21,horizontal_movement_avg_change_vs_prev_5,-0.09637435770961061
+Previous 62,21,vertical_movement_avg_change_vs_prev_5,-0.03638993417586123
+Previous 62,21,fastball_usage_pct,-0.22419546004060825
+Previous 62,21,fastball_usage_pct_change_vs_prev_5,0.18497275360847856
+Previous 62,21,sl_usage_pct,0.40346380708804264
+Previous 62,21,sl_usage_pct_change_vs_prev_5,-0.22420254723978397
+Previous 62,21,ch_usage_pct,0.0933619232987761
+Previous 62,21,cu_usage_pct,-0.03139976923398833
+Previous 62,21,zone_pct,-0.18529954040473307
+Previous 62,21,location_variability,-0.3176274503750439
+Previous 62,21,strike_pct,-0.0924597858534417
+Previous 62,21,first_pitch_strike_pct,0.014897922597914112
+Previous 62,21,zone_pct_change_vs_prev_5,0.1446912695918773
+Previous 62,21,location_variability_change_vs_prev_5,0.17241124970959018
+Previous 62,21,walk_rate,0.08306169488121207
+Previous 62,21,hbp_rate,-0.025754171524327362
+Previous 62,21,total_pitches,-0.2976796945345976
+Previous 62,21,innings_pitched,-0.1770603807487015
+Previous 62,21,rest_days,-0.05550129116485692
+Previous 62,21,pitches_prev_7d,-0.7068207453767836
+Previous 62,21,pitches_prev_14d,0.4446869033449369
+Previous 62,21,pitches_prev_28d,0.591976709013778
+Previous 62,21,appearances_prev_14d,-0.4562307185324546
+Previous 62,21,appearances_prev_28d,-0.08973981048317019
+Previous 62,21,season_pitch_count,0.8515352398439123
+Previous 62,21,season_innings,-1.4184099129933945
+Previous 62,21,previous_season_innings,0.18085067328963367
+Previous 62,21,workload_acceleration_7d_vs_21d,0.5689201240827327
+Previous 62,21,acute_chronic_pitch_ratio,-0.15761765303296682
+Previous 62,21,starts_prev_30d,-0.29353324879210496
+Previous 62,21,starter_share_prev_5,0.3070484521337493
+Previous 62,21,age_at_appearance,-0.20283483584690387
+Previous 62,21,throws_left,-0.24565863151973794
+Previous 62,21,observed_prior_mlb_starts,-0.286420109889479
+Previous 62,21,days_since_mlb_debut,-0.31485891486277323
+Previous 62,21,is_starter,0.3648631000634413
+Previous 62,21,prior_reported_il_count,0.06158853263603468
+Previous 62,21,calendar_month,0.12548468139312738
+Previous 62,21,missingindicator_avg_fb_velo,-0.04827035019640875
+Previous 62,21,missingindicator_fb_velo_sd,-0.2413925191122671
+Previous 62,21,missingindicator_fb_velo_change_vs_prev_3,-0.24048451851208372
+Previous 62,21,missingindicator_fb_velo_change_vs_prev_5,-0.0500605674415579
+Previous 62,21,missingindicator_velo_z,-0.06031911053936273
+Previous 62,21,missingindicator_fb_velo_slope_prev_5,-0.08919668111930636
+Previous 62,21,missingindicator_avg_fb_velo_baseline_mean,-0.06150213501470533
+Previous 62,21,missingindicator_release_x_avg,-0.0006920386322268699
+Previous 62,21,missingindicator_release_z_avg,-0.0006920386322268699
+Previous 62,21,missingindicator_release_x_sd,-0.04191163035197193
+Previous 62,21,missingindicator_release_z_sd,-0.04191163035197193
+Previous 62,21,missingindicator_extension_avg,-0.014397499923253395
+Previous 62,21,missingindicator_extension_sd,-0.11021274215118192
+Previous 62,21,missingindicator_release_x_change_vs_prev_5,-0.0006920386322268699
+Previous 62,21,missingindicator_release_z_change_vs_prev_5,-0.0006920386322268699
+Previous 62,21,missingindicator_extension_change_vs_prev_5,-0.014397499923253395
+Previous 62,21,missingindicator_release_x_z,-0.0008868688595720247
+Previous 62,21,missingindicator_release_z_z,-0.0008868688595720247
+Previous 62,21,missingindicator_extension_z,-0.08020937653051806
+Previous 62,21,missingindicator_spin_avg,-0.01752921565662118
+Previous 62,21,missingindicator_spin_change_vs_prev_5,-0.017483707093190373
+Previous 62,21,missingindicator_spin_z,-0.09644304676930586
+Previous 62,21,missingindicator_horizontal_movement_avg,-0.00038523264863036155
+Previous 62,21,missingindicator_vertical_movement_avg,-0.00038523264863036155
+Previous 62,21,missingindicator_horizontal_movement_avg_change_vs_prev_5,-0.00038523264863036155
+Previous 62,21,missingindicator_vertical_movement_avg_change_vs_prev_5,-0.00038523264863036155
+Previous 62,21,missingindicator_zone_pct,-0.0006920386322268699
+Previous 62,21,missingindicator_location_variability,-0.04191163035197193
+Previous 62,21,missingindicator_first_pitch_strike_pct,-0.0573665714416825
+Previous 62,21,missingindicator_zone_pct_change_vs_prev_5,-0.0006920386322268699
+Previous 62,21,missingindicator_location_variability_change_vs_prev_5,-0.04191163035197193
+Previous 62,21,missingindicator_walk_rate,-0.07152584749879008
+Previous 62,21,missingindicator_rest_days,-0.21657809314551527
+Previous 62,21,missingindicator_pitches_prev_7d,0.05978706313716959
+Previous 62,21,missingindicator_pitches_prev_14d,0.05959381228206263
+Previous 62,21,missingindicator_pitches_prev_28d,0.14953652977681967
+Previous 62,21,missingindicator_appearances_prev_14d,0.05959381228206263
+Previous 62,21,missingindicator_appearances_prev_28d,0.14953652977681967
+Previous 62,21,missingindicator_season_pitch_count,-0.3339768678883053
+Previous 62,21,missingindicator_season_innings,-0.3339768678883053
+Previous 62,21,missingindicator_previous_season_innings,-0.5058265468513199
+Previous 62,21,missingindicator_workload_acceleration_7d_vs_21d,0.14953652977681967
+Previous 62,21,missingindicator_acute_chronic_pitch_ratio,0.14953652977681967
+Previous 62,21,missingindicator_starts_prev_30d,0.11236197727438194
+Previous 62,21,missingindicator_throws_left,-0.05306682468766014
+Stable 62,21,acute_chronic_pitch_ratio,-0.04790574825183373
+Stable 62,21,age_at_appearance,-0.34467707740596365
+Stable 62,21,appearances_prev_14d,-0.30944495341614225
+Stable 62,21,avg_fb_velo_baseline_sd,0.05386488623603873
+Stable 62,21,calendar_month,0.06991390213633022
+Stable 62,21,ch_avg_velocity_prev_5,0.08041717711052726
+Stable 62,21,ch_release_x_avg_prev_10,-0.014030466433546369
+Stable 62,21,ch_usage_pct_prev_3,0.11299997958397903
+Stable 62,21,ch_vertical_movement_avg,-0.06099467780204141
+Stable 62,21,cu_avg_velocity_prev_5,0.03366643897569807
+Stable 62,21,cu_extension_avg_prev_5,-0.18445106742570402
+Stable 62,21,cu_pitch_count,0.2359399932499186
+Stable 62,21,cu_release_z_avg_prev_5,-0.25081435963606913
+Stable 62,21,cu_spin_avg_prev_5,0.05475808768548452
+Stable 62,21,current_vs_previous_season_workload,-0.3642590514202343
+Stable 62,21,days_since_mlb_debut,-0.36342143262339527
+Stable 62,21,extension_avg_baseline_sd,0.22927453241819354
+Stable 62,21,extension_z,0.09078450668174888
+Stable 62,21,fastball_usage_pct,-0.40336147596383237
+Stable 62,21,fb_velo_sd_change_vs_prev_5,0.0725924889195132
+Stable 62,21,fb_velo_sd_prev_3,0.16472494633108536
+Stable 62,21,ff_avg_velocity_prev_5,-0.1842239870422789
+Stable 62,21,ff_pitch_count,0.043199131340176555
+Stable 62,21,ff_spin_avg,-0.16427280186179344
+Stable 62,21,ff_vertical_movement_avg,-0.19058316980915216
+Stable 62,21,first_pitch_strike_pct_prev_10,0.13892781588580078
+Stable 62,21,first_pitch_strike_pct_prev_3,0.04700450068047463
+Stable 62,21,fs_pitch_count,0.02527007604152458
+Stable 62,21,high_velocity_pitch_count,0.21685283675290276
+Stable 62,21,innings_7d,0.04160697929541826
+Stable 62,21,innings_pitched,-0.5071430016857025
+Stable 62,21,is_starter,0.3133312459389057
+Stable 62,21,ivb_inches,0.5988575547376968
+Stable 62,21,kc_pitch_count,-0.15143634862391367
+Stable 62,21,observed_prior_mlb_appearances,0.20702815462059007
+Stable 62,21,observed_prior_mlb_starts,-0.15032449660927674
+Stable 62,21,release_x_avg_baseline_sd,0.048914835695971486
+Stable 62,21,release_x_change_vs_prev_5,-0.35265913724355036
+Stable 62,21,release_x_sd_baseline_mean,-0.25675877678513537
+Stable 62,21,release_x_sd_z,-0.028533932999583945
+Stable 62,21,release_x_z,0.392652250356133
+Stable 62,21,release_z_change_vs_prev_5,0.284037688560328
+Stable 62,21,release_z_slope_prev_5,0.05485084930789507
+Stable 62,21,release_z_z,-0.3506701140205799
+Stable 62,21,rest_days,-0.09431728083957892
+Stable 62,21,season_pitch_count,-0.31397432343065856
+Stable 62,21,season_starts,-0.10675173655161628
+Stable 62,21,si_extension_avg,0.050315095624283296
+Stable 62,21,si_release_z_avg_prev_5,0.5534730622378883
+Stable 62,21,si_spin_avg_prev_10,0.05183594351125706
+Stable 62,21,si_zone_pct,-0.03873075679402596
+Stable 62,21,sl_horizontal_movement_avg,0.32826577345039615
+Stable 62,21,sl_usage_pct_prev_5,0.38741333945626233
+Stable 62,21,sl_vertical_movement_avg,-0.12189540983205972
+Stable 62,21,sl_zone_pct,0.030617121271394963
+Stable 62,21,spin_avg_baseline_sd,0.04169744057529181
+Stable 62,21,st_pitch_count,0.03793588356363397
+Stable 62,21,starter_share_prev_5,0.34718480471455404
+Stable 62,21,strikeout_rate,-0.17790915989250494
+Stable 62,21,sv_usage_pct_prev_5,-0.3446603132995266
+Stable 62,21,velo_z,-0.4203333215636115
+Stable 62,21,zone_pct_baseline_mean,-0.10482798161814988
+Stable 62,21,missingindicator_acute_chronic_pitch_ratio,0.640536585743927
+Stable 62,21,missingindicator_appearances_prev_14d,0.10506436672858388
+Stable 62,21,missingindicator_avg_fb_velo_baseline_sd,-0.02495237851059595
+Stable 62,21,missingindicator_ch_avg_velocity_prev_5,-0.10293693003548912
+Stable 62,21,missingindicator_ch_release_x_avg_prev_10,0.2132030010624103
+Stable 62,21,missingindicator_ch_vertical_movement_avg,0.10978394154628172
+Stable 62,21,missingindicator_cu_avg_velocity_prev_5,0.24026636999315545
+Stable 62,21,missingindicator_cu_extension_avg_prev_5,0.10858601403835152
+Stable 62,21,missingindicator_cu_release_z_avg_prev_5,0.24026636999315545
+Stable 62,21,missingindicator_cu_spin_avg_prev_5,-0.3347482860285563
+Stable 62,21,missingindicator_current_vs_previous_season_workload,-0.4770326689302612
+Stable 62,21,missingindicator_extension_avg_baseline_sd,-0.00857556894260428
+Stable 62,21,missingindicator_extension_z,-0.15018930406526856
+Stable 62,21,missingindicator_fb_velo_sd_change_vs_prev_5,-0.28827683316516944
+Stable 62,21,missingindicator_fb_velo_sd_prev_3,-0.3347550598813446
+Stable 62,21,missingindicator_ff_avg_velocity_prev_5,-0.013782946330185349
+Stable 62,21,missingindicator_ff_spin_avg,-0.07751483016697394
+Stable 62,21,missingindicator_ff_vertical_movement_avg,0.14254833565479738
+Stable 62,21,missingindicator_first_pitch_strike_pct_prev_10,-0.08845200054260818
+Stable 62,21,missingindicator_innings_7d,0.06648838523012378
+Stable 62,21,missingindicator_ivb_inches,-0.25274619423180894
+Stable 62,21,missingindicator_release_x_avg_baseline_sd,-0.0018154367301098648
+Stable 62,21,missingindicator_release_x_change_vs_prev_5,-0.0003821244899669438
+Stable 62,21,missingindicator_release_x_sd_baseline_mean,-0.019326001159753588
+Stable 62,21,missingindicator_release_x_sd_z,-0.195211232958361
+Stable 62,21,missingindicator_release_x_z,-0.0016225535701216943
+Stable 62,21,missingindicator_release_z_change_vs_prev_5,-0.0003821244899669438
+Stable 62,21,missingindicator_release_z_z,-0.0016225535701216943
+Stable 62,21,missingindicator_rest_days,-0.2076862922633432
+Stable 62,21,missingindicator_season_pitch_count,-0.1770846285849055
+Stable 62,21,missingindicator_season_starts,-0.1770846285849055
+Stable 62,21,missingindicator_si_extension_avg,-0.08689749005379131
+Stable 62,21,missingindicator_si_release_z_avg_prev_5,-0.125689182256129
+Stable 62,21,missingindicator_si_spin_avg_prev_10,0.05780197081152315
+Stable 62,21,missingindicator_si_zone_pct,0.018788532761651426
+Stable 62,21,missingindicator_sl_horizontal_movement_avg,0.038980974056801655
+Stable 62,21,missingindicator_sl_vertical_movement_avg,0.038980974056801655
+Stable 62,21,missingindicator_sl_zone_pct,0.03897907549056285
+Stable 62,21,missingindicator_spin_avg_baseline_sd,-0.04145169561691007
+Stable 62,21,missingindicator_strikeout_rate,-0.06638918126996234
+Stable 62,21,missingindicator_velo_z,-0.24337713113592932
+Stable 62,21,missingindicator_zone_pct_baseline_mean,-0.0018154367301098648
+Background,30,throws_left,-0.21813501285253661
+Background,30,age_at_appearance,-0.4348223406647283
+Background,30,days_since_mlb_debut,-0.30992789888270866
+Background,30,observed_prior_mlb_appearances,0.20898276198221094
+Background,30,observed_prior_mlb_starts,0.0486565626705189
+Background,30,prior_reported_il_count,0.046558453898259015
+Background,30,calendar_month,-0.08682619527179254
+Background,30,missingindicator_throws_left,-0.05768941006851811
+Profile,30,avg_fb_velo_baseline_mean,0.20563929901699035
+Profile,30,release_x_avg_baseline_mean,-0.31235176542320786
+Profile,30,release_z_avg_baseline_mean,0.1653371957978198
+Profile,30,release_x_sd_baseline_mean,-0.19525628373956083
+Profile,30,release_z_sd_baseline_mean,0.07529292670363207
+Profile,30,extension_avg_baseline_mean,-0.1786187051192538
+Profile,30,spin_avg_baseline_mean,-0.11886006677603039
+Profile,30,zone_pct_baseline_mean,-0.12633205653883012
+Profile,30,age_at_appearance,-0.32552410413238064
+Profile,30,throws_left,0.06475311406360253
+Profile,30,observed_prior_mlb_starts,0.018131656671224804
+Profile,30,days_since_mlb_debut,-0.2533619590978883
+Profile,30,prior_reported_il_count,0.1200953257368705
+Profile,30,missingindicator_avg_fb_velo_baseline_mean,-0.06629882170665466
+Profile,30,missingindicator_release_x_avg_baseline_mean,-0.0017664558835212305
+Profile,30,missingindicator_release_z_avg_baseline_mean,-0.0017664558835212305
+Profile,30,missingindicator_release_x_sd_baseline_mean,-0.03837313751813396
+Profile,30,missingindicator_release_z_sd_baseline_mean,-0.03837313751813396
+Profile,30,missingindicator_extension_avg_baseline_mean,-0.05413326769134399
+Profile,30,missingindicator_spin_avg_baseline_mean,-0.06834623248172762
+Profile,30,missingindicator_zone_pct_baseline_mean,-0.0017664558835212305
+Profile,30,missingindicator_throws_left,-0.03406042117777024
+Departure,30,velo_z,-0.40343877660736194
+Departure,30,release_x_z,0.12721986471666982
+Departure,30,release_z_z,-0.07064966595307133
+Departure,30,release_x_sd_z,0.016013852263332833
+Departure,30,release_z_sd_z,-0.1332668939788842
+Departure,30,extension_z,0.11017102606466678
+Departure,30,spin_z,0.0008945656858576134
+Departure,30,zone_pct_z,0.031733504806228316
+Departure,30,missingindicator_velo_z,-0.3347806289377878
+Departure,30,missingindicator_release_x_z,-0.0016609427784159666
+Departure,30,missingindicator_release_z_z,-0.0016609427784159666
+Departure,30,missingindicator_release_x_sd_z,-0.17766898296330982
+Departure,30,missingindicator_release_z_sd_z,-0.17766898296330982
+Departure,30,missingindicator_extension_z,-0.10879998821440955
+Departure,30,missingindicator_spin_z,-0.13666546710486527
+Departure,30,missingindicator_zone_pct_z,-0.0016609427784159666
+Profile + departure,30,avg_fb_velo_baseline_mean,0.17679397671253377
+Profile + departure,30,release_x_avg_baseline_mean,-0.28915875813119674
+Profile + departure,30,release_z_avg_baseline_mean,0.1630700742529611
+Profile + departure,30,release_x_sd_baseline_mean,-0.17953085622805753
+Profile + departure,30,release_z_sd_baseline_mean,0.05745922347326703
+Profile + departure,30,extension_avg_baseline_mean,-0.17389089652616807
+Profile + departure,30,spin_avg_baseline_mean,-0.12652794613779358
+Profile + departure,30,zone_pct_baseline_mean,-0.11448930077645163
+Profile + departure,30,age_at_appearance,-0.3339872251478947
+Profile + departure,30,throws_left,0.037929816488693
+Profile + departure,30,observed_prior_mlb_starts,0.0032742823451568383
+Profile + departure,30,days_since_mlb_debut,-0.2514772641472285
+Profile + departure,30,prior_reported_il_count,0.10207623109262122
+Profile + departure,30,velo_z,-0.4037078209018318
+Profile + departure,30,release_x_z,0.11176302718828496
+Profile + departure,30,release_z_z,-0.06919632675135533
+Profile + departure,30,release_x_sd_z,0.01058974397238327
+Profile + departure,30,release_z_sd_z,-0.12857751378570026
+Profile + departure,30,extension_z,0.10305186870190272
+Profile + departure,30,spin_z,-0.011710872556464195
+Profile + departure,30,zone_pct_z,0.014725730200740915
+Profile + departure,30,missingindicator_avg_fb_velo_baseline_mean,-0.020210911700182018
+Profile + departure,30,missingindicator_release_x_avg_baseline_mean,-0.0011892972678523475
+Profile + departure,30,missingindicator_release_z_avg_baseline_mean,-0.0011892972678523475
+Profile + departure,30,missingindicator_release_x_sd_baseline_mean,-0.00866203952371885
+Profile + departure,30,missingindicator_release_z_sd_baseline_mean,-0.00866203952371885
+Profile + departure,30,missingindicator_extension_avg_baseline_mean,-0.01518142023002428
+Profile + departure,30,missingindicator_spin_avg_baseline_mean,-0.021529648315458002
+Profile + departure,30,missingindicator_zone_pct_baseline_mean,-0.0011892972678523475
+Profile + departure,30,missingindicator_throws_left,-0.03318699117724221
+Profile + departure,30,missingindicator_velo_z,-0.31858517961735533
+Profile + departure,30,missingindicator_release_x_z,-0.00100073478911457
+Profile + departure,30,missingindicator_release_z_z,-0.00100073478911457
+Profile + departure,30,missingindicator_release_x_sd_z,-0.17027162328356296
+Profile + departure,30,missingindicator_release_z_sd_z,-0.17027162328356296
+Profile + departure,30,missingindicator_extension_z,-0.10387252493556597
+Profile + departure,30,missingindicator_spin_z,-0.12647832042764434
+Profile + departure,30,missingindicator_zone_pct_z,-0.00100073478911457
+Profile + departure + trajectory,30,avg_fb_velo_baseline_mean,0.18799131602611088
+Profile + departure + trajectory,30,release_x_avg_baseline_mean,-0.2754475432055543
+Profile + departure + trajectory,30,release_z_avg_baseline_mean,0.15571338249213046
+Profile + departure + trajectory,30,release_x_sd_baseline_mean,-0.17433318989513163
+Profile + departure + trajectory,30,release_z_sd_baseline_mean,0.04929263928627179
+Profile + departure + trajectory,30,extension_avg_baseline_mean,-0.17653109960440697
+Profile + departure + trajectory,30,spin_avg_baseline_mean,-0.12641378175094126
+Profile + departure + trajectory,30,zone_pct_baseline_mean,-0.10305782325212623
+Profile + departure + trajectory,30,age_at_appearance,-0.32254205678505454
+Profile + departure + trajectory,30,throws_left,0.034975456849204896
+Profile + departure + trajectory,30,observed_prior_mlb_starts,-0.010298632473066166
+Profile + departure + trajectory,30,days_since_mlb_debut,-0.23348663413253254
+Profile + departure + trajectory,30,prior_reported_il_count,0.09231866788477877
+Profile + departure + trajectory,30,velo_z,-0.40515848174846536
+Profile + departure + trajectory,30,release_x_z,0.0986697715000589
+Profile + departure + trajectory,30,release_z_z,-0.05716351060312789
+Profile + departure + trajectory,30,release_x_sd_z,0.010653607606416236
+Profile + departure + trajectory,30,release_z_sd_z,-0.14408209603168184
+Profile + departure + trajectory,30,extension_z,0.09392256566182644
+Profile + departure + trajectory,30,spin_z,0.015968086602203745
+Profile + departure + trajectory,30,zone_pct_z,0.009344328905891038
+Profile + departure + trajectory,30,dyn_velo_z_slope4,0.14347933831929421
+Profile + departure + trajectory,30,dyn_velo_z_absmean4,0.1582716113972495
+Profile + departure + trajectory,30,dyn_velo_z_persist4,-0.149619034792395
+Profile + departure + trajectory,30,dyn_release_z_sd_z_slope4,0.07725041662347598
+Profile + departure + trajectory,30,dyn_release_z_sd_z_absmean4,-0.14037939471408725
+Profile + departure + trajectory,30,dyn_release_z_sd_z_persist4,0.06165352092506962
+Profile + departure + trajectory,30,dyn_extension_z_slope4,-0.03741450560871924
+Profile + departure + trajectory,30,dyn_extension_z_absmean4,0.19839730398467
+Profile + departure + trajectory,30,dyn_extension_z_persist4,-0.05771118656690853
+Profile + departure + trajectory,30,dyn_spin_z_slope4,-0.05388046614602565
+Profile + departure + trajectory,30,dyn_spin_z_absmean4,0.1478488849835211
+Profile + departure + trajectory,30,dyn_spin_z_persist4,-0.0511181957317737
+Profile + departure + trajectory,30,missingindicator_avg_fb_velo_baseline_mean,-0.024970173799436574
+Profile + departure + trajectory,30,missingindicator_release_x_avg_baseline_mean,-0.002246461111742377
+Profile + departure + trajectory,30,missingindicator_release_z_avg_baseline_mean,-0.002246461111742377
+Profile + departure + trajectory,30,missingindicator_release_x_sd_baseline_mean,-0.009991293528817528
+Profile + departure + trajectory,30,missingindicator_release_z_sd_baseline_mean,-0.009991293528817528
+Profile + departure + trajectory,30,missingindicator_extension_avg_baseline_mean,-0.011230678735636188
+Profile + departure + trajectory,30,missingindicator_spin_avg_baseline_mean,-0.020182183382495594
+Profile + departure + trajectory,30,missingindicator_zone_pct_baseline_mean,-0.002246461111742377
+Profile + departure + trajectory,30,missingindicator_throws_left,-0.035952590747251524
+Profile + departure + trajectory,30,missingindicator_velo_z,-0.30085854261365336
+Profile + departure + trajectory,30,missingindicator_release_x_z,-0.0019777970748882778
+Profile + departure + trajectory,30,missingindicator_release_z_z,-0.0019777970748882778
+Profile + departure + trajectory,30,missingindicator_release_x_sd_z,-0.16847493761800858
+Profile + departure + trajectory,30,missingindicator_release_z_sd_z,-0.16847493761800858
+Profile + departure + trajectory,30,missingindicator_extension_z,-0.13165315684814094
+Profile + departure + trajectory,30,missingindicator_spin_z,-0.1299699531123123
+Profile + departure + trajectory,30,missingindicator_zone_pct_z,-0.0019777970748882778
+Profile + departure + trajectory,30,missingindicator_dyn_velo_z_slope4,-0.05900277013938358
+Profile + departure + trajectory,30,missingindicator_dyn_velo_z_absmean4,-0.05900277013938358
+Profile + departure + trajectory,30,missingindicator_dyn_velo_z_persist4,-0.05900277013938358
+Profile + departure + trajectory,30,missingindicator_dyn_release_z_sd_z_slope4,-0.019173210133361204
+Profile + departure + trajectory,30,missingindicator_dyn_release_z_sd_z_absmean4,-0.019173210133361204
+Profile + departure + trajectory,30,missingindicator_dyn_release_z_sd_z_persist4,-0.019173210133361204
+Profile + departure + trajectory,30,missingindicator_dyn_extension_z_slope4,0.16812904873194684
+Profile + departure + trajectory,30,missingindicator_dyn_extension_z_absmean4,0.16812904873194684
+Profile + departure + trajectory,30,missingindicator_dyn_extension_z_persist4,0.16812904873194684
+Profile + departure + trajectory,30,missingindicator_dyn_spin_z_slope4,-0.04392107166904838
+Profile + departure + trajectory,30,missingindicator_dyn_spin_z_absmean4,-0.04392107166904838
+Profile + departure + trajectory,30,missingindicator_dyn_spin_z_persist4,-0.04392107166904838
+Profile + departure + trajectory + interactions,30,avg_fb_velo_baseline_mean,0.1923615614891939
+Profile + departure + trajectory + interactions,30,release_x_avg_baseline_mean,-0.2748332460606179
+Profile + departure + trajectory + interactions,30,release_z_avg_baseline_mean,0.15508500029639424
+Profile + departure + trajectory + interactions,30,release_x_sd_baseline_mean,-0.17407872769767746
+Profile + departure + trajectory + interactions,30,release_z_sd_baseline_mean,0.04325731233470758
+Profile + departure + trajectory + interactions,30,extension_avg_baseline_mean,-0.17677470172328705
+Profile + departure + trajectory + interactions,30,spin_avg_baseline_mean,-0.1263574603646727
+Profile + departure + trajectory + interactions,30,zone_pct_baseline_mean,-0.10303392544548601
+Profile + departure + trajectory + interactions,30,age_at_appearance,-0.3225574742546568
+Profile + departure + trajectory + interactions,30,throws_left,0.03424729571279217
+Profile + departure + trajectory + interactions,30,observed_prior_mlb_starts,-0.010547139913698843
+Profile + departure + trajectory + interactions,30,days_since_mlb_debut,-0.23329353423390725
+Profile + departure + trajectory + interactions,30,prior_reported_il_count,0.09212200785583237
+Profile + departure + trajectory + interactions,30,velo_z,-0.40846965821853526
+Profile + departure + trajectory + interactions,30,release_x_z,0.09864088985099803
+Profile + departure + trajectory + interactions,30,release_z_z,-0.05705928621549049
+Profile + departure + trajectory + interactions,30,release_x_sd_z,0.012820032557640472
+Profile + departure + trajectory + interactions,30,release_z_sd_z,-0.14697564238259198
+Profile + departure + trajectory + interactions,30,extension_z,0.09300082224636608
+Profile + departure + trajectory + interactions,30,spin_z,0.01623520170060791
+Profile + departure + trajectory + interactions,30,zone_pct_z,0.009808718428580634
+Profile + departure + trajectory + interactions,30,dyn_velo_z_slope4,0.14293662467083806
+Profile + departure + trajectory + interactions,30,dyn_velo_z_absmean4,0.15855065982550492
+Profile + departure + trajectory + interactions,30,dyn_velo_z_persist4,-0.14954685565020773
+Profile + departure + trajectory + interactions,30,dyn_release_z_sd_z_slope4,0.07614595040526118
+Profile + departure + trajectory + interactions,30,dyn_release_z_sd_z_absmean4,-0.14193231288140176
+Profile + departure + trajectory + interactions,30,dyn_release_z_sd_z_persist4,0.06187727822280613
+Profile + departure + trajectory + interactions,30,dyn_extension_z_slope4,-0.037417396327173925
+Profile + departure + trajectory + interactions,30,dyn_extension_z_absmean4,0.1985335171615509
+Profile + departure + trajectory + interactions,30,dyn_extension_z_persist4,-0.057810422230061186
+Profile + departure + trajectory + interactions,30,dyn_spin_z_slope4,-0.054159253681633275
+Profile + departure + trajectory + interactions,30,dyn_spin_z_absmean4,0.1479513725165868
+Profile + departure + trajectory + interactions,30,dyn_spin_z_persist4,-0.05117942266799837
+Profile + departure + trajectory + interactions,30,missingindicator_avg_fb_velo_baseline_mean,-0.02500095583717538
+Profile + departure + trajectory + interactions,30,missingindicator_release_x_avg_baseline_mean,-0.00026677799486235894
+Profile + departure + trajectory + interactions,30,missingindicator_release_z_avg_baseline_mean,-0.00026677799486235894
+Profile + departure + trajectory + interactions,30,missingindicator_release_x_sd_baseline_mean,-0.009879023885780627
+Profile + departure + trajectory + interactions,30,missingindicator_release_z_sd_baseline_mean,-0.009879023885780627
+Profile + departure + trajectory + interactions,30,missingindicator_extension_avg_baseline_mean,-0.01073943890810996
+Profile + departure + trajectory + interactions,30,missingindicator_spin_avg_baseline_mean,-0.020299151601238647
+Profile + departure + trajectory + interactions,30,missingindicator_zone_pct_baseline_mean,-0.00026677799486235894
+Profile + departure + trajectory + interactions,30,missingindicator_throws_left,-0.03593504651558144
+Profile + departure + trajectory + interactions,30,missingindicator_velo_z,-0.30181475898373217
+Profile + departure + trajectory + interactions,30,missingindicator_release_x_z,-0.00028809039221175815
+Profile + departure + trajectory + interactions,30,missingindicator_release_z_z,-0.00028809039221175815
+Profile + departure + trajectory + interactions,30,missingindicator_release_x_sd_z,-0.16814540810301493
+Profile + departure + trajectory + interactions,30,missingindicator_release_z_sd_z,-0.16814540810301493
+Profile + departure + trajectory + interactions,30,missingindicator_extension_z,-0.1316389653937825
+Profile + departure + trajectory + interactions,30,missingindicator_spin_z,-0.12959133585376356
+Profile + departure + trajectory + interactions,30,missingindicator_zone_pct_z,-0.00028809039221175815
+Profile + departure + trajectory + interactions,30,missingindicator_dyn_velo_z_slope4,-0.059155671444508416
+Profile + departure + trajectory + interactions,30,missingindicator_dyn_velo_z_absmean4,-0.059155671444508416
+Profile + departure + trajectory + interactions,30,missingindicator_dyn_velo_z_persist4,-0.059155671444508416
+Profile + departure + trajectory + interactions,30,missingindicator_dyn_release_z_sd_z_slope4,-0.01933014715325553
+Profile + departure + trajectory + interactions,30,missingindicator_dyn_release_z_sd_z_absmean4,-0.01933014715325553
+Profile + departure + trajectory + interactions,30,missingindicator_dyn_release_z_sd_z_persist4,-0.01933014715325553
+Profile + departure + trajectory + interactions,30,missingindicator_dyn_extension_z_slope4,0.16819810865581336
+Profile + departure + trajectory + interactions,30,missingindicator_dyn_extension_z_absmean4,0.16819810865581336
+Profile + departure + trajectory + interactions,30,missingindicator_dyn_extension_z_persist4,0.16819810865581336
+Profile + departure + trajectory + interactions,30,missingindicator_dyn_spin_z_slope4,-0.04384470443532441
+Profile + departure + trajectory + interactions,30,missingindicator_dyn_spin_z_absmean4,-0.04384470443532441
+Profile + departure + trajectory + interactions,30,missingindicator_dyn_spin_z_persist4,-0.04384470443532441
+Profile + departure + trajectory + interactions,30,avg_fb_velo_baseline_mean × velo_z,0.01188244007953777
+Profile + departure + trajectory + interactions,30,release_z_sd_baseline_mean × release_z_sd_z,-0.031244223172546395
+Profile + departure + trajectory + interactions,30,extension_avg_baseline_mean × extension_z,-0.004555839918610398
+Previous 62,30,avg_fb_velo,0.21897963881184362
+Previous 62,30,fb_velo_sd,0.20776744846559184
+Previous 62,30,fb_velo_change_vs_prev_3,-0.12770554655835412
+Previous 62,30,fb_velo_change_vs_prev_5,0.261559449457712
+Previous 62,30,velo_z,-0.4448015973966792
+Previous 62,30,fb_velo_slope_prev_5,-0.12354537432600893
+Previous 62,30,avg_fb_velo_baseline_mean,0.012947556847437688
+Previous 62,30,release_x_avg,-0.3425516516121743
+Previous 62,30,release_z_avg,0.10732898445485652
+Previous 62,30,release_x_sd,-0.255353197970165
+Previous 62,30,release_z_sd,-0.02254279581634805
+Previous 62,30,extension_avg,-0.1208501966758536
+Previous 62,30,extension_sd,0.082136109452042
+Previous 62,30,release_x_change_vs_prev_5,-0.28301300300225457
+Previous 62,30,release_z_change_vs_prev_5,0.25946159158887444
+Previous 62,30,extension_change_vs_prev_5,-0.15060223686875068
+Previous 62,30,release_x_z,0.3477604569760451
+Previous 62,30,release_z_z,-0.28202001939848825
+Previous 62,30,extension_z,0.23566783739628655
+Previous 62,30,spin_avg,-0.22408587944922417
+Previous 62,30,spin_change_vs_prev_5,0.23684707953866807
+Previous 62,30,spin_z,-0.13729186082952835
+Previous 62,30,horizontal_movement_avg,0.28291749230331764
+Previous 62,30,vertical_movement_avg,0.1410400066047609
+Previous 62,30,horizontal_movement_avg_change_vs_prev_5,-0.08077149191509744
+Previous 62,30,vertical_movement_avg_change_vs_prev_5,-0.04395224448818884
+Previous 62,30,fastball_usage_pct,-0.1670082639121049
+Previous 62,30,fastball_usage_pct_change_vs_prev_5,0.14301624940906216
+Previous 62,30,sl_usage_pct,0.5410437379736734
+Previous 62,30,sl_usage_pct_change_vs_prev_5,-0.24641949803113222
+Previous 62,30,ch_usage_pct,0.11127084557059305
+Previous 62,30,cu_usage_pct,0.023438059907344364
+Previous 62,30,zone_pct,-0.03824594388088113
+Previous 62,30,location_variability,-0.1748180542049966
+Previous 62,30,strike_pct,-0.11273820765251956
+Previous 62,30,first_pitch_strike_pct,0.09739476884940974
+Previous 62,30,zone_pct_change_vs_prev_5,0.03259753892250613
+Previous 62,30,location_variability_change_vs_prev_5,0.04183231172391634
+Previous 62,30,walk_rate,0.10092827565365213
+Previous 62,30,hbp_rate,-0.023046700266346632
+Previous 62,30,total_pitches,-0.2779753960332456
+Previous 62,30,innings_pitched,-0.09393885774753845
+Previous 62,30,rest_days,-0.06285747707977021
+Previous 62,30,pitches_prev_7d,-0.6441803012132854
+Previous 62,30,pitches_prev_14d,0.3366206886684089
+Previous 62,30,pitches_prev_28d,0.4365586275735784
+Previous 62,30,appearances_prev_14d,-0.5082034051095602
+Previous 62,30,appearances_prev_28d,0.07479779405834483
+Previous 62,30,season_pitch_count,0.8524686207632315
+Previous 62,30,season_innings,-1.4689154891527778
+Previous 62,30,previous_season_innings,0.271044072750266
+Previous 62,30,workload_acceleration_7d_vs_21d,0.5473000212653698
+Previous 62,30,acute_chronic_pitch_ratio,-0.16685276694898743
+Previous 62,30,starts_prev_30d,-0.20597273375245592
+Previous 62,30,starter_share_prev_5,0.28226347628480347
+Previous 62,30,age_at_appearance,-0.25502522310637726
+Previous 62,30,throws_left,-0.06034592725656488
+Previous 62,30,observed_prior_mlb_starts,-0.24188194439482727
+Previous 62,30,days_since_mlb_debut,-0.34661356900205265
+Previous 62,30,is_starter,0.32189813371265036
+Previous 62,30,prior_reported_il_count,0.07139370653334534
+Previous 62,30,calendar_month,0.2192139643329627
+Previous 62,30,missingindicator_avg_fb_velo,-0.06475353183293005
+Previous 62,30,missingindicator_fb_velo_sd,-0.12831677738066544
+Previous 62,30,missingindicator_fb_velo_change_vs_prev_3,-0.2551783908166697
+Previous 62,30,missingindicator_fb_velo_change_vs_prev_5,-0.06609585267174584
+Previous 62,30,missingindicator_velo_z,-0.07577713454869058
+Previous 62,30,missingindicator_fb_velo_slope_prev_5,-0.09063748792636639
+Previous 62,30,missingindicator_avg_fb_velo_baseline_mean,-0.05911406431867076
+Previous 62,30,missingindicator_release_x_avg,-0.0010943924581820483
+Previous 62,30,missingindicator_release_z_avg,-0.0010943924581820483
+Previous 62,30,missingindicator_release_x_sd,-0.05263378562450031
+Previous 62,30,missingindicator_release_z_sd,-0.05263378562450031
+Previous 62,30,missingindicator_extension_avg,-0.013456780639444513
+Previous 62,30,missingindicator_extension_sd,-0.12197063909372331
+Previous 62,30,missingindicator_release_x_change_vs_prev_5,-0.0010943924581820483
+Previous 62,30,missingindicator_release_z_change_vs_prev_5,-0.0010943924581820483
+Previous 62,30,missingindicator_extension_change_vs_prev_5,-0.013456780639444513
+Previous 62,30,missingindicator_release_x_z,-0.0017614140317235908
+Previous 62,30,missingindicator_release_z_z,-0.0017614140317235908
+Previous 62,30,missingindicator_extension_z,-0.08582465224450393
+Previous 62,30,missingindicator_spin_avg,-0.02008610811227785
+Previous 62,30,missingindicator_spin_change_vs_prev_5,-0.020029948340263462
+Previous 62,30,missingindicator_spin_z,-0.10249848794670688
+Previous 62,30,missingindicator_horizontal_movement_avg,-0.0005559752831720174
+Previous 62,30,missingindicator_vertical_movement_avg,-0.0005559752831720174
+Previous 62,30,missingindicator_horizontal_movement_avg_change_vs_prev_5,-0.0005559752831720174
+Previous 62,30,missingindicator_vertical_movement_avg_change_vs_prev_5,-0.0005559752831720174
+Previous 62,30,missingindicator_zone_pct,-0.0010943924581820483
+Previous 62,30,missingindicator_location_variability,-0.05263378562450031
+Previous 62,30,missingindicator_first_pitch_strike_pct,-0.056818653880633556
+Previous 62,30,missingindicator_zone_pct_change_vs_prev_5,-0.0010943924581820483
+Previous 62,30,missingindicator_location_variability_change_vs_prev_5,-0.05263378562450031
+Previous 62,30,missingindicator_walk_rate,-0.07524488330717308
+Previous 62,30,missingindicator_rest_days,-0.22333675954149224
+Previous 62,30,missingindicator_pitches_prev_7d,0.06576014455890454
+Previous 62,30,missingindicator_pitches_prev_14d,0.06161661984528978
+Previous 62,30,missingindicator_pitches_prev_28d,0.1489650486088872
+Previous 62,30,missingindicator_appearances_prev_14d,0.06161661984528978
+Previous 62,30,missingindicator_appearances_prev_28d,0.1489650486088872
+Previous 62,30,missingindicator_season_pitch_count,-0.3509968702412423
+Previous 62,30,missingindicator_season_innings,-0.3509968702412423
+Previous 62,30,missingindicator_previous_season_innings,-0.4372620881521242
+Previous 62,30,missingindicator_workload_acceleration_7d_vs_21d,0.1489650486088872
+Previous 62,30,missingindicator_acute_chronic_pitch_ratio,0.1489650486088872
+Previous 62,30,missingindicator_starts_prev_30d,0.10545726546832723
+Previous 62,30,missingindicator_throws_left,-0.041202602320887856
+Stable 62,30,acute_chronic_pitch_ratio,-0.07003211633624778
+Stable 62,30,age_at_appearance,-0.3787535236175008
+Stable 62,30,appearances_prev_14d,-0.3018914655109986
+Stable 62,30,avg_fb_velo_baseline_sd,0.004974627507445336
+Stable 62,30,calendar_month,0.19147585428704292
+Stable 62,30,ch_avg_velocity_prev_5,0.09905852685349405
+Stable 62,30,ch_release_x_avg_prev_10,-0.012028612191818583
+Stable 62,30,ch_usage_pct_prev_3,0.09341887970379825
+Stable 62,30,ch_vertical_movement_avg,-0.07247894234261386
+Stable 62,30,cu_avg_velocity_prev_5,0.01153787997060269
+Stable 62,30,cu_extension_avg_prev_5,-0.19541300072905948
+Stable 62,30,cu_pitch_count,0.2673345045815507
+Stable 62,30,cu_release_z_avg_prev_5,-0.2908908661271481
+Stable 62,30,cu_spin_avg_prev_5,-0.012231187305729615
+Stable 62,30,current_vs_previous_season_workload,-0.4388560154030108
+Stable 62,30,days_since_mlb_debut,-0.35855484654917236
+Stable 62,30,extension_avg_baseline_sd,0.2186991131010342
+Stable 62,30,extension_z,0.05616961016269963
+Stable 62,30,fastball_usage_pct,-0.4040565625807316
+Stable 62,30,fb_velo_sd_change_vs_prev_5,0.06602572476667651
+Stable 62,30,fb_velo_sd_prev_3,0.21357818253984187
+Stable 62,30,ff_avg_velocity_prev_5,-0.16947961405051087
+Stable 62,30,ff_pitch_count,-0.028053454053104564
+Stable 62,30,ff_spin_avg,-0.1223903869414369
+Stable 62,30,ff_vertical_movement_avg,-0.200243941206623
+Stable 62,30,first_pitch_strike_pct_prev_10,0.048162763272356884
+Stable 62,30,first_pitch_strike_pct_prev_3,0.09665347960041824
+Stable 62,30,fs_pitch_count,0.036741725782817425
+Stable 62,30,high_velocity_pitch_count,0.2145819065056962
+Stable 62,30,innings_7d,0.09070381396131787
+Stable 62,30,innings_pitched,-0.44630733214448515
+Stable 62,30,is_starter,0.2652053129653148
+Stable 62,30,ivb_inches,0.5274180241634088
+Stable 62,30,kc_pitch_count,-0.1639893038729974
+Stable 62,30,observed_prior_mlb_appearances,0.17967337354279667
+Stable 62,30,observed_prior_mlb_starts,-0.0973952750565535
+Stable 62,30,release_x_avg_baseline_sd,0.07976799973976878
+Stable 62,30,release_x_change_vs_prev_5,-0.28004072290090826
+Stable 62,30,release_x_sd_baseline_mean,-0.2588878130795604
+Stable 62,30,release_x_sd_z,-0.027621294444256237
+Stable 62,30,release_x_z,0.3276195497985323
+Stable 62,30,release_z_change_vs_prev_5,0.2989121775644099
+Stable 62,30,release_z_slope_prev_5,0.04511238263462807
+Stable 62,30,release_z_z,-0.2963624580762187
+Stable 62,30,rest_days,-0.07008539958374085
+Stable 62,30,season_pitch_count,-0.31424150016979346
+Stable 62,30,season_starts,-0.21696079086736125
+Stable 62,30,si_extension_avg,0.09021075924328416
+Stable 62,30,si_release_z_avg_prev_5,0.6365349624554837
+Stable 62,30,si_spin_avg_prev_10,-0.018607333243821588
+Stable 62,30,si_zone_pct,-0.024026142620570366
+Stable 62,30,sl_horizontal_movement_avg,0.3122617214153342
+Stable 62,30,sl_usage_pct_prev_5,0.47814466427522556
+Stable 62,30,sl_vertical_movement_avg,-0.06382205477273199
+Stable 62,30,sl_zone_pct,0.041363586934112864
+Stable 62,30,spin_avg_baseline_sd,0.015674285961314812
+Stable 62,30,st_pitch_count,0.05554254656296027
+Stable 62,30,starter_share_prev_5,0.3083767636590407
+Stable 62,30,strikeout_rate,-0.14230911315183356
+Stable 62,30,sv_usage_pct_prev_5,-0.3766119543198743
+Stable 62,30,velo_z,-0.3516686600019654
+Stable 62,30,zone_pct_baseline_mean,-0.05312689893915635
+Stable 62,30,missingindicator_acute_chronic_pitch_ratio,0.6424184929825045
+Stable 62,30,missingindicator_appearances_prev_14d,0.11419528748849307
+Stable 62,30,missingindicator_avg_fb_velo_baseline_sd,-0.024953808382175934
+Stable 62,30,missingindicator_ch_avg_velocity_prev_5,-0.002573897158594071
+Stable 62,30,missingindicator_ch_release_x_avg_prev_10,0.048795312204520776
+Stable 62,30,missingindicator_ch_vertical_movement_avg,0.08611784878701041
+Stable 62,30,missingindicator_cu_avg_velocity_prev_5,0.2724747601154571
+Stable 62,30,missingindicator_cu_extension_avg_prev_5,0.11142082677540494
+Stable 62,30,missingindicator_cu_release_z_avg_prev_5,0.2724747601154571
+Stable 62,30,missingindicator_cu_spin_avg_prev_5,-0.41568915098339854
+Stable 62,30,missingindicator_current_vs_previous_season_workload,-0.43821349935389886
+Stable 62,30,missingindicator_extension_avg_baseline_sd,-0.009855671514043438
+Stable 62,30,missingindicator_extension_z,-0.15833602526372123
+Stable 62,30,missingindicator_fb_velo_sd_change_vs_prev_5,-0.16285948370394554
+Stable 62,30,missingindicator_fb_velo_sd_prev_3,-0.3548861805530604
+Stable 62,30,missingindicator_ff_avg_velocity_prev_5,-0.04570491773953182
+Stable 62,30,missingindicator_ff_spin_avg,-0.08398665399473987
+Stable 62,30,missingindicator_ff_vertical_movement_avg,0.15853698207435274
+Stable 62,30,missingindicator_first_pitch_strike_pct_prev_10,0.03558417815473086
+Stable 62,30,missingindicator_innings_7d,0.05687755838999498
+Stable 62,30,missingindicator_ivb_inches,-0.2840151065321974
+Stable 62,30,missingindicator_release_x_avg_baseline_sd,8.224959979515817e-05
+Stable 62,30,missingindicator_release_x_change_vs_prev_5,-0.0004473267525006507
+Stable 62,30,missingindicator_release_x_sd_baseline_mean,-0.021515460221048326
+Stable 62,30,missingindicator_release_x_sd_z,-0.24557535141777526
+Stable 62,30,missingindicator_release_x_z,-0.00024355408670747168
+Stable 62,30,missingindicator_release_z_change_vs_prev_5,-0.0004473267525006507
+Stable 62,30,missingindicator_release_z_z,-0.00024355408670747168
+Stable 62,30,missingindicator_rest_days,-0.22685609899372303
+Stable 62,30,missingindicator_season_pitch_count,-0.20909448584256476
+Stable 62,30,missingindicator_season_starts,-0.20909448584256476
+Stable 62,30,missingindicator_si_extension_avg,-0.0721959567456146
+Stable 62,30,missingindicator_si_release_z_avg_prev_5,-0.036707829989621694
+Stable 62,30,missingindicator_si_spin_avg_prev_10,-0.029698558342868723
+Stable 62,30,missingindicator_si_zone_pct,0.046442853107733655
+Stable 62,30,missingindicator_sl_horizontal_movement_avg,0.04507407601678106
+Stable 62,30,missingindicator_sl_vertical_movement_avg,0.04507407601678106
+Stable 62,30,missingindicator_sl_zone_pct,0.04507323610223738
+Stable 62,30,missingindicator_spin_avg_baseline_sd,-0.05305317388096732
+Stable 62,30,missingindicator_strikeout_rate,-0.06887337081481458
+Stable 62,30,missingindicator_velo_z,-0.31187593458817064
+Stable 62,30,missingindicator_zone_pct_baseline_mean,8.224959979515817e-05

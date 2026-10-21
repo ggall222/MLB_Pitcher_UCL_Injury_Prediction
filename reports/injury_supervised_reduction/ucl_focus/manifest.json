@@ -1,0 +1,53 @@
+{
+  "source": {
+    "database": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/mlb_ucl.duckdb",
+    "database_bytes": 17895796736,
+    "database_mtime_ns": 1789002299179560729,
+    "events_sha256": "18d9ae297bd70d0b78178ae45fe731a26f6a459ec9ab65d68d17783c8862f468",
+    "config_sha256": "096e17f7445f34bf50938f06be973540577a4b9193bfd450c7acf0c8cd3d00b6",
+    "feature_config_sha256": "5b60e14a805a5e75c4159666edb41764741fe9fa7ac1eb5dce1cf8bc7c871672"
+  },
+  "config": {
+    "seed": 20260919,
+    "output_path": "reports/injury_supervised_reduction/ucl_focus",
+    "cache_path": "data/injury/analysis/supervised_reduction/ucl_focus",
+    "category": "Elbow / UCL",
+    "bootstrap_replicates": 300,
+    "blocks": [
+      "Departure",
+      "Combined"
+    ],
+    "trajectory_components_per_block": 2,
+    "individual_representation": "Departure",
+    "calendar_bins": [
+      1,
+      8,
+      15,
+      31,
+      61
+    ],
+    "last_appearances": 5,
+    "individual_display_limit_sd": 3.0
+  },
+  "config_sha256": "59ab71e09406dbd6f30d55839fc6abdc8718639d335eaa26cc63befa9c9f7774",
+  "frozen_models": {
+    "data/injury/analysis/supervised_reduction/model_Elbow_-_UCL__Departure.joblib": "d08d9d853221e96bceaf86f7400a3cb931ae62a1d16bf56e9bba818a7e6e5506",
+    "data/injury/analysis/supervised_reduction/model_Elbow_-_UCL__Combined.joblib": "450ffb525361f90c0604a735a8e2450329bd2f1f5ba1366cd92bdbc50aa4eb39"
+  },
+  "original_matching_sha256": "90974f2809f5cfa5b719b62b95b57456aa143cb41273a7096fdabe2ba1f01261",
+  "input_sha256": {
+    "data/injury/analysis/aligned_trajectories.parquet": "7fe0af1425cbcbc6505f88845a99921d43e24f2cd1298b3c42e56e65a5eb2ef9",
+    "data/injury/analysis/appearances.parquet": "938fe6fc7e4d3064777733a10fcf23d092a1d9e0a628bb2b49c183ff38364ab6",
+    "data/injury/analysis/events.parquet": "71bb6cfc88058bdf43a921fb26989938ebcede670e2c4d40bd8bbc0106a3447b"
+  },
+  "upstream_curves_sha256": "2c9a407c61ec28f845e88e6f05a53d171200a89bd873c1a067b66cad66141ba1",
+  "endpoint": "Original broad Elbow / UCL category, not exclusively confirmed ligament injury",
+  "component_selection": "Frozen validation counts; training-only coefficient magnitude selects emphasized axes",
+  "heldout_period": "2022\u20132025, previously examined; exploratory",
+  "uncertainty": "300 connected matched-pair pitcher-cluster bootstraps; joint bands across all retained axes and positions within alignment/kind",
+  "code_sha256": {
+    "src/injury_analysis/ucl_latent_plots.py": "e0fa27d97e76395bfe910a1a60f77072309abcdea4b7eb350aafc8297d6990cb",
+    "src/injury_analysis/ucl_latent_report.py": "ff2772cd17a85ad542deb929c46766615461143d275ef54dc1f6bf6bd4e50792",
+    "src/injury_analysis/ucl_latent_visuals.py": "eff2f9e509a117af5d038a03204cde42ab540470b4d23b11e4aee3c9f250bbfc"
+  }
+}

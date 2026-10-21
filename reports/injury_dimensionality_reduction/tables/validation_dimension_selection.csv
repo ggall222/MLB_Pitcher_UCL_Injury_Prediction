@@ -1,0 +1,8 @@
+category,selected_variant,validation_ap,basis
+Elbow / UCL,PCA 90%,0.028497648147474675,Highest validation AP among predeclared global PCA dimensions; no test selection
+Shoulder,PCA 90%,0.038333430374995536,Highest validation AP among predeclared global PCA dimensions; no test selection
+Forearm,PCA 20,0.014326438447880957,Highest validation AP among predeclared global PCA dimensions; no test selection
+Other arm,PCA 10,0.01291299161316724,Highest validation AP among predeclared global PCA dimensions; no test selection
+Trunk / neck,PCA 90%,0.037809644686241595,Highest validation AP among predeclared global PCA dimensions; no test selection
+Lower body,PCA 90%,0.041447157716324776,Highest validation AP among predeclared global PCA dimensions; no test selection
+Hand / wrist,PCA 90%,0.01051849114623903,Highest validation AP among predeclared global PCA dimensions; no test selection

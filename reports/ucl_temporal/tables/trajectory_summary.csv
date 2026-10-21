@@ -1,0 +1,1057 @@
+partition,family,mode,support,point,label,kind,mean,ci_low,ci_high,events,dependency_clusters
+validation,Appearance performance,calendar,available_pairs,0,31–60,Injury,0.011996176135938785,-0.2532794337059179,0.2211387611582814,8,8
+validation,Appearance performance,calendar,available_pairs,0,31–60,Control,0.08729462605711535,-0.015533799659316852,0.20473979627299638,8,8
+validation,Appearance performance,calendar,available_pairs,0,31–60,difference,-0.07529844992117656,-0.3040878877597752,0.17375746367741765,8,8
+validation,Appearance performance,calendar,available_pairs,1,15–30,Injury,0.15411221321759036,0.009419207657729564,0.30617735112098193,16,16
+validation,Appearance performance,calendar,available_pairs,1,15–30,Control,0.027870462152363135,-0.1799682477482945,0.20870457500444084,16,16
+validation,Appearance performance,calendar,available_pairs,1,15–30,difference,0.12624175106522728,-0.09537361426108339,0.3637623592318833,16,16
+validation,Appearance performance,calendar,available_pairs,2,8–14,Injury,0.026023615073433645,-0.10869513398731383,0.21824156778836457,17,16
+validation,Appearance performance,calendar,available_pairs,2,8–14,Control,0.04044932110558137,-0.17989508794090947,0.24933719540613172,17,16
+validation,Appearance performance,calendar,available_pairs,2,8–14,difference,-0.014425706032147712,-0.3117878081552987,0.326289550072411,17,16
+validation,Appearance performance,calendar,available_pairs,3,1–7,Injury,-0.10204093221475978,-0.26827193314330033,0.06389866870625081,20,19
+validation,Appearance performance,calendar,available_pairs,3,1–7,Control,-0.004616331600757537,-0.1477368380904503,0.18369056805066009,20,19
+validation,Appearance performance,calendar,available_pairs,3,1–7,difference,-0.09742460061400222,-0.3201115320245186,0.10489535485338904,20,19
+validation,Appearance performance,calendar,balanced,0,31–60,Injury,0.010805439945070461,-0.2622092150688162,0.277987136360382,7,7
+validation,Appearance performance,calendar,balanced,0,31–60,Control,0.06711313171784473,-0.049484704067930776,0.1778144632019632,7,7
+validation,Appearance performance,calendar,balanced,0,31–60,difference,-0.05630769177277428,-0.3282569868109676,0.232320623488708,7,7
+validation,Appearance performance,calendar,balanced,1,15–30,Injury,0.38187856848588325,0.28151779993134024,0.4844028605014118,7,7
+validation,Appearance performance,calendar,balanced,1,15–30,Control,0.06021038105557014,-0.10706502839417918,0.21191514611753695,7,7
+validation,Appearance performance,calendar,balanced,1,15–30,difference,0.3216681874303132,0.15845016481009097,0.4882612417386073,7,7
+validation,Appearance performance,calendar,balanced,2,8–14,Injury,0.059894188662642386,-0.2512165789841727,0.3768678311574553,7,7
+validation,Appearance performance,calendar,balanced,2,8–14,Control,0.15901829570128032,-0.1224458132743863,0.4968713192516256,7,7
+validation,Appearance performance,calendar,balanced,2,8–14,difference,-0.09912410703863794,-0.6795194596071743,0.3663813099367546,7,7
+validation,Appearance performance,calendar,balanced,3,1–7,Injury,-0.15534816081615177,-0.41430802755987667,0.10880247997649518,7,7
+validation,Appearance performance,calendar,balanced,3,1–7,Control,-0.11250455988376418,-0.56059232102035,0.2838902725258459,7,7
+validation,Appearance performance,calendar,balanced,3,1–7,difference,-0.04284360093238759,-0.580431487265774,0.5288469459028882,7,7
+test,Appearance performance,calendar,available_pairs,0,31–60,Injury,0.08235511724312478,-0.06774291164921564,0.20570189891631252,11,10
+test,Appearance performance,calendar,available_pairs,0,31–60,Control,-0.059815864521841705,-0.30138229762405844,0.10181614138814434,11,10
+test,Appearance performance,calendar,available_pairs,0,31–60,difference,0.14217098176496648,-0.010052745992640602,0.3146812167145695,11,10
+test,Appearance performance,calendar,available_pairs,1,15–30,Injury,0.01905956276350503,-0.19753537419186645,0.17592546653261018,17,16
+test,Appearance performance,calendar,available_pairs,1,15–30,Control,0.13821113738653149,-0.0767688277329547,0.41942278556890855,17,16
+test,Appearance performance,calendar,available_pairs,1,15–30,difference,-0.11915157462302645,-0.45948427220469773,0.19351733083465983,17,16
+test,Appearance performance,calendar,available_pairs,2,8–14,Injury,0.0004549357237710149,-0.27651049279895873,0.25145930711996234,21,20
+test,Appearance performance,calendar,available_pairs,2,8–14,Control,-0.020559838709638078,-0.19809935804804032,0.14531109260285802,21,20
+test,Appearance performance,calendar,available_pairs,2,8–14,difference,0.021014774433409055,-0.3120394422008224,0.3547245697505005,21,20
+test,Appearance performance,calendar,available_pairs,3,1–7,Injury,0.12804104343504982,-0.06863531712482548,0.3261932590267173,22,21
+test,Appearance performance,calendar,available_pairs,3,1–7,Control,0.0740849570902087,-0.06835493105961403,0.21248240828660356,22,21
+test,Appearance performance,calendar,available_pairs,3,1–7,difference,0.05395608634484119,-0.18026528133192612,0.2638457993931372,22,21
+test,Appearance performance,calendar,balanced,0,31–60,Injury,0.113410810760505,-0.056517708912025365,0.2333215857832588,9,8
+test,Appearance performance,calendar,balanced,0,31–60,Control,-0.03616680084350361,-0.3487863686016791,0.1316858206950553,9,8
+test,Appearance performance,calendar,balanced,0,31–60,difference,0.1495776116040086,0.011130910591217014,0.3306510733083264,9,8
+test,Appearance performance,calendar,balanced,1,15–30,Injury,0.15990908132786993,0.03905464966847591,0.27101935557643675,9,8
+test,Appearance performance,calendar,balanced,1,15–30,Control,0.05361281981454809,-0.1326000354404494,0.3264499922172726,9,8
+test,Appearance performance,calendar,balanced,1,15–30,difference,0.10629626151332186,-0.23580023458410576,0.3466410768156024,9,8
+test,Appearance performance,calendar,balanced,2,8–14,Injury,-0.04281033964181192,-0.430332675622802,0.21975551246948763,9,8
+test,Appearance performance,calendar,balanced,2,8–14,Control,0.0638366140948986,-0.19435980490472085,0.3593342248821111,9,8
+test,Appearance performance,calendar,balanced,2,8–14,difference,-0.10664695373671051,-0.5195640516884708,0.2301414510156625,9,8
+test,Appearance performance,calendar,balanced,3,1–7,Injury,0.19497498104003416,-0.06635302972232825,0.4324640405382516,9,8
+test,Appearance performance,calendar,balanced,3,1–7,Control,0.07626128890830097,-0.09720080042194222,0.2760352983693169,9,8
+test,Appearance performance,calendar,balanced,3,1–7,difference,0.11871369213173318,-0.22662770275499172,0.3635995472731523,9,8
+validation,Appearance performance,outings,available_pairs,0,11+,Injury,-0.01983229111847769,-0.5276056296542628,0.3545456566449353,4,4
+validation,Appearance performance,outings,available_pairs,0,11+,Control,0.17326284607314968,-0.0758389058297886,0.41822270451617893,4,4
+validation,Appearance performance,outings,available_pairs,0,11+,difference,-0.19309513719162735,-0.44042014588833933,-0.04710543742336502,4,4
+validation,Appearance performance,outings,available_pairs,1,6–10,Injury,0.027953726748276956,-0.12385366921092883,0.19983821164645077,11,10
+validation,Appearance performance,outings,available_pairs,1,6–10,Control,0.2040107240137665,0.07588015711686184,0.3933171517485184,11,10
+validation,Appearance performance,outings,available_pairs,1,6–10,difference,-0.17605699726548954,-0.4246028240567155,0.08404785566382915,11,10
+validation,Appearance performance,outings,available_pairs,2,4–5,Injury,0.3033887924660761,0.008208535702068418,0.642920918431059,17,16
+validation,Appearance performance,outings,available_pairs,2,4–5,Control,0.03512567260186795,-0.18687051859032414,0.24638287401668207,17,16
+validation,Appearance performance,outings,available_pairs,2,4–5,difference,0.26826311986420814,0.043660855767637285,0.46745730611498193,17,16
+validation,Appearance performance,outings,available_pairs,3,2–3,Injury,0.005948694586475766,-0.18447764652903623,0.16057554607261948,20,19
+validation,Appearance performance,outings,available_pairs,3,2–3,Control,-0.04120402177952703,-0.19402482867869625,0.15658017822351153,20,19
+validation,Appearance performance,outings,available_pairs,3,2–3,difference,0.0471527163660028,-0.2288035863897685,0.28222925931639725,20,19
+validation,Appearance performance,outings,available_pairs,4,Final,Injury,-0.18937314877724484,-0.36639748895443963,0.046665287554407714,20,19
+validation,Appearance performance,outings,available_pairs,4,Final,Control,0.03193309938536411,-0.18443125675211172,0.24034032253640936,20,19
+validation,Appearance performance,outings,available_pairs,4,Final,difference,-0.22130624816260897,-0.5016761559511036,0.07924281022631939,20,19
+validation,Appearance performance,outings,balanced,2,4–5,Injury,0.3033887924660761,0.008208535702068418,0.642920918431059,17,16
+validation,Appearance performance,outings,balanced,2,4–5,Control,0.03512567260186795,-0.18687051859032414,0.24638287401668207,17,16
+validation,Appearance performance,outings,balanced,2,4–5,difference,0.26826311986420814,0.043660855767637285,0.46745730611498193,17,16
+validation,Appearance performance,outings,balanced,3,2–3,Injury,0.06779643334180421,-0.07069663811339166,0.202426347279223,17,16
+validation,Appearance performance,outings,balanced,3,2–3,Control,-0.05808028146574846,-0.27264632430356156,0.18424432939607827,17,16
+validation,Appearance performance,outings,balanced,3,2–3,difference,0.1258767148075527,-0.20363018448277476,0.4037449171928261,17,16
+validation,Appearance performance,outings,balanced,4,Final,Injury,-0.2675175334053157,-0.43503818271962774,-0.05270602303231967,17,16
+validation,Appearance performance,outings,balanced,4,Final,Control,0.005093421402323299,-0.2534247021462192,0.3144504122059558,17,16
+validation,Appearance performance,outings,balanced,4,Final,difference,-0.272610954807639,-0.6298087838378046,0.08320492306400268,17,16
+test,Appearance performance,outings,available_pairs,0,11+,Injury,-0.03661266839201296,-0.15551170210198467,0.08228636531795876,2,2
+test,Appearance performance,outings,available_pairs,0,11+,Control,0.32673717936153424,0.07270093985125896,0.5807734188718096,2,2
+test,Appearance performance,outings,available_pairs,0,11+,difference,-0.36334984775354723,-0.4984870535538508,-0.22821264195324364,2,2
+test,Appearance performance,outings,available_pairs,1,6–10,Injury,0.025295697235978715,-0.2530104957720203,0.2550184029553763,14,13
+test,Appearance performance,outings,available_pairs,1,6–10,Control,0.1267001223255358,-0.07368864350790333,0.3677921259763976,14,13
+test,Appearance performance,outings,available_pairs,1,6–10,difference,-0.10140442508955709,-0.4771440389848663,0.16296941904395304,14,13
+test,Appearance performance,outings,available_pairs,2,4–5,Injury,0.12497101397992143,-0.054759609958744154,0.3483258833156127,20,19
+test,Appearance performance,outings,available_pairs,2,4–5,Control,-0.006672621642643761,-0.17958134491850386,0.15835661107700508,20,19
+test,Appearance performance,outings,available_pairs,2,4–5,difference,0.13164363562256515,-0.14846006120146707,0.5023125512598865,20,19
+test,Appearance performance,outings,available_pairs,3,2–3,Injury,-0.0666970659043891,-0.20412795250258567,0.08218778685366296,22,21
+test,Appearance performance,outings,available_pairs,3,2–3,Control,0.13416138870975167,-0.03754432536900979,0.2722126463307419,22,21
+test,Appearance performance,outings,available_pairs,3,2–3,difference,-0.20085845461414076,-0.38971840153272724,0.019335463281759106,22,21
+test,Appearance performance,outings,available_pairs,4,Final,Injury,0.21838629723679037,-0.043870287991580305,0.4799492326559085,22,21
+test,Appearance performance,outings,available_pairs,4,Final,Control,-0.050122714815992356,-0.22445681321247551,0.10491766234385791,22,21
+test,Appearance performance,outings,available_pairs,4,Final,difference,0.2685090120527827,-0.02508371326475823,0.5669831343810063,22,21
+test,Appearance performance,outings,balanced,2,4–5,Injury,0.12497101397992143,-0.054759609958744154,0.3483258833156127,20,19
+test,Appearance performance,outings,balanced,2,4–5,Control,-0.006672621642643761,-0.17958134491850386,0.15835661107700508,20,19
+test,Appearance performance,outings,balanced,2,4–5,difference,0.13164363562256515,-0.14846006120146707,0.5023125512598865,20,19
+test,Appearance performance,outings,balanced,3,2–3,Injury,-0.10949393775626626,-0.26068990823882393,0.02432824270711711,20,19
+test,Appearance performance,outings,balanced,3,2–3,Control,0.1292689243059459,-0.04226715930995517,0.31904246210662157,20,19
+test,Appearance performance,outings,balanced,3,2–3,difference,-0.23876286206221212,-0.46777758197765174,-0.02263535845309272,20,19
+test,Appearance performance,outings,balanced,4,Final,Injury,0.20002376067659075,-0.07585235639860882,0.4888942446595329,20,19
+test,Appearance performance,outings,balanced,4,Final,Control,-0.07755954791887151,-0.2540118021256703,0.08555902889663246,20,19
+test,Appearance performance,outings,balanced,4,Final,difference,0.2775833085954623,-0.0012589203304157037,0.6162916459860718,20,19
+validation,Extension,calendar,available_pairs,0,31–60,Injury,-0.3359884052336928,-0.7250430486327396,-0.027368177907499014,8,8
+validation,Extension,calendar,available_pairs,0,31–60,Control,-0.44763306495886745,-0.8933648797154488,-0.034755227400840034,8,8
+validation,Extension,calendar,available_pairs,0,31–60,difference,0.11164465972517465,-0.24858425875197057,0.5166462176243206,8,8
+validation,Extension,calendar,available_pairs,1,15–30,Injury,-0.6177306291677305,-1.0040524411432936,-0.2584530998765798,16,16
+validation,Extension,calendar,available_pairs,1,15–30,Control,-0.4005972900414292,-0.6951252060588048,-0.03378597137302533,16,16
+validation,Extension,calendar,available_pairs,1,15–30,difference,-0.21713333912630123,-0.6165896008410354,0.16272331304566282,16,16
+validation,Extension,calendar,available_pairs,2,8–14,Injury,-0.6508667803062679,-1.093289512378998,-0.20346483618899644,17,16
+validation,Extension,calendar,available_pairs,2,8–14,Control,-0.5044149061633673,-0.8893213722152741,-0.15100094512563483,17,16
+validation,Extension,calendar,available_pairs,2,8–14,difference,-0.14645187414290076,-0.5721250734484945,0.3859314740269254,17,16
+validation,Extension,calendar,available_pairs,3,1–7,Injury,-0.5628797477185599,-0.9304145162576932,-0.2007998759215448,20,19
+validation,Extension,calendar,available_pairs,3,1–7,Control,-0.40853209783712385,-0.7459675459043145,-0.09368463532519723,20,19
+validation,Extension,calendar,available_pairs,3,1–7,difference,-0.15434764988143607,-0.5786497233998615,0.3761378306039379,20,19
+validation,Extension,calendar,balanced,0,31–60,Injury,-0.3172918338625463,-0.762884833256519,0.050188631752306395,7,7
+validation,Extension,calendar,balanced,0,31–60,Control,-0.5106391455171744,-0.9990482826959076,-0.0682588325979186,7,7
+validation,Extension,calendar,balanced,0,31–60,difference,0.19334731165462798,-0.2280157501653218,0.6741860181935465,7,7
+validation,Extension,calendar,balanced,1,15–30,Injury,-0.16316534132490323,-0.6061320630605049,0.1906501085197575,7,7
+validation,Extension,calendar,balanced,1,15–30,Control,-0.338479966253844,-0.7722889070361333,0.1430421565821687,7,7
+validation,Extension,calendar,balanced,1,15–30,difference,0.17531462492894076,-0.40008667546647136,0.7508526861417811,7,7
+validation,Extension,calendar,balanced,2,8–14,Injury,-0.14237805396011247,-0.7010297383180165,0.3788211875532864,7,7
+validation,Extension,calendar,balanced,2,8–14,Control,-0.31172187271345975,-0.7238275090815819,0.15466239044651356,7,7
+validation,Extension,calendar,balanced,2,8–14,difference,0.1693438187533473,-0.5665386646976184,0.9788055312545662,7,7
+validation,Extension,calendar,balanced,3,1–7,Injury,-0.17618667643262279,-0.7302091706955258,0.2938928773323809,7,7
+validation,Extension,calendar,balanced,3,1–7,Control,-0.42969058197250204,-0.8598928403008723,0.04459999769566416,7,7
+validation,Extension,calendar,balanced,3,1–7,difference,0.2535039055398792,-0.4099187377669127,0.9492138363629504,7,7
+test,Extension,calendar,available_pairs,0,31–60,Injury,-0.6249288931549194,-1.0328967920142185,-0.1591682155931451,11,10
+test,Extension,calendar,available_pairs,0,31–60,Control,-0.5808456409887193,-1.0249374752184948,0.021997637446784908,11,10
+test,Extension,calendar,available_pairs,0,31–60,difference,-0.04408325216619993,-0.7646200488899542,0.6400931772157588,11,10
+test,Extension,calendar,available_pairs,1,15–30,Injury,-0.38179771597136664,-0.7721502287198299,0.015210321243670305,17,16
+test,Extension,calendar,available_pairs,1,15–30,Control,-0.5053988178814032,-0.8232525534352234,-0.17694562673908035,17,16
+test,Extension,calendar,available_pairs,1,15–30,difference,0.12360110191003659,-0.33006977360923145,0.5218604656183243,17,16
+test,Extension,calendar,available_pairs,2,8–14,Injury,-0.3217311767959429,-0.681362578354275,0.059476641642295006,21,20
+test,Extension,calendar,available_pairs,2,8–14,Control,-0.41090980637845836,-0.7570618032265632,-0.06218850116312722,21,20
+test,Extension,calendar,available_pairs,2,8–14,difference,0.08917862958251555,-0.36822417586183825,0.48540991199811573,21,20
+test,Extension,calendar,available_pairs,3,1–7,Injury,-0.3114239059927448,-0.7457087372976673,0.04588232996319862,22,21
+test,Extension,calendar,available_pairs,3,1–7,Control,-0.5434995157442898,-0.8902651600517089,-0.22247907955163831,22,21
+test,Extension,calendar,available_pairs,3,1–7,difference,0.23207560975154495,-0.22110676566003334,0.6329427605447938,22,21
+test,Extension,calendar,balanced,0,31–60,Injury,-0.6668239147241047,-1.020975366104413,-0.19771820305608034,9,8
+test,Extension,calendar,balanced,0,31–60,Control,-0.40473889438697513,-0.8782437386749139,0.15973326291885745,9,8
+test,Extension,calendar,balanced,0,31–60,difference,-0.26208502033712955,-0.9197317427004372,0.3847544880789566,9,8
+test,Extension,calendar,balanced,1,15–30,Injury,-0.5927966181875233,-0.9597574218063093,-0.06418098937422638,9,8
+test,Extension,calendar,balanced,1,15–30,Control,-0.4891410204866919,-0.928685743415543,0.03637851881781023,9,8
+test,Extension,calendar,balanced,1,15–30,difference,-0.1036555977008314,-0.6980793322855492,0.4198135852651089,9,8
+test,Extension,calendar,balanced,2,8–14,Injury,-0.5448948610949454,-0.9818002556338444,0.02597442291079732,9,8
+test,Extension,calendar,balanced,2,8–14,Control,-0.48795628130882807,-0.9711798883212751,0.10177150102547833,9,8
+test,Extension,calendar,balanced,2,8–14,difference,-0.056938579786117445,-0.8303746625672134,0.6043931220026424,9,8
+test,Extension,calendar,balanced,3,1–7,Injury,-0.5958098095159103,-1.038023687713206,0.00391978784255925,9,8
+test,Extension,calendar,balanced,3,1–7,Control,-0.5527551129615298,-1.0113642555919589,0.01875367453679517,9,8
+test,Extension,calendar,balanced,3,1–7,difference,-0.04305469655438067,-0.7664041419288827,0.6110249683590707,9,8
+validation,Extension,outings,available_pairs,0,11+,Injury,1.646488412337943e-05,-0.3237548012587906,0.25737554659004297,4,4
+validation,Extension,outings,available_pairs,0,11+,Control,-0.1955155244389719,-0.5147693771767354,0.059149163777465465,4,4
+validation,Extension,outings,available_pairs,0,11+,difference,0.1955319893230953,0.031872824045229425,0.3006374043937372,4,4
+validation,Extension,outings,available_pairs,1,6–10,Injury,-0.34859681481225385,-0.657120650202729,-0.10073776858519,11,10
+validation,Extension,outings,available_pairs,1,6–10,Control,-0.4247372030465367,-0.8102240007938771,-0.04152527019196919,11,10
+validation,Extension,outings,available_pairs,1,6–10,difference,0.0761403882342828,-0.22851051294199595,0.42902162093182383,11,10
+validation,Extension,outings,available_pairs,2,4–5,Injury,-0.591821125992766,-0.9979197700203993,-0.2296080383007693,17,16
+validation,Extension,outings,available_pairs,2,4–5,Control,-0.3435263221323243,-0.670050589276295,0.03287581241625211,17,16
+validation,Extension,outings,available_pairs,2,4–5,difference,-0.24829480386044167,-0.6177052287126309,0.18252507900258003,17,16
+validation,Extension,outings,available_pairs,3,2–3,Injury,-0.5605767261265704,-0.9558186860735703,-0.2098613623938324,20,19
+validation,Extension,outings,available_pairs,3,2–3,Control,-0.4345384390046127,-0.7827955826010672,-0.12982638451579442,20,19
+validation,Extension,outings,available_pairs,3,2–3,difference,-0.1260382871219578,-0.5172090140094531,0.3986377374540725,20,19
+validation,Extension,outings,available_pairs,4,Final,Injury,-0.5166393833138094,-0.8846585589811089,-0.11663218904241293,20,19
+validation,Extension,outings,available_pairs,4,Final,Control,-0.39525182039244433,-0.7506428899590434,-0.09390274325738918,20,19
+validation,Extension,outings,available_pairs,4,Final,difference,-0.12138756292136503,-0.5663564987589854,0.4214737033045489,20,19
+validation,Extension,outings,balanced,2,4–5,Injury,-0.591821125992766,-0.9979197700203993,-0.2296080383007693,17,16
+validation,Extension,outings,balanced,2,4–5,Control,-0.3435263221323243,-0.670050589276295,0.03287581241625211,17,16
+validation,Extension,outings,balanced,2,4–5,difference,-0.24829480386044167,-0.6177052287126309,0.18252507900258003,17,16
+validation,Extension,outings,balanced,3,2–3,Injury,-0.5751861925925628,-1.0112404565258812,-0.19464615476075064,17,16
+validation,Extension,outings,balanced,3,2–3,Control,-0.33179153288312274,-0.6674763673724553,-0.007678312127768003,17,16
+validation,Extension,outings,balanced,3,2–3,difference,-0.24339465970944,-0.642862821347807,0.18003391515811537,17,16
+validation,Extension,outings,balanced,4,Final,Injury,-0.5928787827872837,-1.0375555926104594,-0.1984461956004542,17,16
+validation,Extension,outings,balanced,4,Final,Control,-0.28084056135703744,-0.5628092883728415,0.00679831823545487,17,16
+validation,Extension,outings,balanced,4,Final,difference,-0.3120382214302463,-0.6952492180233453,0.09733574975263952,17,16
+test,Extension,outings,available_pairs,0,11+,Injury,-0.3410262125785286,-0.928816142705761,0.2467637175487037,2,2
+test,Extension,outings,available_pairs,0,11+,Control,-1.4204364267301535,-1.460809889405632,-1.3800629640546749,2,2
+test,Extension,outings,available_pairs,0,11+,difference,1.0794102141516249,0.4512468213489139,1.7075736069543357,2,2
+test,Extension,outings,available_pairs,1,6–10,Injury,-0.4167199494457477,-0.7964567127488186,-0.028961802863984133,14,13
+test,Extension,outings,available_pairs,1,6–10,Control,-0.5616882851563918,-0.9932030965823476,-0.16913935615684833,14,13
+test,Extension,outings,available_pairs,1,6–10,difference,0.1449683357106441,-0.396642603926774,0.6868052856330826,14,13
+test,Extension,outings,available_pairs,2,4–5,Injury,-0.31641307893605236,-0.6577455296678936,0.053181336514399824,20,19
+test,Extension,outings,available_pairs,2,4–5,Control,-0.5045993136293172,-0.7793078980699709,-0.16410042530503263,20,19
+test,Extension,outings,available_pairs,2,4–5,difference,0.18818623469326473,-0.1829706591450197,0.5309442263922096,20,19
+test,Extension,outings,available_pairs,3,2–3,Injury,-0.26615231942104767,-0.7013501144811864,0.09911676031254228,22,21
+test,Extension,outings,available_pairs,3,2–3,Control,-0.47765066057971045,-0.8286466989623138,-0.14682191822247276,22,21
+test,Extension,outings,available_pairs,3,2–3,difference,0.21149834115866267,-0.30359507805980723,0.6147591287810648,22,21
+test,Extension,outings,available_pairs,4,Final,Injury,-0.33751202311438144,-0.7841526633142386,0.004030918732280148,22,21
+test,Extension,outings,available_pairs,4,Final,Control,-0.5632149399049454,-0.898194573205411,-0.25415931698717015,22,21
+test,Extension,outings,available_pairs,4,Final,difference,0.22570291679056387,-0.24465927318647682,0.6664264845126966,22,21
+test,Extension,outings,balanced,2,4–5,Injury,-0.31641307893605236,-0.6577455296678936,0.053181336514399824,20,19
+test,Extension,outings,balanced,2,4–5,Control,-0.5045993136293172,-0.7793078980699709,-0.16410042530503263,20,19
+test,Extension,outings,balanced,2,4–5,difference,0.18818623469326473,-0.1829706591450197,0.5309442263922096,20,19
+test,Extension,outings,balanced,3,2–3,Injury,-0.23349972336927008,-0.5856635883605324,0.15728130200298113,20,19
+test,Extension,outings,balanced,3,2–3,Control,-0.48290283359355735,-0.8014604310805246,-0.12425061939965018,20,19
+test,Extension,outings,balanced,3,2–3,difference,0.24940311022428724,-0.1890253046531686,0.6282627860837288,20,19
+test,Extension,outings,balanced,4,Final,Injury,-0.30147198763860034,-0.6208947827219495,0.08564195259165441,20,19
+test,Extension,outings,balanced,4,Final,Control,-0.5680742107671148,-0.874719290990971,-0.20032228088514287,20,19
+test,Extension,outings,balanced,4,Final,difference,0.26660222312851467,-0.1620940279176111,0.6918724359075824,20,19
+validation,Location and strike fractions,calendar,available_pairs,0,31–60,Injury,-0.13268546541540777,-0.8369998436923108,0.6400826215168078,8,8
+validation,Location and strike fractions,calendar,available_pairs,0,31–60,Control,0.036116916727558554,-0.44233732570529694,0.5429183545187367,8,8
+validation,Location and strike fractions,calendar,available_pairs,0,31–60,difference,-0.16880238214296633,-0.8402970723321347,0.46896129910847273,8,8
+validation,Location and strike fractions,calendar,available_pairs,1,15–30,Injury,0.15547605461100966,-0.31530472877777865,0.5295707837042885,16,16
+validation,Location and strike fractions,calendar,available_pairs,1,15–30,Control,-0.05269147102353482,-0.39343375704055783,0.33768217322655064,16,16
+validation,Location and strike fractions,calendar,available_pairs,1,15–30,difference,0.2081675256345445,-0.39310803782903087,0.6901328846498224,16,16
+validation,Location and strike fractions,calendar,available_pairs,2,8–14,Injury,0.2354071827055557,-0.1838180326380668,0.6088343345836879,17,16
+validation,Location and strike fractions,calendar,available_pairs,2,8–14,Control,0.09836326329367753,-0.34293514088748306,0.4977081650490424,17,16
+validation,Location and strike fractions,calendar,available_pairs,2,8–14,difference,0.13704391941187813,-0.3419420742637009,0.6685063721776889,17,16
+validation,Location and strike fractions,calendar,available_pairs,3,1–7,Injury,0.003520342022591294,-0.3458872286076221,0.36140886450764315,20,19
+validation,Location and strike fractions,calendar,available_pairs,3,1–7,Control,-0.18756804489621898,-0.51601817947668,0.1972857566555224,20,19
+validation,Location and strike fractions,calendar,available_pairs,3,1–7,difference,0.19108838691881025,-0.30932464820186156,0.6380300916365866,20,19
+validation,Location and strike fractions,calendar,balanced,0,31–60,Injury,0.0627667462888145,-0.6346053760035684,0.7012355241240331,7,7
+validation,Location and strike fractions,calendar,balanced,0,31–60,Control,-0.009059609125428457,-0.6176730779212753,0.5671792570734324,7,7
+validation,Location and strike fractions,calendar,balanced,0,31–60,difference,0.07182635541424291,-0.5165576709832886,0.5966366269327686,7,7
+validation,Location and strike fractions,calendar,balanced,1,15–30,Injury,0.4377751629873923,-0.10802859771707196,0.9016773744502169,7,7
+validation,Location and strike fractions,calendar,balanced,1,15–30,Control,-0.03763127970242446,-0.6198520567568119,0.5682222412067127,7,7
+validation,Location and strike fractions,calendar,balanced,1,15–30,difference,0.47540644268981674,-0.06646276327825212,1.008227099866006,7,7
+validation,Location and strike fractions,calendar,balanced,2,8–14,Injury,0.5256841581125627,-0.07741031119092365,0.9516958247678365,7,7
+validation,Location and strike fractions,calendar,balanced,2,8–14,Control,0.0912771178450392,-0.4368537861218739,0.5761559879995656,7,7
+validation,Location and strike fractions,calendar,balanced,2,8–14,difference,0.4344070402675236,0.17029929273667024,0.7346924807670491,7,7
+validation,Location and strike fractions,calendar,balanced,3,1–7,Injury,0.2278357935795194,-0.3340197909273,0.7242978124268982,7,7
+validation,Location and strike fractions,calendar,balanced,3,1–7,Control,0.022828102652187994,-0.550949826168859,0.48368143591221036,7,7
+validation,Location and strike fractions,calendar,balanced,3,1–7,difference,0.20500769092733143,-0.3090455947388954,0.8088069805822538,7,7
+test,Location and strike fractions,calendar,available_pairs,0,31–60,Injury,0.05705743539182711,-0.5831360204148405,0.6163173550654384,11,10
+test,Location and strike fractions,calendar,available_pairs,0,31–60,Control,-0.030778479495622176,-0.5466737242061439,0.41613498822666556,11,10
+test,Location and strike fractions,calendar,available_pairs,0,31–60,difference,0.08783591488744928,-0.25509191278397453,0.48514942988923265,11,10
+test,Location and strike fractions,calendar,available_pairs,1,15–30,Injury,-0.021716797329738503,-0.47799855942750336,0.3493299780051044,17,16
+test,Location and strike fractions,calendar,available_pairs,1,15–30,Control,0.15866189173309597,-0.1704626715609579,0.45209745020190395,17,16
+test,Location and strike fractions,calendar,available_pairs,1,15–30,difference,-0.18037868906283444,-0.6839519825065419,0.26847452929103144,17,16
+test,Location and strike fractions,calendar,available_pairs,2,8–14,Injury,0.1286994868027169,-0.1431731815848668,0.4056004668849759,21,20
+test,Location and strike fractions,calendar,available_pairs,2,8–14,Control,0.22356072951319353,-0.1081262012568607,0.485144756450116,21,20
+test,Location and strike fractions,calendar,available_pairs,2,8–14,difference,-0.09486124271047662,-0.4006167534265025,0.2787400434405178,21,20
+test,Location and strike fractions,calendar,available_pairs,3,1–7,Injury,-0.026438724629644625,-0.4006162702106704,0.32221598665091816,22,21
+test,Location and strike fractions,calendar,available_pairs,3,1–7,Control,0.12013306158451416,-0.1843225294468667,0.4236188916289414,22,21
+test,Location and strike fractions,calendar,available_pairs,3,1–7,difference,-0.14657178621415876,-0.4948198306218338,0.19234547829548637,22,21
+test,Location and strike fractions,calendar,balanced,0,31–60,Injury,0.20130279085322866,-0.4794663649362682,0.73889328272993,9,8
+test,Location and strike fractions,calendar,balanced,0,31–60,Control,0.030190944815899987,-0.5071186370077589,0.37148454555781996,9,8
+test,Location and strike fractions,calendar,balanced,0,31–60,difference,0.17111184603732868,-0.26445664557028686,0.6122000469694837,9,8
+test,Location and strike fractions,calendar,balanced,1,15–30,Injury,0.19765467919737686,-0.29011944955558555,0.5545026715667648,9,8
+test,Location and strike fractions,calendar,balanced,1,15–30,Control,0.09622718687232787,-0.3459719232403743,0.3541978181251445,9,8
+test,Location and strike fractions,calendar,balanced,1,15–30,difference,0.10142749232504898,-0.27458472342098084,0.43684812142706764,9,8
+test,Location and strike fractions,calendar,balanced,2,8–14,Injury,0.11873054154346065,-0.4038235558298561,0.5818552952819817,9,8
+test,Location and strike fractions,calendar,balanced,2,8–14,Control,0.19204707022818626,-0.4562446670882446,0.5801107914213725,9,8
+test,Location and strike fractions,calendar,balanced,2,8–14,difference,-0.07331652868472563,-0.4655813497255494,0.31284641411015857,9,8
+test,Location and strike fractions,calendar,balanced,3,1–7,Injury,-0.11570213589891733,-0.5716534213738047,0.2953572720448613,9,8
+test,Location and strike fractions,calendar,balanced,3,1–7,Control,0.07298299954844949,-0.43859524367066555,0.40826397465538733,9,8
+test,Location and strike fractions,calendar,balanced,3,1–7,difference,-0.18868513544736684,-0.5348848153866717,0.1552049539479313,9,8
+validation,Location and strike fractions,outings,available_pairs,0,11+,Injury,0.4442613332561307,-0.2728939471630759,1.002629392283764,4,4
+validation,Location and strike fractions,outings,available_pairs,0,11+,Control,0.68135806324021,0.3190346915537777,1.0436814349266421,4,4
+validation,Location and strike fractions,outings,available_pairs,0,11+,difference,-0.2370967299840793,-1.1398898321887525,0.30396253612361285,4,4
+validation,Location and strike fractions,outings,available_pairs,1,6–10,Injury,0.010708425232283608,-0.5861105314718964,0.5046081016063431,11,10
+validation,Location and strike fractions,outings,available_pairs,1,6–10,Control,-0.1279916753362883,-0.595089816657222,0.33119844488873773,11,10
+validation,Location and strike fractions,outings,available_pairs,1,6–10,difference,0.13870010056857193,-0.3318895751242175,0.6430120594145893,11,10
+validation,Location and strike fractions,outings,available_pairs,2,4–5,Injury,0.26178713506731427,-0.2626383779733055,0.6359785659816637,17,16
+validation,Location and strike fractions,outings,available_pairs,2,4–5,Control,-0.049255387607168376,-0.41160518343758973,0.34291216456675494,17,16
+validation,Location and strike fractions,outings,available_pairs,2,4–5,difference,0.31104252267448257,-0.35816242130830467,0.8245886563841363,17,16
+validation,Location and strike fractions,outings,available_pairs,3,2–3,Injury,0.03393449184887433,-0.351869099190934,0.3966256832525239,20,19
+validation,Location and strike fractions,outings,available_pairs,3,2–3,Control,-0.08636592780823613,-0.4475270822419556,0.2809764486848444,20,19
+validation,Location and strike fractions,outings,available_pairs,3,2–3,difference,0.12030041965711044,-0.3676072351611366,0.545278202931719,20,19
+validation,Location and strike fractions,outings,available_pairs,4,Final,Injury,-0.10931576613131659,-0.4818146613912977,0.2776320738488137,20,19
+validation,Location and strike fractions,outings,available_pairs,4,Final,Control,-0.1717393760448378,-0.6409470285134363,0.2691662557063504,20,19
+validation,Location and strike fractions,outings,available_pairs,4,Final,difference,0.06242360991352121,-0.5383692335106064,0.6037631597215366,20,19
+validation,Location and strike fractions,outings,balanced,2,4–5,Injury,0.26178713506731427,-0.2626383779733055,0.6359785659816637,17,16
+validation,Location and strike fractions,outings,balanced,2,4–5,Control,-0.049255387607168376,-0.41160518343758973,0.34291216456675494,17,16
+validation,Location and strike fractions,outings,balanced,2,4–5,difference,0.31104252267448257,-0.35816242130830467,0.8245886563841363,17,16
+validation,Location and strike fractions,outings,balanced,3,2–3,Injury,0.13906147800105909,-0.3034647437015488,0.4937850100582012,17,16
+validation,Location and strike fractions,outings,balanced,3,2–3,Control,0.05206096896900321,-0.3212734414610761,0.4302359335768327,17,16
+validation,Location and strike fractions,outings,balanced,3,2–3,difference,0.08700050903205583,-0.6067316321696188,0.6081863190760683,17,16
+validation,Location and strike fractions,outings,balanced,4,Final,Injury,-0.04024086299397866,-0.4465584963954143,0.31727681680622893,17,16
+validation,Location and strike fractions,outings,balanced,4,Final,Control,-0.05260100863085833,-0.5223493766175779,0.4807989453166071,17,16
+validation,Location and strike fractions,outings,balanced,4,Final,difference,0.012360145636879724,-0.7562647419970885,0.5955919797473787,17,16
+test,Location and strike fractions,outings,available_pairs,0,11+,Injury,-0.2919356583596565,-1.1290794954313512,0.5452081787120382,2,2
+test,Location and strike fractions,outings,available_pairs,0,11+,Control,0.235839625848961,0.10176065850738232,0.3699185931905397,2,2
+test,Location and strike fractions,outings,available_pairs,0,11+,difference,-0.5277752842086175,-1.2308401539387335,0.17528958552149848,2,2
+test,Location and strike fractions,outings,available_pairs,1,6–10,Injury,-0.09173415184211953,-0.6783490931175239,0.4393289789649349,14,13
+test,Location and strike fractions,outings,available_pairs,1,6–10,Control,0.15769137465883748,-0.4060147180118967,0.529920759748508,14,13
+test,Location and strike fractions,outings,available_pairs,1,6–10,difference,-0.249425526500957,-0.8959490810764825,0.26519268284997227,14,13
+test,Location and strike fractions,outings,available_pairs,2,4–5,Injury,0.22581246182109221,-0.09913893636545146,0.5319503869999069,20,19
+test,Location and strike fractions,outings,available_pairs,2,4–5,Control,0.21125538844893907,-0.07298247587080614,0.4296736697696749,20,19
+test,Location and strike fractions,outings,available_pairs,2,4–5,difference,0.014557073372153118,-0.3213679544499926,0.3134349598074677,20,19
+test,Location and strike fractions,outings,available_pairs,3,2–3,Injury,0.07049958903171899,-0.2855976232696675,0.41401482674046386,22,21
+test,Location and strike fractions,outings,available_pairs,3,2–3,Control,0.13752567300160276,-0.16158219654605072,0.4561633579261548,22,21
+test,Location and strike fractions,outings,available_pairs,3,2–3,difference,-0.0670260839698838,-0.43950668599727427,0.30579303151182574,22,21
+test,Location and strike fractions,outings,available_pairs,4,Final,Injury,-0.16468154484417488,-0.5265111247729213,0.18829818046952904,22,21
+test,Location and strike fractions,outings,available_pairs,4,Final,Control,0.1271156427865835,-0.20095255241325807,0.44654514881021395,22,21
+test,Location and strike fractions,outings,available_pairs,4,Final,difference,-0.29179718763075835,-0.6723724462718706,0.07851580815518694,22,21
+test,Location and strike fractions,outings,balanced,2,4–5,Injury,0.22581246182109221,-0.09913893636545146,0.5319503869999069,20,19
+test,Location and strike fractions,outings,balanced,2,4–5,Control,0.21125538844893907,-0.07298247587080614,0.4296736697696749,20,19
+test,Location and strike fractions,outings,balanced,2,4–5,difference,0.014557073372153118,-0.3213679544499926,0.3134349598074677,20,19
+test,Location and strike fractions,outings,balanced,3,2–3,Injury,0.05884542509949414,-0.2999397318473253,0.3889171394880591,20,19
+test,Location and strike fractions,outings,balanced,3,2–3,Control,0.18335795586393,-0.19342654665679274,0.4878666822354183,20,19
+test,Location and strike fractions,outings,balanced,3,2–3,difference,-0.12451253076443589,-0.4700299310981326,0.28845631321331533,20,19
+test,Location and strike fractions,outings,balanced,4,Final,Injury,-0.19962369741839975,-0.5305070558994426,0.12256711646106695,20,19
+test,Location and strike fractions,outings,balanced,4,Final,Control,0.17128164394675321,-0.15767929016418208,0.43688304518917015,20,19
+test,Location and strike fractions,outings,balanced,4,Final,difference,-0.3709053413651529,-0.7648081179180868,0.010774284550850865,20,19
+validation,Pitch mix and pitch-type counts,calendar,available_pairs,0,31–60,Injury,0.10351013628844741,-0.3440983021298646,0.5511781226939743,8,8
+validation,Pitch mix and pitch-type counts,calendar,available_pairs,0,31–60,Control,0.05154300802831631,-0.2594963113849551,0.33764154671767904,8,8
+validation,Pitch mix and pitch-type counts,calendar,available_pairs,0,31–60,difference,0.051967128260131126,-0.48437019441247214,0.5328151077279124,8,8
+validation,Pitch mix and pitch-type counts,calendar,available_pairs,1,15–30,Injury,0.25732909545976346,-0.013189400884386445,0.4862572067786475,16,16
+validation,Pitch mix and pitch-type counts,calendar,available_pairs,1,15–30,Control,-0.4394308045634981,-1.5056574278245112,0.2712310960604103,16,16
+validation,Pitch mix and pitch-type counts,calendar,available_pairs,1,15–30,difference,0.6967599000232617,-0.10762436615138993,1.8957713698673568,16,16
+validation,Pitch mix and pitch-type counts,calendar,available_pairs,2,8–14,Injury,0.31751551223799807,0.12772607177472708,0.5292813427208086,17,16
+validation,Pitch mix and pitch-type counts,calendar,available_pairs,2,8–14,Control,-0.4042452920576968,-1.5354744922179073,0.33043099199364784,17,16
+validation,Pitch mix and pitch-type counts,calendar,available_pairs,2,8–14,difference,0.7217608042956949,-0.049746341265970835,1.9861637985570606,17,16
+validation,Pitch mix and pitch-type counts,calendar,available_pairs,3,1–7,Injury,0.24564882158841383,-0.011088768140085884,0.5030999244331509,20,19
+validation,Pitch mix and pitch-type counts,calendar,available_pairs,3,1–7,Control,-0.4258893841606022,-1.2827254838716036,0.20586661483167062,20,19
+validation,Pitch mix and pitch-type counts,calendar,available_pairs,3,1–7,difference,0.6715382057490158,-0.0679937809049844,1.6305531675721152,20,19
+validation,Pitch mix and pitch-type counts,calendar,balanced,0,31–60,Injury,0.25093571340308995,-0.08769427841335138,0.6205529980552995,7,7
+validation,Pitch mix and pitch-type counts,calendar,balanced,0,31–60,Control,0.002470919815419787,-0.33079968780576685,0.31707236095370206,7,7
+validation,Pitch mix and pitch-type counts,calendar,balanced,0,31–60,difference,0.24846479358767018,-0.19647135515414468,0.6304862434855735,7,7
+validation,Pitch mix and pitch-type counts,calendar,balanced,1,15–30,Injury,0.34824280891391984,-0.022049569538622044,0.7677019174141285,7,7
+validation,Pitch mix and pitch-type counts,calendar,balanced,1,15–30,Control,0.10110753111810922,-0.31405400283674356,0.44986965718057986,7,7
+validation,Pitch mix and pitch-type counts,calendar,balanced,1,15–30,difference,0.24713527779581063,-0.21509709349252334,0.7513242462275818,7,7
+validation,Pitch mix and pitch-type counts,calendar,balanced,2,8–14,Injury,0.35570451639633155,0.0570892881051639,0.6822293664029655,7,7
+validation,Pitch mix and pitch-type counts,calendar,balanced,2,8–14,Control,-0.0019554181056641467,-0.33015541473650717,0.30346444541974216,7,7
+validation,Pitch mix and pitch-type counts,calendar,balanced,2,8–14,difference,0.3576599345019956,-0.07975194156031366,0.7737407554782806,7,7
+validation,Pitch mix and pitch-type counts,calendar,balanced,3,1–7,Injury,0.3806797791669914,-0.015156342723427332,0.8237272335926775,7,7
+validation,Pitch mix and pitch-type counts,calendar,balanced,3,1–7,Control,-0.0009119597978827379,-0.22470205075838137,0.17711818967352036,7,7
+validation,Pitch mix and pitch-type counts,calendar,balanced,3,1–7,difference,0.38159173896487414,0.008072608699847496,0.7662904896027094,7,7
+test,Pitch mix and pitch-type counts,calendar,available_pairs,0,31–60,Injury,0.15063272518272422,-0.31888596468185776,0.5794420082255693,11,10
+test,Pitch mix and pitch-type counts,calendar,available_pairs,0,31–60,Control,0.18665099753406034,-0.10524467673330755,0.43115070140774614,11,10
+test,Pitch mix and pitch-type counts,calendar,available_pairs,0,31–60,difference,-0.03601827235133615,-0.54942501723406,0.3879712475963012,11,10
+test,Pitch mix and pitch-type counts,calendar,available_pairs,1,15–30,Injury,0.06260635057032009,-0.33247789308773573,0.41451661240308807,17,16
+test,Pitch mix and pitch-type counts,calendar,available_pairs,1,15–30,Control,0.31622605497819317,-0.024012728903587438,0.6337080285770282,17,16
+test,Pitch mix and pitch-type counts,calendar,available_pairs,1,15–30,difference,-0.2536197044078731,-0.7410398916265467,0.2152146571111306,17,16
+test,Pitch mix and pitch-type counts,calendar,available_pairs,2,8–14,Injury,0.17313041377000296,-0.10043014353768004,0.40465246699597673,21,20
+test,Pitch mix and pitch-type counts,calendar,available_pairs,2,8–14,Control,0.1783487105054547,-0.2842327028207198,0.5070377091466007,21,20
+test,Pitch mix and pitch-type counts,calendar,available_pairs,2,8–14,difference,-0.005218296735451703,-0.45480338485807636,0.4314955772000874,21,20
+test,Pitch mix and pitch-type counts,calendar,available_pairs,3,1–7,Injury,0.17661258743907718,-0.08417414654757567,0.41213129792802283,22,21
+test,Pitch mix and pitch-type counts,calendar,available_pairs,3,1–7,Control,0.14267086276507143,-0.342940732546757,0.4958233975419411,22,21
+test,Pitch mix and pitch-type counts,calendar,available_pairs,3,1–7,difference,0.03394172467400575,-0.33043489809018584,0.45397718373352614,22,21
+test,Pitch mix and pitch-type counts,calendar,balanced,0,31–60,Injury,0.08499179350662246,-0.5062702742406723,0.47402798111263555,9,8
+test,Pitch mix and pitch-type counts,calendar,balanced,0,31–60,Control,0.2637103192825899,-0.01532281295703906,0.5482649091483339,9,8
+test,Pitch mix and pitch-type counts,calendar,balanced,0,31–60,difference,-0.17871852577596745,-0.6722515787670814,0.25172848775402357,9,8
+test,Pitch mix and pitch-type counts,calendar,balanced,1,15–30,Injury,0.11240299785358222,-0.40189737739106407,0.46291193543260184,9,8
+test,Pitch mix and pitch-type counts,calendar,balanced,1,15–30,Control,0.17610498096787186,-0.4124098059049452,0.5729098483728741,9,8
+test,Pitch mix and pitch-type counts,calendar,balanced,1,15–30,difference,-0.06370198311428961,-0.6286447638414674,0.3915102147726498,9,8
+test,Pitch mix and pitch-type counts,calendar,balanced,2,8–14,Injury,0.17086603729779778,-0.2544868033115522,0.47043630846181644,9,8
+test,Pitch mix and pitch-type counts,calendar,balanced,2,8–14,Control,0.005061355416054248,-0.9997913072052123,0.560385975704069,9,8
+test,Pitch mix and pitch-type counts,calendar,balanced,2,8–14,difference,0.16580468188174347,-0.45843001764615743,0.8965009231549547,9,8
+test,Pitch mix and pitch-type counts,calendar,balanced,3,1–7,Injury,0.09092421023024161,-0.27765907230816433,0.35331185754468436,9,8
+test,Pitch mix and pitch-type counts,calendar,balanced,3,1–7,Control,-0.14098831199148082,-1.4670742582774707,0.48736076977315607,9,8
+test,Pitch mix and pitch-type counts,calendar,balanced,3,1–7,difference,0.23191252222172234,-0.31077543270604735,1.15414701683584,9,8
+validation,Pitch mix and pitch-type counts,outings,available_pairs,0,11+,Injury,0.42644105142361166,-0.12996792818737257,0.9045738953595779,4,4
+validation,Pitch mix and pitch-type counts,outings,available_pairs,0,11+,Control,-0.012993934052173972,-0.5661029326060413,0.38581648716062217,4,4
+validation,Pitch mix and pitch-type counts,outings,available_pairs,0,11+,difference,0.4394349854757857,-0.3254215211611969,1.0676959562070156,4,4
+validation,Pitch mix and pitch-type counts,outings,available_pairs,1,6–10,Injury,0.128418878021138,-0.2035166699181014,0.4288056729185465,11,10
+validation,Pitch mix and pitch-type counts,outings,available_pairs,1,6–10,Control,0.08344179956947917,-0.2506829010892186,0.36096554000324804,11,10
+validation,Pitch mix and pitch-type counts,outings,available_pairs,1,6–10,difference,0.04497707845165875,-0.37140039580284484,0.5294420706975383,11,10
+validation,Pitch mix and pitch-type counts,outings,available_pairs,2,4–5,Injury,0.22295732745939537,-0.030924671760425796,0.4658078186319036,17,16
+validation,Pitch mix and pitch-type counts,outings,available_pairs,2,4–5,Control,-0.3733710320101537,-1.3778493483344785,0.30576756410206135,17,16
+validation,Pitch mix and pitch-type counts,outings,available_pairs,2,4–5,difference,0.5963283594695491,-0.12840491605081983,1.671554615084401,17,16
+validation,Pitch mix and pitch-type counts,outings,available_pairs,3,2–3,Injury,0.25381446896071524,0.012793864711441717,0.5003884075456176,20,19
+validation,Pitch mix and pitch-type counts,outings,available_pairs,3,2–3,Control,-0.44917548950367764,-1.344724223180953,0.22941752649040253,20,19
+validation,Pitch mix and pitch-type counts,outings,available_pairs,3,2–3,difference,0.7029899584643929,-0.06314866797701423,1.7271683028063793,20,19
+validation,Pitch mix and pitch-type counts,outings,available_pairs,4,Final,Injury,0.20928344863501586,-0.12000282807464091,0.49341941978779025,20,19
+validation,Pitch mix and pitch-type counts,outings,available_pairs,4,Final,Control,-0.4190666101964197,-1.2926776465491823,0.1728425541201093,20,19
+validation,Pitch mix and pitch-type counts,outings,available_pairs,4,Final,difference,0.6283500588314357,-0.12927852015166252,1.5954652692419453,20,19
+validation,Pitch mix and pitch-type counts,outings,balanced,2,4–5,Injury,0.22295732745939537,-0.030924671760425796,0.4658078186319036,17,16
+validation,Pitch mix and pitch-type counts,outings,balanced,2,4–5,Control,-0.3733710320101537,-1.3778493483344785,0.30576756410206135,17,16
+validation,Pitch mix and pitch-type counts,outings,balanced,2,4–5,difference,0.5963283594695491,-0.12840491605081983,1.671554615084401,17,16
+validation,Pitch mix and pitch-type counts,outings,balanced,3,2–3,Injury,0.32878613110936544,0.0947379916720269,0.5290686473844116,17,16
+validation,Pitch mix and pitch-type counts,outings,balanced,3,2–3,Control,-0.5298148527264959,-1.5132691793285342,0.18222642330700742,17,16
+validation,Pitch mix and pitch-type counts,outings,balanced,3,2–3,difference,0.8586009838358611,0.05676603985221929,1.9763620566254068,17,16
+validation,Pitch mix and pitch-type counts,outings,balanced,4,Final,Injury,0.334025859120462,0.09138453319803802,0.5603411387233583,17,16
+validation,Pitch mix and pitch-type counts,outings,balanced,4,Final,Control,-0.46585937307387537,-1.4294789883969954,0.18067891757618096,17,16
+validation,Pitch mix and pitch-type counts,outings,balanced,4,Final,difference,0.7998852321943375,0.026651761101598108,1.8752594236661735,17,16
+test,Pitch mix and pitch-type counts,outings,available_pairs,0,11+,Injury,-0.1136637977354803,-1.131166567672837,0.9038389722018765,2,2
+test,Pitch mix and pitch-type counts,outings,available_pairs,0,11+,Control,0.7697198631833213,0.6414872721175623,0.8979524542490803,2,2
+test,Pitch mix and pitch-type counts,outings,available_pairs,0,11+,difference,-0.8833836609188015,-2.0291190219219173,0.2623517000843142,2,2
+test,Pitch mix and pitch-type counts,outings,available_pairs,1,6–10,Injury,0.07397297840727621,-0.41834434664488024,0.5449296024495858,14,13
+test,Pitch mix and pitch-type counts,outings,available_pairs,1,6–10,Control,0.33789162709622184,-0.002140179600103797,0.6555852675298527,14,13
+test,Pitch mix and pitch-type counts,outings,available_pairs,1,6–10,difference,-0.2639186486889457,-0.8156770519225892,0.2652593996305611,14,13
+test,Pitch mix and pitch-type counts,outings,available_pairs,2,4–5,Injury,0.1476877550963654,-0.19874386966664687,0.5001296760662783,20,19
+test,Pitch mix and pitch-type counts,outings,available_pairs,2,4–5,Control,0.2140069062096582,-0.22340117603350884,0.5052987069227916,20,19
+test,Pitch mix and pitch-type counts,outings,available_pairs,2,4–5,difference,-0.06631915111329278,-0.5256450165175907,0.43513583638771025,20,19
+test,Pitch mix and pitch-type counts,outings,available_pairs,3,2–3,Injury,0.1713780851073761,-0.14024193543858662,0.44077417549515835,22,21
+test,Pitch mix and pitch-type counts,outings,available_pairs,3,2–3,Control,0.11953353725758782,-0.3010452148704656,0.44143590048781467,22,21
+test,Pitch mix and pitch-type counts,outings,available_pairs,3,2–3,difference,0.05184454784978818,-0.3018372178228022,0.39126817416712417,22,21
+test,Pitch mix and pitch-type counts,outings,available_pairs,4,Final,Injury,0.17035794855633982,-0.07629363979233042,0.389272632932233,22,21
+test,Pitch mix and pitch-type counts,outings,available_pairs,4,Final,Control,0.1514845683222715,-0.36936505022235105,0.5270791176278878,22,21
+test,Pitch mix and pitch-type counts,outings,available_pairs,4,Final,difference,0.01887338023406839,-0.36757249302824174,0.49217949198980404,22,21
+test,Pitch mix and pitch-type counts,outings,balanced,2,4–5,Injury,0.1476877550963654,-0.19874386966664687,0.5001296760662783,20,19
+test,Pitch mix and pitch-type counts,outings,balanced,2,4–5,Control,0.2140069062096582,-0.22340117603350884,0.5052987069227916,20,19
+test,Pitch mix and pitch-type counts,outings,balanced,2,4–5,difference,-0.06631915111329278,-0.5256450165175907,0.43513583638771025,20,19
+test,Pitch mix and pitch-type counts,outings,balanced,3,2–3,Injury,0.17103862419250265,-0.14158436161393972,0.4457152102286778,20,19
+test,Pitch mix and pitch-type counts,outings,balanced,3,2–3,Control,0.156137563771448,-0.40486123315178196,0.5082537572378328,20,19
+test,Pitch mix and pitch-type counts,outings,balanced,3,2–3,difference,0.014901060421054668,-0.430459618954122,0.45852464910122936,20,19
+test,Pitch mix and pitch-type counts,outings,balanced,4,Final,Injury,0.17946055493702012,-0.06470411502340435,0.4158612234864665,20,19
+test,Pitch mix and pitch-type counts,outings,balanced,4,Final,Control,0.16641400944279888,-0.5610805019805895,0.5619183682128096,20,19
+test,Pitch mix and pitch-type counts,outings,balanced,4,Final,difference,0.013046545494221271,-0.3933795312718327,0.6062283425631692,20,19
+validation,Pitch movement,calendar,available_pairs,0,31–60,Injury,0.19294578747916002,-0.21135893968164937,0.585981530193174,8,8
+validation,Pitch movement,calendar,available_pairs,0,31–60,Control,0.5954521320997689,0.18427726362030392,1.0266029373555683,8,8
+validation,Pitch movement,calendar,available_pairs,0,31–60,difference,-0.4025063446206088,-0.906263006419769,0.11169234649212396,8,8
+validation,Pitch movement,calendar,available_pairs,1,15–30,Injury,0.5367417903026053,0.21756182759269296,0.8666536803358136,16,16
+validation,Pitch movement,calendar,available_pairs,1,15–30,Control,0.6156186297925341,0.29898451828996764,1.0762265828516147,16,16
+validation,Pitch movement,calendar,available_pairs,1,15–30,difference,-0.07887683948992891,-0.730302531556709,0.4554914684188,16,16
+validation,Pitch movement,calendar,available_pairs,2,8–14,Injury,0.47809517529430096,0.1448967950267199,0.9286205071288126,17,16
+validation,Pitch movement,calendar,available_pairs,2,8–14,Control,0.5863508857948704,0.21731749045493562,0.992399778358205,17,16
+validation,Pitch movement,calendar,available_pairs,2,8–14,difference,-0.10825571050056924,-0.611471558121237,0.4334700452489601,17,16
+validation,Pitch movement,calendar,available_pairs,3,1–7,Injury,0.45414004977719385,0.20601335205966528,0.7200270073029952,20,19
+validation,Pitch movement,calendar,available_pairs,3,1–7,Control,0.5495568729496944,0.12940587713336665,0.92198629945985,20,19
+validation,Pitch movement,calendar,available_pairs,3,1–7,difference,-0.09541682317250041,-0.5518298525743389,0.3945795536193864,20,19
+validation,Pitch movement,calendar,balanced,0,31–60,Injury,0.23706814031415682,-0.2342807909332063,0.6160144827511072,7,7
+validation,Pitch movement,calendar,balanced,0,31–60,Control,0.49985745423669,0.02170331467606066,0.906604542002097,7,7
+validation,Pitch movement,calendar,balanced,0,31–60,difference,-0.26278931392253313,-0.7430983154450491,0.2428266748111851,7,7
+validation,Pitch movement,calendar,balanced,1,15–30,Injury,0.6029066053242591,0.043964511882174914,1.1026821442820673,7,7
+validation,Pitch movement,calendar,balanced,1,15–30,Control,0.5084622670839309,0.048306330218277314,0.9315137915001889,7,7
+validation,Pitch movement,calendar,balanced,1,15–30,difference,0.09444433824032804,-0.5830026294419345,0.8641255026975406,7,7
+validation,Pitch movement,calendar,balanced,2,8–14,Injury,0.45818394645849586,-0.19536197905650748,1.034080646183497,7,7
+validation,Pitch movement,calendar,balanced,2,8–14,Control,0.5905619967356895,0.2575302981917265,0.9357908564265871,7,7
+validation,Pitch movement,calendar,balanced,2,8–14,difference,-0.13237805027719365,-0.6925809161852707,0.3561213256256508,7,7
+validation,Pitch movement,calendar,balanced,3,1–7,Injury,0.3875730726211903,-0.14003557198398017,0.8455345853929489,7,7
+validation,Pitch movement,calendar,balanced,3,1–7,Control,0.7704928573723449,0.28249843338967484,1.1417861802970026,7,7
+validation,Pitch movement,calendar,balanced,3,1–7,difference,-0.38291978475115457,-0.8378436895710824,0.11720865530475542,7,7
+test,Pitch movement,calendar,available_pairs,0,31–60,Injury,0.33901026064392403,-0.1343985936742693,0.8843370681754066,11,10
+test,Pitch movement,calendar,available_pairs,0,31–60,Control,0.488559282733309,0.15473235844398614,0.7743163388876318,11,10
+test,Pitch movement,calendar,available_pairs,0,31–60,difference,-0.14954902208938503,-0.5766486651130532,0.35641940570687886,11,10
+test,Pitch movement,calendar,available_pairs,1,15–30,Injury,0.27773119847122485,-0.20171768433735762,0.6818471237224902,17,16
+test,Pitch movement,calendar,available_pairs,1,15–30,Control,0.6331415470556361,0.3685788255070774,0.8716379324910933,17,16
+test,Pitch movement,calendar,available_pairs,1,15–30,difference,-0.3554103485844112,-0.780881116037172,0.041944526745111774,17,16
+test,Pitch movement,calendar,available_pairs,2,8–14,Injury,0.3994324766600922,0.06075160571422691,0.7586609721315652,21,20
+test,Pitch movement,calendar,available_pairs,2,8–14,Control,0.6005082734832585,0.2790567608785147,0.9192821711989287,21,20
+test,Pitch movement,calendar,available_pairs,2,8–14,difference,-0.2010757968231664,-0.5884017479309375,0.24542818930308072,21,20
+test,Pitch movement,calendar,available_pairs,3,1–7,Injury,0.38888062311364635,0.019710189174609462,0.7398477501275059,22,21
+test,Pitch movement,calendar,available_pairs,3,1–7,Control,0.5736746224018267,0.3262933183926554,0.8055077747551206,22,21
+test,Pitch movement,calendar,available_pairs,3,1–7,difference,-0.18479399928818027,-0.5838783008261912,0.20471820393365023,22,21
+test,Pitch movement,calendar,balanced,0,31–60,Injury,0.3256745268222783,-0.2655262682652133,0.9156613346219162,9,8
+test,Pitch movement,calendar,balanced,0,31–60,Control,0.5280902789356671,0.11594510184329199,0.883046875142016,9,8
+test,Pitch movement,calendar,balanced,0,31–60,difference,-0.20241575211338889,-0.7520831411111288,0.3937432078623167,9,8
+test,Pitch movement,calendar,balanced,1,15–30,Injury,0.5051831655257002,-0.06288653348462597,1.0855399180534497,9,8
+test,Pitch movement,calendar,balanced,1,15–30,Control,0.6582879195805735,0.2591878318162942,0.9994181022555907,9,8
+test,Pitch movement,calendar,balanced,1,15–30,difference,-0.15310475405487342,-0.5782446173535498,0.32269391508723233,9,8
+test,Pitch movement,calendar,balanced,2,8–14,Injury,0.5232547237888048,-0.10222049831406485,1.1590868454990468,9,8
+test,Pitch movement,calendar,balanced,2,8–14,Control,0.7230305700779793,0.2577571237218284,1.0112588339669393,9,8
+test,Pitch movement,calendar,balanced,2,8–14,difference,-0.19977584628917455,-0.6378963332654454,0.39001480483288165,9,8
+test,Pitch movement,calendar,balanced,3,1–7,Injury,0.37698557353883694,-0.2796214262498086,1.0974152360392668,9,8
+test,Pitch movement,calendar,balanced,3,1–7,Control,0.710486464329774,0.2768518791221879,1.0354890001073707,9,8
+test,Pitch movement,calendar,balanced,3,1–7,difference,-0.33350089079093714,-0.764722675023801,0.31530142297721797,9,8
+validation,Pitch movement,outings,available_pairs,0,11+,Injury,0.39865981015123286,-0.2413376403263131,1.0473895334638386,4,4
+validation,Pitch movement,outings,available_pairs,0,11+,Control,0.8963141125041477,0.4215971462607486,1.3710310787475468,4,4
+validation,Pitch movement,outings,available_pairs,0,11+,difference,-0.49765430235291486,-1.0229250887130434,0.18320333013752318,4,4
+validation,Pitch movement,outings,available_pairs,1,6–10,Injury,0.26500403195559036,-0.07341700663380102,0.7292788970574731,11,10
+validation,Pitch movement,outings,available_pairs,1,6–10,Control,0.39660621724501277,-0.019696712323761953,0.8043869151503931,11,10
+validation,Pitch movement,outings,available_pairs,1,6–10,difference,-0.13160218528942244,-0.6131287458577598,0.4626988943942818,11,10
+validation,Pitch movement,outings,available_pairs,2,4–5,Injury,0.4710973653018184,0.15029077348845693,0.8138713720078251,17,16
+validation,Pitch movement,outings,available_pairs,2,4–5,Control,0.5919170496375189,0.27101966576470343,1.0619692159468017,17,16
+validation,Pitch movement,outings,available_pairs,2,4–5,difference,-0.12081968433570071,-0.7319028814935107,0.40631049730585905,17,16
+validation,Pitch movement,outings,available_pairs,3,2–3,Injury,0.4628293161232972,0.19110726648641646,0.7784610928489769,20,19
+validation,Pitch movement,outings,available_pairs,3,2–3,Control,0.5481972658324026,0.12518819417882357,0.9389388203761709,20,19
+validation,Pitch movement,outings,available_pairs,3,2–3,difference,-0.08536794970910552,-0.5803115278476028,0.45319656074016046,20,19
+validation,Pitch movement,outings,available_pairs,4,Final,Injury,0.4466697963668259,0.22890374130988086,0.6935962688229984,20,19
+validation,Pitch movement,outings,available_pairs,4,Final,Control,0.5099276732754097,0.11114070037592941,0.9167818290343867,20,19
+validation,Pitch movement,outings,available_pairs,4,Final,difference,-0.06325787690858382,-0.5216230702837851,0.43092071523808856,20,19
+validation,Pitch movement,outings,balanced,2,4–5,Injury,0.4710973653018184,0.15029077348845693,0.8138713720078251,17,16
+validation,Pitch movement,outings,balanced,2,4–5,Control,0.5919170496375189,0.27101966576470343,1.0619692159468017,17,16
+validation,Pitch movement,outings,balanced,2,4–5,difference,-0.12081968433570071,-0.7319028814935107,0.40631049730585905,17,16
+validation,Pitch movement,outings,balanced,3,2–3,Injury,0.43411639543005875,0.09692263083382609,0.8352853201096383,17,16
+validation,Pitch movement,outings,balanced,3,2–3,Control,0.6543301611138632,0.2373764112392578,1.1970778830585407,17,16
+validation,Pitch movement,outings,balanced,3,2–3,difference,-0.22021376568380455,-0.8693628580943529,0.30634144813579595,17,16
+validation,Pitch movement,outings,balanced,4,Final,Injury,0.42447332375848484,0.16948374057210672,0.7032878816337066,17,16
+validation,Pitch movement,outings,balanced,4,Final,Control,0.5699042843941495,0.14942861708865487,1.1132224637595718,17,16
+validation,Pitch movement,outings,balanced,4,Final,difference,-0.14543096063566469,-0.749588844263179,0.3184464507604595,17,16
+test,Pitch movement,outings,available_pairs,0,11+,Injury,-0.7272390534621372,-0.9857064047860961,-0.4687717021381785,2,2
+test,Pitch movement,outings,available_pairs,0,11+,Control,0.8291499815366943,0.7850452046749334,0.8732547583984551,2,2
+test,Pitch movement,outings,available_pairs,0,11+,difference,-1.5563890349988316,-1.858961163184551,-1.253816906813112,2,2
+test,Pitch movement,outings,available_pairs,1,6–10,Injury,0.13761026089954323,-0.30769419596852454,0.600054312708863,14,13
+test,Pitch movement,outings,available_pairs,1,6–10,Control,0.47385258503643607,0.19448703588801364,0.7661270705957262,14,13
+test,Pitch movement,outings,available_pairs,1,6–10,difference,-0.33624232413689276,-0.7623298310833795,0.13379121904506971,14,13
+test,Pitch movement,outings,available_pairs,2,4–5,Injury,0.4480535970183526,0.03338007883899624,0.7721115489102295,20,19
+test,Pitch movement,outings,available_pairs,2,4–5,Control,0.6453569069472445,0.36990250415324005,0.9216172391793306,20,19
+test,Pitch movement,outings,available_pairs,2,4–5,difference,-0.19730330992889175,-0.6755849068435181,0.21541282700094866,20,19
+test,Pitch movement,outings,available_pairs,3,2–3,Injury,0.3767567508189085,0.025927644932293922,0.684655818183382,22,21
+test,Pitch movement,outings,available_pairs,3,2–3,Control,0.528817916940876,0.2569038264409411,0.7720632775864693,22,21
+test,Pitch movement,outings,available_pairs,3,2–3,difference,-0.15206116612196732,-0.5264598299946532,0.20452775541941975,22,21
+test,Pitch movement,outings,available_pairs,4,Final,Injury,0.34683102675347377,-0.03034672813500338,0.7293643119463695,22,21
+test,Pitch movement,outings,available_pairs,4,Final,Control,0.5556926217257387,0.3165316567068829,0.7859859971371931,22,21
+test,Pitch movement,outings,available_pairs,4,Final,difference,-0.20886159497226495,-0.6778833800754391,0.24933564987053816,22,21
+test,Pitch movement,outings,balanced,2,4–5,Injury,0.4480535970183526,0.03338007883899624,0.7721115489102295,20,19
+test,Pitch movement,outings,balanced,2,4–5,Control,0.6453569069472445,0.36990250415324005,0.9216172391793306,20,19
+test,Pitch movement,outings,balanced,2,4–5,difference,-0.19730330992889175,-0.6755849068435181,0.21541282700094866,20,19
+test,Pitch movement,outings,balanced,3,2–3,Injury,0.390173697099408,0.015914095429452785,0.7204669064700424,20,19
+test,Pitch movement,outings,balanced,3,2–3,Control,0.5386844445336063,0.2529749826266503,0.7937988212236202,20,19
+test,Pitch movement,outings,balanced,3,2–3,difference,-0.14851074743419823,-0.5673018107389349,0.27405080519127223,20,19
+test,Pitch movement,outings,balanced,4,Final,Injury,0.3455505854312817,-0.09038342244277386,0.7992283473054039,20,19
+test,Pitch movement,outings,balanced,4,Final,Control,0.5717060595928627,0.2809745554393104,0.824287339236666,20,19
+test,Pitch movement,outings,balanced,4,Final,difference,-0.226155474161581,-0.6870712754260582,0.3080443898352999,20,19
+validation,Pitcher background and experience,calendar,available_pairs,0,31–60,Injury,0.3570853465327291,-0.12027748053954636,0.7673245620418625,8,8
+validation,Pitcher background and experience,calendar,available_pairs,0,31–60,Control,0.22425862779217864,-0.17627336906083726,0.610812835868314,8,8
+validation,Pitcher background and experience,calendar,available_pairs,0,31–60,difference,0.13282671874055046,-0.016941204748425524,0.27935383417058374,8,8
+validation,Pitcher background and experience,calendar,available_pairs,1,15–30,Injury,0.42565497959511317,0.11365243673222176,0.7037942036582939,16,16
+validation,Pitcher background and experience,calendar,available_pairs,1,15–30,Control,0.31647119747533414,0.033239012593455255,0.6345012327377949,16,16
+validation,Pitcher background and experience,calendar,available_pairs,1,15–30,difference,0.10918378211977903,-0.014458490366894337,0.23759003822399274,16,16
+validation,Pitcher background and experience,calendar,available_pairs,2,8–14,Injury,0.3691320238574968,-0.01346605707197576,0.6981962473221158,17,16
+validation,Pitcher background and experience,calendar,available_pairs,2,8–14,Control,0.1865529224029671,-0.23635454299271455,0.5441570313018217,17,16
+validation,Pitcher background and experience,calendar,available_pairs,2,8–14,difference,0.18257910145452974,0.01709753291795272,0.3602649334694322,17,16
+validation,Pitcher background and experience,calendar,available_pairs,3,1–7,Injury,0.4528603408250733,0.12617873582406908,0.7292705116479655,20,19
+validation,Pitcher background and experience,calendar,available_pairs,3,1–7,Control,0.32653806546632275,-0.03853253115569556,0.6587345741215145,20,19
+validation,Pitcher background and experience,calendar,available_pairs,3,1–7,difference,0.12632227535875057,-0.06379664246887622,0.2874023201865903,20,19
+validation,Pitcher background and experience,calendar,balanced,0,31–60,Injury,0.33721272131007923,-0.2026224597996875,0.7899707961845277,7,7
+validation,Pitcher background and experience,calendar,balanced,0,31–60,Control,0.23235242230563974,-0.22674305953106152,0.6943562504182575,7,7
+validation,Pitcher background and experience,calendar,balanced,0,31–60,difference,0.10486029900443948,-0.04493780071430715,0.2935871367357869,7,7
+validation,Pitcher background and experience,calendar,balanced,1,15–30,Injury,0.436591433564849,-0.07541867272754155,0.9039751548344406,7,7
+validation,Pitcher background and experience,calendar,balanced,1,15–30,Control,0.36048331867057826,-0.11463816695572772,0.868041551221839,7,7
+validation,Pitcher background and experience,calendar,balanced,1,15–30,difference,0.07610811489427076,-0.07926649996136374,0.29954515810696786,7,7
+validation,Pitcher background and experience,calendar,balanced,2,8–14,Injury,0.5464197951797573,0.008615578405821531,1.0289992734882152,7,7
+validation,Pitcher background and experience,calendar,balanced,2,8–14,Control,0.4156913791280426,-0.04973755998689604,0.8928293192168809,7,7
+validation,Pitcher background and experience,calendar,balanced,2,8–14,difference,0.13072841605171456,-0.10245137191109475,0.4005326548674412,7,7
+validation,Pitcher background and experience,calendar,balanced,3,1–7,Injury,0.6107495857412892,0.0786623290160483,1.063689814321612,7,7
+validation,Pitcher background and experience,calendar,balanced,3,1–7,Control,0.5271962036753971,0.056190068502554515,1.0021117324613105,7,7
+validation,Pitcher background and experience,calendar,balanced,3,1–7,difference,0.08355338206589216,-0.07722310512666807,0.2952320869952109,7,7
+test,Pitcher background and experience,calendar,available_pairs,0,31–60,Injury,0.014521376418075655,-0.4020019877514987,0.40033977769340257,11,10
+test,Pitcher background and experience,calendar,available_pairs,0,31–60,Control,0.13132030542264153,-0.31794864636195963,0.6864549404222764,11,10
+test,Pitcher background and experience,calendar,available_pairs,0,31–60,difference,-0.11679892900456586,-0.506496770800775,0.22538888437658364,11,10
+test,Pitcher background and experience,calendar,available_pairs,1,15–30,Injury,0.0736185158427735,-0.41245084895306194,0.4340264637358751,17,16
+test,Pitcher background and experience,calendar,available_pairs,1,15–30,Control,0.2585512104799167,-0.15949712721534529,0.6111118375083823,17,16
+test,Pitcher background and experience,calendar,available_pairs,1,15–30,difference,-0.1849326946371432,-0.5197646514702173,0.11083301831500157,17,16
+test,Pitcher background and experience,calendar,available_pairs,2,8–14,Injury,0.28746317803819166,-0.11479422017050085,0.6306279442484167,21,20
+test,Pitcher background and experience,calendar,available_pairs,2,8–14,Control,0.36247002899238734,-0.02157304204130433,0.6750383806581749,21,20
+test,Pitcher background and experience,calendar,available_pairs,2,8–14,difference,-0.07500685095419571,-0.3588151950958542,0.15846758491280583,21,20
+test,Pitcher background and experience,calendar,available_pairs,3,1–7,Injury,0.3360297906469507,-0.02444304035460759,0.6655666832462255,22,21
+test,Pitcher background and experience,calendar,available_pairs,3,1–7,Control,0.41843049900421203,0.08196163043367743,0.6916813821940541,22,21
+test,Pitcher background and experience,calendar,available_pairs,3,1–7,difference,-0.08240070835726129,-0.30597533229211765,0.15426574219542824,22,21
+test,Pitcher background and experience,calendar,balanced,0,31–60,Injury,-0.07260794851040676,-0.5243709131380742,0.3535985887069966,9,8
+test,Pitcher background and experience,calendar,balanced,0,31–60,Control,0.04716393910380956,-0.5073246942916979,0.6233190458820026,9,8
+test,Pitcher background and experience,calendar,balanced,0,31–60,difference,-0.11977188761421635,-0.5884184280395207,0.23740619209186492,9,8
+test,Pitcher background and experience,calendar,balanced,1,15–30,Injury,0.05785187615806837,-0.3652184809008423,0.48551966643210454,9,8
+test,Pitcher background and experience,calendar,balanced,1,15–30,Control,0.21080720289862617,-0.3282123079693288,0.7829307455016645,9,8
+test,Pitcher background and experience,calendar,balanced,1,15–30,difference,-0.15295532674055778,-0.6168679998714255,0.23311089134720436,9,8
+test,Pitcher background and experience,calendar,balanced,2,8–14,Injury,0.1361156416610523,-0.30421116887877653,0.5541157139416911,9,8
+test,Pitcher background and experience,calendar,balanced,2,8–14,Control,0.29118406813377856,-0.29582191671147284,0.8573586883345181,9,8
+test,Pitcher background and experience,calendar,balanced,2,8–14,difference,-0.15506842647272626,-0.6790121540912468,0.2417063708320086,9,8
+test,Pitcher background and experience,calendar,balanced,3,1–7,Injury,0.20805031544486197,-0.22717569279201316,0.6222285174391238,9,8
+test,Pitcher background and experience,calendar,balanced,3,1–7,Control,0.35183011297450184,-0.2073307718319135,0.9165011476899445,9,8
+test,Pitcher background and experience,calendar,balanced,3,1–7,difference,-0.1437797975296399,-0.5829952064915038,0.19984919717129485,9,8
+validation,Pitcher background and experience,outings,available_pairs,0,11+,Injury,0.12946229997107828,-0.687387684494217,0.8902600640266659,4,4
+validation,Pitcher background and experience,outings,available_pairs,0,11+,Control,0.12404295402351782,-0.6433456068967374,0.8088138926944916,4,4
+validation,Pitcher background and experience,outings,available_pairs,0,11+,difference,0.00541934594756047,-0.10990266788079135,0.11745475206187184,4,4
+validation,Pitcher background and experience,outings,available_pairs,1,6–10,Injury,0.490831773614411,0.11917207269078871,0.796261055277011,11,10
+validation,Pitcher background and experience,outings,available_pairs,1,6–10,Control,0.26143187871625384,-0.06545472880626645,0.6006189863466194,11,10
+validation,Pitcher background and experience,outings,available_pairs,1,6–10,difference,0.22939989489815726,0.06558038662603366,0.3886140391409487,11,10
+validation,Pitcher background and experience,outings,available_pairs,2,4–5,Injury,0.5087293989204364,0.2700527421626835,0.7488617501818073,17,16
+validation,Pitcher background and experience,outings,available_pairs,2,4–5,Control,0.3400300305856417,0.07866560486255378,0.6303923052835811,17,16
+validation,Pitcher background and experience,outings,available_pairs,2,4–5,difference,0.16869936833479468,0.02977363159741263,0.2874230471804567,17,16
+validation,Pitcher background and experience,outings,available_pairs,3,2–3,Injury,0.4144012276706762,0.09870257852489935,0.6988155662314914,20,19
+validation,Pitcher background and experience,outings,available_pairs,3,2–3,Control,0.2805312273101991,-0.07123996839489212,0.5947896967653115,20,19
+validation,Pitcher background and experience,outings,available_pairs,3,2–3,difference,0.1338700003604772,-0.04290731214191243,0.29753721485114926,20,19
+validation,Pitcher background and experience,outings,available_pairs,4,Final,Injury,0.46462530643038935,0.1300734424773509,0.7472078505248569,20,19
+validation,Pitcher background and experience,outings,available_pairs,4,Final,Control,0.36394167208994055,-0.01785783189836715,0.7164221546875729,20,19
+validation,Pitcher background and experience,outings,available_pairs,4,Final,difference,0.10068363434044883,-0.09826473087719258,0.2679885052757238,20,19
+validation,Pitcher background and experience,outings,balanced,2,4–5,Injury,0.5087293989204364,0.2700527421626835,0.7488617501818073,17,16
+validation,Pitcher background and experience,outings,balanced,2,4–5,Control,0.3400300305856417,0.07866560486255378,0.6303923052835811,17,16
+validation,Pitcher background and experience,outings,balanced,2,4–5,difference,0.16869936833479468,0.02977363159741263,0.2874230471804567,17,16
+validation,Pitcher background and experience,outings,balanced,3,2–3,Injury,0.5674633081210048,0.30503300713818615,0.8079903616793543,17,16
+validation,Pitcher background and experience,outings,balanced,3,2–3,Control,0.3983465504742497,0.14356765015042236,0.6847550254746861,17,16
+validation,Pitcher background and experience,outings,balanced,3,2–3,difference,0.16911675764675504,0.035036001401966076,0.30278448556786836,17,16
+validation,Pitcher background and experience,outings,balanced,4,Final,Injury,0.6261884804743673,0.3539135104701766,0.8890376176230376,17,16
+validation,Pitcher background and experience,outings,balanced,4,Final,Control,0.48967512880130276,0.20674337550138538,0.815078178511941,17,16
+validation,Pitcher background and experience,outings,balanced,4,Final,difference,0.13651335167306441,-0.0021526092868466924,0.26582101595206015,17,16
+test,Pitcher background and experience,outings,available_pairs,0,11+,Injury,-0.05099508358436476,-0.3245226190397019,0.2225324518709724,2,2
+test,Pitcher background and experience,outings,available_pairs,0,11+,Control,0.42551623272194805,0.10060367164981976,0.7504287937940763,2,2
+test,Pitcher background and experience,outings,available_pairs,0,11+,difference,-0.4765113163063128,-0.527896341923104,-0.4251262906895217,2,2
+test,Pitcher background and experience,outings,available_pairs,1,6–10,Injury,-0.16005946215406433,-0.6279047274462235,0.23119645186538829,14,13
+test,Pitcher background and experience,outings,available_pairs,1,6–10,Control,0.09741060414396323,-0.3360071994258493,0.5375425766107802,14,13
+test,Pitcher background and experience,outings,available_pairs,1,6–10,difference,-0.25747006629802754,-0.5841908702526983,0.06790634050702439,14,13
+test,Pitcher background and experience,outings,available_pairs,2,4–5,Injury,0.21671115755920303,-0.23535749118731666,0.5976657980034422,20,19
+test,Pitcher background and experience,outings,available_pairs,2,4–5,Control,0.32616793773204833,-0.01332099648952391,0.6751530233250941,20,19
+test,Pitcher background and experience,outings,available_pairs,2,4–5,difference,-0.10945678017284526,-0.41867138589079794,0.17500576442806146,20,19
+test,Pitcher background and experience,outings,available_pairs,3,2–3,Injury,0.2882260095076918,-0.0641573611069101,0.6244698604793065,22,21
+test,Pitcher background and experience,outings,available_pairs,3,2–3,Control,0.3664820952205284,0.02364369595343028,0.6354334385951683,22,21
+test,Pitcher background and experience,outings,available_pairs,3,2–3,difference,-0.0782560857128366,-0.33791655421094996,0.180466966602383,22,21
+test,Pitcher background and experience,outings,available_pairs,4,Final,Injury,0.3529940671185247,-0.01663787017006009,0.6850263426891932,22,21
+test,Pitcher background and experience,outings,available_pairs,4,Final,Control,0.4358405181606973,0.09519631760578356,0.711867187027496,22,21
+test,Pitcher background and experience,outings,available_pairs,4,Final,difference,-0.08284645104217268,-0.30075368357105703,0.15137261220992074,22,21
+test,Pitcher background and experience,outings,balanced,2,4–5,Injury,0.21671115755920303,-0.23535749118731666,0.5976657980034422,20,19
+test,Pitcher background and experience,outings,balanced,2,4–5,Control,0.32616793773204833,-0.01332099648952391,0.6751530233250941,20,19
+test,Pitcher background and experience,outings,balanced,2,4–5,difference,-0.10945678017284526,-0.41867138589079794,0.17500576442806146,20,19
+test,Pitcher background and experience,outings,balanced,3,2–3,Injury,0.2773380243309257,-0.18588201539390056,0.6503131176265219,20,19
+test,Pitcher background and experience,outings,balanced,3,2–3,Control,0.3798772737907287,0.022091913891168182,0.7379366510337091,20,19
+test,Pitcher background and experience,outings,balanced,3,2–3,difference,-0.10253924945980311,-0.42308654896526443,0.16801927229052263,20,19
+test,Pitcher background and experience,outings,balanced,4,Final,Injury,0.3431445164907943,-0.11719371764323006,0.6817989836083409,20,19
+test,Pitcher background and experience,outings,balanced,4,Final,Control,0.4452596968704756,0.08409595324696,0.7799838943915712,20,19
+test,Pitcher background and experience,outings,balanced,4,Final,difference,-0.10211518037968137,-0.3795730383587738,0.12937819579582574,20,19
+validation,Release position and variability,calendar,available_pairs,0,31–60,Injury,-0.15829131096344326,-0.7813081461168172,0.4145967948903361,8,8
+validation,Release position and variability,calendar,available_pairs,0,31–60,Control,0.029602047723458313,-0.5227712612608908,0.5984144254502014,8,8
+validation,Release position and variability,calendar,available_pairs,0,31–60,difference,-0.1878933586869016,-0.7612264796565126,0.374019673548006,8,8
+validation,Release position and variability,calendar,available_pairs,1,15–30,Injury,0.11601297513351874,-0.366722716274537,0.6283617587082715,16,16
+validation,Release position and variability,calendar,available_pairs,1,15–30,Control,0.19635602301120675,-0.171594636142858,0.6643726625086738,16,16
+validation,Release position and variability,calendar,available_pairs,1,15–30,difference,-0.08034304787768803,-0.5785035442303992,0.42966513995817823,16,16
+validation,Release position and variability,calendar,available_pairs,2,8–14,Injury,0.1414969764521504,-0.2320674699443634,0.6233966761508289,17,16
+validation,Release position and variability,calendar,available_pairs,2,8–14,Control,-0.06985637455620228,-0.5780259989590522,0.3984182385393009,17,16
+validation,Release position and variability,calendar,available_pairs,2,8–14,difference,0.2113533510083526,-0.3045799638938893,0.8415435077377683,17,16
+validation,Release position and variability,calendar,available_pairs,3,1–7,Injury,0.028296822793145666,-0.27265714676771774,0.42745963565077355,20,19
+validation,Release position and variability,calendar,available_pairs,3,1–7,Control,0.14501147352024635,-0.23777035682717318,0.671730070015776,20,19
+validation,Release position and variability,calendar,available_pairs,3,1–7,difference,-0.11671465072710066,-0.563236354732158,0.3328089625675764,20,19
+validation,Release position and variability,calendar,balanced,0,31–60,Injury,-0.18399226477052383,-0.9079786250034673,0.3703518158190923,7,7
+validation,Release position and variability,calendar,balanced,0,31–60,Control,-0.20899394575807337,-0.5916165702765381,0.12426833980968877,7,7
+validation,Release position and variability,calendar,balanced,0,31–60,difference,0.02500168098754956,-0.49913041220858706,0.48675086757873637,7,7
+validation,Release position and variability,calendar,balanced,1,15–30,Injury,-0.10525120761868889,-1.0146342919280267,0.6361616143398556,7,7
+validation,Release position and variability,calendar,balanced,1,15–30,Control,-0.11994391477764432,-0.5127174964435893,0.24854357682284536,7,7
+validation,Release position and variability,calendar,balanced,1,15–30,difference,0.014692707158955431,-0.7671419948832782,0.8134976031822854,7,7
+validation,Release position and variability,calendar,balanced,2,8–14,Injury,-0.2774296830157188,-1.204099818651415,0.4505506917960391,7,7
+validation,Release position and variability,calendar,balanced,2,8–14,Control,-0.05026384058882309,-0.6085131437376716,0.5002959873456883,7,7
+validation,Release position and variability,calendar,balanced,2,8–14,difference,-0.2271658424268957,-1.1917923387002434,0.6865589310499723,7,7
+validation,Release position and variability,calendar,balanced,3,1–7,Injury,-0.1459840177421321,-1.1158530620477536,0.660473895537893,7,7
+validation,Release position and variability,calendar,balanced,3,1–7,Control,-0.22578031314862493,-0.5458620539180471,0.20246541851298833,7,7
+validation,Release position and variability,calendar,balanced,3,1–7,difference,0.07979629540649279,-0.7364245988377816,0.7695442571519173,7,7
+test,Release position and variability,calendar,available_pairs,0,31–60,Injury,-0.31070332107072,-0.7510756831685087,0.11731012378530509,11,10
+test,Release position and variability,calendar,available_pairs,0,31–60,Control,-0.142001100467405,-0.5521692642006113,0.41402746918275346,11,10
+test,Release position and variability,calendar,available_pairs,0,31–60,difference,-0.16870222060331505,-0.9336105426952062,0.46277145427577493,11,10
+test,Release position and variability,calendar,available_pairs,1,15–30,Injury,-0.15192706899388372,-0.5586396206139383,0.2515104797024002,17,16
+test,Release position and variability,calendar,available_pairs,1,15–30,Control,0.02500382561110388,-0.3381315972614648,0.44462431656827756,17,16
+test,Release position and variability,calendar,available_pairs,1,15–30,difference,-0.17693089460498754,-0.6423634923647243,0.2211318658346336,17,16
+test,Release position and variability,calendar,available_pairs,2,8–14,Injury,-0.13359707642473623,-0.5223428553293772,0.23822052431047328,21,20
+test,Release position and variability,calendar,available_pairs,2,8–14,Control,0.02079888446818085,-0.315859805072081,0.3101566528189269,21,20
+test,Release position and variability,calendar,available_pairs,2,8–14,difference,-0.15439596089291704,-0.5895024379403498,0.35655495153662536,21,20
+test,Release position and variability,calendar,available_pairs,3,1–7,Injury,-0.2499505614514935,-0.6993724661768032,0.16921826291165937,22,21
+test,Release position and variability,calendar,available_pairs,3,1–7,Control,-0.002113265055216557,-0.33367026007512274,0.3408707311408703,22,21
+test,Release position and variability,calendar,available_pairs,3,1–7,difference,-0.24783729639627702,-0.7062086662266323,0.22013529962886574,22,21
+test,Release position and variability,calendar,balanced,0,31–60,Injury,-0.21937290850994826,-0.6493676768152521,0.13504162153984844,9,8
+test,Release position and variability,calendar,balanced,0,31–60,Control,-0.12324641382767003,-0.7255880894025547,0.5513204384652352,9,8
+test,Release position and variability,calendar,balanced,0,31–60,difference,-0.09612649468227824,-1.0272266964447871,0.6401916918853756,9,8
+test,Release position and variability,calendar,balanced,1,15–30,Injury,-0.14138835818016182,-0.6661131013940673,0.32053155826911917,9,8
+test,Release position and variability,calendar,balanced,1,15–30,Control,-0.14164963005107362,-0.6566601718609903,0.48346602268099165,9,8
+test,Release position and variability,calendar,balanced,1,15–30,difference,0.0002612718709117883,-0.7039256418686993,0.5549308575293445,9,8
+test,Release position and variability,calendar,balanced,2,8–14,Injury,-0.2775854382689728,-0.8979921613952458,0.27142701701321564,9,8
+test,Release position and variability,calendar,balanced,2,8–14,Control,-0.25880656380148476,-0.689194157935056,0.2427754200862217,9,8
+test,Release position and variability,calendar,balanced,2,8–14,difference,-0.018778874467488063,-0.8686459640933262,0.6695350720662357,9,8
+test,Release position and variability,calendar,balanced,3,1–7,Injury,-0.2884387842099287,-0.8427146244207118,0.23599151670412416,9,8
+test,Release position and variability,calendar,balanced,3,1–7,Control,-0.3455006956750744,-0.7530786663127319,0.12576938951268024,9,8
+test,Release position and variability,calendar,balanced,3,1–7,difference,0.057061911465145755,-0.7499925414759829,0.667084419481938,9,8
+validation,Release position and variability,outings,available_pairs,0,11+,Injury,-0.25251073270918195,-1.4501570880697576,0.7438181307799696,4,4
+validation,Release position and variability,outings,available_pairs,0,11+,Control,-0.11198407923411519,-0.7025872494300208,0.5027652861129281,4,4
+validation,Release position and variability,outings,available_pairs,0,11+,difference,-0.14052665347506674,-1.059388128425666,0.5701200208466842,4,4
+validation,Release position and variability,outings,available_pairs,1,6–10,Injury,0.20462547387701194,-0.2676888485972777,0.7744141201816073,11,10
+validation,Release position and variability,outings,available_pairs,1,6–10,Control,-0.01161080156362712,-0.45081379110196823,0.6056097561599632,11,10
+validation,Release position and variability,outings,available_pairs,1,6–10,difference,0.21623627544063906,-0.3987905498809552,0.8788947998586106,11,10
+validation,Release position and variability,outings,available_pairs,2,4–5,Injury,0.0876667898369156,-0.27075934776537786,0.5310035878539332,17,16
+validation,Release position and variability,outings,available_pairs,2,4–5,Control,0.09791737140675345,-0.31316745859333156,0.571413381546497,17,16
+validation,Release position and variability,outings,available_pairs,2,4–5,difference,-0.010250581569837844,-0.46698308756373536,0.4283405758182514,17,16
+validation,Release position and variability,outings,available_pairs,3,2–3,Injury,0.07665313349458845,-0.21593282639701344,0.48761501964655907,20,19
+validation,Release position and variability,outings,available_pairs,3,2–3,Control,0.09338942777770858,-0.3282636549914213,0.6308263892956699,20,19
+validation,Release position and variability,outings,available_pairs,3,2–3,difference,-0.01673629428312017,-0.5370478658489761,0.4893601724501596,20,19
+validation,Release position and variability,outings,available_pairs,4,Final,Injury,0.0484607632580308,-0.28938578813117605,0.4574545036724491,20,19
+validation,Release position and variability,outings,available_pairs,4,Final,Control,0.1315228379316352,-0.21740573279846115,0.6074494043950841,20,19
+validation,Release position and variability,outings,available_pairs,4,Final,difference,-0.08306207467360445,-0.5374254423032595,0.4082467538598055,20,19
+validation,Release position and variability,outings,balanced,2,4–5,Injury,0.0876667898369156,-0.27075934776537786,0.5310035878539332,17,16
+validation,Release position and variability,outings,balanced,2,4–5,Control,0.09791737140675345,-0.31316745859333156,0.571413381546497,17,16
+validation,Release position and variability,outings,balanced,2,4–5,difference,-0.010250581569837844,-0.46698308756373536,0.4283405758182514,17,16
+validation,Release position and variability,outings,balanced,3,2–3,Injury,0.03649804799248512,-0.33842935847390065,0.48804764813682927,17,16
+validation,Release position and variability,outings,balanced,3,2–3,Control,0.09643783241357087,-0.3633350981470255,0.6747970963494972,17,16
+validation,Release position and variability,outings,balanced,3,2–3,difference,-0.05993978442108579,-0.5925962358344126,0.4675684349039854,17,16
+validation,Release position and variability,outings,balanced,4,Final,Injury,-0.029237287563571385,-0.42188456795538204,0.41682932589295035,17,16
+validation,Release position and variability,outings,balanced,4,Final,Control,0.09648831648321868,-0.32211129476935024,0.5639074409611761,17,16
+validation,Release position and variability,outings,balanced,4,Final,difference,-0.12572560404679006,-0.6401336068091502,0.44009487912385553,17,16
+test,Release position and variability,outings,available_pairs,0,11+,Injury,-0.11836644951972589,-0.5815039302479211,0.34477103120846936,2,2
+test,Release position and variability,outings,available_pairs,0,11+,Control,-1.1191034526886767,-1.1398962666677062,-1.0983106387096475,2,2
+test,Release position and variability,outings,available_pairs,0,11+,difference,1.0007370031689509,0.5168067084617264,1.4846672978761755,2,2
+test,Release position and variability,outings,available_pairs,1,6–10,Injury,-0.3643568155485129,-0.8012773362364284,-0.06953252293093606,14,13
+test,Release position and variability,outings,available_pairs,1,6–10,Control,-0.14357251784812966,-0.5307792571823573,0.2879453399296299,14,13
+test,Release position and variability,outings,available_pairs,1,6–10,difference,-0.22078429770038333,-0.8430822258280716,0.36388897500803336,14,13
+test,Release position and variability,outings,available_pairs,2,4–5,Injury,-0.052832034150971305,-0.42458932319245274,0.3162270515064098,20,19
+test,Release position and variability,outings,available_pairs,2,4–5,Control,0.09013704809693282,-0.2153983777966542,0.40935721472923214,20,19
+test,Release position and variability,outings,available_pairs,2,4–5,difference,-0.14296908224790417,-0.6063596061070379,0.23310551723243522,20,19
+test,Release position and variability,outings,available_pairs,3,2–3,Injury,-0.22992515316229598,-0.6389631884476967,0.172582570001431,22,21
+test,Release position and variability,outings,available_pairs,3,2–3,Control,0.03146209097719769,-0.2951455248790059,0.36813274688885533,22,21
+test,Release position and variability,outings,available_pairs,3,2–3,difference,-0.2613872441394937,-0.7229930394806875,0.20716153951115404,22,21
+test,Release position and variability,outings,available_pairs,4,Final,Injury,-0.2853113411985669,-0.7142702112788696,0.11737440865242098,22,21
+test,Release position and variability,outings,available_pairs,4,Final,Control,-0.04677687237877046,-0.39822377994508135,0.3253546733957385,22,21
+test,Release position and variability,outings,available_pairs,4,Final,difference,-0.23853446881979642,-0.7034995038214328,0.24930110055619006,22,21
+test,Release position and variability,outings,balanced,2,4–5,Injury,-0.052832034150971305,-0.42458932319245274,0.3162270515064098,20,19
+test,Release position and variability,outings,balanced,2,4–5,Control,0.09013704809693282,-0.2153983777966542,0.40935721472923214,20,19
+test,Release position and variability,outings,balanced,2,4–5,difference,-0.14296908224790417,-0.6063596061070379,0.23310551723243522,20,19
+test,Release position and variability,outings,balanced,3,2–3,Injury,-0.24015030433263193,-0.6614724069458285,0.18343874667637589,20,19
+test,Release position and variability,outings,balanced,3,2–3,Control,0.014109282181739591,-0.292871174428954,0.36422216939287283,20,19
+test,Release position and variability,outings,balanced,3,2–3,difference,-0.2542595865143714,-0.745455356235927,0.13801000227955956,20,19
+test,Release position and variability,outings,balanced,4,Final,Injury,-0.31413163204574696,-0.7220355478834748,0.09086599022503938,20,19
+test,Release position and variability,outings,balanced,4,Final,Control,-0.07348585153233177,-0.3809684125518868,0.2598942816209557,20,19
+test,Release position and variability,outings,balanced,4,Final,difference,-0.24064578051341515,-0.7586161701336104,0.1721658677341732,20,19
+validation,Role and recent starts,calendar,available_pairs,0,31–60,Injury,0.7584686982693905,0.07899397282027693,1.508839924942603,8,8
+validation,Role and recent starts,calendar,available_pairs,0,31–60,Control,0.6995005317781429,0.15188167434509137,1.280516510036249,8,8
+validation,Role and recent starts,calendar,available_pairs,0,31–60,difference,0.0589681664912475,-0.14081912395486654,0.26588757444300853,8,8
+validation,Role and recent starts,calendar,available_pairs,1,15–30,Injury,0.6547810116377331,0.07341181739144509,1.180365881849885,16,16
+validation,Role and recent starts,calendar,available_pairs,1,15–30,Control,0.8460525730101824,0.2841528926808915,1.4847063649461896,16,16
+validation,Role and recent starts,calendar,available_pairs,1,15–30,difference,-0.19127156137244944,-0.6681097554114738,0.20253996014474596,16,16
+validation,Role and recent starts,calendar,available_pairs,2,8–14,Injury,0.3105522656010242,-0.08869725105829225,0.6947696062527468,17,16
+validation,Role and recent starts,calendar,available_pairs,2,8–14,Control,0.5946342902337308,0.027419909638960887,1.133424984577348,17,16
+validation,Role and recent starts,calendar,available_pairs,2,8–14,difference,-0.2840820246327066,-0.6593492031369651,0.001976144191060413,17,16
+validation,Role and recent starts,calendar,available_pairs,3,1–7,Injury,-0.05950322502770468,-0.3895642285180055,0.19238087285277244,20,19
+validation,Role and recent starts,calendar,available_pairs,3,1–7,Control,0.18090251244895245,-0.17176572462602754,0.5501751017995561,20,19
+validation,Role and recent starts,calendar,available_pairs,3,1–7,difference,-0.2404057374766572,-0.5068592812887708,-0.004299957524170935,20,19
+validation,Role and recent starts,calendar,balanced,0,31–60,Injury,0.6885608450675917,-0.042714973404437626,1.531884737790094,7,7
+validation,Role and recent starts,calendar,balanced,0,31–60,Control,0.6466843642342701,0.055184081602346426,1.2531147135265508,7,7
+validation,Role and recent starts,calendar,balanced,0,31–60,difference,0.041876480833321565,-0.19746583344942475,0.2478365294255804,7,7
+validation,Role and recent starts,calendar,balanced,1,15–30,Injury,0.04970572581141064,-0.4051239077466873,0.5213648399439843,7,7
+validation,Role and recent starts,calendar,balanced,1,15–30,Control,0.14886484492513777,-0.35498313515383134,0.8083576029730201,7,7
+validation,Role and recent starts,calendar,balanced,1,15–30,difference,-0.09915911911372711,-0.6091587870956412,0.4225013115302194,7,7
+validation,Role and recent starts,calendar,balanced,2,8–14,Injury,-0.25292029738427196,-0.662293558687652,0.04048349831440609,7,7
+validation,Role and recent starts,calendar,balanced,2,8–14,Control,-0.15257368156621295,-0.5409493610056589,0.23236931877778497,7,7
+validation,Role and recent starts,calendar,balanced,2,8–14,difference,-0.10034661581805895,-0.3669740405843061,0.0964281069102658,7,7
+validation,Role and recent starts,calendar,balanced,3,1–7,Injury,-0.39888957381262014,-0.9416993557341627,-0.003930250347394355,7,7
+validation,Role and recent starts,calendar,balanced,3,1–7,Control,-0.33329118450787215,-0.7567407915938262,-0.006199234012540197,7,7
+validation,Role and recent starts,calendar,balanced,3,1–7,difference,-0.06559838930474793,-0.2423530624054078,0.07595028603485472,7,7
+test,Role and recent starts,calendar,available_pairs,0,31–60,Injury,1.01100593530668,0.47440162150301196,1.6288276961159596,11,10
+test,Role and recent starts,calendar,available_pairs,0,31–60,Control,0.813054705646276,0.23277798134635957,1.4802107916591691,11,10
+test,Role and recent starts,calendar,available_pairs,0,31–60,difference,0.19795122966040388,-0.2824902674753476,0.8787264480537824,11,10
+test,Role and recent starts,calendar,available_pairs,1,15–30,Injury,0.8476542371415936,0.2097279027525933,1.573660677407601,17,16
+test,Role and recent starts,calendar,available_pairs,1,15–30,Control,0.27738656188405275,-0.06679006100668716,0.6676217608583889,17,16
+test,Role and recent starts,calendar,available_pairs,1,15–30,difference,0.5702676752575409,0.005067153040684731,1.2355886983811994,17,16
+test,Role and recent starts,calendar,available_pairs,2,8–14,Injury,0.6118443628053415,0.15211316402839364,1.287507828334062,21,20
+test,Role and recent starts,calendar,available_pairs,2,8–14,Control,0.14811859181901418,-0.1335121491678975,0.4096218994871237,21,20
+test,Role and recent starts,calendar,available_pairs,2,8–14,difference,0.4637257709863275,0.020681830733575154,1.0949647455033595,21,20
+test,Role and recent starts,calendar,available_pairs,3,1–7,Injury,0.3493007654819393,-0.1333909877482297,0.9612248403404965,22,21
+test,Role and recent starts,calendar,available_pairs,3,1–7,Control,-0.020733838408815927,-0.3027196419113759,0.23842198025725417,22,21
+test,Role and recent starts,calendar,available_pairs,3,1–7,difference,0.3700346038907552,0.020730452433160407,0.9363465662547119,22,21
+test,Role and recent starts,calendar,balanced,0,31–60,Injury,1.105346211719934,0.3626684931314854,1.8084268507968775,9,8
+test,Role and recent starts,calendar,balanced,0,31–60,Control,0.7567675163373404,0.12867942258454107,1.527752341194192,9,8
+test,Role and recent starts,calendar,balanced,0,31–60,difference,0.34857869538259345,-0.19466016111866516,1.088669956401257,9,8
+test,Role and recent starts,calendar,balanced,1,15–30,Injury,0.6343038198352855,-0.23316776984872717,1.9300173564576073,9,8
+test,Role and recent starts,calendar,balanced,1,15–30,Control,0.14209967661195508,-0.3347953875990554,0.6848154076625078,9,8
+test,Role and recent starts,calendar,balanced,1,15–30,difference,0.4922041432233303,-0.19221256030672854,1.8214370388121008,9,8
+test,Role and recent starts,calendar,balanced,2,8–14,Injury,0.3766747102040371,-0.4979528914880549,1.7415093353887174,9,8
+test,Role and recent starts,calendar,balanced,2,8–14,Control,-0.061697445079859095,-0.47514902692692357,0.41918296841636943,9,8
+test,Role and recent starts,calendar,balanced,2,8–14,difference,0.43837215528389617,-0.4683365690088426,1.7653259554109197,9,8
+test,Role and recent starts,calendar,balanced,3,1–7,Injury,0.2644778900553778,-0.6110916310945969,1.6601766377051668,9,8
+test,Role and recent starts,calendar,balanced,3,1–7,Control,-0.22857428883806316,-0.6356479697209421,0.22256430273152777,9,8
+test,Role and recent starts,calendar,balanced,3,1–7,difference,0.493052178893441,-0.1876716976477642,1.6467073762974473,9,8
+validation,Role and recent starts,outings,available_pairs,0,11+,Injury,0.0889171364142738,0.03337476471484128,0.2000018798131388,4,4
+validation,Role and recent starts,outings,available_pairs,0,11+,Control,0.19160527525014595,0.03337476471484128,0.5080662963207554,4,4
+validation,Role and recent starts,outings,available_pairs,0,11+,difference,-0.10268813883587219,-0.30806441650761657,0.0,4,4
+validation,Role and recent starts,outings,available_pairs,1,6–10,Injury,0.7397630992938972,0.13829560588316944,1.3621938611765065,11,10
+validation,Role and recent starts,outings,available_pairs,1,6–10,Control,0.656725053870741,0.09351130128437074,1.275753986353087,11,10
+validation,Role and recent starts,outings,available_pairs,1,6–10,difference,0.08303804542315617,-0.11494629261585165,0.21908191673722563,11,10
+validation,Role and recent starts,outings,available_pairs,2,4–5,Injury,0.543107933921556,0.004265376801677695,1.064001879825381,17,16
+validation,Role and recent starts,outings,available_pairs,2,4–5,Control,0.7205502993550612,0.150705717953625,1.3275084069270364,17,16
+validation,Role and recent starts,outings,available_pairs,2,4–5,difference,-0.17744236543350525,-0.614079872287061,0.1732085652961176,17,16
+validation,Role and recent starts,outings,available_pairs,3,2–3,Injury,0.15815155930239502,-0.19880897547890425,0.48355566362280605,20,19
+validation,Role and recent starts,outings,available_pairs,3,2–3,Control,0.4116657087567468,0.012076983002542917,0.8427672708978804,20,19
+validation,Role and recent starts,outings,available_pairs,3,2–3,difference,-0.25351414945435186,-0.543369942374538,-0.00019287878915911355,20,19
+validation,Role and recent starts,outings,available_pairs,4,Final,Injury,-0.15213103309009404,-0.4822324916222755,0.08408285947164279,20,19
+validation,Role and recent starts,outings,available_pairs,4,Final,Control,0.09759698557211448,-0.2470791996719651,0.44303865582034935,20,19
+validation,Role and recent starts,outings,available_pairs,4,Final,difference,-0.24972801866220856,-0.5115000127559519,-0.03695557770244679,20,19
+validation,Role and recent starts,outings,balanced,2,4–5,Injury,0.543107933921556,0.004265376801677695,1.064001879825381,17,16
+validation,Role and recent starts,outings,balanced,2,4–5,Control,0.7205502993550612,0.150705717953625,1.3275084069270364,17,16
+validation,Role and recent starts,outings,balanced,2,4–5,difference,-0.17744236543350525,-0.614079872287061,0.1732085652961176,17,16
+validation,Role and recent starts,outings,balanced,3,2–3,Injury,0.07153799629755388,-0.2733570070160895,0.41774673327237644,17,16
+validation,Role and recent starts,outings,balanced,3,2–3,Control,0.24898036173105917,-0.1102244400511947,0.6496550330361244,17,16
+validation,Role and recent starts,outings,balanced,3,2–3,difference,-0.17744236543350528,-0.45730857871983677,0.05494262531876573,17,16
+validation,Role and recent starts,outings,balanced,4,Final,Injury,-0.24218915382661674,-0.5574526805237402,0.044308595205961115,17,16
+validation,Role and recent starts,outings,balanced,4,Final,Control,-0.06920105991328009,-0.3713983331719978,0.20549197438365555,17,16
+validation,Role and recent starts,outings,balanced,4,Final,difference,-0.17298809391333664,-0.38585034353162195,0.04070230782518759,17,16
+test,Role and recent starts,outings,available_pairs,0,11+,Injury,0.6662968068560612,0.0847699430301415,1.247823670681981,2,2
+test,Role and recent starts,outings,available_pairs,0,11+,Control,0.6316948376667455,0.5970928684774309,0.6662968068560601,2,2
+test,Role and recent starts,outings,available_pairs,0,11+,difference,0.03460196918931574,-0.5815268638259186,0.65073080220455,2,2
+test,Role and recent starts,outings,available_pairs,1,6–10,Injury,0.7416410172007059,0.2701323065421978,1.2211428929231603,14,13
+test,Role and recent starts,outings,available_pairs,1,6–10,Control,0.49328975399906927,0.0682381998285138,0.9609554958569606,14,13
+test,Role and recent starts,outings,available_pairs,1,6–10,difference,0.2483512632016366,-0.08806877321933076,0.6549363261586723,14,13
+test,Role and recent starts,outings,available_pairs,2,4–5,Injury,0.6699793467191162,0.17439257851729367,1.239381329515099,20,19
+test,Role and recent starts,outings,available_pairs,2,4–5,Control,0.34455344707920593,0.023356647308194135,0.6975231369946148,20,19
+test,Role and recent starts,outings,available_pairs,2,4–5,difference,0.3254258996399101,-0.10226929245072017,0.8019397112318503,20,19
+test,Role and recent starts,outings,available_pairs,3,2–3,Injury,0.5645809188026839,0.06007925272094768,1.1438083254773328,22,21
+test,Role and recent starts,outings,available_pairs,3,2–3,Control,0.08513852117816799,-0.2185034183531491,0.3930088101978671,22,21
+test,Role and recent starts,outings,available_pairs,3,2–3,difference,0.47944239762451596,0.03787687623236235,1.1055664771990152,22,21
+test,Role and recent starts,outings,available_pairs,4,Final,Injury,0.28047045261761905,-0.2105970988251351,0.8874083135825005,22,21
+test,Role and recent starts,outings,available_pairs,4,Final,Control,-0.04945885265186665,-0.32451018662995984,0.2128841632007583,22,21
+test,Role and recent starts,outings,available_pairs,4,Final,difference,0.3299293052694857,-0.0017292322453444056,0.8470688463975371,22,21
+test,Role and recent starts,outings,balanced,2,4–5,Injury,0.6699793467191162,0.17439257851729367,1.239381329515099,20,19
+test,Role and recent starts,outings,balanced,2,4–5,Control,0.34455344707920593,0.023356647308194135,0.6975231369946148,20,19
+test,Role and recent starts,outings,balanced,2,4–5,difference,0.3254258996399101,-0.10226929245072017,0.8019397112318503,20,19
+test,Role and recent starts,outings,balanced,3,2–3,Injury,0.4708233854207945,-0.05242069138614792,1.0477726199825,20,19
+test,Role and recent starts,outings,balanced,3,2–3,Control,0.040751703412897446,-0.2385749156488329,0.34081281994494805,20,19
+test,Role and recent starts,outings,balanced,3,2–3,difference,0.430071682007897,-0.09455506934402988,1.0149402738562843,20,19
+test,Role and recent starts,outings,balanced,4,Final,Injury,0.21377792784231361,-0.2573418472787179,0.7722959200057685,20,19
+test,Role and recent starts,outings,balanced,4,Final,Control,-0.0733135130402606,-0.3703023768764147,0.19110803442387167,20,19
+test,Role and recent starts,outings,balanced,4,Final,difference,0.2870914408825742,-0.14122933497927626,0.755065560629174,20,19
+validation,Spin,calendar,available_pairs,0,31–60,Injury,0.01715948228762182,-0.5054589526989306,0.5028909112473718,8,8
+validation,Spin,calendar,available_pairs,0,31–60,Control,0.18172467187766358,-0.07057914491983752,0.4221031585926836,8,8
+validation,Spin,calendar,available_pairs,0,31–60,difference,-0.1645651895900417,-0.593410024875875,0.2664737083004572,8,8
+validation,Spin,calendar,available_pairs,1,15–30,Injury,-0.09696062173274803,-0.39407838626684877,0.1811252441173134,16,16
+validation,Spin,calendar,available_pairs,1,15–30,Control,0.08520333165300714,-0.08442089179117686,0.2732122759212489,16,16
+validation,Spin,calendar,available_pairs,1,15–30,difference,-0.1821639533857552,-0.5141841300750548,0.1581048724271141,16,16
+validation,Spin,calendar,available_pairs,2,8–14,Injury,-0.08956833360770307,-0.3962100404804898,0.20969022516575217,17,16
+validation,Spin,calendar,available_pairs,2,8–14,Control,0.018325065883706835,-0.20785566574165457,0.2075580307059805,17,16
+validation,Spin,calendar,available_pairs,2,8–14,difference,-0.10789339949140993,-0.4504790636185343,0.25974217645247977,17,16
+validation,Spin,calendar,available_pairs,3,1–7,Injury,-0.025767589248537635,-0.2838900374294111,0.2915781745053186,20,19
+validation,Spin,calendar,available_pairs,3,1–7,Control,0.03685802465086112,-0.13348345189842067,0.2604541925884993,20,19
+validation,Spin,calendar,available_pairs,3,1–7,difference,-0.06262561389939877,-0.35346599514359545,0.30884826386542324,20,19
+validation,Spin,calendar,balanced,0,31–60,Injury,-0.10995405658556713,-0.5661112684340457,0.34111548257533664,7,7
+validation,Spin,calendar,balanced,0,31–60,Control,0.11054594676282188,-0.1915751567932648,0.36666502520895317,7,7
+validation,Spin,calendar,balanced,0,31–60,difference,-0.22050000334838904,-0.7009603835178433,0.3074977081685573,7,7
+validation,Spin,calendar,balanced,1,15–30,Injury,-0.11997114015932,-0.5877560372959603,0.3351223614526949,7,7
+validation,Spin,calendar,balanced,1,15–30,Control,0.11699711852163201,-0.10819582229897169,0.35779038060575563,7,7
+validation,Spin,calendar,balanced,1,15–30,difference,-0.236968258680952,-0.7482932989182922,0.23757458213296703,7,7
+validation,Spin,calendar,balanced,2,8–14,Injury,-0.24767612199599928,-0.8244047596816078,0.31487516416433303,7,7
+validation,Spin,calendar,balanced,2,8–14,Control,0.2222152569213057,-0.03890354772491107,0.4680288128976812,7,7
+validation,Spin,calendar,balanced,2,8–14,difference,-0.4698913789173051,-1.0837593659984996,0.130479090918323,7,7
+validation,Spin,calendar,balanced,3,1–7,Injury,-0.15176753584230246,-0.7232393001567784,0.38064480316502,7,7
+validation,Spin,calendar,balanced,3,1–7,Control,0.38574158579992,0.11802888282158887,0.6307591733397678,7,7
+validation,Spin,calendar,balanced,3,1–7,difference,-0.5375091216422224,-1.1156202090825231,0.05682465123075976,7,7
+test,Spin,calendar,available_pairs,0,31–60,Injury,-0.1258351252247864,-0.5124401137526888,0.33729252948116256,11,10
+test,Spin,calendar,available_pairs,0,31–60,Control,-0.08535046080689558,-0.3783885525067559,0.2352029219974744,11,10
+test,Spin,calendar,available_pairs,0,31–60,difference,-0.04048466441789078,-0.34976121064213683,0.35440465105383706,11,10
+test,Spin,calendar,available_pairs,1,15–30,Injury,0.09314769513009628,-0.14607929228763894,0.3309318172821615,17,16
+test,Spin,calendar,available_pairs,1,15–30,Control,0.19076709042898735,-0.1746787907144595,0.5690025222377106,17,16
+test,Spin,calendar,available_pairs,1,15–30,difference,-0.09761939529889108,-0.48308170494671404,0.28631714978615946,17,16
+test,Spin,calendar,available_pairs,2,8–14,Injury,0.06688814099266467,-0.15991938300902897,0.33771032662829614,21,20
+test,Spin,calendar,available_pairs,2,8–14,Control,0.13513059262267624,-0.18774497220609548,0.4179748003779425,21,20
+test,Spin,calendar,available_pairs,2,8–14,difference,-0.06824245163001155,-0.4450055660793585,0.3111769623238593,21,20
+test,Spin,calendar,available_pairs,3,1–7,Injury,0.08061037999002035,-0.1546930584904445,0.3322820161102405,22,21
+test,Spin,calendar,available_pairs,3,1–7,Control,0.11672431858769504,-0.17326795367972805,0.4014523063417241,22,21
+test,Spin,calendar,available_pairs,3,1–7,difference,-0.03611393859767472,-0.387458554914002,0.3195323512764033,22,21
+test,Spin,calendar,balanced,0,31–60,Injury,-0.1715271439557701,-0.6367399896809048,0.29937114359533656,9,8
+test,Spin,calendar,balanced,0,31–60,Control,-0.12933002847306188,-0.5534583015381204,0.2613037754496831,9,8
+test,Spin,calendar,balanced,0,31–60,difference,-0.042197115482708214,-0.3101499403356938,0.34701439963448893,9,8
+test,Spin,calendar,balanced,1,15–30,Injury,-0.16360670144478062,-0.3802398997243888,0.08692155605761992,9,8
+test,Spin,calendar,balanced,1,15–30,Control,-0.1276366791961107,-0.5037318672452816,0.3121090596624473,9,8
+test,Spin,calendar,balanced,1,15–30,difference,-0.03597002224866993,-0.44324267545973084,0.2677614594934862,9,8
+test,Spin,calendar,balanced,2,8–14,Injury,-0.15668376938428752,-0.380918091598007,0.0933550414518019,9,8
+test,Spin,calendar,balanced,2,8–14,Control,-0.057212190162701924,-0.4363221049766065,0.38529602032005694,9,8
+test,Spin,calendar,balanced,2,8–14,difference,-0.09947157922158562,-0.587424496575029,0.28375191216112466,9,8
+test,Spin,calendar,balanced,3,1–7,Injury,-0.08797388725452347,-0.29538001343990494,0.1589175074918,9,8
+test,Spin,calendar,balanced,3,1–7,Control,-0.06784211100953964,-0.39102960134898945,0.3445419778456853,9,8
+test,Spin,calendar,balanced,3,1–7,difference,-0.020131776244983815,-0.4605022399667907,0.3000535822741395,9,8
+validation,Spin,outings,available_pairs,0,11+,Injury,-0.2611952615104185,-0.9119082284144906,0.43262175610463305,4,4
+validation,Spin,outings,available_pairs,0,11+,Control,0.3071774221555854,-0.06440016817179248,0.6416307008918498,4,4
+validation,Spin,outings,available_pairs,0,11+,difference,-0.5683726836660039,-1.0882528323953107,-0.08790435782208324,4,4
+validation,Spin,outings,available_pairs,1,6–10,Injury,0.033555756424056456,-0.3843535187168986,0.4315166428279577,11,10
+validation,Spin,outings,available_pairs,1,6–10,Control,0.12680534610372404,-0.18116846442279558,0.3628432688993326,11,10
+validation,Spin,outings,available_pairs,1,6–10,difference,-0.09324958967966755,-0.5551398336057173,0.34913270930526774,11,10
+validation,Spin,outings,available_pairs,2,4–5,Injury,-0.14862212127933655,-0.46578800366312556,0.13602409826397785,17,16
+validation,Spin,outings,available_pairs,2,4–5,Control,0.14438228573638637,-0.03500317926500732,0.31777782285131667,17,16
+validation,Spin,outings,available_pairs,2,4–5,difference,-0.29300440701572295,-0.5915411851755393,0.009145273392412556,17,16
+validation,Spin,outings,available_pairs,3,2–3,Injury,-0.027742561349648042,-0.29943444109795186,0.27248623749932327,20,19
+validation,Spin,outings,available_pairs,3,2–3,Control,0.029529590010953434,-0.1528529968764368,0.24431079498563818,20,19
+validation,Spin,outings,available_pairs,3,2–3,difference,-0.057272151360601466,-0.363306340476294,0.3007645213827886,20,19
+validation,Spin,outings,available_pairs,4,Final,Injury,-0.04689718213703491,-0.31530321225562385,0.2771817136455484,20,19
+validation,Spin,outings,available_pairs,4,Final,Control,0.01273890610655124,-0.1630269116089537,0.25209718407225634,20,19
+validation,Spin,outings,available_pairs,4,Final,difference,-0.05963608824358615,-0.37096921251816894,0.34551898344243204,20,19
+validation,Spin,outings,balanced,2,4–5,Injury,-0.14862212127933655,-0.46578800366312556,0.13602409826397785,17,16
+validation,Spin,outings,balanced,2,4–5,Control,0.14438228573638637,-0.03500317926500732,0.31777782285131667,17,16
+validation,Spin,outings,balanced,2,4–5,difference,-0.29300440701572295,-0.5915411851755393,0.009145273392412556,17,16
+validation,Spin,outings,balanced,3,2–3,Injury,-0.08626052959417256,-0.4128903653339651,0.17829390163714273,17,16
+validation,Spin,outings,balanced,3,2–3,Control,0.05547846423000169,-0.150010913891424,0.2882972459920467,17,16
+validation,Spin,outings,balanced,3,2–3,difference,-0.14173899382417426,-0.5417912637684769,0.1539252777392345,17,16
+validation,Spin,outings,balanced,4,Final,Injury,-0.13179708896468934,-0.39847114672382955,0.11416983101464197,17,16
+validation,Spin,outings,balanced,4,Final,Control,0.02203578343680961,-0.19568825983781676,0.26692151741340864,17,16
+validation,Spin,outings,balanced,4,Final,difference,-0.15383287240149893,-0.5375332424515581,0.18175554437603825,17,16
+test,Spin,outings,available_pairs,0,11+,Injury,0.41613044128383203,0.3212247085206282,0.5110361740470359,2,2
+test,Spin,outings,available_pairs,0,11+,Control,-1.135020158458867,-1.6003308867341446,-0.6697094301835894,2,2
+test,Spin,outings,available_pairs,0,11+,difference,1.551150599742699,1.1807456042306255,1.9215555952547727,2,2
+test,Spin,outings,available_pairs,1,6–10,Injury,0.051452251753798764,-0.39273903274816807,0.4508182184997489,14,13
+test,Spin,outings,available_pairs,1,6–10,Control,0.016065319529784922,-0.3038050120823481,0.3472278363532529,14,13
+test,Spin,outings,available_pairs,1,6–10,difference,0.03538693222401383,-0.33351598935526683,0.43313554033850205,14,13
+test,Spin,outings,available_pairs,2,4–5,Injury,0.1943643529161452,-0.007569843973113903,0.487328543635981,20,19
+test,Spin,outings,available_pairs,2,4–5,Control,0.20463467380613273,-0.12751059903733633,0.5784379787749704,20,19
+test,Spin,outings,available_pairs,2,4–5,difference,-0.010270320889987528,-0.3793764684090352,0.40211049626776374,20,19
+test,Spin,outings,available_pairs,3,2–3,Injury,0.05395465402170336,-0.1928306408432874,0.34492968813322716,22,21
+test,Spin,outings,available_pairs,3,2–3,Control,0.12891598070630897,-0.14876896072966375,0.41745338254296155,22,21
+test,Spin,outings,available_pairs,3,2–3,difference,-0.07496132668460562,-0.46954425248681975,0.2887731543742974,22,21
+test,Spin,outings,available_pairs,4,Final,Injury,0.06764998955340111,-0.1659230110088136,0.2917894250863787,22,21
+test,Spin,outings,available_pairs,4,Final,Control,0.08118592235628247,-0.20455839733129286,0.358170434954301,22,21
+test,Spin,outings,available_pairs,4,Final,difference,-0.01353593280288131,-0.3667193703412832,0.35774210904659987,22,21
+test,Spin,outings,balanced,2,4–5,Injury,0.1943643529161452,-0.007569843973113903,0.487328543635981,20,19
+test,Spin,outings,balanced,2,4–5,Control,0.20463467380613273,-0.12751059903733633,0.5784379787749704,20,19
+test,Spin,outings,balanced,2,4–5,difference,-0.010270320889987528,-0.3793764684090352,0.40211049626776374,20,19
+test,Spin,outings,balanced,3,2–3,Injury,0.0634306597934414,-0.18404711572485277,0.35386521282654526,20,19
+test,Spin,outings,balanced,3,2–3,Control,0.15874100005437558,-0.12515883965074173,0.4917887257060135,20,19
+test,Spin,outings,balanced,3,2–3,difference,-0.09531034026093411,-0.4775550715935136,0.27359345662079654,20,19
+test,Spin,outings,balanced,4,Final,Injury,0.06806479611863232,-0.15312416908535928,0.3151092396911484,20,19
+test,Spin,outings,balanced,4,Final,Control,0.10056134341783114,-0.20912331063243886,0.427300783259003,20,19
+test,Spin,outings,balanced,4,Final,difference,-0.03249654729919881,-0.4235261465402286,0.34785762476933174,20,19
+validation,Velocity,calendar,available_pairs,0,31–60,Injury,0.5306545546825221,0.08189187001217303,1.1297881483213135,8,8
+validation,Velocity,calendar,available_pairs,0,31–60,Control,0.4345299240408652,0.03364764005469126,0.838510479175725,8,8
+validation,Velocity,calendar,available_pairs,0,31–60,difference,0.09612463064165691,-0.5520600927395143,0.7971364981785891,8,8
+validation,Velocity,calendar,available_pairs,1,15–30,Injury,0.35009447787029846,-0.004987485268869496,0.7538547558054078,16,16
+validation,Velocity,calendar,available_pairs,1,15–30,Control,0.2448617987573957,-0.27477279212791583,0.5999396823527504,16,16
+validation,Velocity,calendar,available_pairs,1,15–30,difference,0.10523267911290268,-0.4421278412197396,0.681964817923371,16,16
+validation,Velocity,calendar,available_pairs,2,8–14,Injury,0.4938242982353028,0.15209714849230663,0.8473640240034738,17,16
+validation,Velocity,calendar,available_pairs,2,8–14,Control,0.2917586133955231,-0.10729632971535079,0.5561179911384551,17,16
+validation,Velocity,calendar,available_pairs,2,8–14,difference,0.20206568483977982,-0.17304679548095298,0.64317611667309,17,16
+validation,Velocity,calendar,available_pairs,3,1–7,Injury,0.44554475227883944,0.12617552113051766,0.7611595720042109,20,19
+validation,Velocity,calendar,available_pairs,3,1–7,Control,0.002026752851616018,-0.4267372621527167,0.4077640721040642,20,19
+validation,Velocity,calendar,available_pairs,3,1–7,difference,0.4435179994272234,-0.06198494262343402,0.9421804116880335,20,19
+validation,Velocity,calendar,balanced,0,31–60,Injury,0.5101917182168032,0.012341484028860164,1.169143216361385,7,7
+validation,Velocity,calendar,balanced,0,31–60,Control,0.2696352813265671,-0.01265216167108049,0.5889801379552273,7,7
+validation,Velocity,calendar,balanced,0,31–60,difference,0.24055643689023612,-0.3913422908540731,0.9333467247834428,7,7
+validation,Velocity,calendar,balanced,1,15–30,Injury,0.4666963068378393,-0.020303580809865853,1.1204829803230045,7,7
+validation,Velocity,calendar,balanced,1,15–30,Control,0.31125505825787586,0.04386743875552977,0.5452933667002698,7,7
+validation,Velocity,calendar,balanced,1,15–30,difference,0.15544124857996341,-0.3061981393603988,0.824275114958889,7,7
+validation,Velocity,calendar,balanced,2,8–14,Injury,0.485887494923764,0.019024423890479956,1.1230600550363752,7,7
+validation,Velocity,calendar,balanced,2,8–14,Control,0.34352609583084603,0.0337878014132184,0.6544654341847379,7,7
+validation,Velocity,calendar,balanced,2,8–14,difference,0.14236139909291792,-0.3615064953553506,0.8231442718276407,7,7
+validation,Velocity,calendar,balanced,3,1–7,Injury,0.5267766243913852,-0.09532370366502907,1.2868115444104746,7,7
+validation,Velocity,calendar,balanced,3,1–7,Control,0.25907964019561686,-0.1192389677427365,0.5663332644836176,7,7
+validation,Velocity,calendar,balanced,3,1–7,difference,0.2676969841957684,-0.35173882371460813,1.0350608856215748,7,7
+test,Velocity,calendar,available_pairs,0,31–60,Injury,0.15924767020024513,-0.3402813695829209,0.5796564891275752,11,10
+test,Velocity,calendar,available_pairs,0,31–60,Control,0.348355690152983,-0.044073862370729744,0.7879907537399297,11,10
+test,Velocity,calendar,available_pairs,0,31–60,difference,-0.18910801995273793,-0.9319277193296317,0.5170066347300178,11,10
+test,Velocity,calendar,available_pairs,1,15–30,Injury,-0.054734381965300255,-0.6232434828934775,0.3476084408698542,17,16
+test,Velocity,calendar,available_pairs,1,15–30,Control,0.4850180016797741,0.21470340539293334,0.737493215363378,17,16
+test,Velocity,calendar,available_pairs,1,15–30,difference,-0.5397523836450743,-1.2637283358220381,-0.008361600510169575,17,16
+test,Velocity,calendar,available_pairs,2,8–14,Injury,0.05449831082184792,-0.3779707455069245,0.35938444041297385,21,20
+test,Velocity,calendar,available_pairs,2,8–14,Control,0.31675843650911706,0.10203865675793243,0.5211491091863872,21,20
+test,Velocity,calendar,available_pairs,2,8–14,difference,-0.2622601256872691,-0.7556259553307292,0.1944686605055568,21,20
+test,Velocity,calendar,available_pairs,3,1–7,Injury,0.07684681464591837,-0.30572670924278983,0.42325234547755775,22,21
+test,Velocity,calendar,available_pairs,3,1–7,Control,0.30601604105244073,0.103994470457001,0.5009367351501423,22,21
+test,Velocity,calendar,available_pairs,3,1–7,difference,-0.22916922640652235,-0.7084483545479506,0.21544816312191306,22,21
+test,Velocity,calendar,balanced,0,31–60,Injury,0.2284915121064748,-0.3733148119659839,0.6214771011188472,9,8
+test,Velocity,calendar,balanced,0,31–60,Control,0.44308205653731786,0.04636198337828713,0.9079954195254549,9,8
+test,Velocity,calendar,balanced,0,31–60,difference,-0.21459054443084302,-1.027736533027578,0.47606902542251256,9,8
+test,Velocity,calendar,balanced,1,15–30,Injury,0.06197533389188138,-0.47927319187955764,0.43022191956086375,9,8
+test,Velocity,calendar,balanced,1,15–30,Control,0.25398124945643763,-0.021338765526930495,0.5903713711007526,9,8
+test,Velocity,calendar,balanced,1,15–30,difference,-0.19200591556455626,-0.8301499905910499,0.29246369458334054,9,8
+test,Velocity,calendar,balanced,2,8–14,Injury,-0.021707238788626057,-0.44163459425212287,0.27837767510873385,9,8
+test,Velocity,calendar,balanced,2,8–14,Control,0.15103596155649604,-0.1842476347669913,0.5478024210535378,9,8
+test,Velocity,calendar,balanced,2,8–14,difference,-0.17274320034512206,-0.707088338226529,0.29075187504936234,9,8
+test,Velocity,calendar,balanced,3,1–7,Injury,-0.05979599502146174,-0.5776551818934608,0.2625755812733328,9,8
+test,Velocity,calendar,balanced,3,1–7,Control,0.18230598780495083,-0.12962997597323575,0.5330083756386754,9,8
+test,Velocity,calendar,balanced,3,1–7,difference,-0.2421019828264126,-0.7897287669814833,0.16688991697860098,9,8
+validation,Velocity,outings,available_pairs,0,11+,Injury,0.847525964051265,0.29850113673220363,1.824249940260411,4,4
+validation,Velocity,outings,available_pairs,0,11+,Control,0.33878543967843366,0.1080335534495283,0.6223374248545043,4,4
+validation,Velocity,outings,available_pairs,0,11+,difference,0.5087405243728312,-0.23355901925263245,1.569649667558944,4,4
+validation,Velocity,outings,available_pairs,1,6–10,Injury,0.4228736377663165,-0.04227406200910599,0.9947528837394346,11,10
+validation,Velocity,outings,available_pairs,1,6–10,Control,0.3962312313968568,0.16271553101522554,0.7048933896539998,11,10
+validation,Velocity,outings,available_pairs,1,6–10,difference,0.026642406369459692,-0.5500728999607039,0.6274283710285994,11,10
+validation,Velocity,outings,available_pairs,2,4–5,Injury,0.5018557823048668,0.07837019972583847,0.9601112927404901,17,16
+validation,Velocity,outings,available_pairs,2,4–5,Control,0.29570701046147363,-0.21883845882367606,0.6306073963654811,17,16
+validation,Velocity,outings,available_pairs,2,4–5,difference,0.20614877184339325,-0.36883997895168474,0.8088267375789537,17,16
+validation,Velocity,outings,available_pairs,3,2–3,Injury,0.41780300280884947,0.15389654196215954,0.726127586534371,20,19
+validation,Velocity,outings,available_pairs,3,2–3,Control,0.06120170690802183,-0.3578059054125788,0.4729554383347965,20,19
+validation,Velocity,outings,available_pairs,3,2–3,difference,0.3566012959008277,-0.14267610547686985,0.8221324374124136,20,19
+validation,Velocity,outings,available_pairs,4,Final,Injury,0.42497674557108506,0.11401541011302374,0.7284461639409745,20,19
+validation,Velocity,outings,available_pairs,4,Final,Control,-0.011617951512816698,-0.458342619522237,0.42236128610679735,20,19
+validation,Velocity,outings,available_pairs,4,Final,difference,0.4365946970839018,-0.07907022568313629,0.9590535917628531,20,19
+validation,Velocity,outings,balanced,2,4–5,Injury,0.5018557823048668,0.07837019972583847,0.9601112927404901,17,16
+validation,Velocity,outings,balanced,2,4–5,Control,0.29570701046147363,-0.21883845882367606,0.6306073963654811,17,16
+validation,Velocity,outings,balanced,2,4–5,difference,0.20614877184339325,-0.36883997895168474,0.8088267375789537,17,16
+validation,Velocity,outings,balanced,3,2–3,Injury,0.3934015176907691,0.09610023205636876,0.7855555885944644,17,16
+validation,Velocity,outings,balanced,3,2–3,Control,0.20134651890780275,-0.20261944008778085,0.5310890986614369,17,16
+validation,Velocity,outings,balanced,3,2–3,difference,0.1920549987829664,-0.2510237049873363,0.6841081914726056,17,16
+validation,Velocity,outings,balanced,4,Final,Injury,0.35868558738446116,0.022387859707986707,0.7571366909598933,17,16
+validation,Velocity,outings,balanced,4,Final,Control,0.1357134510783765,-0.323690867277197,0.4977845908207699,17,16
+validation,Velocity,outings,balanced,4,Final,difference,0.22297213630608465,-0.28079473270846944,0.7468447152951374,17,16
+test,Velocity,outings,available_pairs,0,11+,Injury,0.24718964187155418,-0.22678195960023206,0.7211612433433404,2,2
+test,Velocity,outings,available_pairs,0,11+,Control,0.06723508464350679,-0.14981513980031905,0.2842853090873326,2,2
+test,Velocity,outings,available_pairs,0,11+,difference,0.17995455722804737,-0.5110672686875647,0.8709763831436594,2,2
+test,Velocity,outings,available_pairs,1,6–10,Injury,-0.048950695715663475,-0.7834024050961065,0.5149992872345764,14,13
+test,Velocity,outings,available_pairs,1,6–10,Control,0.5212695075943178,0.15492014623914035,0.857797954677219,14,13
+test,Velocity,outings,available_pairs,1,6–10,difference,-0.5702202033099814,-1.5051308611204572,0.2033065498919218,14,13
+test,Velocity,outings,available_pairs,2,4–5,Injury,0.07568168040966433,-0.40446156866143673,0.4096883973836588,20,19
+test,Velocity,outings,available_pairs,2,4–5,Control,0.4022311309064605,0.17930422577038096,0.6445225381320875,20,19
+test,Velocity,outings,available_pairs,2,4–5,difference,-0.32654945049679623,-0.922203483450254,0.09484429154856591,20,19
+test,Velocity,outings,available_pairs,3,2–3,Injury,0.008611308241465403,-0.40261523774138586,0.37019079597298843,22,21
+test,Velocity,outings,available_pairs,3,2–3,Control,0.3034162859388626,0.110654078750189,0.5161950491753552,22,21
+test,Velocity,outings,available_pairs,3,2–3,difference,-0.2948049776973973,-0.8002247821842147,0.15902591182092948,22,21
+test,Velocity,outings,available_pairs,4,Final,Injury,0.0878612195712427,-0.2742316573602876,0.4181603253137144,22,21
+test,Velocity,outings,available_pairs,4,Final,Control,0.3110715868735465,0.11419425813841153,0.5014278165536834,22,21
+test,Velocity,outings,available_pairs,4,Final,difference,-0.22321036730230384,-0.7060180886921498,0.18923769244381752,22,21
+test,Velocity,outings,balanced,2,4–5,Injury,0.07568168040966433,-0.40446156866143673,0.4096883973836588,20,19
+test,Velocity,outings,balanced,2,4–5,Control,0.4022311309064605,0.17930422577038096,0.6445225381320875,20,19
+test,Velocity,outings,balanced,2,4–5,difference,-0.32654945049679623,-0.922203483450254,0.09484429154856591,20,19
+test,Velocity,outings,balanced,3,2–3,Injury,-0.04021914325627311,-0.5721688465116798,0.3082326155609654,20,19
+test,Velocity,outings,balanced,3,2–3,Control,0.32889485587708767,0.1107165587929349,0.5252315563632128,20,19
+test,Velocity,outings,balanced,3,2–3,difference,-0.36911399913336085,-0.9977104624525935,0.031547556321326775,20,19
+test,Velocity,outings,balanced,4,Final,Injury,0.021289145681961785,-0.4699869007432197,0.3781740758295334,20,19
+test,Velocity,outings,balanced,4,Final,Control,0.3269920022257263,0.10426696526963836,0.5451295886787891,20,19
+test,Velocity,outings,balanced,4,Final,difference,-0.30570285654376456,-0.8521994679774393,0.1082029862958265,20,19
+validation,Workload and rest,calendar,available_pairs,0,31–60,Injury,0.8175292531271084,0.2021103386434659,1.3989605225282364,8,8
+validation,Workload and rest,calendar,available_pairs,0,31–60,Control,0.07249699493432123,-0.6734048049549914,0.8069761072901513,8,8
+validation,Workload and rest,calendar,available_pairs,0,31–60,difference,0.7450322581927871,0.10088028369216767,1.4859108931689153,8,8
+validation,Workload and rest,calendar,available_pairs,1,15–30,Injury,0.8633301888308016,0.489221825600169,1.1523692079906322,16,16
+validation,Workload and rest,calendar,available_pairs,1,15–30,Control,0.06375972629156867,-0.5180575319930925,0.6011009922162115,16,16
+validation,Workload and rest,calendar,available_pairs,1,15–30,difference,0.7995704625392329,0.24978369996395514,1.2362816201103448,16,16
+validation,Workload and rest,calendar,available_pairs,2,8–14,Injury,0.6226105190199044,0.2786249261760307,0.9919509559608719,17,16
+validation,Workload and rest,calendar,available_pairs,2,8–14,Control,0.47698821576281475,0.03882635705662566,0.8362070032082183,17,16
+validation,Workload and rest,calendar,available_pairs,2,8–14,difference,0.14562230325708958,-0.19189673161194432,0.4572406028900219,17,16
+validation,Workload and rest,calendar,available_pairs,3,1–7,Injury,0.2733458931282018,-0.057994466738041796,0.5542270997524826,20,19
+validation,Workload and rest,calendar,available_pairs,3,1–7,Control,0.140198912604384,-0.2676376195185259,0.5104723527846907,20,19
+validation,Workload and rest,calendar,available_pairs,3,1–7,difference,0.13314698052381782,-0.12721664400301444,0.492012323593885,20,19
+validation,Workload and rest,calendar,balanced,0,31–60,Injury,0.764013117999558,0.10737274066131332,1.4689028569994742,7,7
+validation,Workload and rest,calendar,balanced,0,31–60,Control,0.33233723070322635,-0.2642212580939611,0.8940560928270002,7,7
+validation,Workload and rest,calendar,balanced,0,31–60,difference,0.43167588729633166,0.025178006472506148,0.8592095498803617,7,7
+validation,Workload and rest,calendar,balanced,1,15–30,Injury,0.6092728704799264,0.09840816785276671,1.0955797431340069,7,7
+validation,Workload and rest,calendar,balanced,1,15–30,Control,-0.17611300220471962,-0.9319552861422274,0.4222126099031238,7,7
+validation,Workload and rest,calendar,balanced,1,15–30,difference,0.785385872684646,0.4310037531848023,1.1601364701207124,7,7
+validation,Workload and rest,calendar,balanced,2,8–14,Injury,0.11838614693209969,-0.5185771286759945,0.5490278646265808,7,7
+validation,Workload and rest,calendar,balanced,2,8–14,Control,-0.09323488794844541,-0.8159763919888477,0.450838451824595,7,7
+validation,Workload and rest,calendar,balanced,2,8–14,difference,0.21162103488054504,-0.16177290054839638,0.4826766425420808,7,7
+validation,Workload and rest,calendar,balanced,3,1–7,Injury,-0.25974595289953945,-0.8717115390200963,0.14113659499792988,7,7
+validation,Workload and rest,calendar,balanced,3,1–7,Control,-0.2876437962944692,-0.8880760355678449,0.12262686812728789,7,7
+validation,Workload and rest,calendar,balanced,3,1–7,difference,0.027897843394929796,-0.18509971322311117,0.2328984818315978,7,7
+test,Workload and rest,calendar,available_pairs,0,31–60,Injury,0.7830222313012096,0.33125075237213514,1.2318889474988954,11,10
+test,Workload and rest,calendar,available_pairs,0,31–60,Control,0.7162518749897928,0.14464456236481643,1.2524752845321265,11,10
+test,Workload and rest,calendar,available_pairs,0,31–60,difference,0.06677035631141671,-0.3102950175316485,0.5114728021955307,11,10
+test,Workload and rest,calendar,available_pairs,1,15–30,Injury,0.525763571261388,0.22268735741939055,0.8340947391930035,17,16
+test,Workload and rest,calendar,available_pairs,1,15–30,Control,0.7322658238147268,0.4025462298013728,1.080380050091353,17,16
+test,Workload and rest,calendar,available_pairs,1,15–30,difference,-0.20650225255333882,-0.5568335079460254,0.07926071820951969,17,16
+test,Workload and rest,calendar,available_pairs,2,8–14,Injury,0.5476850401905924,0.33448794854871106,0.7713908034497617,21,20
+test,Workload and rest,calendar,available_pairs,2,8–14,Control,0.4656124591690575,0.16581407819698,0.759515624606143,21,20
+test,Workload and rest,calendar,available_pairs,2,8–14,difference,0.08207258102153492,-0.2362280924318538,0.4345152156013458,21,20
+test,Workload and rest,calendar,available_pairs,3,1–7,Injury,0.23072770120384956,-0.16220788485114693,0.7049513969138462,22,21
+test,Workload and rest,calendar,available_pairs,3,1–7,Control,0.26256527928372614,-0.050647484764596504,0.5680834111876909,22,21
+test,Workload and rest,calendar,available_pairs,3,1–7,difference,-0.031837578079876486,-0.4883576855665244,0.47592195410718047,22,21
+test,Workload and rest,calendar,balanced,0,31–60,Injury,0.9242723606005568,0.5629605552289556,1.3197094921824093,9,8
+test,Workload and rest,calendar,balanced,0,31–60,Control,0.8712246496331243,0.41588935692019025,1.3935946458166648,9,8
+test,Workload and rest,calendar,balanced,0,31–60,difference,0.05304771096743247,-0.40131013987301667,0.5011911438483123,9,8
+test,Workload and rest,calendar,balanced,1,15–30,Injury,0.4839145567161763,0.24267348357100885,0.7627457428222174,9,8
+test,Workload and rest,calendar,balanced,1,15–30,Control,0.7716196567062493,0.3437165532332939,1.2674926104448472,9,8
+test,Workload and rest,calendar,balanced,1,15–30,difference,-0.2877050999900731,-0.7609390756013905,0.04359943513171922,9,8
+test,Workload and rest,calendar,balanced,2,8–14,Injury,0.22755488334905274,-0.04696758660208423,0.5325451277001382,9,8
+test,Workload and rest,calendar,balanced,2,8–14,Control,0.2272865399215099,-0.08482832015295855,0.5592016515236053,9,8
+test,Workload and rest,calendar,balanced,2,8–14,difference,0.0002683434275428757,-0.1770232817167651,0.15710226800000868,9,8
+test,Workload and rest,calendar,balanced,3,1–7,Injury,0.10503549821855251,-0.32341600451177166,0.6629971979661723,9,8
+test,Workload and rest,calendar,balanced,3,1–7,Control,0.33498532124956865,-0.02445988200308916,0.7045548946600854,9,8
+test,Workload and rest,calendar,balanced,3,1–7,difference,-0.22994982303101613,-0.7226179903613997,0.2175183593366521,9,8
+validation,Workload and rest,outings,available_pairs,0,11+,Injury,0.48793087562298,0.2260141779527862,0.7797987609226112,4,4
+validation,Workload and rest,outings,available_pairs,0,11+,Control,0.33225127996940734,-0.015514745149513245,0.7714507520257716,4,4
+validation,Workload and rest,outings,available_pairs,0,11+,difference,0.15567959565357264,-0.23879936982129002,0.5567065677657702,4,4
+validation,Workload and rest,outings,available_pairs,1,6–10,Injury,0.8618544958220281,0.39052159194980446,1.3659489733766155,11,10
+validation,Workload and rest,outings,available_pairs,1,6–10,Control,0.1106732310032466,-0.4982276192305454,0.6224063781312,11,10
+validation,Workload and rest,outings,available_pairs,1,6–10,difference,0.7511812648187814,0.4074336728201068,1.2281538685172926,11,10
+validation,Workload and rest,outings,available_pairs,2,4–5,Injury,0.8043746900563921,0.4535369282259926,1.1256033279302315,17,16
+validation,Workload and rest,outings,available_pairs,2,4–5,Control,0.0696030302879086,-0.5169358088670658,0.5682807594955028,17,16
+validation,Workload and rest,outings,available_pairs,2,4–5,difference,0.7347716597684834,0.2140088611375004,1.185283389885082,17,16
+validation,Workload and rest,outings,available_pairs,3,2–3,Injury,0.42313362374738306,0.09537895587462775,0.6897761176780628,20,19
+validation,Workload and rest,outings,available_pairs,3,2–3,Control,0.2802237270146284,-0.19414464215223018,0.6939730196602788,20,19
+validation,Workload and rest,outings,available_pairs,3,2–3,difference,0.14290989673275473,-0.1716026789031248,0.4805864757984805,20,19
+validation,Workload and rest,outings,available_pairs,4,Final,Injury,0.2307852998915934,-0.09636410193959746,0.5143194441120901,20,19
+validation,Workload and rest,outings,available_pairs,4,Final,Control,0.054319725760166596,-0.34355362463256045,0.4102523941958978,20,19
+validation,Workload and rest,outings,available_pairs,4,Final,difference,0.17646557413142674,-0.10527428896211136,0.5301250856306862,20,19
+validation,Workload and rest,outings,balanced,2,4–5,Injury,0.8043746900563921,0.4535369282259926,1.1256033279302315,17,16
+validation,Workload and rest,outings,balanced,2,4–5,Control,0.0696030302879086,-0.5169358088670658,0.5682807594955028,17,16
+validation,Workload and rest,outings,balanced,2,4–5,difference,0.7347716597684834,0.2140088611375004,1.185283389885082,17,16
+validation,Workload and rest,outings,balanced,3,2–3,Injury,0.3791553129349414,0.006889004809649301,0.6800315901871684,17,16
+validation,Workload and rest,outings,balanced,3,2–3,Control,0.15071955791597103,-0.2634497012689818,0.5611948546022089,17,16
+validation,Workload and rest,outings,balanced,3,2–3,difference,0.22843575501897034,-0.1745571205586537,0.6108778872235056,17,16
+validation,Workload and rest,outings,balanced,4,Final,Injury,0.16159563298608937,-0.18167119914270363,0.4689290058993206,17,16
+validation,Workload and rest,outings,balanced,4,Final,Control,-0.12566094340437028,-0.5659305117850449,0.2224444772031867,17,16
+validation,Workload and rest,outings,balanced,4,Final,difference,0.28725657639045965,-0.02275456155258448,0.6976613001603587,17,16
+test,Workload and rest,outings,available_pairs,0,11+,Injury,0.255514311471748,0.035177260146353646,0.4758513627971424,2,2
+test,Workload and rest,outings,available_pairs,0,11+,Control,0.937201586888922,0.7168175616385346,1.1575856121393093,2,2
+test,Workload and rest,outings,available_pairs,0,11+,difference,-0.681687275417174,-1.1224083519929557,-0.2409661988413922,2,2
+test,Workload and rest,outings,available_pairs,1,6–10,Injury,0.8044663309219455,0.4123132009283958,1.1145669939926597,14,13
+test,Workload and rest,outings,available_pairs,1,6–10,Control,0.5940109580979864,0.12003710737655113,1.0115771220874579,14,13
+test,Workload and rest,outings,available_pairs,1,6–10,difference,0.210455372823959,-0.07234871514764651,0.5689805175955935,14,13
+test,Workload and rest,outings,available_pairs,2,4–5,Injury,0.6045866100136125,0.3191042509416158,0.9180672199708488,20,19
+test,Workload and rest,outings,available_pairs,2,4–5,Control,0.6316172721198823,0.2630583214086621,1.0053810685472706,20,19
+test,Workload and rest,outings,available_pairs,2,4–5,difference,-0.027030662106269886,-0.4503502764143054,0.44240192653027316,20,19
+test,Workload and rest,outings,available_pairs,3,2–3,Injury,0.40256805310895705,0.11451359257893048,0.746099199437153,22,21
+test,Workload and rest,outings,available_pairs,3,2–3,Control,0.3482853865435718,0.04210883912919807,0.6711034163693396,22,21
+test,Workload and rest,outings,available_pairs,3,2–3,difference,0.05428266656538536,-0.2877459337419513,0.400218338139611,22,21
+test,Workload and rest,outings,available_pairs,4,Final,Injury,0.22426200724451367,-0.16009589063207194,0.7098847604269956,22,21
+test,Workload and rest,outings,available_pairs,4,Final,Control,0.1912749519060214,-0.14635662169159352,0.49877850539493274,22,21
+test,Workload and rest,outings,available_pairs,4,Final,difference,0.032987055338492284,-0.47219006683869935,0.5870469679031636,22,21
+test,Workload and rest,outings,balanced,2,4–5,Injury,0.6045866100136125,0.3191042509416158,0.9180672199708488,20,19
+test,Workload and rest,outings,balanced,2,4–5,Control,0.6316172721198823,0.2630583214086621,1.0053810685472706,20,19
+test,Workload and rest,outings,balanced,2,4–5,difference,-0.027030662106269886,-0.4503502764143054,0.44240192653027316,20,19
+test,Workload and rest,outings,balanced,3,2–3,Injury,0.3598229727552825,0.03094226295881579,0.6926923990330067,20,19
+test,Workload and rest,outings,balanced,3,2–3,Control,0.33300129160366765,-0.005884060690728584,0.6575325652054834,20,19
+test,Workload and rest,outings,balanced,3,2–3,difference,0.026821681151614884,-0.33682691255522096,0.40919811001709744,20,19
+test,Workload and rest,outings,balanced,4,Final,Injury,0.1280779897273378,-0.257357251810231,0.5372254041525957,20,19
+test,Workload and rest,outings,balanced,4,Final,Control,0.17105302374595155,-0.21275613776812566,0.5445157711825198,20,19
+test,Workload and rest,outings,balanced,4,Final,difference,-0.042975034018613814,-0.6038878044575237,0.48618217485192244,20,19

@@ -1,0 +1,71 @@
+name,category,era,rationale,family,candidate_predictor,train_missing_fraction,selected_for_prediction
+avg_fb_velo,velocity,long_history,Current FF/SI/FC mean velocity; primary pitch speed signal.,velocity,True,0.007558566779452973,True
+fb_velo_sd,velocity,long_history,Within-appearance fastball speed variability.,velocity,True,0.02575242463640548,True
+fb_velo_change_vs_prev_3,velocity,long_history,Short-term speed deviation from strictly prior outings.,velocity,True,0.00886678026051214,True
+fb_velo_change_vs_prev_5,velocity,long_history,More stable recent speed deviation.,velocity,True,0.007590868346886532,True
+velo_drop_game,velocity,long_history,Late minus early fastball speed in disjoint 20-pitch segments; requires 40 fastballs.,velocity,True,0.8066185911671364,False
+velo_z,velocity,long_history,Speed deviation scaled to pitcher-specific prior variability.,velocity,True,0.00797041176423086,True
+fb_velo_slope_prev_5,velocity,long_history,Speed trend over prior five appearances.,velocity,True,0.00038761880920271655,True
+avg_fb_velo_baseline_mean,velocity,long_history,Pitcher-specific recent typical fastball speed.,velocity,True,0.0004118449847778863,True
+release_x_avg,release_mechanics,long_history,Current lateral release point.,release_mechanics,True,5.6527743008729496e-05,True
+release_z_avg,release_mechanics,long_history,Current release height.,release_mechanics,True,5.6527743008729496e-05,True
+release_x_sd,release_mechanics,long_history,Lateral release repeatability.,release_mechanics,True,0.005144024613794385,True
+release_z_sd,release_mechanics,long_history,Release height repeatability.,release_mechanics,True,0.005144024613794385,True
+extension_avg,release_mechanics,long_history,Mean extension toward the plate.,extension,True,0.0018815663030048533,True
+extension_sd,release_mechanics,long_history,Extension repeatability.,extension,True,0.007001364741224068,True
+release_x_change_vs_prev_5,release_mechanics,long_history,Change in lateral release point.,release_mechanics,True,5.6527743008729496e-05,True
+release_z_change_vs_prev_5,release_mechanics,long_history,Change in release height.,release_mechanics,True,5.6527743008729496e-05,True
+extension_change_vs_prev_5,release_mechanics,long_history,Change in extension.,extension,True,0.0018815663030048533,True
+release_x_z,release_mechanics,long_history,Lateral release deviation relative to personal baseline.,release_mechanics,True,0.00012920626973423886,True
+release_z_z,release_mechanics,long_history,Release height deviation relative to personal baseline.,release_mechanics,True,0.00012920626973423886,True
+extension_z,release_mechanics,long_history,Extension deviation relative to personal baseline.,extension,True,0.0024145421656585884,True
+arm_angle_avg,release_mechanics,modern_optional,Observed arm angle; use only in empirically supported modern seasons.,arm_angle,False,,False
+arm_angle_sd,release_mechanics,modern_optional,Arm-angle variability.,arm_angle,False,,False
+arm_angle_change_vs_prev_5,release_mechanics,modern_optional,Recent change in arm angle.,arm_angle,False,,False
+arm_angle_z,release_mechanics,modern_optional,Arm-angle deviation from pitcher baseline.,arm_angle,False,,False
+spin_avg,pitch_shape,long_history,Mean observed spin; pitch mix must be considered.,spin_movement,True,0.002366089814508249,True
+spin_change_vs_prev_5,pitch_shape,long_history,Recent spin change.,spin_movement,True,0.0023741652063666388,True
+spin_z,pitch_shape,long_history,Pitcher-specific standardized spin change.,spin_movement,True,0.002931367244595544,True
+horizontal_movement_avg,pitch_shape,long_history,Observed horizontal movement in feet.,spin_movement,True,8.075391858389929e-06,True
+vertical_movement_avg,pitch_shape,long_history,Observed vertical movement in feet; not substituted for native IVB.,spin_movement,True,8.075391858389929e-06,True
+horizontal_movement_avg_change_vs_prev_5,pitch_shape,long_history,Recent horizontal movement change.,spin_movement,True,8.075391858389929e-06,True
+vertical_movement_avg_change_vs_prev_5,pitch_shape,long_history,Recent vertical movement change.,spin_movement,True,8.075391858389929e-06,True
+fastball_usage_pct,pitch_shape,long_history,FF/SI/FC share of physical pitches.,pitch_mix,True,0.0,True
+fastball_usage_pct_change_vs_prev_5,pitch_shape,long_history,Recent fastball mix change.,pitch_mix,True,0.0,True
+sl_usage_pct,pitch_shape,long_history,"Slider share, including true zeros when unused.",pitch_mix,True,0.0,True
+sl_usage_pct_change_vs_prev_5,pitch_shape,long_history,Recent slider usage change.,pitch_mix,True,0.0,True
+ch_usage_pct,pitch_shape,long_history,Changeup usage share.,pitch_mix,True,0.0,True
+cu_usage_pct,pitch_shape,long_history,Curveball usage share.,pitch_mix,True,0.0,True
+zone_pct,command,long_history,Fraction of measured zones inside 1 through 9.,command,True,5.6527743008729496e-05,True
+location_variability,command,long_history,Combined horizontal/vertical location variation.,command,True,0.005144024613794385,True
+strike_pct,command,long_history,Strike-or-contact share.,command,True,0.0,True
+first_pitch_strike_pct,command,long_history,First-pitch strike-or-contact share.,command,True,0.00016150783716779857,True
+zone_pct_change_vs_prev_5,command,long_history,Zone rate deviation from prior outings.,command,True,5.6527743008729496e-05,True
+location_variability_change_vs_prev_5,command,long_history,Recent location variation change.,command,True,0.005144024613794385,True
+walk_rate,command,long_history,Official current walks per batter faced.,command,True,0.0003633926336275468,True
+hbp_rate,command,long_history,Current hit-batter rate.,command,True,0.0,True
+total_pitches,workload,long_history,"Current physical pitch workload, available after the appearance.",workload,True,0.0,True
+innings_pitched,workload,long_history,Current official outs divided by three.,workload,True,0.0,True
+rest_days,workload,long_history,Days without pitching since prior MLB outing.,workload,True,0.009593565527767235,True
+pitches_prev_7d,workload,long_history,Prior seven-day physical workload from official pitch counts.,workload,True,0.011337850169179459,True
+pitches_prev_14d,workload,long_history,Prior two-week workload.,workload,True,0.014471102210234751,True
+pitches_prev_28d,workload,long_history,Prior four-week workload.,workload,True,0.02022078121340838,True
+appearances_prev_14d,workload,long_history,Prior two-week appearance frequency.,workload,True,0.014471102210234751,True
+appearances_prev_28d,workload,long_history,Prior four-week appearance frequency.,workload,True,0.02022078121340838,True
+season_pitch_count,workload,long_history,Year-to-date pitch total through prediction appearance.,workload,True,0.03836618671921055,True
+season_innings,workload,long_history,Year-to-date innings through prediction appearance.,workload,True,0.03836618671921055,True
+previous_season_innings,workload,long_history,"Completed preceding-year innings, never future current-season total.",workload,True,0.12333545985318937,True
+workload_acceleration_7d_vs_21d,workload,long_history,Recent daily pitch load minus previous three-week daily load.,workload,True,0.02022078121340838,True
+acute_chronic_pitch_ratio,workload,long_history,"Seven-day relative to 28-day pitch rate; descriptive exposure, not a causal threshold.",workload,True,0.02022078121340838,True
+starts_prev_30d,workload,long_history,Prior monthly starts.,workload,True,0.020818360210929237,True
+starter_share_prev_5,workload,long_history,Recent role context distinguishes opener/rotation transitions.,workload,True,0.0,True
+age_at_appearance,pitcher_context,long_history,Age on prediction date.,pitcher_history,True,0.0,True
+throws_left,pitcher_context,long_history,"Observed hand from this appearance, NULL if inconsistent or unavailable.",pitcher_history,True,0.00038761880920271655,True
+documented_prior_ucl,pitcher_context,long_history,"Documented procedure before this date; absence means no record, not confirmed no history.",pitcher_history,False,,False
+observed_prior_mlb_starts,pitcher_context,long_history,"Prior observed MLB starts; left-truncated at study start, not full career.",pitcher_history,True,0.0,True
+days_since_mlb_debut,pitcher_context,long_history,"Elapsed days since recorded debut, not future career length.",pitcher_history,True,0.0,True
+release_x_sd_z,release_mechanics,long_history,Existing pitcher-relative release variability for descriptive trajectories; outside the fixed v1 predictor set.,release_mechanics,False,,False
+release_z_sd_z,release_mechanics,long_history,Existing pitcher-relative release variability for descriptive trajectories; outside the fixed v1 predictor set.,release_mechanics,False,,False
+is_starter,pitcher_context,long_history,Official role in the completed prediction outing.,pitcher_history,True,0.0,True
+prior_reported_il_count,pitcher_context,long_history,Count of prior placements reported strictly before this date; not career injuries.,pitcher_history,True,0.0,True
+calendar_month,pitcher_context,long_history,Calendar context available on the prediction date.,pitcher_history,True,0.0,True

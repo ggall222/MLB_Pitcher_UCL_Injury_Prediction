@@ -1,0 +1,64 @@
+category,pls_component,prior_pca_component,training_score_correlation,cohort
+Elbow / UCL,1,1,0.07846965300070181,Same category training risk rows; both axes fitted on training only
+Elbow / UCL,1,2,0.6998558547835059,Same category training risk rows; both axes fitted on training only
+Elbow / UCL,1,3,0.5518240502030025,Same category training risk rows; both axes fitted on training only
+Elbow / UCL,2,1,0.1630310564795301,Same category training risk rows; both axes fitted on training only
+Elbow / UCL,2,2,0.591891878020809,Same category training risk rows; both axes fitted on training only
+Elbow / UCL,2,3,0.1818954992179015,Same category training risk rows; both axes fitted on training only
+Elbow / UCL,3,1,0.6341026609061365,Same category training risk rows; both axes fitted on training only
+Elbow / UCL,3,2,0.3638114990210281,Same category training risk rows; both axes fitted on training only
+Elbow / UCL,3,3,-0.5739327506075016,Same category training risk rows; both axes fitted on training only
+Shoulder,1,1,-0.25272240949577696,Same category training risk rows; both axes fitted on training only
+Shoulder,1,2,0.6020083660436769,Same category training risk rows; both axes fitted on training only
+Shoulder,1,3,0.5241457668132269,Same category training risk rows; both axes fitted on training only
+Shoulder,2,1,-0.46513563993774165,Same category training risk rows; both axes fitted on training only
+Shoulder,2,2,0.5086935962482741,Same category training risk rows; both axes fitted on training only
+Shoulder,2,3,0.22111967470152954,Same category training risk rows; both axes fitted on training only
+Shoulder,3,1,0.8157594942397955,Same category training risk rows; both axes fitted on training only
+Shoulder,3,2,0.05492101869052979,Same category training risk rows; both axes fitted on training only
+Shoulder,3,3,0.3970846800309644,Same category training risk rows; both axes fitted on training only
+Forearm,1,1,-0.5071812593108208,Same category training risk rows; both axes fitted on training only
+Forearm,1,2,-0.2874433236082283,Same category training risk rows; both axes fitted on training only
+Forearm,1,3,-0.43937869607547286,Same category training risk rows; both axes fitted on training only
+Forearm,2,1,0.7856304008741898,Same category training risk rows; both axes fitted on training only
+Forearm,2,2,0.2437719821141299,Same category training risk rows; both axes fitted on training only
+Forearm,2,3,0.19605949839787082,Same category training risk rows; both axes fitted on training only
+Forearm,3,1,-0.5992872417679269,Same category training risk rows; both axes fitted on training only
+Forearm,3,2,0.17745151625369193,Same category training risk rows; both axes fitted on training only
+Forearm,3,3,0.4977423881560124,Same category training risk rows; both axes fitted on training only
+Other arm,1,1,-0.32737517115921244,Same category training risk rows; both axes fitted on training only
+Other arm,1,2,0.030845782793386036,Same category training risk rows; both axes fitted on training only
+Other arm,1,3,-0.5747346439576995,Same category training risk rows; both axes fitted on training only
+Other arm,2,1,0.6811347846101886,Same category training risk rows; both axes fitted on training only
+Other arm,2,2,-0.019354704557642828,Same category training risk rows; both axes fitted on training only
+Other arm,2,3,0.5547142877967148,Same category training risk rows; both axes fitted on training only
+Other arm,3,1,0.7796937075237974,Same category training risk rows; both axes fitted on training only
+Other arm,3,2,0.045647620233721445,Same category training risk rows; both axes fitted on training only
+Other arm,3,3,-0.49919493384373576,Same category training risk rows; both axes fitted on training only
+Trunk / neck,1,1,0.03617471850776655,Same category training risk rows; both axes fitted on training only
+Trunk / neck,1,2,0.7378049154466648,Same category training risk rows; both axes fitted on training only
+Trunk / neck,1,3,0.5127518674823109,Same category training risk rows; both axes fitted on training only
+Trunk / neck,2,1,0.08765105867434388,Same category training risk rows; both axes fitted on training only
+Trunk / neck,2,2,0.5868396908620603,Same category training risk rows; both axes fitted on training only
+Trunk / neck,2,3,0.10693429203650455,Same category training risk rows; both axes fitted on training only
+Trunk / neck,3,1,-0.3715098005914469,Same category training risk rows; both axes fitted on training only
+Trunk / neck,3,2,-0.3957647476152788,Same category training risk rows; both axes fitted on training only
+Trunk / neck,3,3,0.5034303481109819,Same category training risk rows; both axes fitted on training only
+Lower body,1,1,0.10916666322789455,Same category training risk rows; both axes fitted on training only
+Lower body,1,2,0.7547927901004876,Same category training risk rows; both axes fitted on training only
+Lower body,1,3,0.5085771903616934,Same category training risk rows; both axes fitted on training only
+Lower body,2,1,0.235334840874145,Same category training risk rows; both axes fitted on training only
+Lower body,2,2,0.5441090373936422,Same category training risk rows; both axes fitted on training only
+Lower body,2,3,0.04969471174086973,Same category training risk rows; both axes fitted on training only
+Lower body,3,1,0.6192220685793156,Same category training risk rows; both axes fitted on training only
+Lower body,3,2,0.27852766370341603,Same category training risk rows; both axes fitted on training only
+Lower body,3,3,-0.4233767647528528,Same category training risk rows; both axes fitted on training only
+Hand / wrist,1,1,0.3693959400763164,Same category training risk rows; both axes fitted on training only
+Hand / wrist,1,2,0.6037992816800514,Same category training risk rows; both axes fitted on training only
+Hand / wrist,1,3,0.26253174338421975,Same category training risk rows; both axes fitted on training only
+Hand / wrist,2,1,0.6330642149191834,Same category training risk rows; both axes fitted on training only
+Hand / wrist,2,2,0.49076091138519,Same category training risk rows; both axes fitted on training only
+Hand / wrist,2,3,0.11610668392625381,Same category training risk rows; both axes fitted on training only
+Hand / wrist,3,1,0.7371655510115014,Same category training risk rows; both axes fitted on training only
+Hand / wrist,3,2,-0.24880215806489905,Same category training risk rows; both axes fitted on training only
+Hand / wrist,3,3,-0.2406909206294727,Same category training risk rows; both axes fitted on training only

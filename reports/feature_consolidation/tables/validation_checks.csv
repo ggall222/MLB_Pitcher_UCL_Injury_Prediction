@@ -1,0 +1,33 @@
+check,passed,detail
+Database and source signature unchanged,True,"{'database': '/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/mlb_ucl.duckdb', 'database_bytes': 17895796736, 'database_mtime_ns': 1789002299179560729, 'events_sha256': '18d9ae297bd70d0b78178ae45fe731a26f6a459ec9ab65d68d17783c8862f468', 'config_sha256': '096e17f7445f34bf50938f06be973540577a4b9193bfd450c7acf0c8cd3d00b6', 'feature_config_sha256': '5b60e14a805a5e75c4159666edb41764741fe9fa7ac1eb5dce1cf8bc7c871672'}"
+Preceding analyses preserved,True,591 fingerprints; changed=[]
+Interrupted-run checkpoints preserved,True,125 fingerprints; changed=[]
+Complete schema-backed inventory,True,538
+Metadata corrections do not alter selection inputs,True,Only descriptive source/timing fields reconciled
+Pitch-type count provenance differs from official count,True,10
+Separate substantive and support pools,True,333 core; 20 support; 189 correlation representatives
+No outcome or unverified prior surgery predictors,True,Registered predictor allowlist plus existing cohort context
+Unique appearance grain,True,135606
+Chronological partitions,True,Original cohort rows and 60-day embargo reused
+Strictly prior history_max_date,True,No current-day/future history
+Strictly prior baseline_max_date,True,No current-day/future history
+Strictly prior workload_max_date,True,No current-day/future history
+Correlations use training-only capped sample,True,13427
+pearson matrix integrity,True,"(353, 353)"
+spearman matrix integrity,True,"(353, 353)"
+coobserved_counts matrix integrity,True,"(353, 353)"
+Canonical pair aggregation preserves all correlations,True,62023
+Complete Elastic Net grid,True,6
+Sixteen complete whole-pitcher refits,True,5328
+"All fitted models finite, converged and train-only",True,130 models; failures=[]
+Candidate decision reproduced without test data,True,Departure only
+Frozen feature list and model unchanged,True,"['velo_z', 'release_x_z', 'release_z_z', 'release_x_sd_z', 'release_z_sd_z', 'extension_z', 'spin_z', 'zone_pct_z']"
+Frozen decision tables unchanged,True,[]
+Freeze predates new test-score artifact,True,Previously examined test period; not independent confirmation
+Reproduced frozen test scores,True,Training transform only
+Reproduced frozen validation scores,True,Training transform only
+All CSV outputs readable,True,52
+Six PNG/PDF figures,True,12
+Three executed notebooks without errors,True,3 notebooks; 13 executed code cells
+Full repository test suite passes,True,165 passed (147 preceding + 18 new)
+No unfinished partial outputs,True,[]

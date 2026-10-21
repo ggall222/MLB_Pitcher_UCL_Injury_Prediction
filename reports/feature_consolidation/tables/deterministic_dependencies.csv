@@ -1,0 +1,64 @@
+feature,source_features,formula,training_coobserved_rows,max_absolute_error,verified_exact,note
+innings_pitched,outs_recorded,outs_recorded / 3,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+location_variability,plate_x_sd;plate_z_sd,sqrt(plate_x_sd² + plate_z_sd²),80722,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+velo_drop_game,last_n_fb_velo;first_n_fb_velo,last_n_fb_velo − first_n_fb_velo,16162,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+pitch_count_difference,total_pitches;pitch_count,total_pitches − pitch_count,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+ff_usage_pct,ff_pitch_count;total_pitches,ff_pitch_count / total_pitches,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+si_usage_pct,si_pitch_count;total_pitches,si_pitch_count / total_pitches,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+fc_usage_pct,fc_pitch_count;total_pitches,fc_pitch_count / total_pitches,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+sl_usage_pct,sl_pitch_count;total_pitches,sl_pitch_count / total_pitches,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+st_usage_pct,st_pitch_count;total_pitches,st_pitch_count / total_pitches,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+cu_usage_pct,cu_pitch_count;total_pitches,cu_pitch_count / total_pitches,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+kc_usage_pct,kc_pitch_count;total_pitches,kc_pitch_count / total_pitches,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+ch_usage_pct,ch_pitch_count;total_pitches,ch_pitch_count / total_pitches,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+fs_usage_pct,fs_pitch_count;total_pitches,fs_pitch_count / total_pitches,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+sv_usage_pct,sv_pitch_count;total_pitches,sv_pitch_count / total_pitches,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+fastball_usage_pct,fastball_count;total_pitches,fastball_count / total_pitches,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+fastball_count,ff_pitch_count;si_pitch_count;fc_pitch_count,ff_pitch_count + si_pitch_count + fc_pitch_count,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+pitches_7d,pitches_prev_7d;pitch_count,pitches_prev_7d + pitch_count,80050,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+innings_7d,innings_prev_7d;innings_pitched,innings_prev_7d + innings_pitched,80050,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+appearances_7d,appearances_prev_7d,appearances_prev_7d + 1,80050,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+pitches_14d,pitches_prev_14d;pitch_count,pitches_prev_14d + pitch_count,79811,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+innings_14d,innings_prev_14d;innings_pitched,innings_prev_14d + innings_pitched,79811,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+appearances_14d,appearances_prev_14d,appearances_prev_14d + 1,79811,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+pitches_28d,pitches_prev_28d;pitch_count,pitches_prev_28d + pitch_count,79416,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+innings_28d,innings_prev_28d;innings_pitched,innings_prev_28d + innings_pitched,79416,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+appearances_28d,appearances_prev_28d,appearances_prev_28d + 1,79416,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+workload_acceleration_7d_vs_21d,pitches_prev_7d;pitches_prev_28d,prior7/7 − (prior28−prior7)/21,79416,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+acute_chronic_pitch_ratio,pitches_7d;pitches_28d,4 × pitches_7d / pitches_28d,79416,8.881784197001252e-16,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+fb_velo_change_vs_prev_5,avg_fb_velo;avg_fb_velo_prev_5,avg_fb_velo − avg_fb_velo_prev_5,80608,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+release_x_change_vs_prev_5,release_x_avg;release_x_avg_prev_5,release_x_avg − release_x_avg_prev_5,81139,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+release_z_change_vs_prev_5,release_z_avg;release_z_avg_prev_5,release_z_avg − release_z_avg_prev_5,81139,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+release_x_sd_change_vs_prev_5,release_x_sd;release_x_sd_prev_5,release_x_sd − release_x_sd_prev_5,80722,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+release_z_sd_change_vs_prev_5,release_z_sd;release_z_sd_prev_5,release_z_sd − release_z_sd_prev_5,80722,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+extension_change_vs_prev_5,extension_avg;extension_avg_prev_5,extension_avg − extension_avg_prev_5,81020,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+arm_angle_change_vs_prev_5,arm_angle_avg;arm_angle_avg_prev_5,arm_angle_avg − arm_angle_avg_prev_5,14028,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+spin_change_vs_prev_5,spin_avg;spin_avg_prev_5,spin_avg − spin_avg_prev_5,80979,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+zone_pct_change_vs_prev_5,zone_pct;zone_pct_prev_5,zone_pct − zone_pct_prev_5,81139,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+fb_velo_change_vs_prev_3,avg_fb_velo;avg_fb_velo_prev_3,avg_fb_velo − avg_fb_velo_prev_3,80517,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+fb_velo_sd_change_vs_prev_5,fb_velo_sd;fb_velo_sd_prev_5,fb_velo_sd − fb_velo_sd_prev_5,79186,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+horizontal_movement_avg_change_vs_prev_5,horizontal_movement_avg;horizontal_movement_avg_prev_5,horizontal_movement_avg − horizontal_movement_avg_prev_5,81144,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+vertical_movement_avg_change_vs_prev_5,vertical_movement_avg;vertical_movement_avg_prev_5,vertical_movement_avg − vertical_movement_avg_prev_5,81144,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+location_variability_change_vs_prev_5,location_variability;location_variability_prev_5,location_variability − location_variability_prev_5,80722,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+strike_pct_change_vs_prev_5,strike_pct;strike_pct_prev_5,strike_pct − strike_pct_prev_5,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+first_pitch_strike_pct_change_vs_prev_5,first_pitch_strike_pct;first_pitch_strike_pct_prev_5,first_pitch_strike_pct − first_pitch_strike_pct_prev_5,81131,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+fastball_usage_pct_change_vs_prev_5,fastball_usage_pct;fastball_usage_pct_prev_5,fastball_usage_pct − fastball_usage_pct_prev_5,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+ff_usage_pct_change_vs_prev_5,ff_usage_pct;ff_usage_pct_prev_5,ff_usage_pct − ff_usage_pct_prev_5,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+si_usage_pct_change_vs_prev_5,si_usage_pct;si_usage_pct_prev_5,si_usage_pct − si_usage_pct_prev_5,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+fc_usage_pct_change_vs_prev_5,fc_usage_pct;fc_usage_pct_prev_5,fc_usage_pct − fc_usage_pct_prev_5,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+sl_usage_pct_change_vs_prev_5,sl_usage_pct;sl_usage_pct_prev_5,sl_usage_pct − sl_usage_pct_prev_5,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+st_usage_pct_change_vs_prev_5,st_usage_pct;st_usage_pct_prev_5,st_usage_pct − st_usage_pct_prev_5,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+cu_usage_pct_change_vs_prev_5,cu_usage_pct;cu_usage_pct_prev_5,cu_usage_pct − cu_usage_pct_prev_5,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+kc_usage_pct_change_vs_prev_5,kc_usage_pct;kc_usage_pct_prev_5,kc_usage_pct − kc_usage_pct_prev_5,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+ch_usage_pct_change_vs_prev_5,ch_usage_pct;ch_usage_pct_prev_5,ch_usage_pct − ch_usage_pct_prev_5,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+fs_usage_pct_change_vs_prev_5,fs_usage_pct;fs_usage_pct_prev_5,fs_usage_pct − fs_usage_pct_prev_5,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+sv_usage_pct_change_vs_prev_5,sv_usage_pct;sv_usage_pct_prev_5,sv_usage_pct − sv_usage_pct_prev_5,81145,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+velo_z,avg_fb_velo;avg_fb_velo_baseline_mean;avg_fb_velo_baseline_sd,(avg_fb_velo − avg_fb_velo_baseline_mean) / avg_fb_velo_baseline_sd,80587,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+release_x_z,release_x_avg;release_x_avg_baseline_mean;release_x_avg_baseline_sd,(release_x_avg − release_x_avg_baseline_mean) / release_x_avg_baseline_sd,81132,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+release_z_z,release_z_avg;release_z_avg_baseline_mean;release_z_avg_baseline_sd,(release_z_avg − release_z_avg_baseline_mean) / release_z_avg_baseline_sd,81132,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+release_x_sd_z,release_x_sd;release_x_sd_baseline_mean;release_x_sd_baseline_sd,(release_x_sd − release_x_sd_baseline_mean) / release_x_sd_baseline_sd,80696,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+release_z_sd_z,release_z_sd;release_z_sd_baseline_mean;release_z_sd_baseline_sd,(release_z_sd − release_z_sd_baseline_mean) / release_z_sd_baseline_sd,80696,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+extension_z,extension_avg;extension_avg_baseline_mean;extension_avg_baseline_sd,(extension_avg − extension_avg_baseline_mean) / extension_avg_baseline_sd,80965,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+arm_angle_z,arm_angle_avg;arm_angle_avg_baseline_mean;arm_angle_avg_baseline_sd,(arm_angle_avg − arm_angle_avg_baseline_mean) / arm_angle_avg_baseline_sd,12928,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+spin_z,spin_avg;spin_avg_baseline_mean;spin_avg_baseline_sd,(spin_avg − spin_avg_baseline_mean) / spin_avg_baseline_sd,80922,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.
+zone_pct_z,zone_pct;zone_pct_baseline_mean;zone_pct_baseline_sd,(zone_pct − zone_pct_baseline_mean) / zone_pct_baseline_sd,81132,0.0,True,Algebraic redundancy is conditional on source co-availability; missingness can differ.

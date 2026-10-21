@@ -1,0 +1,14 @@
+metric,count
+total_ucl_procedure_records,2822
+matched_mlbam_records,2801
+records_with_statcast_history,1045
+records_with_surgery_in_study_period,1600
+records_involving_pitchers_with_mlb_starts,602
+qualifying_unique_starter_events,167
+unique_injured_starters,161
+repeat_procedures,213
+internal_brace_procedures,77
+tommy_john_reconstruction_procedures,2745
+uncertain_surgery_dates,1404
+unconfirmed_or_out_of_scope_procedures,5
+surgery_only_events_unknown_onset,2566

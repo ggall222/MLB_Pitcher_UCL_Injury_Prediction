@@ -1,0 +1,52 @@
+initial_injury_structure,episodes,target_eligible
+AC joint,5,5
+ACL,11,10
+Achilles,15,9
+Adductor,20,17
+Biceps,95,82
+Cervical spine,14,12
+Clavicle,1,1
+Costochondral cartilage,1,1
+Deltoid,1,0
+Epicondyle,3,3
+Fibula,5,3
+Flexor (unspecified),92,60
+Flexor (unspecified); Hip flexor,5,0
+Flexor tendon,7,4
+Flexor-pronator mass,6,2
+Hamate,1,1
+Hamstring,174,161
+Intercostal,42,36
+Intercostal; Costochondral cartilage,1,1
+Labrum,7,3
+Latissimus,125,98
+Lumbar spine,27,24
+MCL,6,5
+Meniscus,11,10
+Metacarpal,2,2
+Metatarsal,2,1
+Oblique,194,173
+Olecranon,1,0
+Patella,22,15
+Pectoral,26,0
+Plantar fascia,8,7
+Pronator,8,7
+Quadriceps,16,0
+Radius,2,1
+Rhomboid,4,4
+Rotator Cuff,57,56
+Rotator Cuff; Latissimus,1,0
+Sacroiliac joint,2,2
+Scapula,6,6
+Sternoclavicular joint,4,4
+Teres major,16,14
+Thoracic spine,5,5
+Tibia,3,2
+Trapezius,8,5
+Triceps,71,64
+UCL,260,58
+UCL; Labrum,1,0
+Ulna,1,1
+Ulnar nerve,23,21
+Ulnar nerve; AC joint,1,0
+,3962,2556

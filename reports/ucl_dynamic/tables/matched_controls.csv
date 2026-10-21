@@ -1,0 +1,43 @@
+event_id,pitcher_id,player_name,control_pitcher_id,case_anchor,control_anchor,case_outings,control_outings,origin
+c3db3b49bf107cb0ee0ecbb4042dab32,448281,Sean Doolittle,445926,2022-04-20,2022-04-20,6,3,reused original matched control
+233c8830584db96a709ddfdb427a1bff,656887,Sean Reid-Foley,663423,2022-05-01,2022-04-28,7,6,reused original matched control
+dafa10ed89d3cf696b69a68ac6adc2d2,663978,Chris Paddack,668678,2022-05-09,2022-05-09,5,5,reused original matched control
+00063184096cfacffd696681ef4d4744,528748,Humberto Castellanos,666201,2022-06-01,2022-05-04,11,5,reused original matched control
+d97c89079432e061f19be26106ea299e,621111,Walker Buehler,592789,2022-06-11,2022-06-21,11,9,new same-strata match
+e4eec2cb47485f3540f6cd1613d2592f,663432,Tanner Rainey,592858,2022-07-13,2022-07-12,20,24,reused original matched control
+fae28b12535c521d62c9956ae54987a5,669622,Anthony Bender,665665,2022-08-14,2022-08-06,6,19,reused original matched control
+7261018d2abf8bb2c7ce4e3f9d102d38,656818,Connor Overton,686610,2023-04-15,2023-04-13,3,3,reused original matched control
+445cddddcb2b7cbfb00effa84297ef8a,594798,Jacob deGrom,527048,2023-04-29,2023-04-20,6,4,new same-strata match
+f93de3fa6de096118fc03445d6b62293,650671,José Quijada,641401,2023-04-29,2023-04-06,10,3,reused original matched control
+e16811ce0f58d06ec45cdd4bef35022d,641816,Tyler Mahle,621244,2023-04-30,2023-04-28,5,5,new same-strata match
+07b37d14536faba796273866c7823305,677651,Luis Garcia,676664,2023-05-02,2023-05-04,6,6,new same-strata match
+dfe8a42b574749e33f1ce90ef8e06051,665665,Reiver Sanmartin,663558,2023-05-08,2023-05-05,14,11,reused original matched control
+aecc78a67612cc72750dbfc5f3a42594,656876,Drew Rasmussen,656605,2023-05-12,2023-05-21,8,10,new same-strata match
+b8c709ba2285198a20ea9de37551445f,669160,Dustin May,666129,2023-05-18,2023-05-09,9,7,new same-strata match
+104ec2ec6d39949f07e6e9ab9fe853fa,571510,Matthew Boyd,605135,2023-06-27,2023-06-19,11,11,new same-strata match
+13b42bbc3fa91953acb32506b1d86c3b,686753,Drey Jameson,686747,2023-07-07,2023-07-23,9,5,reused original matched control
+9e0f3604336fedc6fbd3e26da3ecc461,663556,Shane McClanahan,680694,2023-08-03,2023-08-02,4,11,new same-strata match
+a4df2b6fb9f2538b0c1f9b89db21e252,664062,Tony Gonsolin,641540,2023-08-19,2023-08-03,10,11,new same-strata match
+8c945a320728dd144f1dccaa07472b52,642585,Félix Bautista,663986,2023-08-26,2023-08-03,21,22,new same-strata match
+06ab6aca113a8078ed101cc4664baa1f,669330,Tyler Wells,666142,2024-04-13,2024-05-01,3,7,reused original matched control
+4e35d008d818c716f6c904ea6cf604d6,548384,Brooks Raley,543339,2024-04-21,2024-04-27,8,12,reused original matched control
+63b504671b5bd0278dc35450a8ee587b,664299,Cristian Javier,669060,2024-05-24,2024-05-09,3,10,new same-strata match
+39f304aeee476d941c2590f5a0e48774,666201,Alek Manoah,669302,2024-05-30,2024-05-15,5,9,reused original matched control
+35c60394c60b37b21166db644c288d26,680694,Kyle Bradish,682847,2024-06-15,2024-06-27,7,14,reused original matched control
+1fecdd098b466441252231540450b46e,663776,Patrick Sandoval,669203,2024-06-22,2024-06-17,11,11,new same-strata match
+51b0eabf370cd3e90d0957b004db5d4d,681035,Christian Scott,681869,2024-07-22,2024-07-06,4,10,reused original matched control
+c38ae6918286127e87e7864b2b5f4508,608678,Dominic Leone,628452,2024-08-15,2024-08-02,5,19,new same-strata match
+19b0aeae3071dec41d8626b5e1537726,657006,Justin Steele,656302,2025-04-08,2025-04-27,4,6,new same-strata match
+6a0505e212c3e69b7881b72dbe2c13ed,640462,A.J. Puk,650556,2025-04-18,2025-04-14,8,7,reused original matched control
+0cb9a4054a059bd70cffce4d8b58d3cf,664849,Danny Young,702352,2025-04-27,2025-05-01,10,9,reused original matched control
+730411f974b93dc44455e61b676bbf25,669713,Hayden Wesneski,693433,2025-05-07,2025-05-14,6,8,reused original matched control
+9eb6950d50c16fb09e52de3d8af4306d,623465,Evan Phillips,664854,2025-05-07,2025-05-25,7,17,new same-strata match
+23e84322663732d5a87049897b07b3fd,594902,Ben Lively,607067,2025-05-13,2025-05-02,9,7,new same-strata match
+fe0b62e00b79f9129228ca8c0aea16d7,700363,AJ Smith-Shawver,686799,2025-05-29,2025-05-11,8,7,reused original matched control
+223ecfdd6544d6142bf28095bae4230a,695549,Jackson Jobe,687134,2025-05-29,2025-05-11,7,5,new same-strata match
+1f0047d6395ccaad6d180c7adc8c2a68,669203,Corbin Burnes,571510,2025-06-02,2025-06-05,10,10,new same-strata match
+e27e13fce8d41eb795ba9670d008fb45,679885,Justin Martinez,672456,2025-06-10,2025-06-20,5,10,reused original matched control
+c4b8b0cebc1352240df5a25495c97433,673380,Dedniel Núñez,669684,2025-07-03,2025-07-23,10,7,reused original matched control
+177fdf3fc7fca97cb6d1255c541b67d3,592866,Trevor Williams,605280,2025-07-04,2025-07-10,10,10,new same-strata match
+4fa1889382bc97df3e62baf8e0dbaa33,657376,Clarke Schmidt,677944,2025-07-04,2025-07-29,11,11,new same-strata match
+f407494e866846aeba34a3c904e22f92,687888,Brandon Walter,676467,2025-07-24,2025-07-28,8,8,reused original matched control

@@ -1,0 +1,71 @@
+category,variant,source_features,missingness_indicators,retained_components,unrotated_columns,design_dimensions,retained_variance
+Elbow / UCL,Original 62,62,45,0,107,107,1.0
+Elbow / UCL,Workload + history,22,13,0,35,35,1.0
+Elbow / UCL,PCA 5,62,45,5,47,52,0.36472697541476873
+Elbow / UCL,PCA 10,62,45,10,47,57,0.5430456077974427
+Elbow / UCL,PCA 20,62,45,20,47,67,0.7630337590477121
+Elbow / UCL,PCA 90%,62,45,30,47,77,0.9002132575683213
+Elbow / UCL,Full-rank PCA control,62,45,60,47,107,1.0
+Elbow / UCL,WH + Statcast PCA 10,62,45,10,67,77,0.5845211197450952
+Elbow / UCL,WH + Statcast PCA 90%,62,45,23,67,90,0.9021289472055258
+Elbow / UCL,Role/hand + missingness,62,45,0,47,47,0.0
+Shoulder,Original 62,62,45,0,107,107,1.0
+Shoulder,Workload + history,22,13,0,35,35,1.0
+Shoulder,PCA 5,62,45,5,47,52,0.36470131194072
+Shoulder,PCA 10,62,45,10,47,57,0.5429567368139595
+Shoulder,PCA 20,62,45,20,47,67,0.7631153012545896
+Shoulder,PCA 90%,62,45,30,47,77,0.9002932032812013
+Shoulder,Full-rank PCA control,62,45,60,47,107,1.0
+Shoulder,WH + Statcast PCA 10,62,45,10,67,77,0.5845393437533173
+Shoulder,WH + Statcast PCA 90%,62,45,23,67,90,0.9022022372007783
+Shoulder,Role/hand + missingness,62,45,0,47,47,0.0
+Forearm,Original 62,62,45,0,107,107,1.0
+Forearm,Workload + history,22,13,0,35,35,1.0
+Forearm,PCA 5,62,45,5,47,52,0.3647285079686591
+Forearm,PCA 10,62,45,10,47,57,0.5429575250387979
+Forearm,PCA 20,62,45,20,47,67,0.7630085422070016
+Forearm,PCA 90%,62,45,30,47,77,0.9002309822023326
+Forearm,Full-rank PCA control,62,45,60,47,107,1.0
+Forearm,WH + Statcast PCA 10,62,45,10,67,77,0.5843772489788358
+Forearm,WH + Statcast PCA 90%,62,45,23,67,90,0.9020432214806382
+Forearm,Role/hand + missingness,62,45,0,47,47,0.0
+Other arm,Original 62,62,45,0,107,107,1.0
+Other arm,Workload + history,22,13,0,35,35,1.0
+Other arm,PCA 5,62,45,5,47,52,0.3646777205847921
+Other arm,PCA 10,62,45,10,47,57,0.5430316638276788
+Other arm,PCA 20,62,45,20,47,67,0.7630719601797432
+Other arm,PCA 90%,62,45,30,47,77,0.9002188615734775
+Other arm,Full-rank PCA control,62,45,60,47,107,0.9999999999999999
+Other arm,WH + Statcast PCA 10,62,45,10,67,77,0.5844063325369185
+Other arm,WH + Statcast PCA 90%,62,45,23,67,90,0.9021138198341976
+Other arm,Role/hand + missingness,62,45,0,47,47,0.0
+Trunk / neck,Original 62,62,45,0,107,107,1.0
+Trunk / neck,Workload + history,22,13,0,35,35,1.0
+Trunk / neck,PCA 5,62,45,5,47,52,0.3648562603661945
+Trunk / neck,PCA 10,62,45,10,47,57,0.5431630162162266
+Trunk / neck,PCA 20,62,45,20,47,67,0.7630479360490805
+Trunk / neck,PCA 90%,62,45,30,47,77,0.9001702084339055
+Trunk / neck,Full-rank PCA control,62,45,60,47,107,1.0
+Trunk / neck,WH + Statcast PCA 10,62,45,10,67,77,0.584453887650164
+Trunk / neck,WH + Statcast PCA 90%,62,45,23,67,90,0.9019245680154185
+Trunk / neck,Role/hand + missingness,62,45,0,47,47,0.0
+Lower body,Original 62,62,45,0,107,107,1.0
+Lower body,Workload + history,22,13,0,35,35,1.0
+Lower body,PCA 5,62,45,5,47,52,0.36466883609561795
+Lower body,PCA 10,62,45,10,47,57,0.543101587943323
+Lower body,PCA 20,62,45,20,47,67,0.7629805494929253
+Lower body,PCA 90%,62,45,30,47,77,0.9000976670335321
+Lower body,Full-rank PCA control,62,45,60,47,107,0.9999999999999998
+Lower body,WH + Statcast PCA 10,62,45,10,67,77,0.584549939059342
+Lower body,WH + Statcast PCA 90%,62,45,23,67,90,0.9019778737629088
+Lower body,Role/hand + missingness,62,45,0,47,47,0.0
+Hand / wrist,Original 62,62,45,0,107,107,1.0
+Hand / wrist,Workload + history,22,13,0,35,35,1.0
+Hand / wrist,PCA 5,62,45,5,47,52,0.3646610267131128
+Hand / wrist,PCA 10,62,45,10,47,57,0.5429943794130478
+Hand / wrist,PCA 20,62,45,20,47,67,0.7630014170343689
+Hand / wrist,PCA 90%,62,45,30,47,77,0.9002162305018313
+Hand / wrist,Full-rank PCA control,62,45,60,47,107,1.0
+Hand / wrist,WH + Statcast PCA 10,62,45,10,67,77,0.5844470927760941
+Hand / wrist,WH + Statcast PCA 90%,62,45,23,67,90,0.9020433610642552
+Hand / wrist,Role/hand + missingness,62,45,0,47,47,0.0

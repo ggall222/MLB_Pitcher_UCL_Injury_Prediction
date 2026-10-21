@@ -1,0 +1,16 @@
+{
+  "source": {
+    "database": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/mlb_ucl.duckdb",
+    "database_bytes": 17895796736,
+    "database_mtime_ns": 1789002299179560729,
+    "events_sha256": "18d9ae297bd70d0b78178ae45fe731a26f6a459ec9ab65d68d17783c8862f468",
+    "config_sha256": "096e17f7445f34bf50938f06be973540577a4b9193bfd450c7acf0c8cd3d00b6",
+    "feature_config_sha256": "5b60e14a805a5e75c4159666edb41764741fe9fa7ac1eb5dce1cf8bc7c871672"
+  },
+  "config_sha256": "1071bd2c57407ddb524240679277a2f4e2fd4a8eeb2d72808cf603a8a7390356",
+  "files": {
+    "data/injury/analysis/ucl_dynamic/adjudicated_events.parquet": "82bc3f371182003d6ac92ea9214b87b088dc4717bba71e112ecf1913eedb4319",
+    "reports/ucl_dynamic/tables/ucl_endpoint_adjudication.csv": "5d4736d266949f8fca521dd7c33cac1bc2873909c724ac0beccbe52a1a3775b2",
+    "reports/ucl_dynamic/tables/ucl_evidence_links.csv": "884cbbd1d40d3f785d457e057f3558ca9cbfc7f1ee986f7988d2a8a059c2678d"
+  }
+}

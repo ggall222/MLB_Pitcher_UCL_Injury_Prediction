@@ -1,0 +1,7 @@
+figure,question,result,interpretation
+01_within_family_redundancy,Which measured representations repeat information?,981 high pairs; 189 clusters; temporal roles separately protected.,Redundancy does not establish exchangeability.
+02_cross_family_redundancy,Do group names hide shared information?,93 high-correlation cross-family pairs.,"Context, role and coverage can duplicate measured signal."
+03_family_ablation_and_permutation,Which families contribute beyond the rest?,Extension has the clearest but narrow unadjusted ablation interval; permutation reliance is broader.,"Exploratory, correlated and model-dependent evidence."
+04_selection_and_sign_stability,Which coefficients survive different training pitchers?,47 fields meet ≥90% selection and sign-agreement thresholds across 16 refits.,Stable coefficients need not imply incremental value.
+05_reduction_performance,Can a smaller set preserve ranking and advance warnings?,8 fields selected; validation AP 0.02673; 20/120 warned.,Validation-selected development candidate; no equivalence claim.
+06_coverage_sensitivity,Does support explain apparent gains?,Separate explicit support fields from automatic missingness indicators; compare paired AP and warnings.,"Availability may proxy role, experience and era; not physiology."

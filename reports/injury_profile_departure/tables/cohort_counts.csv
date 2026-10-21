@@ -1,0 +1,22 @@
+category,partition,rows,positive_rows,events,run
+Elbow / UCL,train,81145,1441,223,True
+Elbow / UCL,validation,26796,600,89,True
+Elbow / UCL,test,27665,708,110,True
+Shoulder,train,81978,2274,350,True
+Shoulder,validation,26932,736,115,True
+Shoulder,test,27806,849,125,True
+Forearm,train,80362,658,109,True
+Forearm,validation,26478,282,41,True
+Forearm,test,27236,279,38,True
+Other arm,train,80373,669,107,True
+Other arm,validation,26423,227,33,True
+Other arm,test,27216,259,38,True
+Trunk / neck,train,81519,1815,272,True
+Trunk / neck,validation,26876,680,103,True
+Trunk / neck,test,27408,451,65,True
+Lower body,train,82046,2342,361,True
+Lower body,validation,27089,893,130,True
+Lower body,test,27593,636,104,True
+Hand / wrist,train,80371,667,107,True
+Hand / wrist,validation,26371,175,32,True
+Hand / wrist,test,27129,172,29,True

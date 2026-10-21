@@ -1,0 +1,8 @@
+Installed kernelspec mlb-ucl-analysis in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/share/jupyter/kernels/mlb-ucl-analysis
+EXECUTING 01_feature_space_and_components.ipynb
+{"name": "01_feature_space_and_components.ipynb", "success": true, "seconds": 13.07, "code_cells": 5, "executed_cells": 5, "errors": 0, "sha256": "8ae23057cc3a5c0cd06596fa9683f1fd31084226d4803e94065ad0cc4e174f6b"}
+EXECUTING 02_latent_profiles_and_preinjury_change.ipynb
+{"name": "02_latent_profiles_and_preinjury_change.ipynb", "success": true, "seconds": 13.41, "code_cells": 4, "executed_cells": 4, "errors": 0, "sha256": "8dad5aa2ac66ba1c7bb54557891eb80c4f782602d3ca979cae3a0a0e5c137fdd"}
+EXECUTING 03_reduced_models_and_stability.ipynb
+{"name": "03_reduced_models_and_stability.ipynb", "success": true, "seconds": 343.39, "code_cells": 5, "executed_cells": 5, "errors": 0, "sha256": "b1964a4f3c4c8b2c2e780b2b74d2416f0fe2971726c8d10af447de641da2cf78"}
+Executed 3 notebooks; sources unchanged. Manifest: /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/reports/injury_dimensionality_reduction/notebook_execution.json

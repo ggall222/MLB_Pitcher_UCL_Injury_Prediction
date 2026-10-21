@@ -1,0 +1,22 @@
+Fit candidate_03: 13 fields, 22 columns, 0.1s
+Fit candidate_04: 8 fields, 16 columns, 0.1s
+Fit candidate_05: 21 fields, 38 columns, 0.2s
+Fit candidate_07: 213 fields, 374 columns, 5.7s
+Fit candidate_08: 62 fields, 104 columns, 1.2s
+Fit candidate_09: 128 fields, 223 columns, 2.9s
+Fit candidate_10: 173 fields, 299 columns, 5.0s
+Fit candidate_11: 183 fields, 314 columns, 4.6s
+Candidate: Departure only; 8 fields. Selected on validation only.
+Fit conditional_drop_000: 7 fields, 14 columns, 0.1s
+Fit conditional_drop_001: 7 fields, 14 columns, 0.1s
+Fit conditional_drop_002: 7 fields, 14 columns, 0.1s
+Fit conditional_drop_003: 7 fields, 14 columns, 0.1s
+Fit conditional_drop_004: 7 fields, 14 columns, 0.1s
+Fit conditional_drop_005: 7 fields, 14 columns, 0.1s
+Fit conditional_drop_006: 7 fields, 14 columns, 0.1s
+Fit conditional_drop_007: 7 fields, 14 columns, 0.1s
+Fit coverage_0: 8 fields, 8 columns, 0.1s
+Fit coverage_2: 28 fields, 28 columns, 0.4s
+Fit coverage_3: 28 fields, 36 columns, 0.4s
+Fit coverage_4: 20 fields, 20 columns, 0.3s
+Frozen 8 features before test transfer evaluation.

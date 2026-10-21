@@ -1,0 +1,56 @@
+{
+  "source_signature": {
+    "database": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/mlb_ucl.duckdb",
+    "database_bytes": 17895796736,
+    "database_mtime_ns": 1789002299179560729,
+    "events_sha256": "18d9ae297bd70d0b78178ae45fe731a26f6a459ec9ab65d68d17783c8862f468",
+    "config_sha256": "096e17f7445f34bf50938f06be973540577a4b9193bfd450c7acf0c8cd3d00b6",
+    "feature_config_sha256": "5b60e14a805a5e75c4159666edb41764741fe9fa7ac1eb5dce1cf8bc7c871672"
+  },
+  "config": {
+    "seed": 20260919,
+    "output_path": "reports/injury_profile_departure",
+    "cache_path": "data/injury/analysis/profile_departure",
+    "horizon_days": 30,
+    "minimum_warning_days": 7,
+    "logistic_tolerance": 1e-09,
+    "bootstrap_replicates": 300,
+    "training_refits": 12,
+    "calibration_bins": 10,
+    "focus_categories": [
+      "Elbow / UCL",
+      "Shoulder",
+      "Forearm",
+      "Lower body"
+    ],
+    "profile_context": [
+      "age_at_appearance",
+      "throws_left",
+      "observed_prior_mlb_starts",
+      "days_since_mlb_debut",
+      "prior_reported_il_count"
+    ],
+    "prior_slopes": [
+      "fb_velo_slope_prev_5",
+      "release_x_slope_prev_5",
+      "release_z_slope_prev_5",
+      "release_x_sd_slope_prev_5",
+      "release_z_sd_slope_prev_5",
+      "extension_slope_prev_5",
+      "spin_slope_prev_5",
+      "zone_pct_slope_prev_5"
+    ]
+  },
+  "config_sha256": "75d5156fd582bdf4a465f4e964eb89c8c9a43ac419e7c7516b1404a6403c6579",
+  "original_cohort_sha256": "35cf22761f8ec21dc8e662522e78b4f650bef898fbf90ad607337b852ee20b70",
+  "matching_sha256": "90974f2809f5cfa5b719b62b95b57456aa143cb41273a7096fdabe2ba1f01261",
+  "code_sha256": {
+    "src/injury_analysis/profile_departure.py": "cb6d8d1d33d3860f01a5f1424e211695fd0f5077790c405fe4f41be589f60155",
+    "src/injury_analysis/profile_scores.py": "2cdfca313cff8262977a1e11813d49ba3179ccfeb35956522d6bdcef72dd6719",
+    "src/injury_analysis/profile_report.py": "a5ee940c9cf8f2796370428a6e6fe98e8222224e74ae04a69f8bcdb328c79ab6",
+    "src/injury_analysis/profile_workflow.py": "98ef0b934f0ed909108812de7450892230c30a176541b028981427c4e45eb2af",
+    "src/injury_analysis/profile_robustness.py": "4e66a9b8e2ac967805e61dc9be25c524f2961b611e15ae022e7a676975a30d6d",
+    "src/injury_analysis/profile_plots.py": "4a1ff2853f86917938e850229e9e8bfd04fc264cf7227dbe1ac10fc1cd71c6f5"
+  },
+  "test_status": "Previously examined 2024\u20132025; exploratory temporal comparisons, not new confirmation."
+}

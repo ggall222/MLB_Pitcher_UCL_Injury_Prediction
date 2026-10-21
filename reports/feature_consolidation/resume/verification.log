@@ -1,0 +1,33 @@
+PASS Database and source signature unchanged
+PASS Preceding analyses preserved
+PASS Interrupted-run checkpoints preserved
+PASS Complete schema-backed inventory
+PASS Metadata corrections do not alter selection inputs
+PASS Pitch-type count provenance differs from official count
+PASS Separate substantive and support pools
+PASS No outcome or unverified prior surgery predictors
+PASS Unique appearance grain
+PASS Chronological partitions
+PASS Strictly prior history_max_date
+PASS Strictly prior baseline_max_date
+PASS Strictly prior workload_max_date
+PASS Correlations use training-only capped sample
+PASS pearson matrix integrity
+PASS spearman matrix integrity
+PASS coobserved_counts matrix integrity
+PASS Canonical pair aggregation preserves all correlations
+PASS Complete Elastic Net grid
+PASS Sixteen complete whole-pitcher refits
+PASS All fitted models finite, converged and train-only
+PASS Candidate decision reproduced without test data
+PASS Frozen feature list and model unchanged
+PASS Frozen decision tables unchanged
+PASS Freeze predates new test-score artifact
+PASS Reproduced frozen test scores
+PASS Reproduced frozen validation scores
+PASS All CSV outputs readable
+PASS Six PNG/PDF figures
+PASS Three executed notebooks without errors
+PASS Full repository test suite passes
+PASS No unfinished partial outputs
+{"checked_at": "2026-10-12T04:10:39.953077+00:00", "checks": 32, "passed": 32, "models": 130, "tables": 52, "figures": 12, "notebooks": 3, "tests": 165, "source_unchanged": true}

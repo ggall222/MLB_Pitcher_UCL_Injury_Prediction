@@ -1,0 +1,22 @@
+category,partition,rows,events,positives,predictors,run
+Elbow / UCL,train,81145,223,1441,62,True
+Elbow / UCL,validation,26796,89,600,62,True
+Elbow / UCL,test,27665,110,708,62,True
+Shoulder,train,81978,350,2274,62,True
+Shoulder,validation,26932,115,736,62,True
+Shoulder,test,27806,125,849,62,True
+Forearm,train,80362,109,658,62,True
+Forearm,validation,26478,41,282,62,True
+Forearm,test,27236,38,279,62,True
+Other arm,train,80373,107,669,62,True
+Other arm,validation,26423,33,227,62,True
+Other arm,test,27216,38,259,62,True
+Trunk / neck,train,81519,272,1815,62,True
+Trunk / neck,validation,26876,103,680,62,True
+Trunk / neck,test,27408,65,451,62,True
+Lower body,train,82046,361,2342,62,True
+Lower body,validation,27089,130,893,62,True
+Lower body,test,27593,104,636,62,True
+Hand / wrist,train,80371,107,667,62,True
+Hand / wrist,validation,26371,32,175,62,True
+Hand / wrist,test,27129,29,172,62,True

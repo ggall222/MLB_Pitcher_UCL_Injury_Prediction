@@ -1,0 +1,16 @@
+2026-10-21 17:15:07,935 INFO Transactions: 12/142 monthly windows; 0 failures
+2026-10-21 17:15:08,067 INFO Transactions: 24/142 monthly windows; 0 failures
+2026-10-21 17:15:08,203 INFO Transactions: 36/142 monthly windows; 0 failures
+2026-10-21 17:15:08,334 INFO Transactions: 48/142 monthly windows; 0 failures
+2026-10-21 17:15:08,485 INFO Transactions: 60/142 monthly windows; 0 failures
+2026-10-21 17:15:08,576 INFO Transactions: 72/142 monthly windows; 0 failures
+2026-10-21 17:15:08,756 INFO Transactions: 84/142 monthly windows; 0 failures
+2026-10-21 17:15:08,977 INFO Transactions: 96/142 monthly windows; 0 failures
+2026-10-21 17:15:09,181 INFO Transactions: 108/142 monthly windows; 0 failures
+2026-10-21 17:15:09,340 INFO Transactions: 120/142 monthly windows; 0 failures
+2026-10-21 17:15:09,524 INFO Transactions: 132/142 monthly windows; 0 failures
+2026-10-21 17:15:09,695 INFO Transactions: 142/142 monthly windows; 0 failures
+2026-10-21 17:15:10,979 INFO Classifying transaction actions and injury text
+2026-10-21 17:15:16,207 INFO IL identity: 19106 transactions, 10819 retained for MLB pitchers
+2026-10-21 17:15:19,756 INFO Constructed 5410 episodes; fetching independent RosterResource evidence
+2026-10-21 17:15:21,522 INFO Finished: 5410 episodes, 1618 pitchers; outputs in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/data/injury/revised_2026/processed

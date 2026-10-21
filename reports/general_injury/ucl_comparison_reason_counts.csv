@@ -1,0 +1,6 @@
+comparison_status,comparison_reason,records
+both,matched_official_episode,258
+existing_ucl_only,legacy_surgery_only_unknown_onset,99
+existing_ucl_only,no_unique_compatible_official_episode,2
+existing_ucl_only,surgery_source_reports_non_mlb_level,355
+general_ucl_only,,219

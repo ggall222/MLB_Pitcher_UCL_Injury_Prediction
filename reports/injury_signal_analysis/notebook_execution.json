@@ -1,0 +1,70 @@
+{
+  "started_at": "2026-09-20T00:45:25.933806+00:00",
+  "python": "3.9.6 (default, Nov 11 2024, 03:15:38) \n[Clang 16.0.0 (clang-1600.0.26.6)]",
+  "executable": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/bin/python",
+  "source_signature": {
+    "database": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/mlb_ucl.duckdb",
+    "database_bytes": 17895796736,
+    "database_mtime_ns": 1789002299179560729,
+    "events_sha256": "18d9ae297bd70d0b78178ae45fe731a26f6a459ec9ab65d68d17783c8862f468",
+    "config_sha256": "096e17f7445f34bf50938f06be973540577a4b9193bfd450c7acf0c8cd3d00b6",
+    "feature_config_sha256": "5b60e14a805a5e75c4159666edb41764741fe9fa7ac1eb5dce1cf8bc7c871672"
+  },
+  "notebooks": [
+    {
+      "name": "01_feature_family_decomposition.ipynb",
+      "success": true,
+      "seconds": 95.98,
+      "code_cells": 5,
+      "executed_cells": 5,
+      "errors": 0,
+      "sha256": "68bf6d97f0d0125545c6631bed13463a5e112ce19abcbd8c61c3efa6247cae7a"
+    },
+    {
+      "name": "02_preinjury_trajectories.ipynb",
+      "success": true,
+      "seconds": 69.62,
+      "code_cells": 5,
+      "executed_cells": 5,
+      "errors": 0,
+      "sha256": "78af98300d3c0ed487298e95e098afb2c63549dd86e239a1201730fc1e8bf94b"
+    },
+    {
+      "name": "03_trajectory_timing_and_sensitivity.ipynb",
+      "success": true,
+      "seconds": 21.04,
+      "code_cells": 4,
+      "executed_cells": 4,
+      "errors": 0,
+      "sha256": "52908524bf37d882daa488711ca0c569161ef49ec5f3bfbe699ce243969cf0b1"
+    }
+  ],
+  "package_versions": {
+    "duckdb": "1.4.3",
+    "pandas": "2.2.3",
+    "numpy": "2.0.2",
+    "scikit-learn": "1.6.1",
+    "scipy": "1.13.1",
+    "matplotlib": "3.9.4",
+    "nbformat": "5.10.4",
+    "nbclient": "0.10.2",
+    "ipykernel": "6.29.5"
+  },
+  "database_unchanged": true,
+  "finished_at": "2026-09-20T00:48:32.631787+00:00",
+  "code_sha256": {
+    "src/injury_analysis/__init__.py": "eedcc07307d3875a3c5a759a3ef73802f7d800ba8e5a9ee241a460e4577177e0",
+    "src/injury_analysis/cohort.py": "ab40b2e872420e4f5f53c252c1bea2e497d8ff586e247a46144f5a230977c70e",
+    "src/injury_analysis/common.py": "1f38d1b31fc92ad647741f2ad2915dbb9817411b63f4944ba4d642696b5cb234",
+    "src/injury_analysis/family_decomposition.py": "ed36e15b88dbc3cf49fda431e3f2a160305e66cae25392679135e6df375caea2",
+    "src/injury_analysis/outcomes.py": "3a30216d5f5d168d86d3565b4e27228d0d9d686773fd4e76f2f58dc94d2a72b6",
+    "src/injury_analysis/plots.py": "86943544eb7fc365da7df837c955c605545ca9bcdb8db9b74173f7de8d6e00b8",
+    "src/injury_analysis/prediction.py": "862bc1746788ee8536b9733addeb3a32d8ede18b551ead464c2b678faebbc53c",
+    "src/injury_analysis/report.py": "f3f736b5b88c5dc9cb143eea28e8d5c7bdbcf3266d151851bb7a197a4f53b058",
+    "src/injury_analysis/signal_plots.py": "8239bae1198be0f04562d5b232a283faf0610c57c195f58ae7f586f2cc4f339e",
+    "src/injury_analysis/signal_report.py": "837f79d5ecbb9ddb272c3bf029edcb7f0be7b21d60b81308d1d42c528189e414",
+    "src/injury_analysis/signals_common.py": "0c607a09342962472a4606409d3ba7293fe0e918fba2abb1cc2c733b501b0b57",
+    "src/injury_analysis/trajectories.py": "eba56ebf06d7c8ea3da60d5169d5a4de5156fc5c2379b571aba3dce174a2611d",
+    "src/injury_analysis/trajectory_shapes.py": "009f9afc8c8e0107644c251d1f040990b3ec34273745c6217faa3cbc27ef32ed"
+  }
+}

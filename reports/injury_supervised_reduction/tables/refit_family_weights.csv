@@ -1,0 +1,481 @@
+category,block,method,repeat,family,first_axis_squared_weight
+Shoulder,Original 62,PCA,0,pitcher_history,0.06778197111938122
+Shoulder,Original 62,PCA,0,pitch_mix,0.016153154599867884
+Shoulder,Original 62,PCA,0,extension,0.004074133875467785
+Shoulder,Original 62,PCA,0,workload,0.8822952340425622
+Shoulder,Original 62,PCA,0,command,0.001511992005186322
+Shoulder,Original 62,PCA,0,spin_movement,0.0034395746295138294
+Shoulder,Original 62,PCA,0,velocity,0.021220377704881204
+Shoulder,Original 62,PCA,0,release_mechanics,0.00352356202313934
+Shoulder,Original 62,PLS,0,pitcher_history,0.15507608595017613
+Shoulder,Original 62,PLS,0,pitch_mix,0.028728154680581423
+Shoulder,Original 62,PLS,0,extension,0.008664849596399946
+Shoulder,Original 62,PLS,0,workload,0.35319566296237154
+Shoulder,Original 62,PLS,0,command,0.13674017219920442
+Shoulder,Original 62,PLS,0,spin_movement,0.038232081871979746
+Shoulder,Original 62,PLS,0,velocity,0.21556593930540055
+Shoulder,Original 62,PLS,0,release_mechanics,0.0637970534338861
+Shoulder,Original 62,PCA,1,pitcher_history,0.07019239759489873
+Shoulder,Original 62,PCA,1,pitch_mix,0.011446638872150371
+Shoulder,Original 62,PCA,1,extension,0.004593048737586668
+Shoulder,Original 62,PCA,1,workload,0.8827158447734268
+Shoulder,Original 62,PCA,1,command,0.002051016560859155
+Shoulder,Original 62,PCA,1,spin_movement,0.002889287965872109
+Shoulder,Original 62,PCA,1,velocity,0.02230510031985551
+Shoulder,Original 62,PCA,1,release_mechanics,0.0038066651753504935
+Shoulder,Original 62,PLS,1,pitcher_history,0.17111097705669112
+Shoulder,Original 62,PLS,1,pitch_mix,0.03073372985425799
+Shoulder,Original 62,PLS,1,extension,0.06156565809330807
+Shoulder,Original 62,PLS,1,workload,0.17637333101489425
+Shoulder,Original 62,PLS,1,command,0.020300533445909718
+Shoulder,Original 62,PLS,1,spin_movement,0.052460398726377054
+Shoulder,Original 62,PLS,1,velocity,0.3889227313815109
+Shoulder,Original 62,PLS,1,release_mechanics,0.09853264042705097
+Shoulder,Original 62,PCA,2,pitcher_history,0.065870913271929
+Shoulder,Original 62,PCA,2,pitch_mix,0.011963499279596524
+Shoulder,Original 62,PCA,2,extension,0.0043455736620112585
+Shoulder,Original 62,PCA,2,workload,0.8893906235966541
+Shoulder,Original 62,PCA,2,command,0.0015454969975033349
+Shoulder,Original 62,PCA,2,spin_movement,0.0013199313274816081
+Shoulder,Original 62,PCA,2,velocity,0.021937110007239604
+Shoulder,Original 62,PCA,2,release_mechanics,0.003626851857584463
+Shoulder,Original 62,PLS,2,pitcher_history,0.03514885835167513
+Shoulder,Original 62,PLS,2,pitch_mix,0.015066855467860407
+Shoulder,Original 62,PLS,2,extension,0.014418843757805149
+Shoulder,Original 62,PLS,2,workload,0.30544492156205555
+Shoulder,Original 62,PLS,2,command,0.1630660459157383
+Shoulder,Original 62,PLS,2,spin_movement,0.013917335130655554
+Shoulder,Original 62,PLS,2,velocity,0.3951096480721977
+Shoulder,Original 62,PLS,2,release_mechanics,0.057827491742012044
+Shoulder,Original 62,PCA,3,pitcher_history,0.06549456714696142
+Shoulder,Original 62,PCA,3,pitch_mix,0.010914669280742455
+Shoulder,Original 62,PCA,3,extension,0.0032315614472995437
+Shoulder,Original 62,PCA,3,workload,0.8867821094572257
+Shoulder,Original 62,PCA,3,command,0.0009131064538475469
+Shoulder,Original 62,PCA,3,spin_movement,0.002357164255252036
+Shoulder,Original 62,PCA,3,velocity,0.028219277719340897
+Shoulder,Original 62,PCA,3,release_mechanics,0.0020875442393303413
+Shoulder,Original 62,PLS,3,pitcher_history,0.0958928335614417
+Shoulder,Original 62,PLS,3,pitch_mix,0.010939264347932695
+Shoulder,Original 62,PLS,3,extension,0.04126374876732352
+Shoulder,Original 62,PLS,3,workload,0.2589390922255019
+Shoulder,Original 62,PLS,3,command,0.10687520294361422
+Shoulder,Original 62,PLS,3,spin_movement,0.09576081721939274
+Shoulder,Original 62,PLS,3,velocity,0.2913446997919973
+Shoulder,Original 62,PLS,3,release_mechanics,0.09898434114279595
+Shoulder,Original 62,PCA,4,pitcher_history,0.06914020662375706
+Shoulder,Original 62,PCA,4,pitch_mix,0.014138767606138566
+Shoulder,Original 62,PCA,4,extension,0.003683896634315722
+Shoulder,Original 62,PCA,4,workload,0.8894593304635793
+Shoulder,Original 62,PCA,4,command,0.0012604387890368463
+Shoulder,Original 62,PCA,4,spin_movement,0.0014126069157614116
+Shoulder,Original 62,PCA,4,velocity,0.018383373629026926
+Shoulder,Original 62,PCA,4,release_mechanics,0.0025213793383842354
+Shoulder,Original 62,PLS,4,pitcher_history,0.1079207020181003
+Shoulder,Original 62,PLS,4,pitch_mix,0.034274397398344335
+Shoulder,Original 62,PLS,4,extension,0.0037401511443618143
+Shoulder,Original 62,PLS,4,workload,0.2812046604623904
+Shoulder,Original 62,PLS,4,command,0.1130139301665021
+Shoulder,Original 62,PLS,4,spin_movement,0.03408801987293404
+Shoulder,Original 62,PLS,4,velocity,0.3892022239096288
+Shoulder,Original 62,PLS,4,release_mechanics,0.036555915027738244
+Shoulder,Original 62,PCA,5,pitcher_history,0.06816712744889086
+Shoulder,Original 62,PCA,5,pitch_mix,0.012753436593474849
+Shoulder,Original 62,PCA,5,extension,0.002594605070884727
+Shoulder,Original 62,PCA,5,workload,0.8834572008656176
+Shoulder,Original 62,PCA,5,command,0.0013126075481334485
+Shoulder,Original 62,PCA,5,spin_movement,0.0018692425519300664
+Shoulder,Original 62,PCA,5,velocity,0.02573311710180128
+Shoulder,Original 62,PCA,5,release_mechanics,0.004112662819266969
+Shoulder,Original 62,PLS,5,pitcher_history,0.1269860126993876
+Shoulder,Original 62,PLS,5,pitch_mix,0.029123597697740804
+Shoulder,Original 62,PLS,5,extension,0.01298913704870069
+Shoulder,Original 62,PLS,5,workload,0.30424605978207586
+Shoulder,Original 62,PLS,5,command,0.1670270286337387
+Shoulder,Original 62,PLS,5,spin_movement,0.013486727728722192
+Shoulder,Original 62,PLS,5,velocity,0.3137117723510217
+Shoulder,Original 62,PLS,5,release_mechanics,0.032429664058612105
+Shoulder,Original 62,PCA,6,pitcher_history,0.061969547984142344
+Shoulder,Original 62,PCA,6,pitch_mix,0.010780014420030765
+Shoulder,Original 62,PCA,6,extension,0.002847682719960331
+Shoulder,Original 62,PCA,6,workload,0.8938234262142521
+Shoulder,Original 62,PCA,6,command,0.001492120809990719
+Shoulder,Original 62,PCA,6,spin_movement,0.0011938743825057017
+Shoulder,Original 62,PCA,6,velocity,0.023242485547828175
+Shoulder,Original 62,PCA,6,release_mechanics,0.004650847921289413
+Shoulder,Original 62,PLS,6,pitcher_history,0.08998305600289436
+Shoulder,Original 62,PLS,6,pitch_mix,0.05610007924441261
+Shoulder,Original 62,PLS,6,extension,0.039282731215205695
+Shoulder,Original 62,PLS,6,workload,0.22191556958138992
+Shoulder,Original 62,PLS,6,command,0.2060840237049577
+Shoulder,Original 62,PLS,6,spin_movement,0.023676006093519882
+Shoulder,Original 62,PLS,6,velocity,0.2894103557296812
+Shoulder,Original 62,PLS,6,release_mechanics,0.07354817842793879
+Shoulder,Original 62,PCA,7,pitcher_history,0.0733799879354894
+Shoulder,Original 62,PCA,7,pitch_mix,0.007485928714788178
+Shoulder,Original 62,PCA,7,extension,0.002723609736967505
+Shoulder,Original 62,PCA,7,workload,0.8905738841981233
+Shoulder,Original 62,PCA,7,command,0.001223280841427151
+Shoulder,Original 62,PCA,7,spin_movement,0.003533330552369988
+Shoulder,Original 62,PCA,7,velocity,0.018275496615798453
+Shoulder,Original 62,PCA,7,release_mechanics,0.002804481405036188
+Shoulder,Original 62,PLS,7,pitcher_history,0.08205328019049021
+Shoulder,Original 62,PLS,7,pitch_mix,0.005894112901488998
+Shoulder,Original 62,PLS,7,extension,0.013135558083117978
+Shoulder,Original 62,PLS,7,workload,0.3834329412569397
+Shoulder,Original 62,PLS,7,command,0.13082959984890102
+Shoulder,Original 62,PLS,7,spin_movement,0.03157094425831498
+Shoulder,Original 62,PLS,7,velocity,0.3015880324075072
+Shoulder,Original 62,PLS,7,release_mechanics,0.051495531053239924
+Shoulder,Original 62,PCA,8,pitcher_history,0.06875817032229825
+Shoulder,Original 62,PCA,8,pitch_mix,0.00882219282344202
+Shoulder,Original 62,PCA,8,extension,0.0033289096364632746
+Shoulder,Original 62,PCA,8,workload,0.8786544025985613
+Shoulder,Original 62,PCA,8,command,0.002141653991224827
+Shoulder,Original 62,PCA,8,spin_movement,0.0034464869679811804
+Shoulder,Original 62,PCA,8,velocity,0.0322629346659043
+Shoulder,Original 62,PCA,8,release_mechanics,0.0025852489941248576
+Shoulder,Original 62,PLS,8,pitcher_history,0.1327289169520936
+Shoulder,Original 62,PLS,8,pitch_mix,0.021190335200323852
+Shoulder,Original 62,PLS,8,extension,0.022450024847518586
+Shoulder,Original 62,PLS,8,workload,0.4775832523313545
+Shoulder,Original 62,PLS,8,command,0.061139907321772484
+Shoulder,Original 62,PLS,8,spin_movement,0.00845409273773429
+Shoulder,Original 62,PLS,8,velocity,0.24527342611606304
+Shoulder,Original 62,PLS,8,release_mechanics,0.03118004449313957
+Shoulder,Original 62,PCA,9,pitcher_history,0.07180281990476256
+Shoulder,Original 62,PCA,9,pitch_mix,0.010442475673782052
+Shoulder,Original 62,PCA,9,extension,0.0028349251149929217
+Shoulder,Original 62,PCA,9,workload,0.880455528804475
+Shoulder,Original 62,PCA,9,command,0.0019891492977085687
+Shoulder,Original 62,PCA,9,spin_movement,0.0029169038005882374
+Shoulder,Original 62,PCA,9,velocity,0.027128508012593512
+Shoulder,Original 62,PCA,9,release_mechanics,0.002429689391097019
+Shoulder,Original 62,PLS,9,pitcher_history,0.0785476849320231
+Shoulder,Original 62,PLS,9,pitch_mix,0.026673705878498852
+Shoulder,Original 62,PLS,9,extension,0.022055387153052698
+Shoulder,Original 62,PLS,9,workload,0.34733415409075447
+Shoulder,Original 62,PLS,9,command,0.12179719053056966
+Shoulder,Original 62,PLS,9,spin_movement,0.016839399447868882
+Shoulder,Original 62,PLS,9,velocity,0.3127492166708832
+Shoulder,Original 62,PLS,9,release_mechanics,0.0740032612963492
+Shoulder,Original 62,PCA,10,pitcher_history,0.06672936426529591
+Shoulder,Original 62,PCA,10,pitch_mix,0.012383446733647933
+Shoulder,Original 62,PCA,10,extension,0.003486965886927235
+Shoulder,Original 62,PCA,10,workload,0.8770964998003467
+Shoulder,Original 62,PCA,10,command,0.0013725393123655747
+Shoulder,Original 62,PCA,10,spin_movement,0.003036015113606753
+Shoulder,Original 62,PCA,10,velocity,0.03265653546627248
+Shoulder,Original 62,PCA,10,release_mechanics,0.003238633421537399
+Shoulder,Original 62,PLS,10,pitcher_history,0.24209870282343426
+Shoulder,Original 62,PLS,10,pitch_mix,0.04694125696921073
+Shoulder,Original 62,PLS,10,extension,0.029538978406088535
+Shoulder,Original 62,PLS,10,workload,0.14958386206243054
+Shoulder,Original 62,PLS,10,command,0.11348056788733199
+Shoulder,Original 62,PLS,10,spin_movement,0.05932436763770696
+Shoulder,Original 62,PLS,10,velocity,0.3214336792462559
+Shoulder,Original 62,PLS,10,release_mechanics,0.037598584967541135
+Shoulder,Original 62,PCA,11,pitcher_history,0.06656773826783949
+Shoulder,Original 62,PCA,11,pitch_mix,0.010602474627807114
+Shoulder,Original 62,PCA,11,extension,0.0031769029285688946
+Shoulder,Original 62,PCA,11,workload,0.8877833834449208
+Shoulder,Original 62,PCA,11,command,0.001501297751753255
+Shoulder,Original 62,PCA,11,spin_movement,0.001673202291154639
+Shoulder,Original 62,PCA,11,velocity,0.026833676504296668
+Shoulder,Original 62,PCA,11,release_mechanics,0.0018613241836589421
+Shoulder,Original 62,PLS,11,pitcher_history,0.09162637603701593
+Shoulder,Original 62,PLS,11,pitch_mix,0.01522581644582946
+Shoulder,Original 62,PLS,11,extension,0.033210817599769876
+Shoulder,Original 62,PLS,11,workload,0.26200751826328617
+Shoulder,Original 62,PLS,11,command,0.15150285162619653
+Shoulder,Original 62,PLS,11,spin_movement,0.030997533438071295
+Shoulder,Original 62,PLS,11,velocity,0.36974236946063593
+Shoulder,Original 62,PLS,11,release_mechanics,0.04568671712919486
+Shoulder,Combined,PCA,0,Current departure,0.0024463438581644814
+Shoulder,Combined,PCA,0,Prior profile,0.9975536561418353
+Shoulder,Combined,PLS,0,Current departure,0.3297849396247755
+Shoulder,Combined,PLS,0,Prior profile,0.6702150603752245
+Shoulder,Combined,PCA,1,Current departure,0.0010131971939653158
+Shoulder,Combined,PCA,1,Prior profile,0.9989868028060348
+Shoulder,Combined,PLS,1,Current departure,0.32544690737360354
+Shoulder,Combined,PLS,1,Prior profile,0.6745530926263964
+Shoulder,Combined,PCA,2,Current departure,0.0017170275830833584
+Shoulder,Combined,PCA,2,Prior profile,0.9982829724169167
+Shoulder,Combined,PLS,2,Current departure,0.6490624020152764
+Shoulder,Combined,PLS,2,Prior profile,0.3509375979847239
+Shoulder,Combined,PCA,3,Current departure,0.001142797982232967
+Shoulder,Combined,PCA,3,Prior profile,0.9988572020177668
+Shoulder,Combined,PLS,3,Current departure,0.376361697109309
+Shoulder,Combined,PLS,3,Prior profile,0.6236383028906909
+Shoulder,Combined,PCA,4,Current departure,0.0032782895071664184
+Shoulder,Combined,PCA,4,Prior profile,0.9967217104928338
+Shoulder,Combined,PLS,4,Current departure,0.5460831977302556
+Shoulder,Combined,PLS,4,Prior profile,0.4539168022697446
+Shoulder,Combined,PCA,5,Current departure,0.0015193509872224056
+Shoulder,Combined,PCA,5,Prior profile,0.9984806490127776
+Shoulder,Combined,PLS,5,Current departure,0.43804513156025493
+Shoulder,Combined,PLS,5,Prior profile,0.561954868439745
+Shoulder,Combined,PCA,6,Current departure,0.0028806387251355424
+Shoulder,Combined,PCA,6,Prior profile,0.9971193612748646
+Shoulder,Combined,PLS,6,Current departure,0.3729763547409195
+Shoulder,Combined,PLS,6,Prior profile,0.6270236452590804
+Shoulder,Combined,PCA,7,Current departure,0.0013405412623343142
+Shoulder,Combined,PCA,7,Prior profile,0.9986594587376656
+Shoulder,Combined,PLS,7,Current departure,0.45747334241023385
+Shoulder,Combined,PLS,7,Prior profile,0.5425266575897661
+Shoulder,Combined,PCA,8,Current departure,0.002246152213035969
+Shoulder,Combined,PCA,8,Prior profile,0.9977538477869641
+Shoulder,Combined,PLS,8,Current departure,0.3901532814839022
+Shoulder,Combined,PLS,8,Prior profile,0.6098467185160978
+Shoulder,Combined,PCA,9,Current departure,0.0016674211735763105
+Shoulder,Combined,PCA,9,Prior profile,0.9983325788264237
+Shoulder,Combined,PLS,9,Current departure,0.4171652245717748
+Shoulder,Combined,PLS,9,Prior profile,0.5828347754282253
+Shoulder,Combined,PCA,10,Current departure,0.003257489917005953
+Shoulder,Combined,PCA,10,Prior profile,0.9967425100829939
+Shoulder,Combined,PLS,10,Current departure,0.3614497464450875
+Shoulder,Combined,PLS,10,Prior profile,0.6385502535549124
+Shoulder,Combined,PCA,11,Current departure,0.002299954467175701
+Shoulder,Combined,PCA,11,Prior profile,0.9977000455328243
+Shoulder,Combined,PLS,11,Current departure,0.43586462030284023
+Shoulder,Combined,PLS,11,Prior profile,0.5641353796971598
+Lower body,Original 62,PCA,0,pitcher_history,0.06439054018091582
+Lower body,Original 62,PCA,0,pitch_mix,0.012449776301811918
+Lower body,Original 62,PCA,0,extension,0.004709394461023298
+Lower body,Original 62,PCA,0,workload,0.8820775652619899
+Lower body,Original 62,PCA,0,command,0.001647847777629495
+Lower body,Original 62,PCA,0,spin_movement,0.004207198805098932
+Lower body,Original 62,PCA,0,velocity,0.024658340663908283
+Lower body,Original 62,PCA,0,release_mechanics,0.005859336547622451
+Lower body,Original 62,PLS,0,pitcher_history,0.5014536834868677
+Lower body,Original 62,PLS,0,pitch_mix,0.03312443034035225
+Lower body,Original 62,PLS,0,extension,0.014861857152628943
+Lower body,Original 62,PLS,0,workload,0.19853881899236733
+Lower body,Original 62,PLS,0,command,0.030717750503844617
+Lower body,Original 62,PLS,0,spin_movement,0.04396367349394557
+Lower body,Original 62,PLS,0,velocity,0.1509314076904807
+Lower body,Original 62,PLS,0,release_mechanics,0.026408378339512862
+Lower body,Original 62,PCA,1,pitcher_history,0.06926794152571847
+Lower body,Original 62,PCA,1,pitch_mix,0.011735270991351496
+Lower body,Original 62,PCA,1,extension,0.003838292807603037
+Lower body,Original 62,PCA,1,workload,0.8904714244251398
+Lower body,Original 62,PCA,1,command,0.0020376354757348425
+Lower body,Original 62,PCA,1,spin_movement,0.0017018366954523719
+Lower body,Original 62,PCA,1,velocity,0.01826135637352931
+Lower body,Original 62,PCA,1,release_mechanics,0.00268624170547036
+Lower body,Original 62,PLS,1,pitcher_history,0.590949423098527
+Lower body,Original 62,PLS,1,pitch_mix,0.03930111471619193
+Lower body,Original 62,PLS,1,extension,0.01475624418674234
+Lower body,Original 62,PLS,1,workload,0.17283677479048
+Lower body,Original 62,PLS,1,command,0.01804642569873798
+Lower body,Original 62,PLS,1,spin_movement,0.030519603265629358
+Lower body,Original 62,PLS,1,velocity,0.11330877347425813
+Lower body,Original 62,PLS,1,release_mechanics,0.020281640769433087
+Lower body,Original 62,PCA,2,pitcher_history,0.07120338789901334
+Lower body,Original 62,PCA,2,pitch_mix,0.008954487660674757
+Lower body,Original 62,PCA,2,extension,0.003826638863861343
+Lower body,Original 62,PCA,2,workload,0.8836574917643328
+Lower body,Original 62,PCA,2,command,0.0012693268484069878
+Lower body,Original 62,PCA,2,spin_movement,0.002050013159871637
+Lower body,Original 62,PCA,2,velocity,0.024926886516917976
+Lower body,Original 62,PCA,2,release_mechanics,0.004111767286921307
+Lower body,Original 62,PLS,2,pitcher_history,0.5249587717881258
+Lower body,Original 62,PLS,2,pitch_mix,0.0075932808984801
+Lower body,Original 62,PLS,2,extension,0.003960889941995097
+Lower body,Original 62,PLS,2,workload,0.25296480326565546
+Lower body,Original 62,PLS,2,command,0.026228224895743165
+Lower body,Original 62,PLS,2,spin_movement,0.049503658089421886
+Lower body,Original 62,PLS,2,velocity,0.1064308344165531
+Lower body,Original 62,PLS,2,release_mechanics,0.02835953670402563
+Lower body,Original 62,PCA,3,pitcher_history,0.06370942326951155
+Lower body,Original 62,PCA,3,pitch_mix,0.009902558424421004
+Lower body,Original 62,PCA,3,extension,0.004133627698656619
+Lower body,Original 62,PCA,3,workload,0.8867096738842304
+Lower body,Original 62,PCA,3,command,0.0011910374232066972
+Lower body,Original 62,PCA,3,spin_movement,0.0032612177598789352
+Lower body,Original 62,PCA,3,velocity,0.02594439665042427
+Lower body,Original 62,PCA,3,release_mechanics,0.005148064889670488
+Lower body,Original 62,PLS,3,pitcher_history,0.5088089757017791
+Lower body,Original 62,PLS,3,pitch_mix,0.0073033032692349535
+Lower body,Original 62,PLS,3,extension,0.02430246578327536
+Lower body,Original 62,PLS,3,workload,0.19757732752731616
+Lower body,Original 62,PLS,3,command,0.0374896968356781
+Lower body,Original 62,PLS,3,spin_movement,0.04650183718763948
+Lower body,Original 62,PLS,3,velocity,0.14427263141024088
+Lower body,Original 62,PLS,3,release_mechanics,0.03374376228483611
+Lower body,Original 62,PCA,4,pitcher_history,0.07301092879467116
+Lower body,Original 62,PCA,4,pitch_mix,0.01185985330972606
+Lower body,Original 62,PCA,4,extension,0.003939853919062385
+Lower body,Original 62,PCA,4,workload,0.8676213365624051
+Lower body,Original 62,PCA,4,command,0.0014035447930150333
+Lower body,Original 62,PCA,4,spin_movement,0.0020114645337661868
+Lower body,Original 62,PCA,4,velocity,0.03343840276835062
+Lower body,Original 62,PCA,4,release_mechanics,0.006714615319003322
+Lower body,Original 62,PLS,4,pitcher_history,0.5178502409673341
+Lower body,Original 62,PLS,4,pitch_mix,0.019063102343072805
+Lower body,Original 62,PLS,4,extension,0.01510592245348133
+Lower body,Original 62,PLS,4,workload,0.250411998711445
+Lower body,Original 62,PLS,4,command,0.028527997504583597
+Lower body,Original 62,PLS,4,spin_movement,0.03500477594684964
+Lower body,Original 62,PLS,4,velocity,0.11908441486360771
+Lower body,Original 62,PLS,4,release_mechanics,0.014951547209625625
+Lower body,Original 62,PCA,5,pitcher_history,0.06590559714451646
+Lower body,Original 62,PCA,5,pitch_mix,0.010019847722603609
+Lower body,Original 62,PCA,5,extension,0.002021528430026611
+Lower body,Original 62,PCA,5,workload,0.8971022777015232
+Lower body,Original 62,PCA,5,command,0.001543696529574343
+Lower body,Original 62,PCA,5,spin_movement,0.001361557258194061
+Lower body,Original 62,PCA,5,velocity,0.02026111533940388
+Lower body,Original 62,PCA,5,release_mechanics,0.0017843798741575187
+Lower body,Original 62,PLS,5,pitcher_history,0.4392940688039052
+Lower body,Original 62,PLS,5,pitch_mix,0.012101732534248576
+Lower body,Original 62,PLS,5,extension,0.00303570952657661
+Lower body,Original 62,PLS,5,workload,0.25268336270828934
+Lower body,Original 62,PLS,5,command,0.029603128114346025
+Lower body,Original 62,PLS,5,spin_movement,0.049043251551807644
+Lower body,Original 62,PLS,5,velocity,0.19100426998745312
+Lower body,Original 62,PLS,5,release_mechanics,0.023234476773373435
+Lower body,Original 62,PCA,6,pitcher_history,0.06020476270558
+Lower body,Original 62,PCA,6,pitch_mix,0.012991820695386864
+Lower body,Original 62,PCA,6,extension,0.002409684634397023
+Lower body,Original 62,PCA,6,workload,0.8990242317459447
+Lower body,Original 62,PCA,6,command,0.0018627810841402473
+Lower body,Original 62,PCA,6,spin_movement,0.0016156715978035538
+Lower body,Original 62,PCA,6,velocity,0.018773444535248117
+Lower body,Original 62,PCA,6,release_mechanics,0.0031176030014992352
+Lower body,Original 62,PLS,6,pitcher_history,0.4629165419797411
+Lower body,Original 62,PLS,6,pitch_mix,0.013965712164736226
+Lower body,Original 62,PLS,6,extension,0.006410964399214408
+Lower body,Original 62,PLS,6,workload,0.26885093792161546
+Lower body,Original 62,PLS,6,command,0.0519247559183236
+Lower body,Original 62,PLS,6,spin_movement,0.030006475984889924
+Lower body,Original 62,PLS,6,velocity,0.14834715340287247
+Lower body,Original 62,PLS,6,release_mechanics,0.017577458228606974
+Lower body,Original 62,PCA,7,pitcher_history,0.06816567942516767
+Lower body,Original 62,PCA,7,pitch_mix,0.007467558038031234
+Lower body,Original 62,PCA,7,extension,0.002859059575114267
+Lower body,Original 62,PCA,7,workload,0.8885327754424236
+Lower body,Original 62,PCA,7,command,0.001645301619607975
+Lower body,Original 62,PCA,7,spin_movement,0.0027096044766646357
+Lower body,Original 62,PCA,7,velocity,0.025917738191450636
+Lower body,Original 62,PCA,7,release_mechanics,0.002702283231540393
+Lower body,Original 62,PLS,7,pitcher_history,0.5000721169904935
+Lower body,Original 62,PLS,7,pitch_mix,0.018458613103520923
+Lower body,Original 62,PLS,7,extension,0.006330404164548128
+Lower body,Original 62,PLS,7,workload,0.2527360489972644
+Lower body,Original 62,PLS,7,command,0.010321072746870615
+Lower body,Original 62,PLS,7,spin_movement,0.0373751650652211
+Lower body,Original 62,PLS,7,velocity,0.1530177758145635
+Lower body,Original 62,PLS,7,release_mechanics,0.021688803117517773
+Lower body,Original 62,PCA,8,pitcher_history,0.07159245741026597
+Lower body,Original 62,PCA,8,pitch_mix,0.011714860460971189
+Lower body,Original 62,PCA,8,extension,0.002700563966005965
+Lower body,Original 62,PCA,8,workload,0.8823287109518063
+Lower body,Original 62,PCA,8,command,0.0017254883096297048
+Lower body,Original 62,PCA,8,spin_movement,0.002524377132545315
+Lower body,Original 62,PCA,8,velocity,0.02373629598994663
+Lower body,Original 62,PCA,8,release_mechanics,0.0036772457788287094
+Lower body,Original 62,PLS,8,pitcher_history,0.39534826377464316
+Lower body,Original 62,PLS,8,pitch_mix,0.00481779025296797
+Lower body,Original 62,PLS,8,extension,0.0036072173334056996
+Lower body,Original 62,PLS,8,workload,0.3670913415453597
+Lower body,Original 62,PLS,8,command,0.016645699452783165
+Lower body,Original 62,PLS,8,spin_movement,0.02724091885724353
+Lower body,Original 62,PLS,8,velocity,0.1639221802044613
+Lower body,Original 62,PLS,8,release_mechanics,0.021326588579135733
+Lower body,Original 62,PCA,9,pitcher_history,0.06421070375840826
+Lower body,Original 62,PCA,9,pitch_mix,0.008215794945487794
+Lower body,Original 62,PCA,9,extension,0.0027657290769921104
+Lower body,Original 62,PCA,9,workload,0.9013758271997973
+Lower body,Original 62,PCA,9,command,0.0017451463861985182
+Lower body,Original 62,PCA,9,spin_movement,0.0022354861018562175
+Lower body,Original 62,PCA,9,velocity,0.016571438110832344
+Lower body,Original 62,PCA,9,release_mechanics,0.0028798744204278515
+Lower body,Original 62,PLS,9,pitcher_history,0.39359658838282735
+Lower body,Original 62,PLS,9,pitch_mix,0.012396960755147485
+Lower body,Original 62,PLS,9,extension,0.009575037925744654
+Lower body,Original 62,PLS,9,workload,0.3606902247942642
+Lower body,Original 62,PLS,9,command,0.03482945874523575
+Lower body,Original 62,PLS,9,spin_movement,0.030909880336864502
+Lower body,Original 62,PLS,9,velocity,0.13490838747248263
+Lower body,Original 62,PLS,9,release_mechanics,0.023093461587433025
+Lower body,Original 62,PCA,10,pitcher_history,0.06602804852058795
+Lower body,Original 62,PCA,10,pitch_mix,0.0062394417064944386
+Lower body,Original 62,PCA,10,extension,0.002930090482550567
+Lower body,Original 62,PCA,10,workload,0.9046021016223582
+Lower body,Original 62,PCA,10,command,0.0013433025106427724
+Lower body,Original 62,PCA,10,spin_movement,0.0019292454732563595
+Lower body,Original 62,PCA,10,velocity,0.013815093921260468
+Lower body,Original 62,PCA,10,release_mechanics,0.003112675762849432
+Lower body,Original 62,PLS,10,pitcher_history,0.4900461530419199
+Lower body,Original 62,PLS,10,pitch_mix,0.009558775332598064
+Lower body,Original 62,PLS,10,extension,0.00585172152493998
+Lower body,Original 62,PLS,10,workload,0.24563388202009923
+Lower body,Original 62,PLS,10,command,0.02270275617161114
+Lower body,Original 62,PLS,10,spin_movement,0.033524346902286645
+Lower body,Original 62,PLS,10,velocity,0.17823954709845136
+Lower body,Original 62,PLS,10,release_mechanics,0.014442817908093734
+Lower body,Original 62,PCA,11,pitcher_history,0.0689908428246768
+Lower body,Original 62,PCA,11,pitch_mix,0.012573909987645933
+Lower body,Original 62,PCA,11,extension,0.0026705793772361943
+Lower body,Original 62,PCA,11,workload,0.8879090232871655
+Lower body,Original 62,PCA,11,command,0.0016035643800155401
+Lower body,Original 62,PCA,11,spin_movement,0.0030431441168255998
+Lower body,Original 62,PCA,11,velocity,0.0207943387316347
+Lower body,Original 62,PCA,11,release_mechanics,0.002414597294799863
+Lower body,Original 62,PLS,11,pitcher_history,0.4358591944000727
+Lower body,Original 62,PLS,11,pitch_mix,0.010012136519304568
+Lower body,Original 62,PLS,11,extension,0.016178490263031045
+Lower body,Original 62,PLS,11,workload,0.32672169992966893
+Lower body,Original 62,PLS,11,command,0.03922986908994567
+Lower body,Original 62,PLS,11,spin_movement,0.03238121200553694
+Lower body,Original 62,PLS,11,velocity,0.09308720801193891
+Lower body,Original 62,PLS,11,release_mechanics,0.046530189780500816
+Lower body,Combined,PCA,0,Current departure,0.003200956777780982
+Lower body,Combined,PCA,0,Prior profile,0.9967990432222188
+Lower body,Combined,PLS,0,Current departure,0.07213417532472992
+Lower body,Combined,PLS,0,Prior profile,0.9278658246752702
+Lower body,Combined,PCA,1,Current departure,0.0016221042205640107
+Lower body,Combined,PCA,1,Prior profile,0.9983778957794357
+Lower body,Combined,PLS,1,Current departure,0.04026331133721148
+Lower body,Combined,PLS,1,Prior profile,0.9597366886627883
+Lower body,Combined,PCA,2,Current departure,0.0015306607009606154
+Lower body,Combined,PCA,2,Prior profile,0.9984693392990394
+Lower body,Combined,PLS,2,Current departure,0.06788278280982757
+Lower body,Combined,PLS,2,Prior profile,0.9321172171901724
+Lower body,Combined,PCA,3,Current departure,0.0018692521097752744
+Lower body,Combined,PCA,3,Prior profile,0.9981307478902246
+Lower body,Combined,PLS,3,Current departure,0.06805558491551383
+Lower body,Combined,PLS,3,Prior profile,0.9319444150844862
+Lower body,Combined,PCA,4,Current departure,0.002711811387905591
+Lower body,Combined,PCA,4,Prior profile,0.9972881886120943
+Lower body,Combined,PLS,4,Current departure,0.04956992062520615
+Lower body,Combined,PLS,4,Prior profile,0.9504300793747938
+Lower body,Combined,PCA,5,Current departure,0.0020473293538581525
+Lower body,Combined,PCA,5,Prior profile,0.9979526706461416
+Lower body,Combined,PLS,5,Current departure,0.06702983130986788
+Lower body,Combined,PLS,5,Prior profile,0.9329701686901319
+Lower body,Combined,PCA,6,Current departure,0.0014539768522729174
+Lower body,Combined,PCA,6,Prior profile,0.9985460231477269
+Lower body,Combined,PLS,6,Current departure,0.1130444815970643
+Lower body,Combined,PLS,6,Prior profile,0.8869555184029357
+Lower body,Combined,PCA,7,Current departure,0.00044552668074044797
+Lower body,Combined,PCA,7,Prior profile,0.9995544733192594
+Lower body,Combined,PLS,7,Current departure,0.08816502079001096
+Lower body,Combined,PLS,7,Prior profile,0.911834979209989
+Lower body,Combined,PCA,8,Current departure,0.0021207836321753596
+Lower body,Combined,PCA,8,Prior profile,0.9978792163678247
+Lower body,Combined,PLS,8,Current departure,0.023878837467676377
+Lower body,Combined,PLS,8,Prior profile,0.9761211625323236
+Lower body,Combined,PCA,9,Current departure,0.0014388033331594564
+Lower body,Combined,PCA,9,Prior profile,0.9985611966668402
+Lower body,Combined,PLS,9,Current departure,0.08062350268671878
+Lower body,Combined,PLS,9,Prior profile,0.9193764973132812
+Lower body,Combined,PCA,10,Current departure,0.0019411984072034792
+Lower body,Combined,PCA,10,Prior profile,0.9980588015927965
+Lower body,Combined,PLS,10,Current departure,0.05760619273554066
+Lower body,Combined,PLS,10,Prior profile,0.9423938072644592
+Lower body,Combined,PCA,11,Current departure,0.001589233027013947
+Lower body,Combined,PCA,11,Prior profile,0.9984107669729861
+Lower body,Combined,PLS,11,Current departure,0.11698826750065991
+Lower body,Combined,PLS,11,Prior profile,0.8830117324993401

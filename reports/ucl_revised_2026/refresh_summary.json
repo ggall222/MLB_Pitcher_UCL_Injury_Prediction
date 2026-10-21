@@ -1,0 +1,23 @@
+{
+  "counts": {
+    "pitches": 8150993,
+    "appearances": 236628,
+    "model_features": 236628,
+    "injuries": 2822,
+    "pitch_tracking": 8127029
+  },
+  "earliest_game_date": "2015-04-05",
+  "latest_game_date": "2026-09-27",
+  "failed_source_items": 1,
+  "missing_2026_final_games": 0,
+  "database_bytes": 19275460608,
+  "net_additions": {
+    "pitches": 73278,
+    "appearances": 2235,
+    "model_features": 2235,
+    "injuries": 25,
+    "pitch_tracking": 73070
+  },
+  "old_snapshot": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/snapshots/pre_revised_2026_20261021.duckdb",
+  "injury_observation_end": "2026-10-20"
+}

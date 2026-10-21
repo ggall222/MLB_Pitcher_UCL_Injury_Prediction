@@ -1,0 +1,19 @@
+injury_region,events
+Back / Spine,313
+Core / Oblique / Abdomen,260
+Elbow / UCL,1036
+Foot / Ankle,147
+Forearm,381
+Hamstring,174
+Hand / Wrist / Finger,236
+Head / Concussion,26
+Hip / Groin,249
+Illness / non-musculoskeletal,76
+Knee,220
+Lat,126
+Lower Leg,90
+Neck,89
+Other,67
+Shoulder,999
+Unknown / Unspecified,729
+Upper Arm,163

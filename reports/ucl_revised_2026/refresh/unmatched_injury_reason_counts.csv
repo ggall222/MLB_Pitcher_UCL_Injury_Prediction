@@ -1,0 +1,7 @@
+status,reason_category,records
+resolved,reconciled_identifier,35
+unresolved,incorrect_or_missing_player_id,4
+unresolved,missing_mlbam_id,2
+unresolved,name_matching_issue,10
+unresolved,outside_statcast_period,4
+unresolved,procedure_not_in_scope,1

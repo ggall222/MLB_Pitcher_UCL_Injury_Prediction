@@ -1,0 +1,7 @@
+label,eligible_rows,positive_rows,negative_rows,positive_percentage,unique_injury_events,unique_injured_pitchers,unknown_or_ineligible_rows
+ucl_injury_next_14d,51728,218,51510,0.4214351995051036,94,92,3369
+ucl_injury_next_30d,50395,355,50040,0.7044349637860899,98,96,4702
+ucl_injury_next_60d,48335,518,47817,1.0716871832005792,99,97,6762
+ucl_injury_next_90d,46739,615,46124,1.3158176255375595,102,100,8358
+ucl_injury_next_3_appearances,45142,246,44896,0.5449470559567586,96,94,9955
+ucl_injury_next_5_appearances,39782,359,39423,0.902418179075964,96,94,15315

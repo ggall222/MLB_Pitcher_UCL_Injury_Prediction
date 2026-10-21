@@ -1,0 +1,18 @@
+Installed kernelspec mlb-ucl-analysis in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/share/jupyter/kernels/mlb-ucl-analysis
+EXECUTING 01_overview_and_categories.ipynb
+{"name": "01_overview_and_categories.ipynb", "success": true, "seconds": 12.96, "code_cells": 4, "executed_cells": 4, "errors": 0, "sha256": "9e7272ee0e53002d9a57ece27654fcee6f5b87960d97ccc078646ed887dae6a1"}
+EXECUTING 02_preinjury_trajectories.ipynb
+{"name": "02_preinjury_trajectories.ipynb", "success": true, "seconds": 17.7, "code_cells": 4, "executed_cells": 4, "errors": 0, "sha256": "7749eab6684d550dd03fb6f7024149ce8e45ec116fdf7d4a9e12a663e58caa82"}
+EXECUTING 03_comparative_predictability.ipynb
+{"name": "03_comparative_predictability.ipynb", "success": true, "seconds": 22.99, "code_cells": 3, "executed_cells": 3, "errors": 0, "sha256": "70031db70e33375c53cf50ef4ac52f718d6ed85afeccd01024facb529e012b8f"}
+EXECUTING 04_severity_and_censoring.ipynb
+{"name": "04_severity_and_censoring.ipynb", "success": true, "seconds": 2.01, "code_cells": 3, "executed_cells": 3, "errors": 0, "sha256": "eaca98eaa74970c257177e005a8209e8a41c1188bebe28148615666594f74db3"}
+EXECUTING 05_recurrence_and_transitions.ipynb
+{"name": "05_recurrence_and_transitions.ipynb", "success": true, "seconds": 2.14, "code_cells": 3, "executed_cells": 3, "errors": 0, "sha256": "3ae14e9366dc3cee29af2d0a3c256dbbbbc9f3a51f7348141a5e1ee93eb2b3cd"}
+EXECUTING 06_warning_timing_and_alerts.ipynb
+{"name": "06_warning_timing_and_alerts.ipynb", "success": true, "seconds": 2.15, "code_cells": 3, "executed_cells": 3, "errors": 0, "sha256": "e36e00061fe6838cd539793808ba11c2a6ee16abad6283a8ae3c4e0d7c7bfbf4"}
+EXECUTING 07_feature_families_and_interactions.ipynb
+{"name": "07_feature_families_and_interactions.ipynb", "success": true, "seconds": 29.3, "code_cells": 3, "executed_cells": 3, "errors": 0, "sha256": "14b801dfc944991b9ecb1876a44a11887207411cb043de31379b1bfe56d1b523"}
+EXECUTING 08_capstone_summary.ipynb
+{"name": "08_capstone_summary.ipynb", "success": true, "seconds": 1.4, "code_cells": 3, "executed_cells": 3, "errors": 0, "sha256": "6510aeb42e3c5476679ea52f7c6c18c05dd89f3cef172e8a634bf0eed47f0a67"}
+Executed 8 notebooks; sources unchanged. Manifest: /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/reports/injury_type_analysis/notebook_execution.json

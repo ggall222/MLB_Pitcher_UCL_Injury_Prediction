@@ -1,0 +1,8 @@
+Installed kernelspec mlb-ucl-analysis in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/share/jupyter/kernels/mlb-ucl-analysis
+EXECUTING 01_feature_family_decomposition.ipynb
+{"name": "01_feature_family_decomposition.ipynb", "success": true, "seconds": 95.98, "code_cells": 5, "executed_cells": 5, "errors": 0, "sha256": "68bf6d97f0d0125545c6631bed13463a5e112ce19abcbd8c61c3efa6247cae7a"}
+EXECUTING 02_preinjury_trajectories.ipynb
+{"name": "02_preinjury_trajectories.ipynb", "success": true, "seconds": 69.62, "code_cells": 5, "executed_cells": 5, "errors": 0, "sha256": "78af98300d3c0ed487298e95e098afb2c63549dd86e239a1201730fc1e8bf94b"}
+EXECUTING 03_trajectory_timing_and_sensitivity.ipynb
+{"name": "03_trajectory_timing_and_sensitivity.ipynb", "success": true, "seconds": 21.04, "code_cells": 4, "executed_cells": 4, "errors": 0, "sha256": "52908524bf37d882daa488711ca0c569161ef49ec5f3bfbe699ce243969cf0b1"}
+Executed 3 notebooks; sources unchanged. Manifest: /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/reports/injury_signal_analysis/notebook_execution.json

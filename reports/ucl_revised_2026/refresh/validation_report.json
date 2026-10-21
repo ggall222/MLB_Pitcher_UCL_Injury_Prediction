@@ -1,0 +1,163 @@
+{
+  "generated_at": "2026-10-21T21:15:04.746951+00:00",
+  "passed": true,
+  "checks": [
+    {
+      "check_name": "duplicate_pitches",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "duplicate_appearances",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "invalid_player_ids",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "missing_pitch_dates",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "impossible_velocities_raw_retained",
+      "severity": "warning",
+      "violations": 1
+    },
+    {
+      "check_name": "extreme_velocity_raw_retained",
+      "severity": "warning",
+      "violations": 2967
+    },
+    {
+      "check_name": "impossible_release_raw_retained",
+      "severity": "warning",
+      "violations": 425
+    },
+    {
+      "check_name": "missing_pitch_game_join",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "appearance_missing_boxscore",
+      "severity": "warning",
+      "violations": 0
+    },
+    {
+      "check_name": "pitch_count_disagreement_gt_2",
+      "severity": "warning",
+      "violations": 0
+    },
+    {
+      "check_name": "unmatched_injury_identity",
+      "severity": "warning",
+      "violations": 21
+    },
+    {
+      "check_name": "injury_missing_pitcher_fk",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "post_injury_training_rows",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "post_injury_negative_labels",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "historical_feature_dates",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "positive_label_window",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "negative_without_followup",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "unknown_date_precision_fabricated",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "impossible_outs_conversion",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "supplemental_tracking_unaligned",
+      "severity": "warning",
+      "violations": 0
+    },
+    {
+      "check_name": "supplemental_pitch_alignment_invalid",
+      "severity": "warning",
+      "violations": 1303137
+    },
+    {
+      "check_name": "supplemental_invalid_alignment_used",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "extreme_induced_vertical_break_retained",
+      "severity": "warning",
+      "violations": 5
+    },
+    {
+      "check_name": "predictor_temporal_allowlist",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "nonregular_starter_cohort",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "positive_14d_strictly_pre_reference",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "positive_30d_strictly_pre_reference",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "positive_60d_strictly_pre_reference",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "positive_90d_strictly_pre_reference",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "injury_event_foreign_key",
+      "severity": "error",
+      "violations": 0
+    },
+    {
+      "check_name": "independent_prior_5_recalculation_stratified_sample",
+      "severity": "error",
+      "violations": 0
+    }
+  ],
+  "feature_count": 536,
+  "independent_recalculation_rows": 1200
+}

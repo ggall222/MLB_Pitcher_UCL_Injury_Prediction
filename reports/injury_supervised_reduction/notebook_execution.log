@@ -1,0 +1,8 @@
+Installed kernelspec mlb-ucl-analysis in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/share/jupyter/kernels/mlb-ucl-analysis
+EXECUTING 01_supervised_compression_and_prediction.ipynb
+{"name": "01_supervised_compression_and_prediction.ipynb", "success": true, "seconds": 5.69, "code_cells": 4, "executed_cells": 4, "errors": 0, "sha256": "1774487ed2471ffc2bb49a5196095659d15c35309f29d8ba8f481dd2ffc62631"}
+EXECUTING 02_components_and_injury_patterns.ipynb
+{"name": "02_components_and_injury_patterns.ipynb", "success": true, "seconds": 5.31, "code_cells": 4, "executed_cells": 4, "errors": 0, "sha256": "9359eea97d2f27e68f9cb11d33398249c3942ce93142242d2cd6f23c997f3ef9"}
+EXECUTING 03_stability_sensitivity_and_summary.ipynb
+{"name": "03_stability_sensitivity_and_summary.ipynb", "success": true, "seconds": 3.33, "code_cells": 4, "executed_cells": 4, "errors": 0, "sha256": "15714bdb5fa3325d006b79c6649c75b8517fa1b90f73b6bba76eae7f648b8e99"}
+Executed 3 notebooks; sources unchanged. Manifest: /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/reports/injury_supervised_reduction/notebook_execution.json

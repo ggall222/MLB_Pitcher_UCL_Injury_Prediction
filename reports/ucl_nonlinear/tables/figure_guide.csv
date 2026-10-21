@@ -1,0 +1,7 @@
+figure,question,interpretation
+01_ranking_by_representation,Which representations benefit?,Profile gains stand out; broad sets do not uniformly benefit.
+02_warning_and_alert_budget,Do nonlinear scores warn earlier?,Departure gains are small and uncertain; long-lead validation results do not transfer.
+03_overfitting_and_calibration,Are gains generalizable and calibrated?,Profile trees fit training much better; calibration and rare-event precision remain limited.
+04_nonlinear_effect_curves,What response shapes were learned?,"Local shapes differ, but are model associations with composition-sensitive refit ranges."
+05_interactions_and_stability,Do interactions explain useful signal?,Local nonadditivity exists in trees; its existence does not prove warning value.
+06_composition_and_refit_uncertainty,Are gains broadly distributed?,One event dominates profile-spline AP in each period; gains collapse under influence checks.

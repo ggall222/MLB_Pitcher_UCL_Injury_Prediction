@@ -1,0 +1,40 @@
+{
+  "checks": {
+    "source_unchanged": true,
+    "three_notebooks_executed": true,
+    "executed_notebook_hashes_match": true,
+    "analysis_code_hashes_match": true,
+    "injury_type_analysis_notebooks_preserved": true,
+    "injury_signal_analysis_notebooks_preserved": true,
+    "all_comparisons_present": true,
+    "identical_rows_across_variants": true,
+    "selection_reproduces_validation_only_rule": true,
+    "full_rotation_numerically_equivalent": true,
+    "unique_predictions_per_category_row": true,
+    "no_positive_event_crosses_validation_test": true,
+    "descriptive_fit_uses_training_row_count": true,
+    "orthonormal_pca_bases": true,
+    "original_match_ids_preserved": true,
+    "no_duplicate_aligned_outings": true,
+    "strictly_pre_anchor": true,
+    "primary_latent_rows_outside_training": true,
+    "profile_incomplete_measurements_not_plotted": true,
+    "departure_incomplete_measurements_not_plotted": true,
+    "balanced_support_matches_membership": true,
+    "paired_training_refits_complete": true
+  },
+  "all_passed": true,
+  "source_signature": {
+    "database": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/mlb_ucl.duckdb",
+    "database_bytes": 17895796736,
+    "database_mtime_ns": 1789002299179560729,
+    "events_sha256": "18d9ae297bd70d0b78178ae45fe731a26f6a459ec9ab65d68d17783c8862f468",
+    "config_sha256": "096e17f7445f34bf50938f06be973540577a4b9193bfd450c7acf0c8cd3d00b6",
+    "feature_config_sha256": "5b60e14a805a5e75c4159666edb41764741fe9fa7ac1eb5dce1cf8bc7c871672"
+  },
+  "csv_tables": 30,
+  "figures": 9,
+  "matched_pairs": 1225,
+  "heldout_matched_pairs": 443,
+  "tests_log": "tests.log"
+}

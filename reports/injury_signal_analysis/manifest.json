@@ -1,0 +1,104 @@
+{
+  "signature": {
+    "source": {
+      "database": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/mlb_ucl.duckdb",
+      "database_bytes": 17895796736,
+      "database_mtime_ns": 1789002299179560729,
+      "events_sha256": "18d9ae297bd70d0b78178ae45fe731a26f6a459ec9ab65d68d17783c8862f468",
+      "config_sha256": "096e17f7445f34bf50938f06be973540577a4b9193bfd450c7acf0c8cd3d00b6",
+      "feature_config_sha256": "5b60e14a805a5e75c4159666edb41764741fe9fa7ac1eb5dce1cf8bc7c871672"
+    },
+    "config": "dd42854d0401725d620a59e0796ac14b1594f6a79960d8a1dcd2316af2ae4164",
+    "matching": "90974f2809f5cfa5b719b62b95b57456aa143cb41273a7096fdabe2ba1f01261",
+    "original_cohort": "35cf22761f8ec21dc8e662522e78b4f650bef898fbf90ad607337b852ee20b70"
+  },
+  "config": {
+    "seed": 20260919,
+    "output_path": "reports/injury_signal_analysis",
+    "cache_path": "data/injury/analysis/signal_analysis",
+    "horizon_days": 30,
+    "minimum_warning_days": 7,
+    "bootstrap_replicates": 300,
+    "permutation_repeats": 5,
+    "categories": [
+      "Elbow / UCL",
+      "Shoulder",
+      "Forearm",
+      "Other arm",
+      "Trunk / neck",
+      "Lower body",
+      "Hand / wrist"
+    ],
+    "focus_categories": [
+      "Elbow / UCL",
+      "Shoulder",
+      "Forearm",
+      "Lower body"
+    ],
+    "modern_start": "2020-01-01",
+    "minimum_events_for_timing": 30,
+    "last_appearances": 5,
+    "calendar_bins": [
+      1,
+      8,
+      15,
+      31,
+      61
+    ],
+    "calendar_labels": [
+      "1\u20137d",
+      "8\u201314d",
+      "15\u201330d",
+      "31\u201360d"
+    ],
+    "strong_baseline_minimum": 15,
+    "absolute_z_reference": 1.0
+  },
+  "original_config": {
+    "seed": 20260919,
+    "database_path": "database/mlb_ucl.duckdb",
+    "events_path": "data/injury/processed/mlb_pitcher_injury_events_2015_2026.parquet",
+    "output_path": "reports/injury_type_analysis",
+    "cache_path": "data/injury/analysis",
+    "train_end": "2021-12-31",
+    "validation_end": "2023-12-31",
+    "test_end": "2025-12-31",
+    "horizons": [
+      14,
+      30,
+      60
+    ],
+    "embargo_days": 60,
+    "minimum_prior_appearances": 5,
+    "negative_followup_grace_days": 30,
+    "minimum_training_events": 30,
+    "minimum_validation_events": 10,
+    "minimum_test_events": 10,
+    "maximum_training_missing_fraction": 0.4,
+    "bootstrap_replicates": 300,
+    "logistic_C": 1.0,
+    "alert_rates": [
+      0.01,
+      0.025,
+      0.05,
+      0.1
+    ]
+  },
+  "code_sha256": {
+    "src/injury_analysis/signal_report.py": "837f79d5ecbb9ddb272c3bf029edcb7f0be7b21d60b81308d1d42c528189e414",
+    "src/injury_analysis/cohort.py": "ab40b2e872420e4f5f53c252c1bea2e497d8ff586e247a46144f5a230977c70e",
+    "src/injury_analysis/trajectory_shapes.py": "009f9afc8c8e0107644c251d1f040990b3ec34273745c6217faa3cbc27ef32ed",
+    "src/injury_analysis/signals_common.py": "0c607a09342962472a4606409d3ba7293fe0e918fba2abb1cc2c733b501b0b57",
+    "src/injury_analysis/__init__.py": "eedcc07307d3875a3c5a759a3ef73802f7d800ba8e5a9ee241a460e4577177e0",
+    "src/injury_analysis/prediction.py": "862bc1746788ee8536b9733addeb3a32d8ede18b551ead464c2b678faebbc53c",
+    "src/injury_analysis/plots.py": "86943544eb7fc365da7df837c955c605545ca9bcdb8db9b74173f7de8d6e00b8",
+    "src/injury_analysis/common.py": "1f38d1b31fc92ad647741f2ad2915dbb9817411b63f4944ba4d642696b5cb234",
+    "src/injury_analysis/outcomes.py": "3a30216d5f5d168d86d3565b4e27228d0d9d686773fd4e76f2f58dc94d2a72b6",
+    "src/injury_analysis/family_decomposition.py": "ed36e15b88dbc3cf49fda431e3f2a160305e66cae25392679135e6df375caea2",
+    "src/injury_analysis/signal_plots.py": "8239bae1198be0f04562d5b232a283faf0610c57c195f58ae7f586f2cc4f339e",
+    "src/injury_analysis/trajectories.py": "eba56ebf06d7c8ea3da60d5169d5a4de5156fc5c2379b571aba3dce174a2611d",
+    "src/injury_analysis/report.py": "f3f736b5b88c5dc9cb143eea28e8d5c7bdbcf3266d151851bb7a197a4f53b058"
+  },
+  "test_status": "2024\u20132025 has already been examined; these are exploratory temporal comparisons, not new untouched confirmation.",
+  "computed_summary": "SUMMARY.md"
+}

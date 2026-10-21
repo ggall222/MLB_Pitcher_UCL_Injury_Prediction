@@ -1,0 +1,29 @@
+analysis_group,duration_group,events
+Elbow / UCL,Observed 31–90d,120
+Elbow / UCL,Observed >90d,52
+Elbow / UCL,Observed ≤30d,146
+Elbow / UCL,Unresolved / administrative return,332
+Forearm,Observed 31–90d,65
+Forearm,Observed >90d,22
+Forearm,Observed ≤30d,90
+Forearm,Unresolved / administrative return,100
+Hand / wrist,Observed 31–90d,42
+Hand / wrist,Observed >90d,5
+Hand / wrist,Observed ≤30d,97
+Hand / wrist,Unresolved / administrative return,64
+Lower body,Observed 31–90d,151
+Lower body,Observed >90d,16
+Lower body,Observed ≤30d,372
+Lower body,Unresolved / administrative return,224
+Other arm,Observed 31–90d,71
+Other arm,Observed >90d,16
+Other arm,Observed ≤30d,78
+Other arm,Unresolved / administrative return,76
+Shoulder,Observed 31–90d,207
+Shoulder,Observed >90d,61
+Shoulder,Observed ≤30d,235
+Shoulder,Unresolved / administrative return,341
+Trunk / neck,Observed 31–90d,122
+Trunk / neck,Observed >90d,14
+Trunk / neck,Observed ≤30d,270
+Trunk / neck,Unresolved / administrative return,163

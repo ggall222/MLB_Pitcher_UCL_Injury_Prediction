@@ -1,0 +1,19 @@
+injury_diagnosis,events
+Concussion,14
+Contusion / Bruise,95
+Dislocation / Subluxation,7
+Fracture,82
+Impingement,203
+Inflammation,902
+Other,150
+Soreness,235
+Spasm,55
+Sprain,210
+Strain,1653
+Stress Fracture,10
+Stress Reaction,26
+Surgery / Postoperative Recovery,347
+Tear / Rupture,70
+Tendinopathy,169
+Tightness,147
+Unknown / Unspecified,1006

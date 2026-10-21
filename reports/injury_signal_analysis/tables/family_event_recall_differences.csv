@@ -1,0 +1,505 @@
+analysis,category,partition,variant,reference,mean,low,high,events,pitchers
+long_history,Elbow / UCL,validation,command,Workload + history,-0.008333333333333333,-0.09207107843137255,0.0849011857707507,120,111
+long_history,Elbow / UCL,validation,command,Uniform random expectation,0.003299607264404819,-0.058170511401806804,0.07185647094626177,120,111
+long_history,Elbow / UCL,validation,extension,Workload + history,-0.06666666666666667,-0.14883196721311476,0.029357653490327856,120,111
+long_history,Elbow / UCL,validation,extension,Uniform random expectation,-0.05503372606892851,-0.10652263006759352,0.004366297103954095,120,111
+long_history,Elbow / UCL,validation,pitch_mix,Workload + history,-0.10833333333333334,-0.18911814584511022,-0.03981675558943093,120,111
+long_history,Elbow / UCL,validation,pitch_mix,Uniform random expectation,-0.09670039273559518,-0.14097867004922385,-0.04738590256615837,120,111
+long_history,Elbow / UCL,validation,pitcher_history,Workload + history,-0.06666666666666667,-0.13505198689645348,-0.008264462809917356,120,111
+long_history,Elbow / UCL,validation,pitcher_history,Uniform random expectation,-0.055033726068928514,-0.11166619820497853,0.016396054859317458,120,111
+long_history,Elbow / UCL,validation,release_mechanics,Workload + history,-0.05,-0.1366482771970577,0.029784482758620518,120,111
+long_history,Elbow / UCL,validation,release_mechanics,Uniform random expectation,-0.038367059402261844,-0.09012689182387489,0.01214776598201227,120,111
+long_history,Elbow / UCL,validation,spin_movement,Workload + history,-0.08333333333333333,-0.16814971751412428,-0.008193912517637576,120,111
+long_history,Elbow / UCL,validation,spin_movement,Uniform random expectation,-0.07170039273559518,-0.12429290020051553,-0.02717418053098929,120,111
+long_history,Elbow / UCL,validation,velocity,Workload + history,0.008333333333333333,-0.0759667426292551,0.095499173212071,120,111
+long_history,Elbow / UCL,validation,velocity,Uniform random expectation,0.019966273931071487,-0.04141631324319085,0.09155362261231897,120,111
+long_history,Elbow / UCL,validation,workload,Workload + history,-0.03333333333333333,-0.09326653738418444,0.02586206896551724,120,111
+long_history,Elbow / UCL,validation,workload,Uniform random expectation,-0.021700392735595177,-0.084416905185098,0.05020132475209078,120,111
+long_history,Elbow / UCL,validation,Workload + history,Workload + history,0.0,0.0,0.0,120,111
+long_history,Elbow / UCL,validation,Workload + history,Uniform random expectation,0.01163294059773815,-0.060762268201241525,0.08131656486210555,120,111
+long_history,Elbow / UCL,validation,Velocity + mechanics,Workload + history,-0.025,-0.10533898305084745,0.06353439680957108,120,111
+long_history,Elbow / UCL,validation,Velocity + mechanics,Uniform random expectation,-0.013367059402261842,-0.07627534637999958,0.057433453671457274,120,111
+long_history,Elbow / UCL,validation,Statcast only,Workload + history,-0.09166666666666666,-0.1557377049180328,-0.01239214840379655,120,111
+long_history,Elbow / UCL,validation,Statcast only,Uniform random expectation,-0.08003372606892852,-0.1203573086271149,-0.03158867802152058,120,111
+long_history,Elbow / UCL,validation,WH + velocity,Workload + history,0.016666666666666666,-0.04082533653205384,0.07409057038341686,120,111
+long_history,Elbow / UCL,validation,WH + velocity,Uniform random expectation,0.02829960726440482,-0.031200968606596872,0.09675837596229829,120,111
+long_history,Elbow / UCL,validation,WH + mechanics,Workload + history,-0.03333333333333333,-0.07661342894393743,0.012631412952060382,120,111
+long_history,Elbow / UCL,validation,WH + mechanics,Uniform random expectation,-0.021700392735595177,-0.09099412109082125,0.04806337284183748,120,111
+long_history,Elbow / UCL,validation,WH + velocity + mechanics,Workload + history,-0.016666666666666666,-0.06696078431372549,0.03280252637237115,120,111
+long_history,Elbow / UCL,validation,WH + velocity + mechanics,Uniform random expectation,-0.005033726068928516,-0.062391238736060235,0.05675445071299652,120,111
+long_history,Elbow / UCL,validation,WH + spin/movement,Workload + history,0.025,-0.008264462809917356,0.06479150275373721,120,111
+long_history,Elbow / UCL,validation,WH + spin/movement,Uniform random expectation,0.03663294059773815,-0.031495726579489354,0.11480899702170243,120,111
+long_history,Elbow / UCL,validation,WH + command,Workload + history,-0.008333333333333333,-0.03891866521317829,0.021349862258953002,120,111
+long_history,Elbow / UCL,validation,WH + command,Uniform random expectation,0.003299607264404821,-0.06833169459460597,0.06494280171815277,120,111
+long_history,Elbow / UCL,validation,WH + pitch mix,Workload + history,-0.025,-0.06696078431372549,0.015755208333333326,120,111
+long_history,Elbow / UCL,validation,WH + pitch mix,Uniform random expectation,-0.013367059402261846,-0.07546817364833774,0.05515410540967387,120,111
+long_history,Elbow / UCL,validation,Full,Workload + history,-0.058333333333333334,-0.10614587498334,-0.016666666666666666,120,111
+long_history,Elbow / UCL,validation,Full,Uniform random expectation,-0.04670039273559518,-0.10003224149659112,0.01796767808288224,120,111
+long_history,Elbow / UCL,test,command,Workload + history,-0.15172413793103448,-0.23027546777546778,-0.06312192118226606,145,129
+long_history,Elbow / UCL,test,command,Uniform random expectation,-0.07456903068202064,-0.11789633261126539,-0.02547820703722891,145,129
+long_history,Elbow / UCL,test,extension,Workload + history,-0.11724137931034483,-0.20879171957192091,-0.03556678828417962,145,129
+long_history,Elbow / UCL,test,extension,Uniform random expectation,-0.040086272061330974,-0.09072822274471865,0.0061335198687386,145,129
+long_history,Elbow / UCL,test,pitch_mix,Workload + history,-0.19310344827586207,-0.27755784483972407,-0.11467625899280577,145,129
+long_history,Elbow / UCL,test,pitch_mix,Uniform random expectation,-0.11594834102684823,-0.15275924757455941,-0.07987529950457971,145,129
+long_history,Elbow / UCL,test,pitcher_history,Workload + history,-0.12413793103448276,-0.1923458904109589,-0.06919300766283526,145,129
+long_history,Elbow / UCL,test,pitcher_history,Uniform random expectation,-0.046982823785468905,-0.09465142560391523,0.005661803572009291,145,129
+long_history,Elbow / UCL,test,release_mechanics,Workload + history,-0.10344827586206896,-0.1940145413870246,-0.01742068155111652,145,129
+long_history,Elbow / UCL,test,release_mechanics,Uniform random expectation,-0.026293168613055123,-0.07697694552005781,0.028253618337733283,145,129
+long_history,Elbow / UCL,test,spin_movement,Workload + history,-0.16551724137931034,-0.2431540915915916,-0.08446428571428577,145,129
+long_history,Elbow / UCL,test,spin_movement,Uniform random expectation,-0.0883621341302965,-0.12820927451995684,-0.04011472407251003,145,129
+long_history,Elbow / UCL,test,velocity,Workload + history,-0.06896551724137931,-0.16961753999425233,0.020719927674153007,145,129
+long_history,Elbow / UCL,test,velocity,Uniform random expectation,0.00818959000763454,-0.04797557092343741,0.06520881915401358,145,129
+long_history,Elbow / UCL,test,workload,Workload + history,-0.013793103448275862,-0.0875578178849991,0.05868623905595727,145,129
+long_history,Elbow / UCL,test,workload,Uniform random expectation,0.06336200380073798,-0.009848523115159366,0.13167558722053418,145,129
+long_history,Elbow / UCL,test,Workload + history,Workload + history,0.0,0.0,0.0,145,129
+long_history,Elbow / UCL,test,Workload + history,Uniform random expectation,0.07715510724901385,0.00028897854389162587,0.15328640999458443,145,129
+long_history,Elbow / UCL,test,Velocity + mechanics,Workload + history,-0.12413793103448276,-0.2100897201946472,-0.04657426101361509,145,129
+long_history,Elbow / UCL,test,Velocity + mechanics,Uniform random expectation,-0.046982823785468905,-0.10007849874123351,0.0019604947916875594,145,129
+long_history,Elbow / UCL,test,Statcast only,Workload + history,-0.09655172413793103,-0.19659545108488768,-0.01388405797101452,145,129
+long_history,Elbow / UCL,test,Statcast only,Uniform random expectation,-0.01939661688891718,-0.07451970672376866,0.034375961871409746,145,129
+long_history,Elbow / UCL,test,WH + velocity,Workload + history,-0.006896551724137931,-0.07509901220762277,0.05904953889237597,145,129
+long_history,Elbow / UCL,test,WH + velocity,Uniform random expectation,0.07025855552487592,-0.0027469713569889245,0.13985209766492462,145,129
+long_history,Elbow / UCL,test,WH + mechanics,Workload + history,-0.034482758620689655,-0.09069877586709413,0.007142857142857143,145,129
+long_history,Elbow / UCL,test,WH + mechanics,Uniform random expectation,0.04267234862832419,-0.02495144152650318,0.09702603437310726,145,129
+long_history,Elbow / UCL,test,WH + velocity + mechanics,Workload + history,-0.041379310344827586,-0.11396551724137931,0.027351981351981323,145,129
+long_history,Elbow / UCL,test,WH + velocity + mechanics,Uniform random expectation,0.03577579690418627,-0.034053002977156466,0.1034415556614479,145,129
+long_history,Elbow / UCL,test,WH + spin/movement,Workload + history,0.0,-0.0273972602739726,0.028380281690140837,145,129
+long_history,Elbow / UCL,test,WH + spin/movement,Uniform random expectation,0.07715510724901385,0.002448499386915024,0.1502409209098922,145,129
+long_history,Elbow / UCL,test,WH + command,Workload + history,0.013793103448275862,-0.013939879564879564,0.04861111111111111,145,129
+long_history,Elbow / UCL,test,WH + command,Uniform random expectation,0.09094821069728971,0.015561330721607727,0.16671131279516277,145,129
+long_history,Elbow / UCL,test,WH + pitch mix,Workload + history,-0.013793103448275862,-0.07070876874148115,0.04285714285714286,145,129
+long_history,Elbow / UCL,test,WH + pitch mix,Uniform random expectation,0.06336200380073799,-0.007701724896423539,0.14060398333897303,145,129
+long_history,Elbow / UCL,test,Full,Workload + history,-0.06206896551724138,-0.13610699740836726,0.007130727899432271,145,129
+long_history,Elbow / UCL,test,Full,Uniform random expectation,0.015086141731772472,-0.04180315668071874,0.07634107396090516,145,129
+long_history,Shoulder,validation,command,Workload + history,-0.043478260869565216,-0.12106256085686465,0.030690333458223997,161,142
+long_history,Shoulder,validation,command,Uniform random expectation,-0.054474441421542986,-0.09575009329839715,-0.007168221734738686,161,142
+long_history,Shoulder,validation,extension,Workload + history,-0.055900621118012424,-0.13669979037329677,0.012583069620253162,161,142
+long_history,Shoulder,validation,extension,Uniform random expectation,-0.0668968016699902,-0.1110412723097055,-0.022704084700193257,161,142
+long_history,Shoulder,validation,pitch_mix,Workload + history,-0.06832298136645963,-0.15251512096774192,0.0062706367924528295,161,142
+long_history,Shoulder,validation,pitch_mix,Uniform random expectation,-0.0793191619184374,-0.12065090366120299,-0.036917855766712124,161,142
+long_history,Shoulder,validation,pitcher_history,Workload + history,-0.09937888198757763,-0.15079545454545454,-0.04996873045653539,161,142
+long_history,Shoulder,validation,pitcher_history,Uniform random expectation,-0.11037506253955541,-0.14201803147434225,-0.07226603635692087,161,142
+long_history,Shoulder,validation,release_mechanics,Workload + history,-0.043478260869565216,-0.10256410256410256,0.012509767151117355,161,142
+long_history,Shoulder,validation,release_mechanics,Uniform random expectation,-0.054474441421542986,-0.09442379052616927,-0.0173555275133134,161,142
+long_history,Shoulder,validation,spin_movement,Workload + history,-0.08695652173913043,-0.15637208938896702,-0.02688207921506399,161,142
+long_history,Shoulder,validation,spin_movement,Uniform random expectation,-0.09795270229110821,-0.13057144252711056,-0.06075468613545399,161,142
+long_history,Shoulder,validation,velocity,Workload + history,-0.031055900621118012,-0.10528046162104134,0.03402801600914797,161,142
+long_history,Shoulder,validation,velocity,Uniform random expectation,-0.04205208117309579,-0.08811137138805519,0.004026806529856156,161,142
+long_history,Shoulder,validation,workload,Workload + history,0.006211180124223602,-0.025815850815850815,0.03988687782805424,161,142
+long_history,Shoulder,validation,workload,Uniform random expectation,-0.004785000427754169,-0.060845771901163116,0.05742626187768838,161,142
+long_history,Shoulder,validation,Workload + history,Workload + history,0.0,0.0,0.0,161,142
+long_history,Shoulder,validation,Workload + history,Uniform random expectation,-0.010996180551977779,-0.06371589399120145,0.04768528578460862,161,142
+long_history,Shoulder,validation,Velocity + mechanics,Workload + history,-0.018633540372670808,-0.088164767331434,0.0440251572327044,161,142
+long_history,Shoulder,validation,Velocity + mechanics,Uniform random expectation,-0.029629720924648585,-0.07256350518737328,0.01917331732632997,161,142
+long_history,Shoulder,validation,Statcast only,Workload + history,-0.012422360248447204,-0.10415273132664436,0.06080007390983,161,142
+long_history,Shoulder,validation,Statcast only,Uniform random expectation,-0.02341854080042498,-0.08012252894434475,0.037709005481199674,161,142
+long_history,Shoulder,validation,WH + velocity,Workload + history,0.037267080745341616,-0.012738853503184714,0.08050858829844336,161,142
+long_history,Shoulder,validation,WH + velocity,Uniform random expectation,0.02627090019336383,-0.03298725046930678,0.0840303787540424,161,142
+long_history,Shoulder,validation,WH + mechanics,Workload + history,-0.018633540372670808,-0.05539366053169734,0.012726942628903396,161,142
+long_history,Shoulder,validation,WH + mechanics,Uniform random expectation,-0.029629720924648592,-0.07659477788131407,0.032701017533256126,161,142
+long_history,Shoulder,validation,WH + velocity + mechanics,Workload + history,0.006211180124223602,-0.04040778498609823,0.04939983995732194,161,142
+long_history,Shoulder,validation,WH + velocity + mechanics,Uniform random expectation,-0.004785000427754178,-0.050394861103624164,0.05044483985299687,161,142
+long_history,Shoulder,validation,WH + spin/movement,Workload + history,-0.012422360248447204,-0.03096484165324745,0.0,161,142
+long_history,Shoulder,validation,WH + spin/movement,Uniform random expectation,-0.02341854080042498,-0.07535525042321425,0.037939869774337255,161,142
+long_history,Shoulder,validation,WH + command,Workload + history,0.018633540372670808,-0.006233985557884929,0.050314465408805034,161,142
+long_history,Shoulder,validation,WH + command,Uniform random expectation,0.0076373598206930324,-0.04719688927754702,0.06730143137112747,161,142
+long_history,Shoulder,validation,WH + pitch mix,Workload + history,0.006211180124223602,-0.025486854917234663,0.03895343959731537,161,142
+long_history,Shoulder,validation,WH + pitch mix,Uniform random expectation,-0.004785000427754173,-0.05251653814406697,0.05087041721104427,161,142
+long_history,Shoulder,validation,Full,Workload + history,0.006211180124223602,-0.038461538461538464,0.04879717419594719,161,142
+long_history,Shoulder,validation,Full,Uniform random expectation,-0.004785000427754176,-0.05414462821310727,0.055041966594118065,161,142
+long_history,Shoulder,test,command,Workload + history,0.037267080745341616,-0.05808566433566434,0.125,161,143
+long_history,Shoulder,test,command,Uniform random expectation,0.022585251022357967,-0.03585722762525825,0.07455852106842037,161,143
+long_history,Shoulder,test,extension,Workload + history,-0.10559006211180125,-0.1728395061728395,-0.03831781426121052,161,143
+long_history,Shoulder,test,extension,Uniform random expectation,-0.12027189183478489,-0.1572894068253181,-0.080443471691875,161,143
+long_history,Shoulder,test,pitch_mix,Workload + history,-0.09937888198757763,-0.1636919629738466,-0.03870120120120128,161,143
+long_history,Shoulder,test,pitch_mix,Uniform random expectation,-0.11406071171056129,-0.15782379475522612,-0.06629016148134532,161,143
+long_history,Shoulder,test,pitcher_history,Workload + history,-0.07453416149068323,-0.12345679012345678,-0.024829183555298232,161,143
+long_history,Shoulder,test,pitcher_history,Uniform random expectation,-0.08921599121366687,-0.1272328123084603,-0.04406265231757008,161,143
+long_history,Shoulder,test,release_mechanics,Workload + history,-0.055900621118012424,-0.12590208034433287,0.0159722222222221,161,143
+long_history,Shoulder,test,release_mechanics,Uniform random expectation,-0.07058245084099606,-0.11035379075773852,-0.014990713093642626,161,143
+long_history,Shoulder,test,spin_movement,Workload + history,0.006211180124223602,-0.06958430699576457,0.08341082317073162,161,143
+long_history,Shoulder,test,spin_movement,Uniform random expectation,-0.008470649598760042,-0.05726063282072273,0.0518763176862304,161,143
+long_history,Shoulder,test,velocity,Workload + history,0.012422360248447204,-0.06442652329749103,0.08448464912280697,161,143
+long_history,Shoulder,test,velocity,Uniform random expectation,-0.002259469474536441,-0.057430363788313316,0.06126749969730208,161,143
+long_history,Shoulder,test,workload,Workload + history,0.024844720496894408,-0.03529411764705882,0.08214954201513333,161,143
+long_history,Shoulder,test,workload,Uniform random expectation,0.010162890773910761,-0.05101215738161781,0.06771370940556365,161,143
+long_history,Shoulder,test,Workload + history,Workload + history,0.0,0.0,0.0,161,143
+long_history,Shoulder,test,Workload + history,Uniform random expectation,-0.014681829722983644,-0.06972671803340008,0.04618199877867132,161,143
+long_history,Shoulder,test,Velocity + mechanics,Workload + history,0.0,-0.08149834437086093,0.07043490460157116,161,143
+long_history,Shoulder,test,Velocity + mechanics,Uniform random expectation,-0.014681829722983647,-0.07536912059701784,0.043645629773176854,161,143
+long_history,Shoulder,test,Statcast only,Workload + history,0.018633540372670808,-0.05180995475113122,0.0873704258773571,161,143
+long_history,Shoulder,test,Statcast only,Uniform random expectation,0.003951710649687163,-0.05479667582598334,0.05840855482926706,161,143
+long_history,Shoulder,test,WH + velocity,Workload + history,0.031055900621118012,-0.017870304748405386,0.07281746031746025,161,143
+long_history,Shoulder,test,WH + velocity,Uniform random expectation,0.01637407089813438,-0.042202399450412195,0.0865713791978111,161,143
+long_history,Shoulder,test,WH + mechanics,Workload + history,-0.012422360248447204,-0.04878048780487805,0.019683710329405683,161,143
+long_history,Shoulder,test,WH + mechanics,Uniform random expectation,-0.02710418997143085,-0.0700646849660349,0.03030588724274654,161,143
+long_history,Shoulder,test,WH + velocity + mechanics,Workload + history,0.018633540372670808,-0.019002403846153846,0.05291666666666654,161,143
+long_history,Shoulder,test,WH + velocity + mechanics,Uniform random expectation,0.003951710649687172,-0.05320342013652292,0.0596290611709486,161,143
+long_history,Shoulder,test,WH + spin/movement,Workload + history,-0.012422360248447204,-0.036585365853658534,0.006581396355451671,161,143
+long_history,Shoulder,test,WH + spin/movement,Uniform random expectation,-0.02710418997143085,-0.07452479514505939,0.02706974100572185,161,143
+long_history,Shoulder,test,WH + command,Workload + history,0.024844720496894408,-0.012355182926829269,0.05679185574396942,161,143
+long_history,Shoulder,test,WH + command,Uniform random expectation,0.010162890773910775,-0.05132741766730448,0.06467258813469036,161,143
+long_history,Shoulder,test,WH + pitch mix,Workload + history,0.0,-0.028541366041366038,0.030525904712314474,161,143
+long_history,Shoulder,test,WH + pitch mix,Uniform random expectation,-0.014681829722983639,-0.06442957997875114,0.041284916622482355,161,143
+long_history,Shoulder,test,Full,Workload + history,0.024844720496894408,-0.027250215331610674,0.07549841772151897,161,143
+long_history,Shoulder,test,Full,Uniform random expectation,0.01016289077391077,-0.04395847163761686,0.07437265736761792,161,143
+long_history,Forearm,validation,command,Workload + history,-0.09433962264150944,-0.21298076923076922,0.019230769230769232,53,50
+long_history,Forearm,validation,command,Uniform random expectation,-0.1004755932435134,-0.16196289594411906,-0.024993487338740385,53,50
+long_history,Forearm,validation,extension,Workload + history,-0.018867924528301886,-0.15542986425339367,0.1165723981900452,53,50
+long_history,Forearm,validation,extension,Uniform random expectation,-0.025003895130305858,-0.10049961292629774,0.07709968721167916,53,50
+long_history,Forearm,validation,pitch_mix,Workload + history,-0.11320754716981132,-0.23776470588235293,-0.018518518518518517,53,50
+long_history,Forearm,validation,pitch_mix,Uniform random expectation,-0.1193435177718153,-0.1754509529281451,-0.044861871552069506,53,50
+long_history,Forearm,validation,pitcher_history,Workload + history,-0.07547169811320754,-0.1496156533892383,-0.01801136363636364,53,50
+long_history,Forearm,validation,pitcher_history,Uniform random expectation,-0.08160766871521152,-0.1573084027365185,0.014965169653814935,53,50
+long_history,Forearm,validation,release_mechanics,Workload + history,-0.05660377358490566,-0.2039622641509434,0.0734343434343434,53,50
+long_history,Forearm,validation,release_mechanics,Uniform random expectation,-0.06273974418690963,-0.14497287621232025,0.014297831154205435,53,50
+long_history,Forearm,validation,spin_movement,Workload + history,-0.1320754716981132,-0.257578431372549,-0.019596153846153864,53,50
+long_history,Forearm,validation,spin_movement,Uniform random expectation,-0.1382114423001172,-0.19007894947638299,-0.08413811526443174,53,50
+long_history,Forearm,validation,velocity,Workload + history,-0.05660377358490566,-0.18104575163398692,0.057175253991291704,53,50
+long_history,Forearm,validation,velocity,Uniform random expectation,-0.06273974418690963,-0.12736385747052484,0.020327926535830876,53,50
+long_history,Forearm,validation,workload,Workload + history,-0.018867924528301886,-0.11764705882352941,0.0777149321266968,53,50
+long_history,Forearm,validation,workload,Uniform random expectation,-0.02500389513030585,-0.11878520663295349,0.0704135501239653,53,50
+long_history,Forearm,validation,Workload + history,Workload + history,0.0,0.0,0.0,53,50
+long_history,Forearm,validation,Workload + history,Uniform random expectation,-0.006135970602003972,-0.09793733187281489,0.10712639951959316,53,50
+long_history,Forearm,validation,Velocity + mechanics,Workload + history,-0.03773584905660377,-0.1651509433962264,0.09102182539682532,53,50
+long_history,Forearm,validation,Velocity + mechanics,Uniform random expectation,-0.04387181965860774,-0.12078746348490954,0.04839366239330566,53,50
+long_history,Forearm,validation,Statcast only,Workload + history,-0.05660377358490566,-0.19230769230769232,0.05454545454545454,53,50
+long_history,Forearm,validation,Statcast only,Uniform random expectation,-0.06273974418690963,-0.13589025086926834,0.013990421494847301,53,50
+long_history,Forearm,validation,WH + velocity,Workload + history,-0.018867924528301886,-0.07407407407407407,0.0,53,50
+long_history,Forearm,validation,WH + velocity,Uniform random expectation,-0.02500389513030585,-0.11448462276748866,0.08753024567343931,53,50
+long_history,Forearm,validation,WH + mechanics,Workload + history,-0.05660377358490566,-0.1309136967155835,-0.008333333333333732,53,50
+long_history,Forearm,validation,WH + mechanics,Uniform random expectation,-0.06273974418690963,-0.1392349951472935,0.03404883361271897,53,50
+long_history,Forearm,validation,WH + velocity + mechanics,Workload + history,-0.05660377358490566,-0.1309136967155835,-0.008333333333333732,53,50
+long_history,Forearm,validation,WH + velocity + mechanics,Uniform random expectation,-0.06273974418690963,-0.1392349951472935,0.03404883361271897,53,50
+long_history,Forearm,validation,WH + spin/movement,Workload + history,-0.018867924528301886,-0.08487499999999999,0.038461538461538464,53,50
+long_history,Forearm,validation,WH + spin/movement,Uniform random expectation,-0.02500389513030585,-0.11523179356288002,0.09130667982937654,53,50
+long_history,Forearm,validation,WH + command,Workload + history,0.0,0.0,0.0,53,50
+long_history,Forearm,validation,WH + command,Uniform random expectation,-0.006135970602003972,-0.09793733187281489,0.10712639951959316,53,50
+long_history,Forearm,validation,WH + pitch mix,Workload + history,0.018867924528301886,-0.04,0.08955938697317993,53,50
+long_history,Forearm,validation,WH + pitch mix,Uniform random expectation,0.012731953926297918,-0.09480133978155701,0.1253186934582865,53,50
+long_history,Forearm,validation,Full,Workload + history,0.0,-0.07547169811320754,0.07623367198838894,53,50
+long_history,Forearm,validation,Full,Uniform random expectation,-0.006135970602003968,-0.09258913184749053,0.11615420759520843,53,50
+long_history,Forearm,test,command,Workload + history,0.021739130434782608,-0.09302325581395349,0.15063598519888985,46,43
+long_history,Forearm,test,command,Uniform random expectation,-0.06582770524300877,-0.14998450830797397,0.0282622235693695,46,43
+long_history,Forearm,test,extension,Workload + history,0.0,-0.1111111111111111,0.1111111111111111,46,43
+long_history,Forearm,test,extension,Uniform random expectation,-0.08756683567779137,-0.1702893447325323,-0.006442746523150959,46,43
+long_history,Forearm,test,pitch_mix,Workload + history,-0.021739130434782608,-0.13195652173913042,0.08797101449275357,46,43
+long_history,Forearm,test,pitch_mix,Uniform random expectation,-0.10930596611257401,-0.1837995851456661,-0.019201238586122615,46,43
+long_history,Forearm,test,pitcher_history,Workload + history,-0.08695652173913043,-0.17391304347826086,-0.009500000000000454,46,43
+long_history,Forearm,test,pitcher_history,Uniform random expectation,-0.17452335741692182,-0.2220371744861103,-0.1161972718717516,46,43
+long_history,Forearm,test,release_mechanics,Workload + history,0.17391304347826086,0.022222222222222223,0.32608695652173914,46,43
+long_history,Forearm,test,release_mechanics,Uniform random expectation,0.08634620780046949,-0.012150389334369424,0.19471959614537493,46,43
+long_history,Forearm,test,spin_movement,Workload + history,-0.043478260869565216,-0.14441964285714284,0.07688953488372062,46,43
+long_history,Forearm,test,spin_movement,Uniform random expectation,-0.1310450965473566,-0.18198817476609344,-0.05852898601710067,46,43
+long_history,Forearm,test,velocity,Workload + history,0.043478260869565216,-0.08695652173913043,0.17777777777777778,46,43
+long_history,Forearm,test,velocity,Uniform random expectation,-0.04408857480822616,-0.13377479665259362,0.05063200114683512,46,43
+long_history,Forearm,test,workload,Workload + history,0.10869565217391304,0.0,0.22487373737373725,46,43
+long_history,Forearm,test,workload,Uniform random expectation,0.021128816496121666,-0.09253810878424923,0.1386515359586188,46,43
+long_history,Forearm,test,Workload + history,Workload + history,0.0,0.0,0.0,46,43
+long_history,Forearm,test,Workload + history,Uniform random expectation,-0.08756683567779137,-0.16849526928541708,-0.0019511307346013593,46,43
+long_history,Forearm,test,Velocity + mechanics,Workload + history,0.10869565217391304,-0.021992753623188407,0.24444444444444444,46,43
+long_history,Forearm,test,Velocity + mechanics,Uniform random expectation,0.021128816496121666,-0.0646282946900578,0.12184976011303814,46,43
+long_history,Forearm,test,Statcast only,Workload + history,0.043478260869565216,-0.07706721470019341,0.17594202898550715,46,43
+long_history,Forearm,test,Statcast only,Uniform random expectation,-0.04408857480822616,-0.12561627735641206,0.057608489328466246,46,43
+long_history,Forearm,test,WH + velocity,Workload + history,-0.021739130434782608,-0.10107142857142858,0.06666666666666667,46,43
+long_history,Forearm,test,WH + velocity,Uniform random expectation,-0.10930596611257401,-0.19210100968382515,-0.02675230065919463,46,43
+long_history,Forearm,test,WH + mechanics,Workload + history,0.021739130434782608,-0.06666666666666667,0.11627906976744186,46,43
+long_history,Forearm,test,WH + mechanics,Uniform random expectation,-0.06582770524300877,-0.15549428463522802,0.027665834788046136,46,43
+long_history,Forearm,test,WH + velocity + mechanics,Workload + history,0.043478260869565216,-0.044444444444444446,0.14893617021276595,46,43
+long_history,Forearm,test,WH + velocity + mechanics,Uniform random expectation,-0.04408857480822616,-0.1423490465550148,0.05519865406144297,46,43
+long_history,Forearm,test,WH + spin/movement,Workload + history,0.043478260869565216,-0.043478260869565216,0.13043478260869565,46,43
+long_history,Forearm,test,WH + spin/movement,Uniform random expectation,-0.04408857480822616,-0.13210512289752976,0.04141069395077796,46,43
+long_history,Forearm,test,WH + command,Workload + history,-0.021739130434782608,-0.06597826086956521,0.0,46,43
+long_history,Forearm,test,WH + command,Uniform random expectation,-0.10930596611257401,-0.18852703468057472,-0.023756696495536057,46,43
+long_history,Forearm,test,WH + pitch mix,Workload + history,0.021739130434782608,0.0,0.06818181818181818,46,43
+long_history,Forearm,test,WH + pitch mix,Uniform random expectation,-0.06582770524300877,-0.15541767980606314,0.030000877566001893,46,43
+long_history,Forearm,test,Full,Workload + history,0.06521739130434782,-0.05583003952569169,0.17594202898550715,46,43
+long_history,Forearm,test,Full,Uniform random expectation,-0.02234944437344355,-0.11246005191989515,0.0730019181662499,46,43
+long_history,Other arm,validation,command,Workload + history,0.021739130434782608,-0.1322292069632495,0.1721554116558741,46,43
+long_history,Other arm,validation,command,Uniform random expectation,-0.011749719560942538,-0.08785227941254081,0.07625921789381372,46,43
+long_history,Other arm,validation,extension,Workload + history,0.043478260869565216,-0.13195652173913042,0.18181818181818182,46,43
+long_history,Other arm,validation,extension,Uniform random expectation,0.00998941087384007,-0.08423524630312193,0.11871838251135858,46,43
+long_history,Other arm,validation,pitch_mix,Workload + history,-0.10869565217391304,-0.2234126984126984,0.0,46,43
+long_history,Other arm,validation,pitch_mix,Uniform random expectation,-0.1421845021696382,-0.19214827935545253,-0.08891682340475143,46,43
+long_history,Other arm,validation,pitcher_history,Workload + history,-0.021739130434782608,-0.09201902748414376,0.04398550724637679,46,43
+long_history,Other arm,validation,pitcher_history,Uniform random expectation,-0.05522798043050775,-0.1504414374542875,0.06332721942495824,46,43
+long_history,Other arm,validation,release_mechanics,Workload + history,-0.043478260869565216,-0.16022408963585433,0.06666666666666667,46,43
+long_history,Other arm,validation,release_mechanics,Uniform random expectation,-0.07696711086529036,-0.1551044507737142,0.0194455184850489,46,43
+long_history,Other arm,validation,spin_movement,Workload + history,-0.043478260869565216,-0.17594202898550726,0.06976744186046512,46,43
+long_history,Other arm,validation,spin_movement,Uniform random expectation,-0.07696711086529036,-0.147261171472157,0.007412164322079234,46,43
+long_history,Other arm,validation,velocity,Workload + history,-0.021739130434782608,-0.12911655874190564,0.10996376811594197,46,43
+long_history,Other arm,validation,velocity,Uniform random expectation,-0.05522798043050775,-0.14270229972725298,0.04873148521290991,46,43
+long_history,Other arm,validation,workload,Workload + history,0.021739130434782608,0.0,0.06746212121212117,46,43
+long_history,Other arm,validation,workload,Uniform random expectation,-0.011749719560942543,-0.11989064416745406,0.11415294045537067,46,43
+long_history,Other arm,validation,Workload + history,Workload + history,0.0,0.0,0.0,46,43
+long_history,Other arm,validation,Workload + history,Uniform random expectation,-0.03348884999572515,-0.1343882168334457,0.0879453810881469,46,43
+long_history,Other arm,validation,Velocity + mechanics,Workload + history,0.0,-0.1111111111111111,0.12911655874190558,46,43
+long_history,Other arm,validation,Velocity + mechanics,Uniform random expectation,-0.033488849995725156,-0.12142574519152939,0.07739947148732601,46,43
+long_history,Other arm,validation,Statcast only,Workload + history,0.0,-0.10869565217391304,0.1276595744680851,46,43
+long_history,Other arm,validation,Statcast only,Uniform random expectation,-0.03348884999572515,-0.12387657869836173,0.05600376873525393,46,43
+long_history,Other arm,validation,WH + velocity,Workload + history,0.06521739130434782,-0.022222222222222223,0.16668728352300824,46,43
+long_history,Other arm,validation,WH + velocity,Uniform random expectation,0.031728541308622675,-0.08438276236590068,0.14548066135096877,46,43
+long_history,Other arm,validation,WH + mechanics,Workload + history,0.021739130434782608,-0.04497474747474747,0.09090909090909091,46,43
+long_history,Other arm,validation,WH + mechanics,Uniform random expectation,-0.011749719560942543,-0.12927717158637025,0.10448514639458845,46,43
+long_history,Other arm,validation,WH + velocity + mechanics,Workload + history,0.021739130434782608,-0.044444444444444446,0.0899494949494949,46,43
+long_history,Other arm,validation,WH + velocity + mechanics,Uniform random expectation,-0.011749719560942543,-0.11477755236047148,0.10167911244046593,46,43
+long_history,Other arm,validation,WH + spin/movement,Workload + history,0.0,0.0,0.0,46,43
+long_history,Other arm,validation,WH + spin/movement,Uniform random expectation,-0.03348884999572515,-0.1343882168334457,0.0879453810881469,46,43
+long_history,Other arm,validation,WH + command,Workload + history,0.021739130434782608,0.0,0.06818181818181818,46,43
+long_history,Other arm,validation,WH + command,Uniform random expectation,-0.011749719560942532,-0.10875031402440664,0.10868576590073153,46,43
+long_history,Other arm,validation,WH + pitch mix,Workload + history,0.021739130434782608,0.0,0.06901427061310779,46,43
+long_history,Other arm,validation,WH + pitch mix,Uniform random expectation,-0.011749719560942532,-0.10997785778010098,0.1082475170790544,46,43
+long_history,Other arm,validation,Full,Workload + history,-0.021739130434782608,-0.1111111111111111,0.06597826086956518,46,43
+long_history,Other arm,validation,Full,Uniform random expectation,-0.05522798043050775,-0.15196938306851535,0.05869258933479935,46,43
+long_history,Other arm,test,command,Workload + history,-0.08888888888888889,-0.24736111111111111,0.06976744186046512,45,42
+long_history,Other arm,test,command,Uniform random expectation,-0.09549379690427963,-0.16668292678625152,-0.010279317370292102,45,42
+long_history,Other arm,test,extension,Workload + history,-0.13333333333333333,-0.2555789213260762,-0.021725768321513024,45,42
+long_history,Other arm,test,extension,Uniform random expectation,-0.13993824134872407,-0.200492879735034,-0.06376773342313845,45,42
+long_history,Other arm,test,pitch_mix,Workload + history,-0.13333333333333333,-0.26151162790697674,-0.022462121212121225,45,42
+long_history,Other arm,test,pitch_mix,Uniform random expectation,-0.13993824134872407,-0.19981683642294717,-0.07061774867212077,45,42
+long_history,Other arm,test,pitcher_history,Workload + history,-0.1111111111111111,-0.22727272727272727,0.0,45,42
+long_history,Other arm,test,pitcher_history,Uniform random expectation,-0.11771601912650186,-0.19612771608697158,-0.009386637015767717,45,42
+long_history,Other arm,test,release_mechanics,Workload + history,-0.1111111111111111,-0.24757653061224488,0.02300475687103593,45,42
+long_history,Other arm,test,release_mechanics,Uniform random expectation,-0.11771601912650186,-0.18572724035909188,-0.04345624256251337,45,42
+long_history,Other arm,test,spin_movement,Workload + history,-0.1111111111111111,-0.24192028985507247,0.0,45,42
+long_history,Other arm,test,spin_movement,Uniform random expectation,-0.11771601912650186,-0.18921670891223558,-0.029711004806373374,45,42
+long_history,Other arm,test,velocity,Workload + history,-0.06666666666666667,-0.2225790513833992,0.06597826086956518,45,42
+long_history,Other arm,test,velocity,Uniform random expectation,-0.07327157468205743,-0.14861531163739622,0.005089249244259166,45,42
+long_history,Other arm,test,workload,Workload + history,0.0,-0.0851063829787234,0.08059523809523769,45,42
+long_history,Other arm,test,workload,Uniform random expectation,-0.006604908015390744,-0.12218943858753811,0.12024448754091617,45,42
+long_history,Other arm,test,Workload + history,Workload + history,0.0,0.0,0.0,45,42
+long_history,Other arm,test,Workload + history,Uniform random expectation,-0.006604908015390744,-0.11252377398277984,0.1125141545820409,45,42
+long_history,Other arm,test,Velocity + mechanics,Workload + history,-0.06666666666666667,-0.22727272727272727,0.08174999999999992,45,42
+long_history,Other arm,test,Velocity + mechanics,Uniform random expectation,-0.07327157468205743,-0.1537743734935896,0.004147135469693018,45,42
+long_history,Other arm,test,Statcast only,Workload + history,-0.13333333333333333,-0.26666666666666666,-0.010106382978723887,45,42
+long_history,Other arm,test,Statcast only,Uniform random expectation,-0.13993824134872407,-0.19553279812455038,-0.07417941258232179,45,42
+long_history,Other arm,test,WH + velocity,Workload + history,-0.022222222222222223,-0.1111111111111111,0.06746212121212117,45,42
+long_history,Other arm,test,WH + velocity,Uniform random expectation,-0.02882713023761297,-0.12638195779120232,0.09346972993487153,45,42
+long_history,Other arm,test,WH + mechanics,Workload + history,-0.06666666666666667,-0.14447055912914397,0.0,45,42
+long_history,Other arm,test,WH + mechanics,Uniform random expectation,-0.0732715746820574,-0.1656192028770299,0.0396104639146154,45,42
+long_history,Other arm,test,WH + velocity + mechanics,Workload + history,-0.022222222222222223,-0.11363636363636363,0.06666666666666667,45,42
+long_history,Other arm,test,WH + velocity + mechanics,Uniform random expectation,-0.02882713023761297,-0.1150160741510269,0.09650709793062266,45,42
+long_history,Other arm,test,WH + spin/movement,Workload + history,0.0,-0.06611460348162475,0.047619047619047616,45,42
+long_history,Other arm,test,WH + spin/movement,Uniform random expectation,-0.006604908015390744,-0.11005101217098087,0.11175827146910944,45,42
+long_history,Other arm,test,WH + command,Workload + history,0.022222222222222223,-0.045454545454545456,0.10638297872340426,45,42
+long_history,Other arm,test,WH + command,Uniform random expectation,0.015617314206831469,-0.09913074551093887,0.15846243946504257,45,42
+long_history,Other arm,test,WH + pitch mix,Workload + history,-0.06666666666666667,-0.15741161616161617,0.0,45,42
+long_history,Other arm,test,WH + pitch mix,Uniform random expectation,-0.0732715746820574,-0.16121967424063097,0.034658659824471215,45,42
+long_history,Other arm,test,Full,Workload + history,-0.08888888888888889,-0.18959441489361703,0.0,45,42
+long_history,Other arm,test,Full,Uniform random expectation,-0.09549379690427963,-0.17500405500063465,0.0065566479001294715,45,42
+long_history,Trunk / neck,validation,command,Workload + history,0.008064516129032258,-0.09055514157973174,0.10278871391076114,124,111
+long_history,Trunk / neck,validation,command,Uniform random expectation,-0.02699037850080558,-0.08228669353843437,0.03356447644171288,124,111
+long_history,Trunk / neck,validation,extension,Workload + history,-0.04032258064516129,-0.13151518038617888,0.04049468922108575,124,111
+long_history,Trunk / neck,validation,extension,Uniform random expectation,-0.07537747527499912,-0.13220041108575914,-0.022143664650552047,124,111
+long_history,Trunk / neck,validation,pitch_mix,Workload + history,-0.03225806451612903,-0.13044246404002502,0.049203789558556726,124,111
+long_history,Trunk / neck,validation,pitch_mix,Uniform random expectation,-0.06731295914596687,-0.1280010319634534,-0.008989593992856626,124,111
+long_history,Trunk / neck,validation,pitcher_history,Workload + history,-0.04032258064516129,-0.08908831628638868,0.008200631593092788,124,111
+long_history,Trunk / neck,validation,pitcher_history,Uniform random expectation,-0.07537747527499912,-0.12815069539779508,0.002894800962878391,124,111
+long_history,Trunk / neck,validation,release_mechanics,Workload + history,-0.07258064516129033,-0.15239621489621488,0.0,124,111
+long_history,Trunk / neck,validation,release_mechanics,Uniform random expectation,-0.10763553979112815,-0.15151826377559713,-0.05892168330842898,124,111
+long_history,Trunk / neck,validation,spin_movement,Workload + history,0.04032258064516129,-0.06864754098360655,0.13280991735537187,124,111
+long_history,Trunk / neck,validation,spin_movement,Uniform random expectation,0.005267686015323445,-0.06066028659214473,0.0786273686221704,124,111
+long_history,Trunk / neck,validation,velocity,Workload + history,-0.016129032258064516,-0.10611620324803149,0.07666916118956195,124,111
+long_history,Trunk / neck,validation,velocity,Uniform random expectation,-0.05118392688790237,-0.10328750021541847,0.01615068531323895,124,111
+long_history,Trunk / neck,validation,workload,Workload + history,0.016129032258064516,-0.05204209110128771,0.08272952853598006,124,111
+long_history,Trunk / neck,validation,workload,Uniform random expectation,-0.01892586237177333,-0.08092065403257026,0.05086203544301743,124,111
+long_history,Trunk / neck,validation,Workload + history,Workload + history,0.0,0.0,0.0,124,111
+long_history,Trunk / neck,validation,Workload + history,Uniform random expectation,-0.035054894629837845,-0.09166712836127826,0.03957628586266042,124,111
+long_history,Trunk / neck,validation,Velocity + mechanics,Workload + history,-0.008064516129032258,-0.08615591397849462,0.07842941335862329,124,111
+long_history,Trunk / neck,validation,Velocity + mechanics,Uniform random expectation,-0.0431194107588701,-0.09247433932933116,0.02225888688804154,124,111
+long_history,Trunk / neck,validation,Statcast only,Workload + history,0.024193548387096774,-0.07146141732283465,0.1134459016393442,124,111
+long_history,Trunk / neck,validation,Statcast only,Uniform random expectation,-0.010861346242741068,-0.06351285061551397,0.05259200515791814,124,111
+long_history,Trunk / neck,validation,WH + velocity,Workload + history,0.0,-0.06532053845128616,0.06504065040650407,124,111
+long_history,Trunk / neck,validation,WH + velocity,Uniform random expectation,-0.035054894629837845,-0.09740822256722233,0.03155356902301494,124,111
+long_history,Trunk / neck,validation,WH + mechanics,Workload + history,0.024193548387096774,-0.007936507936507936,0.06611570247933884,124,111
+long_history,Trunk / neck,validation,WH + mechanics,Uniform random expectation,-0.010861346242741064,-0.07235199426579277,0.0778618971386062,124,111
+long_history,Trunk / neck,validation,WH + velocity + mechanics,Workload + history,0.008064516129032258,-0.05623709677419355,0.0622897711607388,124,111
+long_history,Trunk / neck,validation,WH + velocity + mechanics,Uniform random expectation,-0.026990378500805587,-0.08489917122371309,0.03818921398350993,124,111
+long_history,Trunk / neck,validation,WH + spin/movement,Workload + history,0.008064516129032258,0.0,0.025423728813559324,124,111
+long_history,Trunk / neck,validation,WH + spin/movement,Uniform random expectation,-0.026990378500805587,-0.08457566672334206,0.053933683004264155,124,111
+long_history,Trunk / neck,validation,WH + command,Workload + history,0.0,-0.032520325203252036,0.03113493217054263,124,111
+long_history,Trunk / neck,validation,WH + command,Uniform random expectation,-0.035054894629837845,-0.09732111462349513,0.04900621669271295,124,111
+long_history,Trunk / neck,validation,WH + pitch mix,Workload + history,0.008064516129032258,-0.024793388429752067,0.046511627906976744,124,111
+long_history,Trunk / neck,validation,WH + pitch mix,Uniform random expectation,-0.02699037850080558,-0.08283495478724785,0.051184005265318216,124,111
+long_history,Trunk / neck,validation,Full,Workload + history,0.04032258064516129,-0.015813648293963253,0.09645760743321713,124,111
+long_history,Trunk / neck,validation,Full,Uniform random expectation,0.005267686015323449,-0.0656546221219624,0.08638310723999247,124,111
+long_history,Trunk / neck,test,command,Workload + history,-0.03529411764705882,-0.1687525354969574,0.08543061133422573,85,75
+long_history,Trunk / neck,test,command,Uniform random expectation,-0.021096275139808968,-0.08595754258361182,0.05824662542110188,85,75
+long_history,Trunk / neck,test,extension,Workload + history,-0.07058823529411765,-0.16470588235294117,0.023255813953488372,85,75
+long_history,Trunk / neck,test,extension,Uniform random expectation,-0.056390392786867784,-0.12868279197310972,0.011450267786728844,85,75
+long_history,Trunk / neck,test,pitch_mix,Workload + history,-0.10588235294117647,-0.21215073529411765,-0.00545977011494279,85,75
+long_history,Trunk / neck,test,pitch_mix,Uniform random expectation,-0.0916845104339266,-0.14722964424548043,-0.032153701903979134,85,75
+long_history,Trunk / neck,test,pitcher_history,Workload + history,-0.058823529411764705,-0.11056852409638554,-0.011627906976744186,85,75
+long_history,Trunk / neck,test,pitcher_history,Uniform random expectation,-0.04462568690451484,-0.11667268078031016,0.03245331239447871,85,75
+long_history,Trunk / neck,test,release_mechanics,Workload + history,-0.07058823529411765,-0.16954481613891725,0.04792025243832471,85,75
+long_history,Trunk / neck,test,release_mechanics,Uniform random expectation,-0.056390392786867784,-0.11808430925072622,0.0062166967945735925,85,75
+long_history,Trunk / neck,test,spin_movement,Workload + history,-0.047058823529411764,-0.1579946633825944,0.06938652766639934,85,75
+long_history,Trunk / neck,test,spin_movement,Uniform random expectation,-0.0328609810221619,-0.09674415073847517,0.032244968575285096,85,75
+long_history,Trunk / neck,test,velocity,Workload + history,-0.058823529411764705,-0.16482558139534884,0.05133346248224179,85,75
+long_history,Trunk / neck,test,velocity,Uniform random expectation,-0.04462568690451483,-0.11242958186604152,0.02754585073335529,85,75
+long_history,Trunk / neck,test,workload,Workload + history,0.0,-0.06177591463414634,0.06781792645556689,85,75
+long_history,Trunk / neck,test,workload,Uniform random expectation,0.014197842507249873,-0.06832644448800236,0.09782897737038444,85,75
+long_history,Trunk / neck,test,Workload + history,Workload + history,0.0,0.0,0.0,85,75
+long_history,Trunk / neck,test,Workload + history,Uniform random expectation,0.014197842507249862,-0.06960140804019305,0.10989155496245416,85,75
+long_history,Trunk / neck,test,Velocity + mechanics,Workload + history,-0.07058823529411765,-0.17472383720930232,0.022883459628952163,85,75
+long_history,Trunk / neck,test,Velocity + mechanics,Uniform random expectation,-0.056390392786867784,-0.12122242646911317,0.010407114448389983,85,75
+long_history,Trunk / neck,test,Statcast only,Workload + history,-0.08235294117647059,-0.19189664502164502,0.023809523809523808,85,75
+long_history,Trunk / neck,test,Statcast only,Uniform random expectation,-0.06815509866922072,-0.13400275632393202,-0.003716338612584509,85,75
+long_history,Trunk / neck,test,WH + velocity,Workload + history,-0.047058823529411764,-0.10714285714285714,0.00576923076923052,85,75
+long_history,Trunk / neck,test,WH + velocity,Uniform random expectation,-0.0328609810221619,-0.1119239967957213,0.058925127967888444,85,75
+long_history,Trunk / neck,test,WH + mechanics,Workload + history,-0.011764705882352941,-0.049420731707317075,0.023809523809523808,85,75
+long_history,Trunk / neck,test,WH + mechanics,Uniform random expectation,0.002433136624896932,-0.07772224192655185,0.08675366546356764,85,75
+long_history,Trunk / neck,test,WH + velocity + mechanics,Workload + history,-0.03529411764705882,-0.09308992562542258,0.012204373047746535,85,75
+long_history,Trunk / neck,test,WH + velocity + mechanics,Uniform random expectation,-0.021096275139808957,-0.09706676961237659,0.07665734386759032,85,75
+long_history,Trunk / neck,test,WH + spin/movement,Workload + history,0.0,0.0,0.0,85,75
+long_history,Trunk / neck,test,WH + spin/movement,Uniform random expectation,0.014197842507249862,-0.06960140804019305,0.10989155496245416,85,75
+long_history,Trunk / neck,test,WH + command,Workload + history,0.0,0.0,0.0,85,75
+long_history,Trunk / neck,test,WH + command,Uniform random expectation,0.014197842507249862,-0.06960140804019305,0.10989155496245416,85,75
+long_history,Trunk / neck,test,WH + pitch mix,Workload + history,0.0,-0.035940189328743544,0.033908963227783445,85,75
+long_history,Trunk / neck,test,WH + pitch mix,Uniform random expectation,0.014197842507249862,-0.06777937547854217,0.10591203440170927,85,75
+long_history,Trunk / neck,test,Full,Workload + history,0.0,-0.06594889463106517,0.06859326018808776,85,75
+long_history,Trunk / neck,test,Full,Uniform random expectation,0.014197842507249862,-0.0751268873523868,0.10667369985456528,85,75
+long_history,Lower body,validation,command,Workload + history,0.0718954248366013,-0.016705943082862013,0.14570806962025315,153,125
+long_history,Lower body,validation,command,Uniform random expectation,-0.0002966964312066224,-0.05191030621685215,0.05047856658366923,153,125
+long_history,Lower body,validation,extension,Workload + history,0.032679738562091505,-0.054045954045954046,0.12053503184713374,153,125
+long_history,Lower body,validation,extension,Uniform random expectation,-0.03951238270571643,-0.10062307824296872,0.020603846426612928,153,125
+long_history,Lower body,validation,pitch_mix,Workload + history,0.0,-0.08296703296703296,0.07846035543403962,153,125
+long_history,Lower body,validation,pitch_mix,Uniform random expectation,-0.07219212126780793,-0.12421752697756867,-0.011967564164313677,153,125
+long_history,Lower body,validation,pitcher_history,Workload + history,-0.032679738562091505,-0.06493506493506493,0.0,153,125
+long_history,Lower body,validation,pitcher_history,Uniform random expectation,-0.10487185982989941,-0.1603580012686209,-0.0554076447086554,153,125
+long_history,Lower body,validation,release_mechanics,Workload + history,-0.0784313725490196,-0.13578341013824885,-0.016203643461288338,153,125
+long_history,Lower body,validation,release_mechanics,Uniform random expectation,-0.15062349381682752,-0.1822503230719388,-0.11287611059025048,153,125
+long_history,Lower body,validation,spin_movement,Workload + history,0.0,-0.07643312101910828,0.06903652591019889,153,125
+long_history,Lower body,validation,spin_movement,Uniform random expectation,-0.07219212126780793,-0.13046257325356767,-0.021574240549665637,153,125
+long_history,Lower body,validation,velocity,Workload + history,-0.0196078431372549,-0.09120756402620607,0.04522193537641568,153,125
+long_history,Lower body,validation,velocity,Uniform random expectation,-0.09179996440506283,-0.13738774783138233,-0.04127358412846265,153,125
+long_history,Lower body,validation,workload,Workload + history,0.0718954248366013,-0.0031626506024096356,0.15397008055235895,153,125
+long_history,Lower body,validation,workload,Uniform random expectation,-0.0002966964312066224,-0.05851298794341725,0.06231583553753394,153,125
+long_history,Lower body,validation,Workload + history,Workload + history,0.0,0.0,0.0,153,125
+long_history,Lower body,validation,Workload + history,Uniform random expectation,-0.07219212126780791,-0.1252081136899262,-0.011818218709850874,153,125
+long_history,Lower body,validation,Velocity + mechanics,Workload + history,-0.026143790849673203,-0.10014005602240897,0.03324244966442951,153,125
+long_history,Lower body,validation,Velocity + mechanics,Uniform random expectation,-0.09833591211748112,-0.142162392497506,-0.04646348899155042,153,125
+long_history,Lower body,validation,Statcast only,Workload + history,-0.013071895424836602,-0.09646617476372078,0.049738943488943387,153,125
+long_history,Lower body,validation,Statcast only,Uniform random expectation,-0.08526401669264452,-0.13653186382777097,-0.03417287382606184,153,125
+long_history,Lower body,validation,WH + velocity,Workload + history,0.006535947712418301,-0.01929590570719603,0.034482758620689655,153,125
+long_history,Lower body,validation,WH + velocity,Uniform random expectation,-0.06565617355538961,-0.12150019953257843,-0.01011189606082758,153,125
+long_history,Lower body,validation,WH + mechanics,Workload + history,0.0,-0.01929590570719603,0.02,153,125
+long_history,Lower body,validation,WH + mechanics,Uniform random expectation,-0.07219212126780791,-0.1284871888121986,-0.009015023686691537,153,125
+long_history,Lower body,validation,WH + velocity + mechanics,Workload + history,0.006535947712418301,-0.02000755589137295,0.03628943908851882,153,125
+long_history,Lower body,validation,WH + velocity + mechanics,Uniform random expectation,-0.06565617355538961,-0.12127382414788763,-0.004753935822097766,153,125
+long_history,Lower body,validation,WH + spin/movement,Workload + history,0.006535947712418301,-0.02034266409266409,0.032381221719456996,153,125
+long_history,Lower body,validation,WH + spin/movement,Uniform random expectation,-0.06565617355538961,-0.12215323038409259,-0.006710577227658948,153,125
+long_history,Lower body,validation,WH + command,Workload + history,0.0,-0.019547364400305578,0.019874999999999993,153,125
+long_history,Lower body,validation,WH + command,Uniform random expectation,-0.07219212126780791,-0.12438841282064567,-0.01433699719120871,153,125
+long_history,Lower body,validation,WH + pitch mix,Workload + history,0.0,-0.02640728476821192,0.02641830065359476,153,125
+long_history,Lower body,validation,WH + pitch mix,Uniform random expectation,-0.07219212126780791,-0.12325850121966007,-0.013723549475450764,153,125
+long_history,Lower body,validation,Full,Workload + history,0.026143790849673203,-0.006473607038123167,0.0660182119205298,153,125
+long_history,Lower body,validation,Full,Uniform random expectation,-0.04604833041813473,-0.10848285063444042,0.02050773306772467,153,125
+long_history,Lower body,test,command,Workload + history,-0.088,-0.21311475409836064,0.027755905511810845,125,106
+long_history,Lower body,test,command,Uniform random expectation,-0.03352708701281818,-0.09620526009772423,0.02961605686387557,125,106
+long_history,Lower body,test,extension,Workload + history,-0.112,-0.2168701550387597,-0.016123577235772363,125,106
+long_history,Lower body,test,extension,Uniform random expectation,-0.05752708701281818,-0.10387959686680387,-0.0017733270589433588,125,106
+long_history,Lower body,test,pitch_mix,Workload + history,-0.184,-0.2841751453488372,-0.10808884913536078,125,106
+long_history,Lower body,test,pitch_mix,Uniform random expectation,-0.12952708701281815,-0.16497942963059922,-0.09563681338608954,125,106
+long_history,Lower body,test,pitcher_history,Workload + history,-0.088,-0.13892496847414879,-0.04114449261617668,125,106
+long_history,Lower body,test,pitcher_history,Uniform random expectation,-0.03352708701281818,-0.09854034692755394,0.05206473163213488,125,106
+long_history,Lower body,test,release_mechanics,Workload + history,-0.128,-0.23017023959646912,-0.036062321103304866,125,106
+long_history,Lower body,test,release_mechanics,Uniform random expectation,-0.07352708701281817,-0.12224457200776119,-0.023797892612949022,125,106
+long_history,Lower body,test,spin_movement,Workload + history,-0.12,-0.23296423037190084,-0.024686695569706006,125,106
+long_history,Lower body,test,spin_movement,Uniform random expectation,-0.06552708701281817,-0.12157643841622089,-0.007902443628194781,125,106
+long_history,Lower body,test,velocity,Workload + history,-0.152,-0.25611427436440676,-0.05553700787401577,125,106
+long_history,Lower body,test,velocity,Uniform random expectation,-0.09752708701281816,-0.140539317128343,-0.05374726597702063,125,106
+long_history,Lower body,test,workload,Workload + history,0.024,-0.060499316005471954,0.1072202620967741,125,106
+long_history,Lower body,test,workload,Uniform random expectation,0.07847291298718183,-0.001076500727580018,0.1498469674871406,125,106
+long_history,Lower body,test,Workload + history,Workload + history,0.0,0.0,0.0,125,106
+long_history,Lower body,test,Workload + history,Uniform random expectation,0.05447291298718183,-0.0229094881113469,0.1512127121312287,125,106
+long_history,Lower body,test,Velocity + mechanics,Workload + history,-0.152,-0.2569515625,-0.06583118818588268,125,106
+long_history,Lower body,test,Velocity + mechanics,Uniform random expectation,-0.09752708701281816,-0.13857212830893803,-0.05779827279890906,125,106
+long_history,Lower body,test,Statcast only,Workload + history,-0.128,-0.22971021075581394,-0.035766224614004874,125,106
+long_history,Lower body,test,Statcast only,Uniform random expectation,-0.07352708701281815,-0.11749709475851662,-0.027532581778408602,125,106
+long_history,Lower body,test,WH + velocity,Workload + history,0.016,-0.008478776125834949,0.04840975609756096,125,106
+long_history,Lower body,test,WH + velocity,Uniform random expectation,0.07047291298718183,-0.008965255534986042,0.1728817829705197,125,106
+long_history,Lower body,test,WH + mechanics,Workload + history,0.0,0.0,0.0,125,106
+long_history,Lower body,test,WH + mechanics,Uniform random expectation,0.05447291298718183,-0.0229094881113469,0.1512127121312287,125,106
+long_history,Lower body,test,WH + velocity + mechanics,Workload + history,0.0,-0.040169354838709675,0.04116142799078715,125,106
+long_history,Lower body,test,WH + velocity + mechanics,Uniform random expectation,0.05447291298718183,-0.028066766921210823,0.14732204795707982,125,106
+long_history,Lower body,test,WH + spin/movement,Workload + history,0.0,-0.025210084033613446,0.03227317073170731,125,106
+long_history,Lower body,test,WH + spin/movement,Uniform random expectation,0.054472912987181814,-0.023331357752082813,0.14470480804968044,125,106
+long_history,Lower body,test,WH + command,Workload + history,0.016,0.0,0.039080144051760954,125,106
+long_history,Lower body,test,WH + command,Uniform random expectation,0.07047291298718185,-0.013827642020555038,0.1634085683179776,125,106
+long_history,Lower body,test,WH + pitch mix,Workload + history,-0.008,-0.02490185950413223,0.0,125,106
+long_history,Lower body,test,WH + pitch mix,Uniform random expectation,0.046472912987181814,-0.03054581176006842,0.14230849729136938,125,106
+long_history,Lower body,test,Full,Workload + history,0.008,-0.04670239825581395,0.06138392857142852,125,106
+long_history,Lower body,test,Full,Uniform random expectation,0.062472912987181835,-0.015229029622086833,0.14274038096351216,125,106
+long_history,Hand / wrist,validation,command,Workload + history,-0.19444444444444445,-0.3611111111111111,-0.02738363363363365,36,31
+long_history,Hand / wrist,validation,command,Uniform random expectation,-0.0956415879804981,-0.15494911079169124,-0.011538010129615561,36,31
+long_history,Hand / wrist,validation,extension,Workload + history,-0.19444444444444445,-0.38235294117647056,0.0,36,31
+long_history,Hand / wrist,validation,extension,Uniform random expectation,-0.0956415879804981,-0.18067077423173908,0.011127546681346369,36,31
+long_history,Hand / wrist,validation,pitch_mix,Workload + history,-0.2222222222222222,-0.38578431372549016,-0.06653846153846199,36,31
+long_history,Hand / wrist,validation,pitch_mix,Uniform random expectation,-0.12341936575827589,-0.18855816096989378,-0.05370907255556258,36,31
+long_history,Hand / wrist,validation,pitcher_history,Workload + history,-0.08333333333333333,-0.23040441176470589,0.030800189393939373,36,31
+long_history,Hand / wrist,validation,pitcher_history,Uniform random expectation,0.015469523130613009,-0.10558485124846473,0.1417110589377266,36,31
+long_history,Hand / wrist,validation,release_mechanics,Workload + history,-0.16666666666666666,-0.329054054054054,-0.011585365853659092,36,31
+long_history,Hand / wrist,validation,release_mechanics,Uniform random expectation,-0.06786381020272032,-0.14794510977197892,0.04071776209245238,36,31
+long_history,Hand / wrist,validation,spin_movement,Workload + history,-0.1388888888888889,-0.29411764705882354,0.0,36,31
+long_history,Hand / wrist,validation,spin_movement,Uniform random expectation,-0.04008603242494255,-0.12751570297165934,0.053528606541757215,36,31
+long_history,Hand / wrist,validation,velocity,Workload + history,-0.16666666666666666,-0.35135135135135137,0.02827901430842602,36,31
+long_history,Hand / wrist,validation,velocity,Uniform random expectation,-0.06786381020272032,-0.15641227681739725,0.047721318448367876,36,31
+long_history,Hand / wrist,validation,workload,Workload + history,0.0,-0.14285714285714285,0.14705882352941177,36,31
+long_history,Hand / wrist,validation,workload,Uniform random expectation,0.09880285646394633,-0.044720652951700225,0.2761436078796047,36,31
+long_history,Hand / wrist,validation,Workload + history,Workload + history,0.0,0.0,0.0,36,31
+long_history,Hand / wrist,validation,Workload + history,Uniform random expectation,0.09880285646394633,-0.03475302729045032,0.24565002406706862,36,31
+long_history,Hand / wrist,validation,Velocity + mechanics,Workload + history,-0.19444444444444445,-0.34774070945945945,-0.06650735294117684,36,31
+long_history,Hand / wrist,validation,Velocity + mechanics,Uniform random expectation,-0.0956415879804981,-0.1676760524036093,0.0013227651554911814,36,31
+long_history,Hand / wrist,validation,Statcast only,Workload + history,-0.2222222222222222,-0.3665277777777778,-0.08446428571428577,36,31
+long_history,Hand / wrist,validation,Statcast only,Uniform random expectation,-0.12341936575827589,-0.1786687806645106,-0.041527344052896015,36,31
+long_history,Hand / wrist,validation,WH + velocity,Workload + history,-0.027777777777777776,-0.13088235294117645,0.05638888888888885,36,31
+long_history,Hand / wrist,validation,WH + velocity,Uniform random expectation,0.07102507868616856,-0.05312332821166968,0.2062579644957492,36,31
+long_history,Hand / wrist,validation,WH + mechanics,Workload + history,0.027777777777777776,-0.07692307692307693,0.11764705882352941,36,31
+long_history,Hand / wrist,validation,WH + mechanics,Uniform random expectation,0.1265806342417241,-0.012684814586480212,0.31115707512413987,36,31
+long_history,Hand / wrist,validation,WH + velocity + mechanics,Workload + history,-0.027777777777777776,-0.12160014781966001,0.058823529411764705,36,31
+long_history,Hand / wrist,validation,WH + velocity + mechanics,Uniform random expectation,0.07102507868616856,-0.062216090073538524,0.23540885467761388,36,31
+long_history,Hand / wrist,validation,WH + spin/movement,Workload + history,0.027777777777777776,0.0,0.08823529411764706,36,31
+long_history,Hand / wrist,validation,WH + spin/movement,Uniform random expectation,0.1265806342417241,-0.00995523275855418,0.2908475576054379,36,31
+long_history,Hand / wrist,validation,WH + command,Workload + history,0.0,-0.0625,0.06075367647058815,36,31
+long_history,Hand / wrist,validation,WH + command,Uniform random expectation,0.09880285646394633,-0.02381674319104154,0.23642536101176206,36,31
+long_history,Hand / wrist,validation,WH + pitch mix,Workload + history,0.0,-0.09747104247104246,0.08108108108108109,36,31
+long_history,Hand / wrist,validation,WH + pitch mix,Uniform random expectation,0.09880285646394633,-0.0580742430432311,0.24968721448970121,36,31
+long_history,Hand / wrist,validation,Full,Workload + history,-0.027777777777777776,-0.13344594594594594,0.05802521008403357,36,31
+long_history,Hand / wrist,validation,Full,Uniform random expectation,0.07102507868616856,-0.06590509693579825,0.21321148709699694,36,31
+long_history,Hand / wrist,test,command,Workload + history,-0.24242424242424243,-0.3870967741935484,-0.10215780296425483,33,29
+long_history,Hand / wrist,test,command,Uniform random expectation,-0.14346424633723534,-0.2056716935337646,-0.06581894867479787,33,29
+long_history,Hand / wrist,test,extension,Workload + history,-0.21212121212121213,-0.4288810483870968,-0.030303030303030304,33,29
+long_history,Hand / wrist,test,extension,Uniform random expectation,-0.11316121603420505,-0.18127386817184943,-0.0235758272079054,33,29
+long_history,Hand / wrist,test,pitch_mix,Workload + history,-0.24242424242424243,-0.4375,-0.06150568181818186,33,29
+long_history,Hand / wrist,test,pitch_mix,Uniform random expectation,-0.14346424633723534,-0.19818852190529435,-0.07918565927505745,33,29
+long_history,Hand / wrist,test,pitcher_history,Workload + history,-0.09090909090909091,-0.2174242424242424,0.03177923387096772,33,29
+long_history,Hand / wrist,test,pitcher_history,Uniform random expectation,0.008050905177916172,-0.12816211247099552,0.1725862587474579,33,29
+long_history,Hand / wrist,test,release_mechanics,Workload + history,-0.18181818181818182,-0.36363636363636365,-0.029393939393939434,33,29
+long_history,Hand / wrist,test,release_mechanics,Uniform random expectation,-0.08285818573117475,-0.17762677262876772,0.028490292670809242,33,29
+long_history,Hand / wrist,test,spin_movement,Workload + history,-0.15151515151515152,-0.3813508064516129,0.07532618825722247,33,29
+long_history,Hand / wrist,test,spin_movement,Uniform random expectation,-0.05255515542814444,-0.13937194192257876,0.08044942155934875,33,29
+long_history,Hand / wrist,test,velocity,Workload + history,-0.15151515151515152,-0.38090770791075046,0.03177923387096772,33,29
+long_history,Hand / wrist,test,velocity,Uniform random expectation,-0.05255515542814444,-0.14025525819625545,0.04310898477926164,33,29
+long_history,Hand / wrist,test,workload,Workload + history,-0.12121212121212122,-0.2625806451612903,0.0,33,29
+long_history,Hand / wrist,test,workload,Uniform random expectation,-0.022252125125114146,-0.16296730671681178,0.12676381725371028,33,29
+long_history,Hand / wrist,test,Workload + history,Workload + history,0.0,0.0,0.0,33,29
+long_history,Hand / wrist,test,Workload + history,Uniform random expectation,0.09895999608700706,-0.07610796359166797,0.2786140783143217,33,29
+long_history,Hand / wrist,test,Velocity + mechanics,Workload + history,-0.18181818181818182,-0.388125,0.030303030303030304,33,29
+long_history,Hand / wrist,test,Velocity + mechanics,Uniform random expectation,-0.08285818573117475,-0.17284483705306777,0.029837313768243782,33,29
+long_history,Hand / wrist,test,Statcast only,Workload + history,-0.24242424242424243,-0.4375,-0.06150568181818186,33,29
+long_history,Hand / wrist,test,Statcast only,Uniform random expectation,-0.14346424633723534,-0.19818852190529435,-0.07918565927505745,33,29
+long_history,Hand / wrist,test,WH + velocity,Workload + history,-0.09090909090909091,-0.20963949843260188,0.030800189393939373,33,29
+long_history,Hand / wrist,test,WH + velocity,Uniform random expectation,0.008050905177916172,-0.12696088783870355,0.18033636052557106,33,29
+long_history,Hand / wrist,test,WH + mechanics,Workload + history,-0.09090909090909091,-0.2,0.0,33,29
+long_history,Hand / wrist,test,WH + mechanics,Uniform random expectation,0.008050905177916172,-0.13693274906660152,0.17101554134117916,33,29
+long_history,Hand / wrist,test,WH + velocity + mechanics,Workload + history,-0.030303030303030304,-0.16666666666666666,0.0984677419354838,33,29
+long_history,Hand / wrist,test,WH + velocity + mechanics,Uniform random expectation,0.06865696578397677,-0.08453501501442046,0.2278551617200416,33,29
+long_history,Hand / wrist,test,WH + spin/movement,Workload + history,-0.030303030303030304,-0.09846774193548387,0.0,33,29
+long_history,Hand / wrist,test,WH + spin/movement,Uniform random expectation,0.06865696578397679,-0.09287197566474768,0.2478612374052308,33,29
+long_history,Hand / wrist,test,WH + command,Workload + history,-0.030303030303030304,-0.09240056818181819,0.0,33,29
+long_history,Hand / wrist,test,WH + command,Uniform random expectation,0.06865696578397676,-0.0918274483698168,0.25467524649162576,33,29
+long_history,Hand / wrist,test,WH + pitch mix,Workload + history,-0.030303030303030304,-0.09533770161290323,0.0,33,29
+long_history,Hand / wrist,test,WH + pitch mix,Uniform random expectation,0.06865696578397677,-0.09004834488990712,0.26347942333714275,33,29
+long_history,Hand / wrist,test,Full,Workload + history,-0.06060606060606061,-0.25,0.09375,33,29
+long_history,Hand / wrist,test,Full,Uniform random expectation,0.03835393548094646,-0.10038265868683534,0.18546784659672835,33,29

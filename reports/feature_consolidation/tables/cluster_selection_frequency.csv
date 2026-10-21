@@ -1,0 +1,190 @@
+correlation_cluster,signal_interpretation,cluster_selection_frequency
+Appearance performance__001,Current state,1.0
+Appearance performance__002,Current state,1.0
+Appearance performance__003,Current state,0.6875
+Appearance performance__004,Current state,0.875
+Appearance performance__005,Current state,0.5625
+Appearance performance__006,Current state,1.0
+Extension__001,Departure,0.9375
+Extension__002,Departure,0.8125
+Extension__003,Trend,0.875
+Extension__004,Current state,0.5
+Extension__004,Profile/history,1.0
+Extension__005,Current state,0.9375
+Extension__005,Profile/history,1.0
+Extension__006,Current state,0.6875
+Extension__006,Profile/history,1.0
+Extension__007,Profile/history,1.0
+Extension__008,Current state,0.5625
+Extension__009,Profile/history,1.0
+Location and strike fractions__001,Profile/history,0.875
+Location and strike fractions__002,Trend,0.8125
+Location and strike fractions__003,Current state,0.875
+Location and strike fractions__004,Current state,0.9375
+Location and strike fractions__005,Departure,0.5
+Location and strike fractions__006,Current state,0.0625
+Location and strike fractions__007,Current state,0.75
+Location and strike fractions__008,Departure,0.4375
+Location and strike fractions__009,Departure,0.1875
+Location and strike fractions__010,Current state,0.625
+Location and strike fractions__011,Current state,0.875
+Location and strike fractions__012,Current state,0.75
+Location and strike fractions__013,Current state,0.875
+Location and strike fractions__014,Departure,0.25
+Location and strike fractions__015,Current state,0.75
+Location and strike fractions__016,Current state,0.8125
+Location and strike fractions__017,Departure,0.5
+Location and strike fractions__018,Current state,0.875
+Location and strike fractions__019,Current state,0.9375
+Location and strike fractions__020,Profile/history,0.9375
+Location and strike fractions__021,Profile/history,0.5625
+Location and strike fractions__022,Profile/history,0.9375
+Location and strike fractions__023,Profile/history,0.6875
+Location and strike fractions__024,Profile/history,0.6875
+Location and strike fractions__025,Profile/history,0.875
+Location and strike fractions__026,Profile/history,0.9375
+Location and strike fractions__027,Profile/history,0.875
+Location and strike fractions__028,Profile/history,0.8125
+Location and strike fractions__029,Profile/history,0.375
+Location and strike fractions__030,Profile/history,0.5625
+Location and strike fractions__031,Profile/history,0.625
+Location and strike fractions__032,Profile/history,0.875
+Location and strike fractions__033,Current state,0.8125
+Location and strike fractions__034,Current state,0.8125
+Pitch mix and pitch-type counts__001,Current state,0.75
+Pitch mix and pitch-type counts__002,Current state,0.125
+Pitch mix and pitch-type counts__003,Profile/history,1.0
+Pitch mix and pitch-type counts__004,Profile/history,0.9375
+Pitch mix and pitch-type counts__005,Profile/history,0.75
+Pitch mix and pitch-type counts__006,Profile/history,1.0
+Pitch mix and pitch-type counts__007,Current state,0.9375
+Pitch mix and pitch-type counts__008,Current state,0.9375
+Pitch mix and pitch-type counts__009,Departure,0.25
+Pitch mix and pitch-type counts__010,Departure,0.3125
+Pitch mix and pitch-type counts__011,Departure,0.5625
+Pitch mix and pitch-type counts__012,Departure,0.75
+Pitch mix and pitch-type counts__013,Departure,0.625
+Pitch mix and pitch-type counts__014,Departure,0.4375
+Pitch mix and pitch-type counts__015,Departure,0.5625
+Pitch mix and pitch-type counts__016,Current state,1.0
+Pitch mix and pitch-type counts__017,Profile/history,0.9375
+Pitch mix and pitch-type counts__018,Profile/history,0.875
+Pitch mix and pitch-type counts__019,Current state,1.0
+Pitch mix and pitch-type counts__020,Departure,0.875
+Pitch mix and pitch-type counts__021,Current state,0.9375
+Pitch mix and pitch-type counts__022,Current state,0.4375
+Pitch mix and pitch-type counts__023,Current state,1.0
+Pitch mix and pitch-type counts__024,Profile/history,1.0
+Pitch mix and pitch-type counts__025,Current state,1.0
+Pitch mix and pitch-type counts__025,Profile/history,1.0
+Pitch mix and pitch-type counts__026,Profile/history,1.0
+Pitch mix and pitch-type counts__027,Current state,0.6875
+Pitch mix and pitch-type counts__028,Departure,0.6875
+Pitch mix and pitch-type counts__029,Profile/history,0.9375
+Pitch mix and pitch-type counts__030,Current state,1.0
+Pitch mix and pitch-type counts__031,Departure,0.1875
+Pitch mix and pitch-type counts__032,Profile/history,0.6875
+Pitch mix and pitch-type counts__033,Current state,0.375
+Pitch mix and pitch-type counts__034,Profile/history,0.9375
+Pitch mix and pitch-type counts__035,Current state,0.6875
+Pitch mix and pitch-type counts__036,Departure,0.0
+Pitch movement__001,Current state,1.0
+Pitch movement__002,Profile/history,1.0
+Pitch movement__003,Current state,1.0
+Pitch movement__004,Current state,1.0
+Pitch movement__005,Current state,0.875
+Pitch movement__006,Current state,1.0
+Pitch movement__007,Departure,0.5625
+Pitch movement__008,Departure,0.6875
+Pitch movement__009,Current state,0.9375
+Pitch movement__010,Current state,0.75
+Pitch movement__011,Current state,0.75
+Pitch movement__012,Current state,0.8125
+Pitch movement__013,Profile/history,0.9375
+Pitch movement__014,Current state,0.5625
+Pitcher background and experience__001,Profile/history,1.0
+Pitcher background and experience__002,Profile/history,1.0
+Pitcher background and experience__003,Profile/history,0.9375
+Pitcher background and experience__004,Profile/history,0.875
+Pitcher background and experience__005,Profile/history,1.0
+Pitcher background and experience__006,Profile/history,1.0
+Pitcher background and experience__007,Profile/history,0.75
+Release position and variability__001,Current state,0.9375
+Release position and variability__001,Profile/history,1.0
+Release position and variability__002,Current state,0.8125
+Release position and variability__002,Profile/history,1.0
+Release position and variability__003,Current state,0.9375
+Release position and variability__003,Profile/history,1.0
+Release position and variability__004,Profile/history,1.0
+Release position and variability__005,Departure,1.0
+Release position and variability__006,Departure,1.0
+Release position and variability__007,Trend,0.875
+Release position and variability__008,Departure,1.0
+Release position and variability__009,Departure,1.0
+Release position and variability__010,Trend,1.0
+Release position and variability__011,Trend,0.75
+Release position and variability__012,Trend,0.8125
+Release position and variability__013,Departure,0.875
+Release position and variability__014,Departure,0.625
+Release position and variability__015,Departure,0.625
+Release position and variability__016,Departure,0.9375
+Release position and variability__017,Profile/history,0.9375
+Release position and variability__018,Profile/history,0.875
+Release position and variability__019,Current state,0.5625
+Release position and variability__020,Profile/history,0.9375
+Release position and variability__021,Profile/history,1.0
+Release position and variability__022,Current state,0.625
+Release position and variability__023,Profile/history,0.875
+Release position and variability__024,Profile/history,0.875
+Release position and variability__025,Profile/history,0.875
+Release position and variability__026,Profile/history,1.0
+Role and recent starts__001,Current state,1.0
+Role and recent starts__002,Profile/history,1.0
+Role and recent starts__003,Current state,1.0
+Spin__001,Departure,0.5625
+Spin__002,Departure,0.4375
+Spin__003,Trend,0.8125
+Spin__004,Profile/history,1.0
+Spin__005,Current state,0.875
+Spin__006,Profile/history,1.0
+Spin__007,Profile/history,1.0
+Spin__008,Current state,0.6875
+Spin__009,Profile/history,1.0
+Spin__010,Current state,0.9375
+Spin__011,Profile/history,1.0
+Spin__012,Current state,0.8125
+Spin__013,Profile/history,1.0
+Spin__014,Current state,0.75
+Spin__015,Profile/history,1.0
+Velocity__001,Departure,0.8125
+Velocity__002,Departure,1.0
+Velocity__003,Departure,0.9375
+Velocity__004,Trend,0.875
+Velocity__005,Profile/history,1.0
+Velocity__006,Current state,0.3125
+Velocity__007,Profile/history,1.0
+Velocity__008,Current state,0.6875
+Velocity__008,Profile/history,1.0
+Velocity__009,Profile/history,1.0
+Velocity__010,Current state,1.0
+Velocity__011,Current state,0.8125
+Velocity__012,Current state,0.875
+Velocity__012,Profile/history,0.9375
+Velocity__013,Profile/history,0.9375
+Workload and rest__001,Workload,0.6875
+Workload and rest__002,Workload,1.0
+Workload and rest__003,Workload,0.625
+Workload and rest__004,Workload,1.0
+Workload and rest__005,Workload,0.0625
+Workload and rest__006,Workload,0.8125
+Workload and rest__007,Workload,1.0
+Workload and rest__008,Workload,1.0
+Workload and rest__009,Workload,0.6875
+Workload and rest__010,Workload,0.9375
+Workload and rest__011,Workload,0.8125
+Workload and rest__012,Workload,1.0
+Workload and rest__013,Workload,0.8125
+Workload and rest__014,Workload,0.9375
+Workload and rest__015,Workload,0.9375
+Workload and rest__016,Profile/history,0.875
+Workload and rest__017,Workload,1.0

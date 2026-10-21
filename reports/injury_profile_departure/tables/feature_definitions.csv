@@ -1,0 +1,80 @@
+feature,block,rationale,train_missing_fraction
+acute_chronic_pitch_ratio,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.02022078121340838
+age_at_appearance,Profile: slowly changing context,"Age, handedness, observed experience or strictly prior reported IL history; not proof of causal susceptibility.",0.0
+appearances_prev_14d,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.014471102210234751
+appearances_prev_28d,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.02022078121340838
+avg_fb_velo,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.007558566779452973
+avg_fb_velo_baseline_mean,Profile: prior measurement mean,"Up to 20 strictly prior outings, at least five valid measurements; slowly evolving, not immutable.",0.0004118449847778863
+calendar_month,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.0
+ch_usage_pct,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.0
+cu_usage_pct,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.0
+days_since_mlb_debut,Profile: slowly changing context,"Age, handedness, observed experience or strictly prior reported IL history; not proof of causal susceptibility.",0.0
+extension_avg,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.0018815663030048533
+extension_avg_baseline_mean,Profile: prior measurement mean,"Up to 20 strictly prior outings, at least five valid measurements; slowly evolving, not immutable.",0.000565277430087295
+extension_change_vs_prev_5,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.0018815663030048533
+extension_sd,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.007001364741224068
+extension_slope_prev_5,Secondary: prior trend,"Slope over up to five earlier outings, excluding current and future days.",0.00011305548601745899
+extension_z,Departure: current relative to prior baseline,Current value minus prior mean divided by prior SD; available after current outing.,0.0024145421656585884
+fastball_usage_pct,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.0
+fastball_usage_pct_change_vs_prev_5,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.0
+fb_velo_change_vs_prev_3,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.00886678026051214
+fb_velo_change_vs_prev_5,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.007590868346886532
+fb_velo_sd,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.02575242463640548
+fb_velo_slope_prev_5,Secondary: prior trend,"Slope over up to five earlier outings, excluding current and future days.",0.00038761880920271655
+first_pitch_strike_pct,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.00016150783716779857
+hbp_rate,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.0
+horizontal_movement_avg,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",8.075391858389929e-06
+horizontal_movement_avg_change_vs_prev_5,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",8.075391858389929e-06
+innings_pitched,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.0
+is_starter,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.0
+location_variability,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.005144024613794385
+location_variability_change_vs_prev_5,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.005144024613794385
+observed_prior_mlb_starts,Profile: slowly changing context,"Age, handedness, observed experience or strictly prior reported IL history; not proof of causal susceptibility.",0.0
+pitches_prev_14d,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.014471102210234751
+pitches_prev_28d,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.02022078121340838
+pitches_prev_7d,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.011337850169179459
+previous_season_innings,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.12333545985318937
+prior_reported_il_count,Profile: slowly changing context,"Age, handedness, observed experience or strictly prior reported IL history; not proof of causal susceptibility.",0.0
+release_x_avg,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",5.6527743008729496e-05
+release_x_avg_baseline_mean,Profile: prior measurement mean,"Up to 20 strictly prior outings, at least five valid measurements; slowly evolving, not immutable.",7.267852672550936e-05
+release_x_change_vs_prev_5,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",5.6527743008729496e-05
+release_x_sd,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.005144024613794385
+release_x_sd_baseline_mean,Profile: prior measurement mean,"Up to 20 strictly prior outings, at least five valid measurements; slowly evolving, not immutable.",0.00032301567433559714
+release_x_sd_slope_prev_5,Secondary: prior trend,"Slope over up to five earlier outings, excluding current and future days.",4.037695929194964e-05
+release_x_sd_z,Departure: current relative to prior baseline,Current value minus prior mean divided by prior SD; available after current outing.,0.005467040288129981
+release_x_slope_prev_5,Secondary: prior trend,"Slope over up to five earlier outings, excluding current and future days.",0.0
+release_x_z,Departure: current relative to prior baseline,Current value minus prior mean divided by prior SD; available after current outing.,0.00012920626973423886
+release_z_avg,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",5.6527743008729496e-05
+release_z_avg_baseline_mean,Profile: prior measurement mean,"Up to 20 strictly prior outings, at least five valid measurements; slowly evolving, not immutable.",7.267852672550936e-05
+release_z_change_vs_prev_5,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",5.6527743008729496e-05
+release_z_sd,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.005144024613794385
+release_z_sd_baseline_mean,Profile: prior measurement mean,"Up to 20 strictly prior outings, at least five valid measurements; slowly evolving, not immutable.",0.00032301567433559714
+release_z_sd_slope_prev_5,Secondary: prior trend,"Slope over up to five earlier outings, excluding current and future days.",4.037695929194964e-05
+release_z_sd_z,Departure: current relative to prior baseline,Current value minus prior mean divided by prior SD; available after current outing.,0.005467040288129981
+release_z_slope_prev_5,Secondary: prior trend,"Slope over up to five earlier outings, excluding current and future days.",0.0
+release_z_z,Departure: current relative to prior baseline,Current value minus prior mean divided by prior SD; available after current outing.,0.00012920626973423886
+rest_days,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.009593565527767235
+season_innings,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.03836618671921055
+season_pitch_count,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.03836618671921055
+sl_usage_pct,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.0
+sl_usage_pct_change_vs_prev_5,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.0
+spin_avg,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.002366089814508249
+spin_avg_baseline_mean,Profile: prior measurement mean,"Up to 20 strictly prior outings, at least five valid measurements; slowly evolving, not immutable.",0.0005975789975208547
+spin_change_vs_prev_5,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.0023741652063666388
+spin_slope_prev_5,Secondary: prior trend,"Slope over up to five earlier outings, excluding current and future days.",0.0001695832290261885
+spin_z,Departure: current relative to prior baseline,Current value minus prior mean divided by prior SD; available after current outing.,0.002931367244595544
+starter_share_prev_5,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.0
+starts_prev_30d,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.020818360210929237
+strike_pct,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.0
+throws_left,Profile: slowly changing context,"Age, handedness, observed experience or strictly prior reported IL history; not proof of causal susceptibility.",0.00038761880920271655
+total_pitches,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.0
+velo_z,Departure: current relative to prior baseline,Current value minus prior mean divided by prior SD; available after current outing.,0.00797041176423086
+vertical_movement_avg,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",8.075391858389929e-06
+vertical_movement_avg_change_vs_prev_5,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",8.075391858389929e-06
+walk_rate,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",0.0003633926336275468
+workload_acceleration_7d_vs_21d,Shared workload/role/calendar adjustment,Mixed persistent and situational meaning; held common in the adjusted comparison.,0.02022078121340838
+zone_pct,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",5.6527743008729496e-05
+zone_pct_baseline_mean,Profile: prior measurement mean,"Up to 20 strictly prior outings, at least five valid measurements; slowly evolving, not immutable.",7.267852672550936e-05
+zone_pct_change_vs_prev_5,Original-model comparator only,"Absolute current measurements, raw pitch mix or transformations not forced into either primary block.",5.6527743008729496e-05
+zone_pct_slope_prev_5,Secondary: prior trend,"Slope over up to five earlier outings, excluding current and future days.",0.0
+zone_pct_z,Departure: current relative to prior baseline,Current value minus prior mean divided by prior SD; available after current outing.,0.00012920626973423886

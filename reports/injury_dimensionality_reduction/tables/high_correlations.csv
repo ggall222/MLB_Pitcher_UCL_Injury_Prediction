@@ -1,0 +1,21 @@
+block,first,second,correlation
+Current feature space,fb_velo_change_vs_prev_5,fb_velo_change_vs_prev_3,0.9391462143451862
+Current feature space,velo_z,fb_velo_change_vs_prev_5,0.8315810162438771
+Current feature space,avg_fb_velo_baseline_mean,avg_fb_velo,0.9324579356337901
+Current feature space,release_z_z,release_z_change_vs_prev_5,0.8245783482787187
+Current feature space,extension_z,extension_change_vs_prev_5,0.8327958150862016
+Current feature space,spin_z,spin_change_vs_prev_5,0.8091940765410692
+Current feature space,zone_pct_change_vs_prev_5,zone_pct,0.882522677021542
+Current feature space,location_variability_change_vs_prev_5,location_variability,0.8690676409794325
+Current feature space,innings_pitched,total_pitches,0.9565028380890019
+Current feature space,pitches_prev_14d,pitches_prev_7d,0.8464337875708348
+Current feature space,pitches_prev_28d,pitches_prev_14d,0.8869028552780608
+Current feature space,appearances_prev_28d,appearances_prev_14d,0.8596441488502989
+Current feature space,season_innings,season_pitch_count,0.9950967692328804
+Current feature space,starts_prev_30d,total_pitches,0.8353344281966099
+Current feature space,starts_prev_30d,innings_pitched,0.8157525234777475
+Current feature space,starts_prev_30d,pitches_prev_28d,0.8579791153273454
+Current feature space,starter_share_prev_5,total_pitches,0.8947816687847507
+Current feature space,starter_share_prev_5,innings_pitched,0.8717627196795866
+Current feature space,starter_share_prev_5,starts_prev_30d,0.9024241386305725
+Current feature space,days_since_mlb_debut,age_at_appearance,0.8452652174329269

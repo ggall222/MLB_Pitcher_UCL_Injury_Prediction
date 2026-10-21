@@ -1,0 +1,93 @@
+{
+  "models": {
+    "Profile__Boosting__4": {
+      "features": [
+        "avg_fb_velo_baseline_mean",
+        "release_z_sd_baseline_mean",
+        "extension_avg_baseline_mean",
+        "age_at_appearance"
+      ],
+      "pairs": [
+        [
+          "avg_fb_velo_baseline_mean",
+          "extension_avg_baseline_mean"
+        ],
+        [
+          "release_z_sd_baseline_mean",
+          "age_at_appearance"
+        ]
+      ]
+    },
+    "Profile_departure__Boosting__2": {
+      "features": [
+        "velo_z",
+        "release_x_z",
+        "release_z_z",
+        "release_x_sd_z",
+        "release_z_sd_z",
+        "extension_z",
+        "spin_z",
+        "zone_pct_z",
+        "avg_fb_velo_baseline_mean",
+        "release_z_sd_baseline_mean",
+        "extension_avg_baseline_mean",
+        "age_at_appearance"
+      ],
+      "pairs": [
+        [
+          "velo_z",
+          "release_z_sd_z"
+        ],
+        [
+          "velo_z",
+          "extension_z"
+        ],
+        [
+          "velo_z",
+          "avg_fb_velo_baseline_mean"
+        ],
+        [
+          "extension_z",
+          "extension_avg_baseline_mean"
+        ],
+        [
+          "avg_fb_velo_baseline_mean",
+          "extension_avg_baseline_mean"
+        ],
+        [
+          "release_z_sd_baseline_mean",
+          "age_at_appearance"
+        ]
+      ]
+    },
+    "Previous_62__Boosting__2": {
+      "features": [
+        "velo_z",
+        "release_x_z",
+        "release_z_z",
+        "extension_z",
+        "spin_z",
+        "avg_fb_velo_baseline_mean",
+        "pitches_prev_28d",
+        "workload_acceleration_7d_vs_21d",
+        "age_at_appearance"
+      ],
+      "pairs": [
+        [
+          "velo_z",
+          "extension_z"
+        ],
+        [
+          "velo_z",
+          "avg_fb_velo_baseline_mean"
+        ],
+        [
+          "velo_z",
+          "pitches_prev_28d"
+        ]
+      ]
+    }
+  },
+  "purpose": "Interpretation coverage only; no new performance selection or transfer evaluation",
+  "profile_only_pairs": "supplemental local diagnostics, not prevalidated physiological hypotheses"
+}

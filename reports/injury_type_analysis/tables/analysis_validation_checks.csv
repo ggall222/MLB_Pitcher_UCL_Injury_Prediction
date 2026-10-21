@@ -1,0 +1,7 @@
+check,passed
+unique pitcher/game keys,True
+strictly prior rolling/workload dates,True
+positive events confined to one retained partition,True
+current/future outcome fields excluded from X,True
+database size and mtime unchanged,True
+all negative labels have observed horizon follow-up,True

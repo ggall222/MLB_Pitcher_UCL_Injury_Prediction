@@ -1,0 +1,19 @@
+initial_injury_diagnosis,episodes,target_eligible
+Concussion,14,0
+Contusion / Bruise,95,80
+Dislocation / Subluxation,7,6
+Fracture,82,59
+Impingement,202,172
+Inflammation,899,766
+Other,149,125
+Soreness,235,185
+Spasm,55,47
+Sprain,209,172
+Strain,1641,1364
+Stress Fracture,10,7
+Stress Reaction,25,15
+Surgery / Postoperative Recovery,344,0
+Tear / Rupture,68,54
+Tendinopathy,169,156
+Tightness,147,113
+Unknown / Unspecified,1030,231

@@ -1,0 +1,57 @@
+category,block,condition,partition,max_score_difference,ap_difference
+Elbow / UCL,Original 62,Primary,validation,3.431732000526086e-06,-3.272810249199676e-08
+Elbow / UCL,Original 62,Primary,test,3.842684681482078e-06,5.6688477821642547e-08
+Elbow / UCL,Profile,Primary,validation,2.5029900163251427e-08,-3.2705855613004986e-07
+Elbow / UCL,Profile,Primary,test,1.4950375482199706e-07,7.78448563942824e-09
+Elbow / UCL,Departure,Primary,validation,3.271688475692258e-15,0.0
+Elbow / UCL,Departure,Primary,test,4.801714581503802e-15,0.0
+Elbow / UCL,Combined,Primary,validation,4.151600833197846e-07,-1.7950087607271348e-08
+Elbow / UCL,Combined,Primary,test,5.03606871577085e-07,6.927071527496054e-09
+Shoulder,Original 62,Primary,validation,4.705017726001903e-06,9.283720327213363e-09
+Shoulder,Original 62,Primary,test,6.244840718074018e-06,-6.103266433910015e-08
+Shoulder,Profile,Primary,validation,1.4685634278510532e-06,9.760395961594392e-08
+Shoulder,Profile,Primary,test,2.561818989892063e-06,1.5603006439934841e-06
+Shoulder,Departure,Primary,validation,2.1996293675385914e-14,0.0
+Shoulder,Departure,Primary,test,5.3262949606391885e-14,0.0
+Shoulder,Combined,Primary,validation,7.409473313305104e-07,8.462849775126013e-09
+Shoulder,Combined,Primary,test,2.831171250744502e-06,7.124221422516452e-08
+Forearm,Original 62,Primary,validation,1.9913710489640303e-06,1.0758563170724933e-07
+Forearm,Original 62,Primary,test,2.848546456689534e-06,-6.539983467973576e-09
+Forearm,Profile,Primary,validation,4.030328993070986e-06,-1.8159011343221731e-09
+Forearm,Profile,Primary,test,2.9701199952116095e-06,2.216173303898339e-09
+Forearm,Departure,Primary,validation,3.1491476093492565e-13,0.0
+Forearm,Departure,Primary,test,2.3457624731548776e-13,0.0
+Forearm,Combined,Primary,validation,4.481556493129979e-06,2.6788600343205515e-08
+Forearm,Combined,Primary,test,1.8138270995197645e-06,6.138240285155638e-08
+Other arm,Original 62,Primary,validation,1.3569966722914995e-05,2.8566165722818115e-08
+Other arm,Original 62,Primary,test,1.2189418754915415e-05,-7.483441376993083e-09
+Other arm,Profile,Primary,validation,1.7530976589245212e-08,0.0
+Other arm,Profile,Primary,test,1.550711150516415e-06,0.0
+Other arm,Departure,Primary,validation,1.1553258350005535e-14,0.0
+Other arm,Departure,Primary,test,2.9878877150224525e-14,0.0
+Other arm,Combined,Primary,validation,2.345132366053833e-06,-3.0121585522721595e-08
+Other arm,Combined,Primary,test,0.00026161512743605453,5.401375527402941e-11
+Trunk / neck,Original 62,Primary,validation,8.34128968629777e-06,4.268553711883616e-09
+Trunk / neck,Original 62,Primary,test,3.1339445981728997e-06,1.924430300045965e-07
+Trunk / neck,Profile,Primary,validation,4.3348657996489237e-13,0.0
+Trunk / neck,Profile,Primary,test,4.5421999494976717e-13,0.0
+Trunk / neck,Departure,Primary,validation,2.338407245616736e-15,0.0
+Trunk / neck,Departure,Primary,test,2.525757381022231e-15,0.0
+Trunk / neck,Combined,Primary,validation,2.986842970571779e-06,-8.449850145975102e-09
+Trunk / neck,Combined,Primary,test,1.0055302628680929e-05,-9.162115097854917e-09
+Lower body,Original 62,Primary,validation,4.552848042304464e-06,7.444921295424178e-08
+Lower body,Original 62,Primary,test,6.040575589658093e-06,-5.293596509747811e-08
+Lower body,Profile,Primary,validation,1.5722261026418494e-07,0.0
+Lower body,Profile,Primary,test,1.2293355466930223e-07,0.0
+Lower body,Departure,Primary,validation,5.828670879282072e-16,0.0
+Lower body,Departure,Primary,test,6.106226635438361e-16,0.0
+Lower body,Combined,Primary,validation,1.038156834609616e-06,-2.8472656107836336e-09
+Lower body,Combined,Primary,test,1.3192129795225327e-06,8.24779539804199e-09
+Hand / wrist,Original 62,Primary,validation,1.0467200668121124e-05,-4.896221337050144e-08
+Hand / wrist,Original 62,Primary,test,4.0645057006599705e-06,-3.714247872807497e-08
+Hand / wrist,Profile,Primary,validation,5.313371667092781e-07,6.16586309787337e-10
+Hand / wrist,Profile,Primary,test,5.363177139616759e-07,-2.3545524280299546e-09
+Hand / wrist,Departure,Primary,validation,3.1030733538273125e-14,0.0
+Hand / wrist,Departure,Primary,test,2.34185500852524e-14,0.0
+Hand / wrist,Combined,Primary,validation,2.105551288877905e-10,0.0
+Hand / wrist,Combined,Primary,test,2.6278492099365836e-10,0.0

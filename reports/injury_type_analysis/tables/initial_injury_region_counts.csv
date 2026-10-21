@@ -1,0 +1,19 @@
+initial_injury_region,episodes,target_eligible
+Back / Spine,313,271
+Core / Oblique / Abdomen,257,225
+Elbow / UCL,1027,650
+Foot / Ankle,147,122
+Forearm,379,277
+Hamstring,174,161
+Hand / Wrist / Finger,234,208
+Head / Concussion,26,0
+Hip / Groin,248,221
+Illness / non-musculoskeletal,76,0
+Knee,219,182
+Lat,125,98
+Lower Leg,89,77
+Neck,88,73
+Other,66,0
+Shoulder,992,844
+Unknown / Unspecified,758,0
+Upper Arm,163,143

@@ -1,0 +1,6 @@
+Installed kernelspec mlb-ucl-analysis in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/share/jupyter/kernels/mlb-ucl-analysis
+EXECUTING 01_predictive_increment.ipynb
+{"name": "01_predictive_increment.ipynb", "success": true, "seconds": 5.14, "code_cells": 5, "executed_cells": 5, "errors": 0, "sha256": "e80f517b04fc231167201ce8eeddd92303156f6a7688571a16bb0927e8e737c6"}
+EXECUTING 02_score_timing_and_robustness.ipynb
+{"name": "02_score_timing_and_robustness.ipynb", "success": true, "seconds": 4.49, "code_cells": 6, "executed_cells": 6, "errors": 0, "sha256": "e77209dbc599112d0ecb5e9147e61622b9af0e54cc9b175f38e76f9d9c8db931"}
+Executed 2 notebooks; sources unchanged. Manifest: /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/reports/injury_profile_departure/notebook_execution.json

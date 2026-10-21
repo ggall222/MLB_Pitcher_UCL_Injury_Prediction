@@ -1,0 +1,429 @@
+category,feature,standardized_log_odds
+Elbow / UCL,avg_fb_velo,-0.10103592761234977
+Elbow / UCL,fb_velo_sd,0.20171147270442089
+Elbow / UCL,fb_velo_change_vs_prev_3,0.024360043029170154
+Elbow / UCL,fb_velo_change_vs_prev_5,0.09036461061120443
+Elbow / UCL,velo_z,-0.23046724841757477
+Elbow / UCL,fb_velo_slope_prev_5,-0.03914933899220139
+Elbow / UCL,avg_fb_velo_baseline_mean,0.1870320796324786
+Elbow / UCL,release_x_avg,-0.4417874292780545
+Elbow / UCL,release_z_avg,-0.1008324839130986
+Elbow / UCL,release_x_sd,-0.11147237457807908
+Elbow / UCL,release_z_sd,-0.12426437214297685
+Elbow / UCL,extension_avg,0.029353711772294462
+Elbow / UCL,extension_sd,-0.020587505200182835
+Elbow / UCL,release_x_change_vs_prev_5,-0.12280307847865844
+Elbow / UCL,release_z_change_vs_prev_5,0.18643081034262549
+Elbow / UCL,extension_change_vs_prev_5,-0.10408610533728932
+Elbow / UCL,release_x_z,0.16239633288284278
+Elbow / UCL,release_z_z,-0.13300454864369438
+Elbow / UCL,extension_z,0.10704082561475704
+Elbow / UCL,spin_avg,-0.04263607016171858
+Elbow / UCL,spin_change_vs_prev_5,0.03248629159602582
+Elbow / UCL,spin_z,-0.039737377270116524
+Elbow / UCL,horizontal_movement_avg,-0.1206237237939429
+Elbow / UCL,vertical_movement_avg,0.22470895185581152
+Elbow / UCL,horizontal_movement_avg_change_vs_prev_5,0.07340563874686537
+Elbow / UCL,vertical_movement_avg_change_vs_prev_5,-0.08124043924897781
+Elbow / UCL,fastball_usage_pct,-0.2273943820186924
+Elbow / UCL,fastball_usage_pct_change_vs_prev_5,0.10901343797943344
+Elbow / UCL,sl_usage_pct,0.1924951017686708
+Elbow / UCL,sl_usage_pct_change_vs_prev_5,-0.14289961292299505
+Elbow / UCL,ch_usage_pct,0.028494418350894456
+Elbow / UCL,cu_usage_pct,0.06593048086542566
+Elbow / UCL,zone_pct,0.02701463001424831
+Elbow / UCL,location_variability,0.17860561798906802
+Elbow / UCL,strike_pct,-0.07169464469474342
+Elbow / UCL,first_pitch_strike_pct,0.029943029292629365
+Elbow / UCL,zone_pct_change_vs_prev_5,-0.012869304161556142
+Elbow / UCL,location_variability_change_vs_prev_5,-0.17739234184198724
+Elbow / UCL,walk_rate,0.02972521817566868
+Elbow / UCL,hbp_rate,0.01942550655372206
+Elbow / UCL,total_pitches,0.08846251569526006
+Elbow / UCL,innings_pitched,-0.4382767905255893
+Elbow / UCL,rest_days,-0.05123796674971432
+Elbow / UCL,pitches_prev_7d,-0.1001821045158993
+Elbow / UCL,pitches_prev_14d,0.08015820197175175
+Elbow / UCL,pitches_prev_28d,-0.08837002367881862
+Elbow / UCL,appearances_prev_14d,-0.25948195889660003
+Elbow / UCL,appearances_prev_28d,0.03840414085979669
+Elbow / UCL,season_pitch_count,-0.004414876448400427
+Elbow / UCL,season_innings,-0.21454757479451467
+Elbow / UCL,previous_season_innings,0.14657670356221916
+Elbow / UCL,workload_acceleration_7d_vs_21d,0.11548952411556493
+Elbow / UCL,acute_chronic_pitch_ratio,-0.14897921130821282
+Elbow / UCL,starts_prev_30d,0.07061995051796398
+Elbow / UCL,starter_share_prev_5,0.15137582310882786
+Elbow / UCL,age_at_appearance,0.08677308500990634
+Elbow / UCL,throws_left,0.4669950868026023
+Elbow / UCL,observed_prior_mlb_starts,-0.20517197630833545
+Elbow / UCL,days_since_mlb_debut,-0.19099168469260425
+Elbow / UCL,is_starter,0.30393383731267964
+Elbow / UCL,prior_reported_il_count,0.10614331122216389
+Elbow / UCL,calendar_month,0.22139832586798514
+Elbow / UCL,missingindicator_avg_fb_velo,0.0013489659722606974
+Elbow / UCL,missingindicator_fb_velo_sd,-0.06835800147605949
+Elbow / UCL,missingindicator_fb_velo_change_vs_prev_3,0.0508176740281603
+Elbow / UCL,missingindicator_fb_velo_change_vs_prev_5,-0.00448239796720595
+Elbow / UCL,missingindicator_velo_z,-0.01304094932483457
+Elbow / UCL,missingindicator_fb_velo_slope_prev_5,-0.08720781778338546
+Elbow / UCL,missingindicator_avg_fb_velo_baseline_mean,-0.06901689913488196
+Elbow / UCL,missingindicator_release_x_avg,-0.062241084015879
+Elbow / UCL,missingindicator_release_z_avg,-0.062241084015879
+Elbow / UCL,missingindicator_release_x_sd,-0.000566842513192896
+Elbow / UCL,missingindicator_release_z_sd,-0.000566842513192896
+Elbow / UCL,missingindicator_extension_avg,0.029607445604526564
+Elbow / UCL,missingindicator_extension_sd,-0.004711091390381644
+Elbow / UCL,missingindicator_release_x_change_vs_prev_5,-0.062241084015879
+Elbow / UCL,missingindicator_release_z_change_vs_prev_5,-0.062241084015879
+Elbow / UCL,missingindicator_extension_change_vs_prev_5,0.029607445604526564
+Elbow / UCL,missingindicator_release_x_z,-0.04344786088893921
+Elbow / UCL,missingindicator_release_z_z,-0.04344786088893921
+Elbow / UCL,missingindicator_extension_z,-0.07193515486083985
+Elbow / UCL,missingindicator_spin_avg,0.03901868937039438
+Elbow / UCL,missingindicator_spin_change_vs_prev_5,0.03901868937039438
+Elbow / UCL,missingindicator_spin_z,-0.06046081552352852
+Elbow / UCL,missingindicator_horizontal_movement_avg,-0.030071157927914368
+Elbow / UCL,missingindicator_vertical_movement_avg,-0.030071157927914368
+Elbow / UCL,missingindicator_horizontal_movement_avg_change_vs_prev_5,-0.030071157927914368
+Elbow / UCL,missingindicator_vertical_movement_avg_change_vs_prev_5,-0.030071157927914368
+Elbow / UCL,missingindicator_zone_pct,-0.062241084015879
+Elbow / UCL,missingindicator_location_variability,-0.000566842513192896
+Elbow / UCL,missingindicator_first_pitch_strike_pct,-0.05546369294943387
+Elbow / UCL,missingindicator_zone_pct_change_vs_prev_5,-0.062241084015879
+Elbow / UCL,missingindicator_location_variability_change_vs_prev_5,-0.000566842513192896
+Elbow / UCL,missingindicator_walk_rate,-0.07624718127145172
+Elbow / UCL,missingindicator_rest_days,-0.24438132318290073
+Elbow / UCL,missingindicator_pitches_prev_7d,0.05856584005223156
+Elbow / UCL,missingindicator_pitches_prev_14d,0.037805856373975974
+Elbow / UCL,missingindicator_pitches_prev_28d,0.04377575975960392
+Elbow / UCL,missingindicator_appearances_prev_14d,0.037805856373975974
+Elbow / UCL,missingindicator_appearances_prev_28d,0.04377575975960392
+Elbow / UCL,missingindicator_season_pitch_count,-0.03980684683471473
+Elbow / UCL,missingindicator_season_innings,-0.03980684683471473
+Elbow / UCL,missingindicator_previous_season_innings,-0.03558940667792246
+Elbow / UCL,missingindicator_workload_acceleration_7d_vs_21d,0.04377575975960392
+Elbow / UCL,missingindicator_acute_chronic_pitch_ratio,0.04377575975960392
+Elbow / UCL,missingindicator_starts_prev_30d,-0.03677837737454162
+Elbow / UCL,missingindicator_throws_left,-0.028776341754194103
+Shoulder,avg_fb_velo,-0.39495763971145625
+Shoulder,fb_velo_sd,-0.06115165215583553
+Shoulder,fb_velo_change_vs_prev_3,-0.017783090941919523
+Shoulder,fb_velo_change_vs_prev_5,0.037130797437355145
+Shoulder,velo_z,-0.11951945941196905
+Shoulder,fb_velo_slope_prev_5,-0.05737255509436852
+Shoulder,avg_fb_velo_baseline_mean,0.40378801346294946
+Shoulder,release_x_avg,-0.12446078818931602
+Shoulder,release_z_avg,0.055975753233148025
+Shoulder,release_x_sd,0.06745105517794528
+Shoulder,release_z_sd,-0.022113294532455783
+Shoulder,extension_avg,-0.0848635301744923
+Shoulder,extension_sd,-0.04214791032961968
+Shoulder,release_x_change_vs_prev_5,0.047250536829612055
+Shoulder,release_z_change_vs_prev_5,0.07675457020988836
+Shoulder,extension_change_vs_prev_5,0.01701796232365517
+Shoulder,release_x_z,-0.023885878323992343
+Shoulder,release_z_z,-0.14672050785205282
+Shoulder,extension_z,0.0039919333777541
+Shoulder,spin_avg,0.01835866659058294
+Shoulder,spin_change_vs_prev_5,-0.019119302490035517
+Shoulder,spin_z,0.01480285103657589
+Shoulder,horizontal_movement_avg,-0.07946106756692542
+Shoulder,vertical_movement_avg,-0.01438977371688963
+Shoulder,horizontal_movement_avg_change_vs_prev_5,0.01019959162514823
+Shoulder,vertical_movement_avg_change_vs_prev_5,0.05647549936663533
+Shoulder,fastball_usage_pct,0.22127213750233835
+Shoulder,fastball_usage_pct_change_vs_prev_5,-0.17738884130316504
+Shoulder,sl_usage_pct,0.25807491372535885
+Shoulder,sl_usage_pct_change_vs_prev_5,-0.11724357103060169
+Shoulder,ch_usage_pct,0.06854554006225574
+Shoulder,cu_usage_pct,0.10179331723744456
+Shoulder,zone_pct,-0.1293385051478014
+Shoulder,location_variability,0.14848447134905865
+Shoulder,strike_pct,-0.09395651654029719
+Shoulder,first_pitch_strike_pct,0.02905987783684426
+Shoulder,zone_pct_change_vs_prev_5,0.13985672765938043
+Shoulder,location_variability_change_vs_prev_5,-0.15025454306363667
+Shoulder,walk_rate,0.01763032452789407
+Shoulder,hbp_rate,0.0030704353330855004
+Shoulder,total_pitches,0.1477255665733951
+Shoulder,innings_pitched,-0.5385967702798775
+Shoulder,rest_days,-0.03567831113099143
+Shoulder,pitches_prev_7d,-0.08534646090666875
+Shoulder,pitches_prev_14d,0.12088089635541169
+Shoulder,pitches_prev_28d,-0.046944070509582346
+Shoulder,appearances_prev_14d,-0.14715481625100474
+Shoulder,appearances_prev_28d,0.04183267609419016
+Shoulder,season_pitch_count,0.33097055564451155
+Shoulder,season_innings,-0.3949169861925096
+Shoulder,previous_season_innings,-0.1557124169622594
+Shoulder,workload_acceleration_7d_vs_21d,0.03648992100433807
+Shoulder,acute_chronic_pitch_ratio,-0.04782654664721447
+Shoulder,starts_prev_30d,0.041887541427352584
+Shoulder,starter_share_prev_5,0.28094297949609043
+Shoulder,age_at_appearance,0.13468342156763974
+Shoulder,throws_left,0.08451870638009526
+Shoulder,observed_prior_mlb_starts,-0.11166726073461797
+Shoulder,days_since_mlb_debut,-0.1289999080181391
+Shoulder,is_starter,0.29496844820165236
+Shoulder,prior_reported_il_count,0.1580037522633739
+Shoulder,calendar_month,0.0271688076213058
+Shoulder,missingindicator_avg_fb_velo,0.07024635766407637
+Shoulder,missingindicator_fb_velo_sd,-0.12741133302818597
+Shoulder,missingindicator_fb_velo_change_vs_prev_3,0.035320148353718224
+Shoulder,missingindicator_fb_velo_change_vs_prev_5,-0.1063326035959136
+Shoulder,missingindicator_velo_z,0.0510602187807095
+Shoulder,missingindicator_fb_velo_slope_prev_5,0.03422712052272945
+Shoulder,missingindicator_avg_fb_velo_baseline_mean,-0.08518496289540994
+Shoulder,missingindicator_release_x_avg,-0.04258237580720907
+Shoulder,missingindicator_release_z_avg,-0.04258237580720907
+Shoulder,missingindicator_release_x_sd,0.019136724082033613
+Shoulder,missingindicator_release_z_sd,0.019136724082033613
+Shoulder,missingindicator_extension_avg,0.07687586865882545
+Shoulder,missingindicator_extension_sd,-0.016325821430026588
+Shoulder,missingindicator_release_x_change_vs_prev_5,-0.04258237580720907
+Shoulder,missingindicator_release_z_change_vs_prev_5,-0.04258237580720907
+Shoulder,missingindicator_extension_change_vs_prev_5,0.07687586865882545
+Shoulder,missingindicator_release_x_z,-0.04011176454889699
+Shoulder,missingindicator_release_z_z,-0.04011176454889699
+Shoulder,missingindicator_extension_z,-0.07907352343968954
+Shoulder,missingindicator_spin_avg,0.008000358405727284
+Shoulder,missingindicator_spin_change_vs_prev_5,0.008000358405727284
+Shoulder,missingindicator_spin_z,-0.129630050007905
+Shoulder,missingindicator_horizontal_movement_avg,-0.016476168551168516
+Shoulder,missingindicator_vertical_movement_avg,-0.016476168551168516
+Shoulder,missingindicator_horizontal_movement_avg_change_vs_prev_5,-0.016476168551168516
+Shoulder,missingindicator_vertical_movement_avg_change_vs_prev_5,-0.016476168551168516
+Shoulder,missingindicator_zone_pct,-0.04258237580720907
+Shoulder,missingindicator_location_variability,0.019136724082033613
+Shoulder,missingindicator_first_pitch_strike_pct,-0.07168290899960693
+Shoulder,missingindicator_zone_pct_change_vs_prev_5,-0.04258237580720907
+Shoulder,missingindicator_location_variability_change_vs_prev_5,0.019136724082033613
+Shoulder,missingindicator_walk_rate,0.0047872497107707855
+Shoulder,missingindicator_rest_days,0.2276046789711281
+Shoulder,missingindicator_pitches_prev_7d,-0.2838212174207644
+Shoulder,missingindicator_pitches_prev_14d,-0.02042413023277458
+Shoulder,missingindicator_pitches_prev_28d,0.021346824255595743
+Shoulder,missingindicator_appearances_prev_14d,-0.02042413023277458
+Shoulder,missingindicator_appearances_prev_28d,0.021346824255595743
+Shoulder,missingindicator_season_pitch_count,0.016399086476433424
+Shoulder,missingindicator_season_innings,0.016399086476433424
+Shoulder,missingindicator_previous_season_innings,-0.060373414979002796
+Shoulder,missingindicator_workload_acceleration_7d_vs_21d,0.021346824255595743
+Shoulder,missingindicator_acute_chronic_pitch_ratio,0.021346824255595743
+Shoulder,missingindicator_starts_prev_30d,-0.19927788614043862
+Shoulder,missingindicator_throws_left,-0.09365811882197889
+Forearm,avg_fb_velo,0.12439131210766913
+Forearm,fb_velo_sd,0.003148854602984288
+Forearm,fb_velo_change_vs_prev_3,-0.010072554577367228
+Forearm,fb_velo_change_vs_prev_5,-0.2181300361566996
+Forearm,velo_z,0.12047002426326965
+Forearm,fb_velo_slope_prev_5,-0.024063480110722055
+Forearm,avg_fb_velo_baseline_mean,0.016184947153391888
+Forearm,release_x_avg,-0.6965393492643991
+Forearm,release_z_avg,0.01265474087538935
+Forearm,release_x_sd,0.09102627324369733
+Forearm,release_z_sd,-0.1415534464002597
+Forearm,extension_avg,-0.16869368520889103
+Forearm,extension_sd,0.021005336262678753
+Forearm,release_x_change_vs_prev_5,-0.09204982136921874
+Forearm,release_z_change_vs_prev_5,0.05636166759003026
+Forearm,extension_change_vs_prev_5,0.010501750731663187
+Forearm,release_x_z,0.12300128101061511
+Forearm,release_z_z,9.529675558897098e-05
+Forearm,extension_z,0.14690459577466383
+Forearm,spin_avg,0.4114124005636274
+Forearm,spin_change_vs_prev_5,-0.10575042488475768
+Forearm,spin_z,-0.0683771395746595
+Forearm,horizontal_movement_avg,0.2071429044851501
+Forearm,vertical_movement_avg,-0.15463885630065344
+Forearm,horizontal_movement_avg_change_vs_prev_5,-0.08087395166438532
+Forearm,vertical_movement_avg_change_vs_prev_5,0.1860939645615495
+Forearm,fastball_usage_pct,0.29556300224437987
+Forearm,fastball_usage_pct_change_vs_prev_5,-0.11907173849741846
+Forearm,sl_usage_pct,0.14982303599613353
+Forearm,sl_usage_pct_change_vs_prev_5,0.01838672642449022
+Forearm,ch_usage_pct,-0.013405804356379118
+Forearm,cu_usage_pct,0.12576562915365938
+Forearm,zone_pct,-0.1326743714639521
+Forearm,location_variability,-0.2679660697723035
+Forearm,strike_pct,0.013055416370350254
+Forearm,first_pitch_strike_pct,-0.059113905097620836
+Forearm,zone_pct_change_vs_prev_5,0.054468941339787406
+Forearm,location_variability_change_vs_prev_5,0.2096515287976851
+Forearm,walk_rate,-0.06090307875539649
+Forearm,hbp_rate,0.02373935449733973
+Forearm,total_pitches,-0.10337670686982824
+Forearm,innings_pitched,-0.3881609775971633
+Forearm,rest_days,-0.06406530061086482
+Forearm,pitches_prev_7d,-0.05546815669292624
+Forearm,pitches_prev_14d,-0.0006208511153547311
+Forearm,pitches_prev_28d,-0.21494237339276673
+Forearm,appearances_prev_14d,-0.28727855848947387
+Forearm,appearances_prev_28d,0.017301586731572182
+Forearm,season_pitch_count,0.14119068063230905
+Forearm,season_innings,-0.34381674676392576
+Forearm,previous_season_innings,0.09376522962242698
+Forearm,workload_acceleration_7d_vs_21d,0.13884729372333293
+Forearm,acute_chronic_pitch_ratio,-0.16474588913531796
+Forearm,starts_prev_30d,0.48644210505090746
+Forearm,starter_share_prev_5,0.09964113459429147
+Forearm,age_at_appearance,0.5232335674005426
+Forearm,throws_left,0.6236643547391711
+Forearm,observed_prior_mlb_starts,-0.08319627329579082
+Forearm,days_since_mlb_debut,-0.6099009388844395
+Forearm,is_starter,0.49200573126031505
+Forearm,prior_reported_il_count,0.25878183411898203
+Forearm,calendar_month,-0.016794352084210054
+Forearm,missingindicator_avg_fb_velo,0.013050804781360647
+Forearm,missingindicator_fb_velo_sd,0.019064540295253396
+Forearm,missingindicator_fb_velo_change_vs_prev_3,0.011684813144502502
+Forearm,missingindicator_fb_velo_change_vs_prev_5,0.009658486464546565
+Forearm,missingindicator_velo_z,0.02518525182015462
+Forearm,missingindicator_fb_velo_slope_prev_5,-0.07410502508898097
+Forearm,missingindicator_avg_fb_velo_baseline_mean,0.056467495721907075
+Forearm,missingindicator_release_x_avg,-0.0288213790140432
+Forearm,missingindicator_release_z_avg,-0.0288213790140432
+Forearm,missingindicator_release_x_sd,0.0007109945738325857
+Forearm,missingindicator_release_z_sd,0.0007109945738325857
+Forearm,missingindicator_extension_avg,-0.018268128363188783
+Forearm,missingindicator_extension_sd,-0.027277133941468794
+Forearm,missingindicator_release_x_change_vs_prev_5,-0.0288213790140432
+Forearm,missingindicator_release_z_change_vs_prev_5,-0.0288213790140432
+Forearm,missingindicator_extension_change_vs_prev_5,-0.018268128363188783
+Forearm,missingindicator_release_x_z,-0.037856911314995655
+Forearm,missingindicator_release_z_z,-0.037856911314995655
+Forearm,missingindicator_extension_z,-0.06623924704776228
+Forearm,missingindicator_spin_avg,-0.056366857119782704
+Forearm,missingindicator_spin_change_vs_prev_5,-0.056366857119782704
+Forearm,missingindicator_spin_z,-0.09787599444131337
+Forearm,missingindicator_horizontal_movement_avg,-0.0142711860803316
+Forearm,missingindicator_vertical_movement_avg,-0.0142711860803316
+Forearm,missingindicator_horizontal_movement_avg_change_vs_prev_5,-0.0142711860803316
+Forearm,missingindicator_vertical_movement_avg_change_vs_prev_5,-0.0142711860803316
+Forearm,missingindicator_zone_pct,-0.0288213790140432
+Forearm,missingindicator_location_variability,0.0007109945738325857
+Forearm,missingindicator_first_pitch_strike_pct,-0.056817404119749594
+Forearm,missingindicator_zone_pct_change_vs_prev_5,-0.0288213790140432
+Forearm,missingindicator_location_variability_change_vs_prev_5,0.0007109945738325857
+Forearm,missingindicator_walk_rate,-0.08408300177011432
+Forearm,missingindicator_rest_days,-0.1772429803474368
+Forearm,missingindicator_pitches_prev_7d,0.04055349895659298
+Forearm,missingindicator_pitches_prev_14d,-0.08899974924527704
+Forearm,missingindicator_pitches_prev_28d,-0.00934200591667611
+Forearm,missingindicator_appearances_prev_14d,-0.08899974924527704
+Forearm,missingindicator_appearances_prev_28d,-0.00934200591667611
+Forearm,missingindicator_season_pitch_count,0.07841820483958475
+Forearm,missingindicator_season_innings,0.07841820483958475
+Forearm,missingindicator_previous_season_innings,-0.01552604852324153
+Forearm,missingindicator_workload_acceleration_7d_vs_21d,-0.00934200591667611
+Forearm,missingindicator_acute_chronic_pitch_ratio,-0.00934200591667611
+Forearm,missingindicator_starts_prev_30d,0.04425793637527055
+Forearm,missingindicator_throws_left,-0.11140440360626509
+Lower body,avg_fb_velo,-0.1530684780425942
+Lower body,fb_velo_sd,0.06998960918570932
+Lower body,fb_velo_change_vs_prev_3,-0.011769003444356455
+Lower body,fb_velo_change_vs_prev_5,0.07795592360628303
+Lower body,velo_z,-0.10423366796693656
+Lower body,fb_velo_slope_prev_5,-0.029219546308151167
+Lower body,avg_fb_velo_baseline_mean,0.04081723646279926
+Lower body,release_x_avg,-0.153877134413082
+Lower body,release_z_avg,0.08209159826161368
+Lower body,release_x_sd,-0.06351581738094252
+Lower body,release_z_sd,-0.032426401116071715
+Lower body,extension_avg,0.018841442549374848
+Lower body,extension_sd,0.017005436844923876
+Lower body,release_x_change_vs_prev_5,-0.06880089068350073
+Lower body,release_z_change_vs_prev_5,-0.025614406618603133
+Lower body,extension_change_vs_prev_5,-0.04822314344092245
+Lower body,release_x_z,0.12005197661103885
+Lower body,release_z_z,0.023562870081849877
+Lower body,extension_z,0.07165769479899338
+Lower body,spin_avg,-0.09548355360422475
+Lower body,spin_change_vs_prev_5,0.03231876202352165
+Lower body,spin_z,-0.04183491314501014
+Lower body,horizontal_movement_avg,-0.05852070423986037
+Lower body,vertical_movement_avg,-0.05559189345179078
+Lower body,horizontal_movement_avg_change_vs_prev_5,0.009814566576933467
+Lower body,vertical_movement_avg_change_vs_prev_5,0.004861299022365762
+Lower body,fastball_usage_pct,-0.0020764934299842487
+Lower body,fastball_usage_pct_change_vs_prev_5,0.00574454993953971
+Lower body,sl_usage_pct,0.1380784260023095
+Lower body,sl_usage_pct_change_vs_prev_5,-0.053148548313850394
+Lower body,ch_usage_pct,-0.00472508828773553
+Lower body,cu_usage_pct,-0.043848136493369126
+Lower body,zone_pct,0.008593198992472932
+Lower body,location_variability,0.06299572260532488
+Lower body,strike_pct,-0.0740058663333198
+Lower body,first_pitch_strike_pct,-0.001254069118036601
+Lower body,zone_pct_change_vs_prev_5,0.06044319434486245
+Lower body,location_variability_change_vs_prev_5,-0.01745198927109137
+Lower body,walk_rate,0.059370825259528096
+Lower body,hbp_rate,-0.021181177777398925
+Lower body,total_pitches,-0.09093584135533184
+Lower body,innings_pitched,-0.33072081123508207
+Lower body,rest_days,-0.001005096876007717
+Lower body,pitches_prev_7d,0.015122774612159471
+Lower body,pitches_prev_14d,0.19643807276893985
+Lower body,pitches_prev_28d,-0.10229149437942744
+Lower body,appearances_prev_14d,-0.18374284925510873
+Lower body,appearances_prev_28d,-0.13378255083072904
+Lower body,season_pitch_count,0.1264668536008179
+Lower body,season_innings,-0.2311854206158962
+Lower body,previous_season_innings,-0.01967463087694648
+Lower body,workload_acceleration_7d_vs_21d,0.03706331911651052
+Lower body,acute_chronic_pitch_ratio,-0.13332341703642347
+Lower body,starts_prev_30d,0.12132027839226696
+Lower body,starter_share_prev_5,0.03267841791503576
+Lower body,age_at_appearance,0.11953646291739965
+Lower body,throws_left,0.23816955830036252
+Lower body,observed_prior_mlb_starts,0.016949093314347623
+Lower body,days_since_mlb_debut,0.1397737880871253
+Lower body,is_starter,0.214634060482256
+Lower body,prior_reported_il_count,0.23331344254917497
+Lower body,calendar_month,0.012857822420233351
+Lower body,missingindicator_avg_fb_velo,0.039856529982643676
+Lower body,missingindicator_fb_velo_sd,-0.0035916505231629553
+Lower body,missingindicator_fb_velo_change_vs_prev_3,-0.015035859972342356
+Lower body,missingindicator_fb_velo_change_vs_prev_5,-0.0659589149958233
+Lower body,missingindicator_velo_z,0.04068493498670735
+Lower body,missingindicator_fb_velo_slope_prev_5,0.03291195210851236
+Lower body,missingindicator_avg_fb_velo_baseline_mean,0.00812022856627223
+Lower body,missingindicator_release_x_avg,-0.00574042408923307
+Lower body,missingindicator_release_z_avg,-0.00574042408923307
+Lower body,missingindicator_release_x_sd,-0.0005597740538968166
+Lower body,missingindicator_release_z_sd,-0.0005597740538968166
+Lower body,missingindicator_extension_avg,0.00822306406087632
+Lower body,missingindicator_extension_sd,-0.029198937753911268
+Lower body,missingindicator_release_x_change_vs_prev_5,-0.00574042408923307
+Lower body,missingindicator_release_z_change_vs_prev_5,-0.00574042408923307
+Lower body,missingindicator_extension_change_vs_prev_5,0.00822306406087632
+Lower body,missingindicator_release_x_z,-0.02548892708790495
+Lower body,missingindicator_release_z_z,-0.02548892708790495
+Lower body,missingindicator_extension_z,-0.10429753262506589
+Lower body,missingindicator_spin_avg,0.015376070759787207
+Lower body,missingindicator_spin_change_vs_prev_5,0.14773582186226053
+Lower body,missingindicator_spin_z,-0.09447605942234648
+Lower body,missingindicator_horizontal_movement_avg,-0.002631707878371401
+Lower body,missingindicator_vertical_movement_avg,-0.002631707878371401
+Lower body,missingindicator_horizontal_movement_avg_change_vs_prev_5,-0.002631707878371401
+Lower body,missingindicator_vertical_movement_avg_change_vs_prev_5,-0.002631707878371401
+Lower body,missingindicator_zone_pct,-0.00574042408923307
+Lower body,missingindicator_location_variability,-0.0005597740538968166
+Lower body,missingindicator_first_pitch_strike_pct,-0.06442449238627138
+Lower body,missingindicator_zone_pct_change_vs_prev_5,-0.00574042408923307
+Lower body,missingindicator_location_variability_change_vs_prev_5,-0.0005597740538968166
+Lower body,missingindicator_walk_rate,0.0286853049417976
+Lower body,missingindicator_rest_days,-0.1316020841089723
+Lower body,missingindicator_pitches_prev_7d,0.005355719892904211
+Lower body,missingindicator_pitches_prev_14d,-0.004084930844790228
+Lower body,missingindicator_pitches_prev_28d,0.02841661829737671
+Lower body,missingindicator_appearances_prev_14d,-0.004084930844790228
+Lower body,missingindicator_appearances_prev_28d,0.02841661829737671
+Lower body,missingindicator_season_pitch_count,-0.043619805781461234
+Lower body,missingindicator_season_innings,-0.043619805781461234
+Lower body,missingindicator_previous_season_innings,0.004435547930444242
+Lower body,missingindicator_workload_acceleration_7d_vs_21d,0.02841661829737671
+Lower body,missingindicator_acute_chronic_pitch_ratio,0.02841661829737671
+Lower body,missingindicator_starts_prev_30d,0.03366985751694636
+Lower body,missingindicator_throws_left,-0.036762685419490564

@@ -1,0 +1,7 @@
+Stage: endpoint
+Stage: landmarks
+Stage: models
+Stage: robustness
+Stage: trajectories
+Stage: reporting
+Completed reports/ucl_dynamic/summary.md; source database preserved.

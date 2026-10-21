@@ -1,0 +1,7 @@
+figure,question,interpretation
+01_family_standalone,Does each family rank interval outcomes on its own?,PR lift can look large when a few events dominate; consult paired uncertainty.
+02_family_incremental,What remains useful conditional on a broader feature model?,Ablation and marginal permutation answer different questions; preserve negative values.
+03_frozen_representations,Does Departure-8 strengthen near injury relative to Profile?,Different patterns across intervals and transfer remain exploratory.
+04_temporal_stability,Are family-time contrasts robust to pitcher composition?,Joint contrast intervals include zero; refits can change ordering.
+05_matched_family_trajectories,Do fixed family scores diverge before recorded injury?,Balanced matched retrospective summaries with small event counts.
+06_interval_warning,Do ranking patterns translate into interval-specific alerts?,"Fixed retrospective 5% budget; sparse event detection, not a prospective alarm policy."

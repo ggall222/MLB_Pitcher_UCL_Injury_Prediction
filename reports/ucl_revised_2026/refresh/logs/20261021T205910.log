@@ -1,0 +1,29 @@
+2026-10-21 16:59:10,553 INFO HISTORICAL SEASON 2026 | 2026-01-01 to 2026-10-20 | phase=all
+2026-10-21 16:59:14,403 INFO Statcast newest=2026-09-08; pending days=19
+2026-10-21 16:59:18,106 INFO Statcast 2026-09-10: 1342 records
+2026-10-21 16:59:23,658 INFO Statcast 2026-09-12: 4432 records
+2026-10-21 16:59:24,941 INFO Statcast 2026-09-09: 4382 records
+2026-10-21 16:59:25,380 INFO Statcast 2026-09-11: 4433 records
+2026-10-21 16:59:28,651 INFO Statcast 2026-09-13: 4426 records
+2026-10-21 16:59:30,849 INFO Statcast 2026-09-14: 3026 records
+2026-10-21 16:59:31,829 INFO Statcast 2026-09-17: 2628 records
+2026-10-21 16:59:34,039 INFO Statcast 2026-09-15: 4427 records
+2026-10-21 16:59:34,426 INFO Statcast 2026-09-16: 4501 records
+2026-10-21 16:59:37,235 INFO Statcast 2026-09-21: 798 records
+2026-10-21 16:59:41,001 INFO Statcast 2026-09-18: 4541 records
+2026-10-21 16:59:42,773 INFO Statcast 2026-09-19: 4572 records
+2026-10-21 16:59:43,146 INFO Statcast 2026-09-20: 4265 records
+2026-10-21 16:59:47,007 INFO Statcast 2026-09-22: 4490 records
+2026-10-21 16:59:47,332 INFO Statcast 2026-09-24: 3555 records
+2026-10-21 16:59:51,474 INFO Statcast 2026-09-23: 4624 records
+2026-10-21 16:59:54,679 INFO Statcast 2026-09-25: 4956 records
+2026-10-21 16:59:56,084 INFO Statcast 2026-09-26: 3952 records
+2026-10-21 16:59:56,460 INFO Statcast 2026-09-27: 3928 records
+2026-10-21 16:59:56,468 INFO MLB boxscores: 249 pending (2180 cached in database)
+2026-10-21 17:00:02,369 INFO MLB boxscores processed 100/249
+2026-10-21 17:00:08,691 INFO MLB boxscores processed 200/249
+2026-10-21 17:00:19,033 INFO MLB supplemental pitch tracking: 249 pending games
+2026-10-21 17:00:28,882 INFO MLB supplemental pitch tracking processed 100/249
+2026-10-21 17:00:38,462 INFO MLB supplemental pitch tracking processed 200/249
+2026-10-21 17:00:43,557 INFO SEASON 2026 CHECKPOINT | 716792 raw pitches | 20796 official appearances
+2026-10-21 17:01:02,651 INFO Roegele: 2822 surgery records, 2801 with MLBAM IDs

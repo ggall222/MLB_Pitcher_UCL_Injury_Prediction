@@ -1,0 +1,126 @@
+path,bytes,status,rows,detail
+reports/feature_consolidation/prior_artifacts_snapshot.json,80352,readable,,
+reports/feature_consolidation/tables/cluster_summary.csv,18323,readable,189.0,5 columns
+reports/feature_consolidation/tables/cohort_counts.csv,176,readable,3.0,5 columns
+reports/feature_consolidation/tables/correlation_clusters.csv,57623,readable,353.0,9 columns
+reports/feature_consolidation/tables/correlation_sample_keys.csv,421558,readable,13427.0,4 columns
+reports/feature_consolidation/tables/cross_group_high_pairs.csv,13827,readable,93.0,9 columns
+reports/feature_consolidation/tables/cross_group_summary.csv,14183,readable,144.0,7 columns
+reports/feature_consolidation/tables/deterministic_dependencies.csv,12712,readable,63.0,7 columns
+reports/feature_consolidation/tables/elastic_net_tuning.csv,2020,readable,6.0,24 columns
+reports/feature_consolidation/tables/family_paired_differences.csv,2683,readable,27.0,5 columns
+reports/feature_consolidation/tables/family_performance.csv,8193,readable,27.0,23 columns
+reports/feature_consolidation/tables/feature_availability_by_season.csv,313346,readable,5918.0,5 columns
+reports/feature_consolidation/tables/feature_group_inventory.csv,504,readable,15.0,4 columns
+reports/feature_consolidation/tables/feature_inventory.csv,258468,readable,538.0,27 columns
+reports/feature_consolidation/tables/grouped_permutation_repeats.csv,9643,readable,55.0,8 columns
+reports/feature_consolidation/tables/grouped_permutation_summary.csv,1208,readable,11.0,5 columns
+reports/feature_consolidation/tables/high_correlation_pairs.csv,143315,readable,981.0,9 columns
+reports/feature_consolidation/tables/representation_comparisons.csv,21269,readable,57.0,27 columns
+reports/feature_consolidation/tables/source_schema.csv,20065,readable,583.0,6 columns
+reports/feature_consolidation/tables/supported_cohort_sensitivity.csv,1676,readable,4.0,25 columns
+data/injury/analysis/feature_consolidation/all_correlation_pairs.parquet,1264131,readable,62023.0,9 columns; 1 row groups
+data/injury/analysis/feature_consolidation/coobserved_counts.parquet,458415,readable,353.0,354 columns; 1 row groups
+data/injury/analysis/feature_consolidation/family_model_specifications.json,138935,readable,,
+data/injury/analysis/feature_consolidation/family_validation_predictions.parquet,6934389,readable,26796.0,32 columns; 1 row groups
+data/injury/analysis/feature_consolidation/hierarchies.json,40544,readable,,
+data/injury/analysis/feature_consolidation/input_manifest.json,725,readable,,
+data/injury/analysis/feature_consolidation/models/elastic_C0.003_mix0.25.joblib,64150,readable,81145.0,333 fields; iterations [35]; signature=True
+data/injury/analysis/feature_consolidation/models/elastic_C0.003_mix0.75.joblib,64150,readable,81145.0,333 fields; iterations [15]; signature=True
+data/injury/analysis/feature_consolidation/models/elastic_C0.03_mix0.25.joblib,64150,readable,81145.0,333 fields; iterations [210]; signature=True
+data/injury/analysis/feature_consolidation/models/elastic_C0.03_mix0.75.joblib,64150,readable,81145.0,333 fields; iterations [442]; signature=True
+data/injury/analysis/feature_consolidation/models/elastic_C0.3_mix0.25.joblib,64150,readable,81145.0,333 fields; iterations [687]; signature=True
+data/injury/analysis/feature_consolidation/models/elastic_C0.3_mix0.75.joblib,64150,readable,81145.0,333 fields; iterations [826]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Correlation_representatives.joblib,36391,readable,81145.0,189 fields; iterations [348]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Full_feasible.joblib,64103,readable,81145.0,333 fields; iterations [605]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Full_plus_support.joblib,66935,readable,81145.0,353 fields; iterations [603]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Only_family_00.joblib,10337,readable,81145.0,37 fields; iterations [208]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Only_family_01.joblib,17313,readable,81145.0,70 fields; iterations [269]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Only_family_02.joblib,8577,readable,81145.0,27 fields; iterations [126]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Only_family_04.joblib,7905,readable,81145.0,26 fields; iterations [86]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Only_family_05.joblib,7617,readable,81145.0,21 fields; iterations [81]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Only_family_06.joblib,9153,readable,81145.0,34 fields; iterations [133]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Only_family_07.joblib,12129,readable,81145.0,66 fields; iterations [275]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Only_family_08.joblib,8353,readable,81145.0,29 fields; iterations [264]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Only_family_09.joblib,3681,readable,81145.0,5 fields; iterations [25]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Only_family_10.joblib,4241,readable,81145.0,11 fields; iterations [40]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Only_family_12.joblib,3953,readable,81145.0,7 fields; iterations [20]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Previous_62_(same_preprocessing).joblib,14001,readable,81145.0,62 fields; iterations [195]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Support_only.joblib,5745,readable,81145.0,20 fields; iterations [97]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Without_family_00.joblib,56679,readable,81145.0,296 fields; iterations [555]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Without_family_01.joblib,49575,readable,81145.0,263 fields; iterations [536]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Without_family_02.joblib,58455,readable,81145.0,306 fields; iterations [572]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Without_family_04.joblib,59127,readable,81145.0,307 fields; iterations [565]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Without_family_05.joblib,59431,readable,81145.0,312 fields; iterations [577]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Without_family_06.joblib,57847,readable,81145.0,299 fields; iterations [582]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Without_family_07.joblib,54791,readable,81145.0,267 fields; iterations [533]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Without_family_08.joblib,58663,readable,81145.0,304 fields; iterations [564]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Without_family_09.joblib,63415,readable,81145.0,328 fields; iterations [574]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Without_family_10.joblib,62823,readable,81145.0,322 fields; iterations [588]; signature=True
+data/injury/analysis/feature_consolidation/models/family_Without_family_12.joblib,63127,readable,81145.0,326 fields; iterations [589]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Command_location_0.joblib,4033,readable,81145.0,7 fields; iterations [24]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Command_location_1.joblib,4273,readable,81145.0,8 fields; iterations [25]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Command_location_2.joblib,4433,readable,81145.0,9 fields; iterations [24]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Command_location_3.joblib,4577,readable,81145.0,10 fields; iterations [24]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Command_location_4.joblib,4657,readable,81145.0,11 fields; iterations [25]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Command_location_5.joblib,5009,readable,81145.0,13 fields; iterations [25]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Command_location_6.joblib,5201,readable,81145.0,14 fields; iterations [25]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Extension_0.joblib,4033,readable,81145.0,7 fields; iterations [24]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Extension_1.joblib,4289,readable,81145.0,8 fields; iterations [23]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Extension_2.joblib,4449,readable,81145.0,9 fields; iterations [23]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Extension_3.joblib,4689,readable,81145.0,10 fields; iterations [23]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Extension_4.joblib,4817,readable,81145.0,11 fields; iterations [34]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Extension_5.joblib,4993,readable,81145.0,12 fields; iterations [42]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Movement_0.joblib,4033,readable,81145.0,7 fields; iterations [24]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Movement_1.joblib,4529,readable,81145.0,9 fields; iterations [25]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Movement_2.joblib,5105,readable,81145.0,11 fields; iterations [25]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Movement_3.joblib,5425,readable,81145.0,13 fields; iterations [40]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Movement_4.joblib,5841,readable,81145.0,15 fields; iterations [61]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Pitch_mix_0.joblib,4033,readable,81145.0,7 fields; iterations [24]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Pitch_mix_1.joblib,4689,readable,81145.0,10 fields; iterations [25]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Pitch_mix_2.joblib,5169,readable,81145.0,13 fields; iterations [27]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Pitch_mix_3.joblib,5569,readable,81145.0,16 fields; iterations [40]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Pitch_mix_4.joblib,5905,readable,81145.0,19 fields; iterations [89]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Pitch_mix_5.joblib,6225,readable,81145.0,22 fields; iterations [92]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Release_position_0.joblib,4033,readable,81145.0,7 fields; iterations [24]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Release_position_1.joblib,4513,readable,81145.0,9 fields; iterations [31]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Release_position_2.joblib,4849,readable,81145.0,11 fields; iterations [32]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Release_position_3.joblib,5121,readable,81145.0,13 fields; iterations [32]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Release_position_4.joblib,5377,readable,81145.0,15 fields; iterations [47]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Release_position_5.joblib,5729,readable,81145.0,17 fields; iterations [89]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Release_variability_0.joblib,4033,readable,81145.0,7 fields; iterations [24]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Release_variability_1.joblib,4497,readable,81145.0,9 fields; iterations [23]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Release_variability_2.joblib,4881,readable,81145.0,11 fields; iterations [24]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Release_variability_3.joblib,5345,readable,81145.0,13 fields; iterations [24]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Release_variability_4.joblib,5569,readable,81145.0,15 fields; iterations [35]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Release_variability_5.joblib,5921,readable,81145.0,17 fields; iterations [47]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Spin_0.joblib,4033,readable,81145.0,7 fields; iterations [24]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Spin_1.joblib,4273,readable,81145.0,8 fields; iterations [23]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Spin_2.joblib,4401,readable,81145.0,9 fields; iterations [23]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Spin_3.joblib,4625,readable,81145.0,10 fields; iterations [23]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Spin_4.joblib,4737,readable,81145.0,11 fields; iterations [32]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Spin_5.joblib,4881,readable,81145.0,12 fields; iterations [31]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Velocity_0.joblib,4033,readable,81145.0,7 fields; iterations [24]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Velocity_1.joblib,4289,readable,81145.0,8 fields; iterations [23]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Velocity_2.joblib,4433,readable,81145.0,9 fields; iterations [24]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Velocity_3.joblib,4641,readable,81145.0,10 fields; iterations [24]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Velocity_4.joblib,4817,readable,81145.0,11 fields; iterations [35]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Velocity_5.joblib,5009,readable,81145.0,12 fields; iterations [33]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Velocity_6.joblib,5169,readable,81145.0,13 fields; iterations [33]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Workload_0.joblib,3521,readable,81145.0,4 fields; iterations [17]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Workload_1.joblib,3681,readable,81145.0,5 fields; iterations [20]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Workload_2.joblib,3905,readable,81145.0,6 fields; iterations [22]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Workload_3.joblib,4145,readable,81145.0,7 fields; iterations [35]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Workload_4.joblib,4353,readable,81145.0,8 fields; iterations [35]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Workload_5.joblib,4513,readable,81145.0,9 fields; iterations [42]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Workload_6.joblib,4641,readable,81145.0,10 fields; iterations [37]; signature=True
+data/injury/analysis/feature_consolidation/models/representation_Workload_7.joblib,4833,readable,81145.0,11 fields; iterations [37]; signature=True
+data/injury/analysis/feature_consolidation/models/supported_Modern_arm_angle_Base.joblib,4798,readable,12847.0,12 fields; iterations [23]; signature=True
+data/injury/analysis/feature_consolidation/models/supported_Modern_arm_angle_Base_plus_supported_measurements.joblib,5246,readable,12847.0,16 fields; iterations [27]; signature=True
+data/injury/analysis/feature_consolidation/models/supported_Starter_within-outing_velocity_Base.joblib,4863,readable,15782.0,12 fields; iterations [38]; signature=True
+data/injury/analysis/feature_consolidation/models/supported_Starter_within-outing_velocity_Base_plus_supported_measurements.joblib,4959,readable,15782.0,13 fields; iterations [39]; signature=True
+data/injury/analysis/feature_consolidation/pearson.parquet,1354290,readable,353.0,354 columns; 1 row groups
+data/injury/analysis/feature_consolidation/representation_validation_predictions.parquet,15901500,readable,1527372.0,4 columns; 2 row groups
+data/injury/analysis/feature_consolidation/risk_rows.parquet,260685028,readable,135606.0,568 columns; 1 row groups
+data/injury/analysis/feature_consolidation/source_layers.json,15544,readable,,
+data/injury/analysis/feature_consolidation/spearman.parquet,1344766,readable,353.0,354 columns; 1 row groups

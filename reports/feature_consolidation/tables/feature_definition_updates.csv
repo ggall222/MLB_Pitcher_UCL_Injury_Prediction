@@ -1,0 +1,39 @@
+feature,field,original,corrected,reason
+total_pitches,source_variables,total_pitches,physical Statcast pitch rows,Builder-verified descriptive metadata finalized after interruption
+statcast_batters_faced,source_variables,statcast_batters_faced,distinct at_bat_number,Builder-verified descriptive metadata finalized after interruption
+hbp_count,source_variables,hbp_count,physical pitch is_hbp,Builder-verified descriptive metadata finalized after interruption
+hbp_rate,source_variables,hbp_rate,physical pitch is_hbp;physical pitch rows,Builder-verified descriptive metadata finalized after interruption
+high_velocity_pitch_count,source_variables,high_velocity_pitch_count,release_speed >= 95 mph,Builder-verified descriptive metadata finalized after interruption
+velocity_measured_count,source_variables,velocity_measured_count,nonmissing cleaned release_speed,Builder-verified descriptive metadata finalized after interruption
+arm_angle_measured_count,source_variables,arm_angle_measured_count,nonmissing cleaned arm_angle,Builder-verified descriptive metadata finalized after interruption
+velocity_coverage,source_variables,velocity_coverage,velocity_measured_count;total_pitches,Builder-verified descriptive metadata finalized after interruption
+arm_angle_coverage,source_variables,arm_angle_coverage,arm_angle_measured_count;total_pitches,Builder-verified descriptive metadata finalized after interruption
+is_starter,source_variables,is_starter,official boxscore gamesStarted or first pitching-order fallback,Builder-verified descriptive metadata finalized after interruption
+outs_recorded,source_variables,outs_recorded,official boxscore outs,Builder-verified descriptive metadata finalized after interruption
+innings_pitched,source_variables,innings_pitched,official boxscore outs / 3,Builder-verified descriptive metadata finalized after interruption
+batters_faced,source_variables,batters_faced,official boxscore battersFaced,Builder-verified descriptive metadata finalized after interruption
+walks,source_variables,walks,official boxscore baseOnBalls,Builder-verified descriptive metadata finalized after interruption
+strikeouts,source_variables,strikeouts,official boxscore strikeOuts,Builder-verified descriptive metadata finalized after interruption
+hit_batters,source_variables,hit_batters,official boxscore hitBatsmen,Builder-verified descriptive metadata finalized after interruption
+throws_left,source_variables,throws_left,consistent p_throws observed in appearance,Builder-verified descriptive metadata finalized after interruption
+pitch_count_difference,source_variables,pitch_count_difference,total_pitches;official pitch_count,Builder-verified descriptive metadata finalized after interruption
+walk_rate,source_variables,walk_rate,walks;batters_faced,Builder-verified descriptive metadata finalized after interruption
+strikeout_rate,source_variables,strikeout_rate,strikeouts;batters_faced,Builder-verified descriptive metadata finalized after interruption
+age_at_appearance,source_variables,age_at_appearance,game_date;birth_date,Builder-verified descriptive metadata finalized after interruption
+age_at_appearance,timing_availability,available before outing; historical inputs exclude current date,available on prediction date before outing; reported history strictly prior,Builder-verified descriptive metadata finalized after interruption
+days_since_mlb_debut,source_variables,days_since_mlb_debut,game_date;mlb_debut,Builder-verified descriptive metadata finalized after interruption
+days_since_mlb_debut,timing_availability,available before outing; historical inputs exclude current date,available on prediction date before outing; reported history strictly prior,Builder-verified descriptive metadata finalized after interruption
+flagged_pitch_count,source_variables,flagged_pitch_count,nonmissing pitch quality_flags,Builder-verified descriptive metadata finalized after interruption
+observed_prior_mlb_appearances,source_variables,observed_prior_mlb_appearances,strictly prior official MLB appearances in observed history,Builder-verified descriptive metadata finalized after interruption
+observed_prior_mlb_appearances,timing_availability,available before outing; historical inputs exclude current date,available on prediction date before outing; reported history strictly prior,Builder-verified descriptive metadata finalized after interruption
+observed_prior_mlb_starts,source_variables,observed_prior_mlb_starts,strictly prior official MLB starts in observed history,Builder-verified descriptive metadata finalized after interruption
+observed_prior_mlb_starts,timing_availability,available before outing; historical inputs exclude current date,available on prediction date before outing; reported history strictly prior,Builder-verified descriptive metadata finalized after interruption
+documented_prior_ucl_count,source_variables,documented_prior_ucl_count,confirmed prior procedure upper date bounds,Builder-verified descriptive metadata finalized after interruption
+documented_prior_ucl_count,timing_availability,available before outing; historical inputs exclude current date,historical public availability unknown; excluded,Builder-verified descriptive metadata finalized after interruption
+documented_prior_ucl,source_variables,documented_prior_ucl,confirmed prior procedure upper date bound,Builder-verified descriptive metadata finalized after interruption
+documented_prior_ucl,timing_availability,available before outing; historical inputs exclude current date,historical public availability unknown; excluded,Builder-verified descriptive metadata finalized after interruption
+prior_appearance_count,source_variables,prior_appearance_count,strictly prior-day timing-reliable appearance rows,Builder-verified descriptive metadata finalized after interruption
+prior_reported_il_count,source_variables,prior_reported_il_count,public_known_date of strictly earlier canonical IL episodes,Builder-verified descriptive metadata finalized after interruption
+prior_reported_il_count,timing_availability,available before outing; historical inputs exclude current date,available on prediction date before outing; reported history strictly prior,Builder-verified descriptive metadata finalized after interruption
+calendar_month,source_variables,calendar_month,game_date,Builder-verified descriptive metadata finalized after interruption
+calendar_month,timing_availability,after completed outing,available on prediction date before outing; reported history strictly prior,Builder-verified descriptive metadata finalized after interruption

@@ -1,0 +1,8 @@
+component,block,axis,retained_axes,design_columns,native_coefficient,training_score_sd,orientation,training_absolute_standardized_logit_weight,training_rank,primary_trajectory,individual_heatmap,selection_basis
+D1,Departure,1,2,10,-0.25426332716215644,1.0419097051432267,-1,0.26491942823225817,1,1,True,Existing validation-selected count; ordering from training coefficient × training score SD
+D2,Departure,2,2,10,0.05332169457869833,0.9478037834194201,1,0.05053850386002506,2,1,False,Existing validation-selected count; ordering from training coefficient × training score SD
+C1,Combined,1,5,23,-0.3549840867849927,1.210589567403434,-1,0.42974003205614736,1,1,False,Existing validation-selected count; ordering from training coefficient × training score SD
+C2,Combined,2,5,23,-0.11068247468926758,1.340392898632638,-1,0.14835800307658098,2,1,False,Existing validation-selected count; ordering from training coefficient × training score SD
+C3,Combined,3,5,23,0.05759879328481542,1.1183183618215646,1,0.06441378814917371,3,0,False,Existing validation-selected count; ordering from training coefficient × training score SD
+C4,Combined,4,5,23,0.04795759205493451,1.042943151327576,1,0.050017042187855715,4,0,False,Existing validation-selected count; ordering from training coefficient × training score SD
+C5,Combined,5,5,23,0.00013191747866710002,0.8394028029787355,1,0.0001107319013550513,5,0,False,Existing validation-selected count; ordering from training coefficient × training score SD

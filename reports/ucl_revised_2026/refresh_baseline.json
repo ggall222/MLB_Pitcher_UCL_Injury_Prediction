@@ -1,0 +1,12 @@
+{
+  "created_at_utc": "2026-10-21T20:56:29.921960+00:00",
+  "snapshot": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/snapshots/pre_revised_2026_20261021.duckdb",
+  "before_counts": {
+    "pitches": 8077715,
+    "appearances": 234393,
+    "model_features": 234393,
+    "injuries": 2797,
+    "pitch_tracking": 8053959
+  },
+  "latest_pitch_date": "2026-09-08"
+}

@@ -1,0 +1,277 @@
+transaction_id,player_id,action,reason,description
+280301,150274,activation,activation_without_observed_open_episode,Chicago Cubs activated RHP Joe Nathan from the 60-day disabled list.
+314775,425844,activation,activation_without_observed_open_episode,Arizona Diamondbacks activated RHP Zack Greinke from the 15-day disabled list.
+290260,434538,activation,activation_without_observed_open_episode,Toronto Blue Jays activated LHP Francisco Liriano from the 7-day disabled list.
+478074,445276,activation,activation_without_observed_open_episode,Los Angeles Dodgers activated P Kenley Jansen from the 10 day injured list.
+323030,450172,activation,activation_without_observed_open_episode,Miami Marlins activated RHP Edinson Volquez from the 10-day disabled list.
+367822,453178,activation,activation_without_observed_open_episode,Kansas City Royals activated RHP Ian Kennedy from the 10-day disabled list.
+477739,453192,activation,activation_without_observed_open_episode,St. Louis Cardinals activated P Andrew Miller from the 10 day injured list.
+478316,453192,activation,activation_without_observed_open_episode,St. Louis Cardinals activated LHP Andrew Miller from the 10-day injured list.
+477028,453286,activation,activation_without_observed_open_episode,Washington Nationals activated P Max Scherzer from the 10 day injured list.
+477939,453286,activation,activation_without_observed_open_episode,Washington Nationals activated P Max Scherzer from the 10 day injured list.
+479118,453286,activation,activation_without_observed_open_episode,Washington Nationals activated RHP Max Scherzer from the 10-day injured list.
+479257,453286,activation,activation_without_observed_open_episode,Washington Nationals activated RHP Max Scherzer from the 10-day injured list.
+320901,453343,activation,activation_without_observed_open_episode,San Francisco Giants activated RHP Mark Melancon from the 10-day disabled list.
+477786,458677,activation,activation_without_observed_open_episode,New York Yankees activated P Justin Wilson from the 10 day injured list.
+478469,458677,activation,activation_without_observed_open_episode,New York Yankees activated LHP Justin Wilson from the 10-day injured list.
+477339,477132,activation,activation_without_observed_open_episode,Los Angeles Dodgers activated P Clayton Kershaw from the 10 day injured list.
+478073,477132,activation,activation_without_observed_open_episode,Los Angeles Dodgers activated P Clayton Kershaw from the 10 day injured list.
+477887,489119,activation,activation_without_observed_open_episode,Cincinnati Reds activated P Wade Miley from the 10 day injured list.
+478652,489119,activation,activation_without_observed_open_episode,Cincinnati Reds activated LHP Wade Miley from the 10-day injured list.
+330992,502032,activation,activation_without_observed_open_episode,Los Angeles Angels activated RHP Bud Norris from the 10-day disabled list.
+795245,502171,activation,activation_without_observed_open_episode,Cleveland Guardians activated RHP Alex Cobb from the 60-day injured list.
+517488,506433,activation,activation_without_observed_open_episode,San Diego Padres activated RHP Yu Darvish from the 10-day injured list.
+517786,506433,activation,activation_without_observed_open_episode,San Diego Padres activated RHP Yu Darvish from the 10-day injured list.
+477577,518516,activation,activation_without_observed_open_episode,Arizona Diamondbacks activated P Madison Bumgarner from the 10 day injured list.
+478258,518516,activation,activation_without_observed_open_episode,Arizona Diamondbacks activated P Madison Bumgarner from the 10 day injured list.
+477572,518876,activation,activation_without_observed_open_episode,Arizona Diamondbacks activated P Merrill Kelly from the 60 day injured list.
+478253,518876,activation,activation_without_observed_open_episode,Arizona Diamondbacks activated P Merrill Kelly from the 60 day injured list.
+477152,519141,activation,activation_without_observed_open_episode,San Diego Padres activated P Drew Pomeranz from the 10 day injured list.
+478014,519141,activation,activation_without_observed_open_episode,San Diego Padres activated P Drew Pomeranz from the 10 day injured list.
+477864,519151,activation,activation_without_observed_open_episode,Houston Astros activated P Ryan Pressly from the 10 day injured list.
+478601,519151,activation,activation_without_observed_open_episode,Houston Astros activated RHP Ryan Pressly from the 10-day injured list.
+368648,527055,activation,activation_without_observed_open_episode,Atlanta Braves activated RHP Arodys Vizcaino from the 10-day disabled list.
+281762,534947,activation,activation_without_observed_open_episode,Cincinnati Reds activated RHP Tim Adleman from the 15-day disabled list.
+315832,542882,activation,activation_without_observed_open_episode,Tampa Bay Rays activated RHP Matt Andriese from the 10-day disabled list.
+728314,543056,activation,activation_without_observed_open_episode,Baltimore Orioles activated LHP Danny Coulombe from the 15-day injured list.
+477484,543135,activation,activation_without_observed_open_episode,Boston Red Sox activated P Nathan Eovaldi from the 10 day injured list.
+478203,543135,activation,activation_without_observed_open_episode,Boston Red Sox activated P Nathan Eovaldi from the 10 day injured list.
+517535,543135,activation,activation_without_observed_open_episode,Boston Red Sox activated RHP Nathan Eovaldi from the 10-day injured list.
+799918,543243,activation,activation_without_observed_open_episode,St. Louis Cardinals activated RHP Sonny Gray from the 15-day injured list.
+477009,543272,activation,activation_without_observed_open_episode,Washington Nationals activated P Brad Hand from the 10 day injured list.
+477943,543272,activation,activation_without_observed_open_episode,Washington Nationals activated P Brad Hand from the 10 day injured list.
+479115,543272,activation,activation_without_observed_open_episode,Washington Nationals activated LHP Brad Hand from the 10-day injured list.
+479249,543272,activation,activation_without_observed_open_episode,Washington Nationals activated LHP Brad Hand from the 10-day injured list.
+477917,543294,activation,activation_without_observed_open_episode,Chicago Cubs activated P Kyle Hendricks from the 10 day injured list.
+709679,543339,activation,activation_without_observed_open_episode,Los Angeles Dodgers activated RHP Daniel Hudson from the 60-day injured list.
+266575,544365,activation,activation_without_observed_open_episode,Atlanta Braves activated LHP Manny Banuelos from the 15-day disabled list.
+477038,544931,activation,activation_without_observed_open_episode,Washington Nationals activated P Stephen Strasburg from the 60 day injured list.
+477938,544931,activation,activation_without_observed_open_episode,Washington Nationals activated P Stephen Strasburg from the 60 day injured list.
+684840,547179,activation,activation_without_observed_open_episode,Detroit Tigers activated RHP Michael Lorenzen from the 15-day injured list.
+277987,548357,activation,activation_without_observed_open_episode,Colorado Rockies activated RHP Christian Bergman from the 15-day disabled list.
+477310,554340,activation,activation_without_observed_open_episode,Miami Marlins activated P Yimi Garcia from the 10 day injured list.
+478548,554340,activation,activation_without_observed_open_episode,Miami Marlins activated RHP Yimi Garcia from the 10-day injured list.
+477797,570666,activation,activation_without_observed_open_episode,New York Yankees activated P Luis Cessa from the 10 day injured list.
+478491,570666,activation,activation_without_observed_open_episode,New York Yankees activated RHP Luis Cessa from the 10-day injured list.
+794331,571510,activation,activation_without_observed_open_episode,Cleveland Guardians activated LHP Matthew Boyd from the 15-day injured list.
+284034,571572,activation,activation_without_observed_open_episode,Cleveland Indians activated RHP Joseph Colon from the 15-day disabled list.
+477024,571578,activation,activation_without_observed_open_episode,Washington Nationals activated P Patrick Corbin from the 10 day injured list.
+477946,571578,activation,activation_without_observed_open_episode,Washington Nationals activated P Patrick Corbin from the 10 day injured list.
+479122,571578,activation,activation_without_observed_open_episode,Washington Nationals activated LHP Patrick Corbin from the 10-day injured list.
+479262,571578,activation,activation_without_observed_open_episode,Washington Nationals activated LHP Patrick Corbin from the 10-day injured list.
+477394,571656,activation,activation_without_observed_open_episode,Detroit Tigers activated P Buck Farmer from the 10 day injured list.
+478128,571656,activation,activation_without_observed_open_episode,Detroit Tigers activated P Buck Farmer from the 10 day injured list.
+477842,571760,activation,activation_without_observed_open_episode,Los Angeles Angels activated P Andrew Heaney from the 10 day injured list.
+478583,571760,activation,activation_without_observed_open_episode,Los Angeles Angels activated LHP Andrew Heaney from the 10-day injured list.
+330181,571927,activation,activation_without_observed_open_episode,New York Mets activated LHP Steven Matz from the 10-day disabled list.
+684954,571927,activation,activation_without_observed_open_episode,St. Louis Cardinals activated LHP Steven Matz from the 15-day injured list.
+265098,572831,activation,activation_without_observed_open_episode,New York Mets activated LHP Josh Edgin from the 15-day disabled list.
+477159,572955,activation,activation_without_observed_open_episode,San Diego Padres activated P Pierce Johnson from the 10 day injured list.
+478020,572955,activation,activation_without_observed_open_episode,San Diego Padres activated P Pierce Johnson from the 10 day injured list.
+477465,572971,activation,activation_without_observed_open_episode,Chicago White Sox activated P Dallas Keuchel from the 10 day injured list.
+478173,572971,activation,activation_without_observed_open_episode,Chicago White Sox activated P Dallas Keuchel from the 10 day injured list.
+684728,573204,activation,activation_without_observed_open_episode,Minnesota Twins activated LHP Caleb Thielbar from the 15-day injured list.
+684992,573204,activation,activation_without_observed_open_episode,Minnesota Twins activated LHP Caleb Thielbar from the 15-day injured list.
+477922,592094,activation,activation_without_observed_open_episode,Chicago Cubs activated P Jason Adam from the 10 day injured list.
+478693,592094,activation,activation_without_observed_open_episode,Chicago Cubs activated RHP Jason Adam from the 10-day injured list.
+477495,592169,activation,activation_without_observed_open_episode,Boston Red Sox activated P Austin Brice from the 10 day injured list.
+478204,592169,activation,activation_without_observed_open_episode,Boston Red Sox activated P Austin Brice from the 10 day injured list.
+477411,592351,activation,activation_without_observed_open_episode,Colorado Rockies activated P Jon Gray from the 10 day injured list.
+478145,592351,activation,activation_without_observed_open_episode,Colorado Rockies activated P Jon Gray from the 10 day injured list.
+477041,592662,activation,activation_without_observed_open_episode,Toronto Blue Jays activated P Robbie Ray from the 10 day injured list.
+477965,592662,activation,activation_without_observed_open_episode,Toronto Blue Jays activated P Robbie Ray from the 10 day injured list.
+272704,592741,activation,activation_without_observed_open_episode,New York Yankees activated LHP Chasen Shreve from the 15-day disabled list.
+436880,592761,activation,activation_without_observed_open_episode,Miami Marlins activated LHP Caleb Smith from the 60-day injured list.
+477204,592826,activation,activation_without_observed_open_episode,Philadelphia Phillies activated P Vince Velasquez from the 10 day injured list.
+478443,592826,activation,activation_without_observed_open_episode,Philadelphia Phillies activated RHP Vince Velasquez from the 10-day injured list.
+477740,593372,activation,activation_without_observed_open_episode,St. Louis Cardinals activated P Carlos Martinez from the 10 day injured list.
+478317,593372,activation,activation_without_observed_open_episode,St. Louis Cardinals activated RHP Carlos Martinez from the 10-day injured list.
+477234,593423,activation,activation_without_observed_open_episode,Oakland Athletics activated P Frankie Montas from the 10 day injured list.
+478045,593423,activation,activation_without_observed_open_episode,Oakland Athletics activated P Frankie Montas from the 10 day injured list.
+477207,593576,activation,activation_without_observed_open_episode,Philadelphia Phillies activated P Hector Neris from the 10 day injured list.
+478450,593576,activation,activation_without_observed_open_episode,Philadelphia Phillies activated RHP Hector Neris from the 10-day injured list.
+477010,593833,activation,activation_without_observed_open_episode,Washington Nationals activated P Wander Suero from the 10 day injured list.
+477937,593833,activation,activation_without_observed_open_episode,Washington Nationals activated P Wander Suero from the 10 day injured list.
+477492,593958,activation,activation_without_observed_open_episode,Boston Red Sox activated P Eduardo Rodriguez from the 10 day injured list.
+478197,593958,activation,activation_without_observed_open_episode,Boston Red Sox activated P Eduardo Rodriguez from the 10 day injured list.
+326540,594795,activation,activation_without_observed_open_episode,Los Angeles Dodgers activated LHP Grant Dayton from the 10-day disabled list.
+477255,594798,activation,activation_without_observed_open_episode,New York Mets activated P Jacob deGrom from the 10 day injured list.
+477606,594798,activation,activation_without_observed_open_episode,New York Mets activated P Jacob deGrom from the 10 day injured list.
+479147,594798,activation,activation_without_observed_open_episode,New York Mets activated RHP Jacob deGrom from the 10-day injured list.
+479288,594798,activation,activation_without_observed_open_episode,New York Mets activated RHP Jacob deGrom from the 10-day injured list.
+284337,595032,activation,activation_without_observed_open_episode,Tampa Bay Rays activated RHP Chase Whitley from the 60-day disabled list.
+679826,595345,activation,activation_without_observed_open_episode,Miami Marlins activated LHP Steven Okert from the 15-day injured list.
+614879,595881,activation,activation_without_observed_open_episode,San Francisco Giants activated RHP Tyler Beede from the 60-day injured list.
+615416,595881,activation,activation_without_observed_open_episode,San Francisco Giants activated RHP Tyler Beede from the 60-day injured list.
+684718,595928,activation,activation_without_observed_open_episode,New York Mets activated RHP John Curtiss from the 60-day injured list.
+281871,596057,activation,activation_without_observed_open_episode,Detroit Tigers activated LHP Daniel Norris from the 15-day disabled list.
+477388,596057,activation,activation_without_observed_open_episode,Detroit Tigers activated P Daniel Norris from the 10 day injured list.
+478122,596057,activation,activation_without_observed_open_episode,Detroit Tigers activated P Daniel Norris from the 10 day injured list.
+517437,596071,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated LHP Dillon Peters from the 10-day injured list.
+517761,596071,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated LHP Dillon Peters from the 10-day injured list.
+279328,599683,activation,activation_without_observed_open_episode,Detroit Tigers activated RHP Warwick Saupold from the 15-day disabled list.
+477185,605195,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated P Kyle Crick from the 10 day injured list.
+478436,605195,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated RHP Kyle Crick from the 10-day injured list.
+320954,605232,activation,activation_without_observed_open_episode,Cincinnati Reds activated LHP Brandon Finnegan from the 60-day disabled list.
+477393,605242,activation,activation_without_observed_open_episode,Detroit Tigers activated P Michael Fulmer from the 60 day injured list.
+478127,605242,activation,activation_without_observed_open_episode,Detroit Tigers activated P Michael Fulmer from the 60 day injured list.
+371983,605309,activation,activation_without_observed_open_episode,Texas Rangers activated RHP Keone Kela from the 10-day disabled list.
+477520,605347,activation,activation_without_observed_open_episode,Baltimore Orioles activated P Jorge Lopez from the 10 day injured list.
+477629,605347,activation,activation_without_observed_open_episode,Baltimore Orioles activated P Jorge Lopez from the 10 day injured list.
+478226,605347,activation,activation_without_observed_open_episode,Baltimore Orioles activated P Jorge Lopez from the 10 day injured list.
+477462,605359,activation,activation_without_observed_open_episode,Chicago White Sox activated P Evan Marshall from the 10 day injured list.
+478170,605359,activation,activation_without_observed_open_episode,Chicago White Sox activated P Evan Marshall from the 10 day injured list.
+684678,605447,activation,activation_without_observed_open_episode,Toronto Blue Jays activated RHP Jordan Romano from the 10-day injured list.
+684947,605447,activation,activation_without_observed_open_episode,Toronto Blue Jays activated RHP Jordan Romano from the 10-day injured list.
+658495,605521,activation,activation_without_observed_open_episode,Cincinnati Reds activated RHP Art Warren from the 60-day injured list.
+477229,605525,activation,activation_without_observed_open_episode,Oakland Athletics activated P J.B. Wendelken from the 10 day injured list.
+478040,605525,activation,activation_without_observed_open_episode,Oakland Athletics activated P J.B. Wendelken from the 10 day injured list.
+477744,606149,activation,activation_without_observed_open_episode,St. Louis Cardinals activated P Giovanny Gallegos from the 10 day injured list.
+517481,606424,activation,activation_without_observed_open_episode,San Francisco Giants activated LHP Jarlin Garcia from the 10-day injured list.
+517779,606424,activation,activation_without_observed_open_episode,San Francisco Giants activated LHP Jarlin Garcia from the 10-day injured list.
+285598,607192,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated RHP Tyler Glasnow from the 15-day disabled list.
+477743,607231,activation,activation_without_observed_open_episode,St. Louis Cardinals activated P John Gant from the 10 day injured list.
+478354,607231,activation,activation_without_observed_open_episode,St. Louis Cardinals activated RHP John Gant from the 10-day injured list.
+275170,607374,activation,activation_without_observed_open_episode,Los Angeles Angels activated RHP Nick Tropeano from the 15-day disabled list.
+517447,607455,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated LHP Anthony Banda from the 10-day injured list.
+480658,607468,activation,activation_without_observed_open_episode,Cincinnati Reds activated 2B Alex Blandino from the 10-day injured list.
+489009,607468,activation,activation_without_observed_open_episode,Cincinnati Reds activated 2B Alex Blandino from the 10-day injured list.
+489848,607468,activation,activation_without_observed_open_episode,Cincinnati Reds activated 2B Alex Blandino from the 10-day injured list.
+477472,607481,activation,activation_without_observed_open_episode,Chicago White Sox activated P Aaron Bummer from the 60 day injured list.
+478180,607481,activation,activation_without_observed_open_episode,Chicago White Sox activated P Aaron Bummer from the 60 day injured list.
+477519,607644,activation,activation_without_observed_open_episode,Baltimore Orioles activated P John Means from the 10 day injured list.
+477661,607644,activation,activation_without_observed_open_episode,Baltimore Orioles activated P John Means from the 10 day injured list.
+478225,607644,activation,activation_without_observed_open_episode,Baltimore Orioles activated P John Means from the 10 day injured list.
+477468,608337,activation,activation_without_observed_open_episode,Chicago White Sox activated P Lucas Giolito from the 10 day injured list.
+478176,608337,activation,activation_without_observed_open_episode,Chicago White Sox activated P Lucas Giolito from the 10 day injured list.
+477409,608566,activation,activation_without_observed_open_episode,Colorado Rockies activated P German Marquez from the 10 day injured list.
+786890,608566,activation,activation_without_observed_open_episode,Colorado Rockies activated RHP Germán Márquez from the 60-day injured list.
+477177,608717,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated P Chris Stratton from the 10 day injured list.
+478418,608717,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated RHP Chris Stratton from the 10-day injured list.
+517445,608717,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated RHP Chris Stratton from the 10-day injured list.
+517735,608717,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated RHP Chris Stratton from the 10-day injured list.
+477163,613534,activation,activation_without_observed_open_episode,San Diego Padres activated P Austin Adams from the 10 day injured list.
+478026,613534,activation,activation_without_observed_open_episode,San Diego Padres activated P Austin Adams from the 10 day injured list.
+477211,621107,activation,activation_without_observed_open_episode,Philadelphia Phillies activated P Zach Eflin from the 10 day injured list.
+478462,621107,activation,activation_without_observed_open_episode,Philadelphia Phillies activated RHP Zach Eflin from the 10-day injured list.
+477342,621111,activation,activation_without_observed_open_episode,Los Angeles Dodgers activated P Walker Buehler from the 10 day injured list.
+478024,621111,activation,activation_without_observed_open_episode,Los Angeles Dodgers activated P Walker Buehler from the 10 day injured list.
+477866,621121,activation,activation_without_observed_open_episode,Houston Astros activated P Lance McCullers Jr. from the 10 day injured list.
+478603,621121,activation,activation_without_observed_open_episode,Houston Astros activated RHP Lance McCullers Jr. from the 10-day injured list.
+477059,621366,activation,activation_without_observed_open_episode,Toronto Blue Jays activated P Ryan Borucki from the 10 day injured list.
+477972,621366,activation,activation_without_observed_open_episode,Toronto Blue Jays activated P Ryan Borucki from the 10 day injured list.
+477086,621433,activation,activation_without_observed_open_episode,Tampa Bay Rays activated CF Brett Phillips from the 10 day injured list.
+478349,621433,activation,activation_without_observed_open_episode,Tampa Bay Rays activated CF Brett Phillips from the 10-day injured list.
+480652,621433,activation,activation_without_observed_open_episode,Tampa Bay Rays activated CF Brett Phillips from the 10-day injured list.
+477358,622092,activation,activation_without_observed_open_episode,Kansas City Royals activated P Kyle Zimmer from the 60 day injured list.
+478090,622092,activation,activation_without_observed_open_episode,Kansas City Royals activated P Kyle Zimmer from the 60 day injured list.
+477359,622251,activation,activation_without_observed_open_episode,Kansas City Royals activated P Josh Staumont from the 10 day injured list.
+478091,622251,activation,activation_without_observed_open_episode,Kansas City Royals activated P Josh Staumont from the 10 day injured list.
+477516,622253,activation,activation_without_observed_open_episode,Baltimore Orioles activated P Dillon Tate from the 10 day injured list.
+477643,622253,activation,activation_without_observed_open_episode,Baltimore Orioles activated P Dillon Tate from the 10 day injured list.
+478222,622253,activation,activation_without_observed_open_episode,Baltimore Orioles activated P Dillon Tate from the 10 day injured list.
+267349,622663,activation,activation_without_observed_open_episode,New York Yankees activated RHP Luis Severino from the 15-day disabled list.
+815239,622780,activation,activation_without_observed_open_episode,Atlanta Braves activated LHP Angel Perdomo from the 60-day injured list.
+658450,623184,activation,activation_without_observed_open_episode,Colorado Rockies activated RHP Scott Oberg from the 60-day injured list.
+283162,623406,activation,activation_without_observed_open_episode,Atlanta Braves activated RHP Shae Simmons from the 15-day disabled list.
+944452,640448,activation,activation_without_observed_open_episode,Detroit Tigers activated RHP Kyle Finnegan from the 15-day injured list.
+655470,641360,activation,activation_without_observed_open_episode,Los Angeles Dodgers activated RHP Phil Bickford from the 15-day injured list.
+477365,641745,activation,activation_without_observed_open_episode,Kansas City Royals activated P Brad Keller from the 10 day injured list.
+478096,641745,activation,activation_without_observed_open_episode,Kansas City Royals activated P Brad Keller from the 10 day injured list.
+658451,641755,activation,activation_without_observed_open_episode,Colorado Rockies activated RHP Tyler Kinley from the 60-day injured list.
+477180,641771,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated P Chad Kuhl from the 60 day injured list.
+478426,641771,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated RHP Chad Kuhl from the 60-day injured list.
+517432,641771,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated RHP Chad Kuhl from the 10-day injured list.
+517742,641771,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated RHP Chad Kuhl from the 10-day injured list.
+650468,641816,activation,activation_without_observed_open_episode,Minnesota Twins activated RHP Tyler Mahle from the 15-day injured list.
+614944,641927,activation,activation_without_observed_open_episode,Minnesota Twins activated RHP Bailey Ober from the 10-day injured list.
+615481,641927,activation,activation_without_observed_open_episode,Minnesota Twins activated RHP Bailey Ober from the 10-day injured list.
+477154,641941,activation,activation_without_observed_open_episode,San Diego Padres activated P Emilio Pagan from the 10 day injured list.
+478015,641941,activation,activation_without_observed_open_episode,San Diego Padres activated P Emilio Pagan from the 10 day injured list.
+517485,641941,activation,activation_without_observed_open_episode,San Diego Padres activated RHP Emilio Pagan from the 10-day injured list.
+517783,641941,activation,activation_without_observed_open_episode,San Diego Padres activated RHP Emilio Pagan from the 10-day injured list.
+477104,642003,activation,activation_without_observed_open_episode,Tampa Bay Rays activated P Cody Reed from the 60 day injured list.
+478328,642003,activation,activation_without_observed_open_episode,Tampa Bay Rays activated LHP Cody Reed from the 60-day injured list.
+477859,642130,activation,activation_without_observed_open_episode,Houston Astros activated P Blake Taylor from the 10 day injured list.
+478595,642130,activation,activation_without_observed_open_episode,Houston Astros activated LHP Blake Taylor from the 10-day injured list.
+477566,642203,activation,activation_without_observed_open_episode,Arizona Diamondbacks activated P Taylor Widener from the 10 day injured list.
+478247,642203,activation,activation_without_observed_open_episode,Arizona Diamondbacks activated P Taylor Widener from the 10 day injured list.
+451001,642232,activation,activation_without_observed_open_episode,Tampa Bay Rays activated LHP Ryan Yarbrough from the 10-day injured list.
+477098,642232,activation,activation_without_observed_open_episode,Tampa Bay Rays activated P Ryan Yarbrough from the 10 day injured list.
+478334,642232,activation,activation_without_observed_open_episode,Tampa Bay Rays activated LHP Ryan Yarbrough from the 10-day injured list.
+517476,642232,activation,activation_without_observed_open_episode,Tampa Bay Rays activated LHP Ryan Yarbrough from the 10-day injured list.
+517774,642232,activation,activation_without_observed_open_episode,Tampa Bay Rays activated LHP Ryan Yarbrough from the 10-day injured list.
+477792,642528,activation,activation_without_observed_open_episode,New York Yankees activated P Jonathan Loaisiga from the 10 day injured list.
+478480,642528,activation,activation_without_observed_open_episode,New York Yankees activated RHP Jonathan Loaisiga from the 10-day injured list.
+654563,643290,activation,activation_without_observed_open_episode,Cincinnati Reds activated RHP Justin Dunn from the 15-day injured list.
+477319,645261,activation,activation_without_observed_open_episode,Miami Marlins activated P Sandy Alcantara from the 10 day injured list.
+478569,645261,activation,activation_without_observed_open_episode,Miami Marlins activated RHP Sandy Alcantara from the 10-day injured list.
+477483,650382,activation,activation_without_observed_open_episode,Boston Red Sox activated P Darwinzon Hernandez from the 10 day injured list.
+478202,650382,activation,activation_without_observed_open_episode,Boston Red Sox activated P Darwinzon Hernandez from the 10 day injured list.
+477870,650556,activation,activation_without_observed_open_episode,Houston Astros activated P Bryan Abreu from the 60 day injured list.
+478615,650556,activation,activation_without_observed_open_episode,Houston Astros activated RHP Bryan Abreu from the 60-day injured list.
+477162,656186,activation,activation_without_observed_open_episode,San Diego Padres activated P Dan Altavilla from the 10 day injured list.
+478025,656186,activation,activation_without_observed_open_episode,San Diego Padres activated P Dan Altavilla from the 10 day injured list.
+477693,656288,activation,activation_without_observed_open_episode,Los Angeles Angels activated P Griffin Canning from the 60 day injured list.
+478589,656288,activation,activation_without_observed_open_episode,Los Angeles Angels activated RHP Griffin Canning from the 60-day injured list.
+731410,656420,activation,activation_without_observed_open_episode,Los Angeles Dodgers activated RHP J.P. Feyereisen from the 60-day injured list.
+524486,656464,activation,activation_without_observed_open_episode,Arizona Diamondbacks activated RHP Kevin Ginkel from the 60-day injured list.
+477181,656605,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated P Mitch Keller from the 10 day injured list.
+478428,656605,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated RHP Mitch Keller from the 10-day injured list.
+727641,656887,activation,activation_without_observed_open_episode,New York Mets activated RHP Sean Reid-Foley from the 15-day injured list.
+477490,657031,activation,activation_without_observed_open_episode,Boston Red Sox activated P Josh Taylor from the 10 day injured list.
+478195,657031,activation,activation_without_observed_open_episode,Boston Red Sox activated P Josh Taylor from the 10 day injured list.
+803292,657031,activation,activation_without_observed_open_episode,Kansas City Royals activated LHP Josh Taylor from the 60-day injured list.
+803620,657140,activation,activation_without_observed_open_episode,Kansas City Royals activated RHP Kyle Wright from the 60-day injured list.
+791532,657649,activation,activation_without_observed_open_episode,Milwaukee Brewers activated LHP Jared Koenig from the 15-day injured list.
+415361,659275,activation,activation_without_observed_open_episode,San Diego Padres activated RHP Dinelson Lamet from the 60-day injured list.
+477048,663423,activation,activation_without_observed_open_episode,Toronto Blue Jays activated P Trent Thornton from the 60 day injured list.
+477962,663423,activation,activation_without_observed_open_episode,Toronto Blue Jays activated P Trent Thornton from the 60 day injured list.
+477057,663432,activation,activation_without_observed_open_episode,Washington Nationals activated P Tanner Rainey from the 10 day injured list.
+477941,663432,activation,activation_without_observed_open_episode,Washington Nationals activated P Tanner Rainey from the 10 day injured list.
+479119,663432,activation,activation_without_observed_open_episode,Washington Nationals activated RHP Tanner Rainey from the 10-day injured list.
+479253,663432,activation,activation_without_observed_open_episode,Washington Nationals activated RHP Tanner Rainey from the 10-day injured list.
+735624,663559,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated LHP Bailey Falter from the 15-day injured list.
+943644,663574,activation,activation_without_observed_open_episode,Cincinnati Reds activated RHP Tony Santillan from the 15-day injured list.
+851571,663855,activation,activation_without_observed_open_episode,Boston Red Sox activated RHP Jordan Hicks from the 15-day injured list.
+788371,663978,activation,activation_without_observed_open_episode,Minnesota Twins activated RHP Chris Paddack from the 15-day injured list.
+477282,664054,activation,activation_without_observed_open_episode,Minnesota Twins activated P Cody Stashak from the 10 day injured list.
+786972,664123,activation,activation_without_observed_open_episode,New York Yankees activated RHP Scott Effross from the 60-day injured list.
+765772,664285,activation,activation_without_observed_open_episode,Houston Astros activated LHP Framber Valdez from the 15-day injured list.
+477858,664353,activation,activation_without_observed_open_episode,Houston Astros activated P Jose Urquidy from the 10 day injured list.
+478592,664353,activation,activation_without_observed_open_episode,Houston Astros activated RHP Jose Urquidy from the 10-day injured list.
+477742,664854,activation,activation_without_observed_open_episode,St. Louis Cardinals activated P Ryan Helsley from the 10 day injured list.
+478353,664854,activation,activation_without_observed_open_episode,St. Louis Cardinals activated RHP Ryan Helsley from the 10-day injured list.
+727625,665625,activation,activation_without_observed_open_episode,Milwaukee Brewers activated RHP Elvis Peguero from the 15-day injured list.
+804525,666168,activation,activation_without_observed_open_episode,Washington Nationals activated RHP Mason Thompson from the 60-day injured list.
+795135,666204,activation,activation_without_observed_open_episode,Oakland Athletics activated RHP Dany Jiménez from the 15-day injured list.
+614863,667463,activation,activation_without_observed_open_episode,Texas Rangers activated LHP John King from the 60-day injured list.
+615399,667463,activation,activation_without_observed_open_episode,Texas Rangers activated LHP John King from the 60-day injured list.
+477574,668678,activation,activation_without_observed_open_episode,Arizona Diamondbacks activated P Zac Gallen from the 10 day injured list.
+478255,668678,activation,activation_without_observed_open_episode,Arizona Diamondbacks activated P Zac Gallen from the 10 day injured list.
+457332,668683,activation,activation_without_observed_open_episode,Atlanta Braves activated RHP Jeremy Walker from the 60-day injured list.
+517425,669060,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated RHP Bryse Wilson from the 10-day injured list.
+517753,669060,activation,activation_without_observed_open_episode,Pittsburgh Pirates activated RHP Bryse Wilson from the 10-day injured list.
+667678,669084,activation,activation_without_observed_open_episode,Baltimore Orioles activated LHP DL Hall.
+873491,669084,activation,activation_without_observed_open_episode,Milwaukee Brewers activated LHP DL Hall.
+870692,669438,activation,activation_without_observed_open_episode,Tampa Bay Rays activated RHP Mason Englert from the 15-day injured list.
+621571,669952,activation,activation_without_observed_open_episode,Los Angeles Dodgers activated RHP Mitch White from the 10-day injured list.
+875007,670174,activation,activation_without_observed_open_episode,Boston Red Sox activated RHP Josh Winckowski from the 60-day injured list.
+658449,672487,activation,activation_without_observed_open_episode,Colorado Rockies activated LHP Helcris Olivarez from the 60-day injured list.
+793407,675627,activation,activation_without_observed_open_episode,Los Angeles Dodgers activated RHP Michael Grove from the 15-day injured list.
+909644,676684,activation,activation_without_observed_open_episode,Detroit Tigers activated RHP Will Vest from the 15-day injured list.
+941177,677944,activation,activation_without_observed_open_episode,Cleveland Guardians activated RHP Slade Cecconi from the 15-day injured list.
+844811,677958,activation,activation_without_observed_open_episode,Texas Rangers activated RHP Kumar Rocker from the 15-day injured list.
+831584,678394,activation,activation_without_observed_open_episode,Boston Red Sox activated RHP Brayan Bello from the 15-day injured list.
+787858,678606,activation,activation_without_observed_open_episode,Washington Nationals activated LHP Jose A. Ferrer from the 60-day injured list.
+928253,678906,activation,activation_without_observed_open_episode,Houston Astros activated RHP Kai-Wei Teng from the 15-day injured list.
+658829,680692,activation,activation_without_observed_open_episode,Chicago White Sox activated RHP Jonathan Stiever from the 60-day injured list.
+815262,681035,activation,activation_without_observed_open_episode,New York Mets activated RHP Christian Scott from the 60-day injured list.
+731282,681643,activation,activation_without_observed_open_episode,Detroit Tigers activated RHP Freddy Pacheco from the 60-day injured list.
+836305,681869,activation,activation_without_observed_open_episode,Houston Astros activated RHP Shawn Dubin from the 15-day injured list.
+826901,683232,activation,activation_without_observed_open_episode,Milwaukee Brewers activated RHP Nick Mears from the 15-day injured list.
+907218,686580,activation,activation_without_observed_open_episode,Boston Red Sox activated RHP Justin Slaten from the 15-day injured list.
+804591,686753,activation,activation_without_observed_open_episode,Arizona Diamondbacks activated RHP Drey Jameson from the 60-day injured list.
+910824,690925,activation,activation_without_observed_open_episode,Washington Nationals activated RHP Clayton Beeter from the 15-day injured list.
+875310,693308,activation,activation_without_observed_open_episode,Los Angeles Dodgers activated RHP Nick Frasso from the 60-day injured list.
+735074,693433,activation,activation_without_observed_open_episode,Seattle Mariners activated RHP Bryan Woo from the 15-day injured list.

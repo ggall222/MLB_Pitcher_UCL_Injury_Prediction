@@ -1,0 +1,12 @@
+reason,events
+missing_initial_date,49
+left_censored,49
+uncertain_timing,180
+overlapping_episode,390
+multiple_regions,42
+postoperative_or_preexisting,348
+inferred_continuation,185
+anatomy_source_conflict,134
+identity_review,0
+unclassified_group,926
+incomplete_sources,0

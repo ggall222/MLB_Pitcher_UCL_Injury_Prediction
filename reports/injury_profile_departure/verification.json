@@ -1,0 +1,43 @@
+{
+  "checks": {
+    "source_unchanged": true,
+    "all_prior_artifacts_unchanged": true,
+    "two_notebooks_executed": true,
+    "notebook_hashes_match": true,
+    "analysis_code_hashes_match": true,
+    "models_source_code_and_config_match": true,
+    "models_artifacts_match": true,
+    "scores_source_code_and_config_match": true,
+    "scores_artifacts_match": true,
+    "sensitivity_source_code_and_config_match": true,
+    "sensitivity_artifacts_match": true,
+    "stability_source_code_and_config_match": true,
+    "stability_artifacts_match": true,
+    "nine_variants_seven_categories_two_partitions": true,
+    "common_rows_labels_within_comparisons": true,
+    "unique_category_row_predictions": true,
+    "original_risk_sets_and_outcomes_preserved": true,
+    "no_positive_event_crosses_partitions": true,
+    "original_62_scores_reproduced": true,
+    "all_event_denominators_preserved": true,
+    "matched_rows_outside_training": true,
+    "matched_rows_strictly_pre_event": true,
+    "matched_original_keys_preserved": true,
+    "incomplete_measurements_not_plotted": true,
+    "balanced_pairs_match_curves": true,
+    "exact_logit_reconstruction": true,
+    "paired_training_refits_complete": true
+  },
+  "all_passed": true,
+  "prior_artifacts_preserved": 196,
+  "csv_tables": 27,
+  "figures": 8,
+  "source_signature": {
+    "database": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/mlb_ucl.duckdb",
+    "database_bytes": 17895796736,
+    "database_mtime_ns": 1789002299179560729,
+    "events_sha256": "18d9ae297bd70d0b78178ae45fe731a26f6a459ec9ab65d68d17783c8862f468",
+    "config_sha256": "096e17f7445f34bf50938f06be973540577a4b9193bfd450c7acf0c8cd3d00b6",
+    "feature_config_sha256": "5b60e14a805a5e75c4159666edb41764741fe9fa7ac1eb5dce1cf8bc7c871672"
+  }
+}

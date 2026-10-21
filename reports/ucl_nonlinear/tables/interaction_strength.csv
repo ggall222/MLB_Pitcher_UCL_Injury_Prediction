@@ -1,0 +1,64 @@
+model_id,refit,left,right,supported_cells,total_cells,supported_rows,weighted_rms_local_contrast
+Departure__Boosting__8,-1,velo_z,extension_z,16,16,3821,0.06252740371949957
+Departure__Boosting__8,-1,velo_z,release_z_sd_z,16,16,3812,0.17372549642379503
+Departure__Boosting__8,0,velo_z,extension_z,16,16,3821,0.07419079090045634
+Departure__Boosting__8,0,velo_z,release_z_sd_z,16,16,3812,0.07010235734449667
+Departure__Boosting__8,1,velo_z,extension_z,16,16,3821,0.11924986056360702
+Departure__Boosting__8,1,velo_z,release_z_sd_z,16,16,3812,0.08714388452974194
+Departure__Boosting__8,2,velo_z,extension_z,16,16,3821,0.13973347091021224
+Departure__Boosting__8,2,velo_z,release_z_sd_z,16,16,3812,0.18112047064870077
+Departure__Boosting__8,3,velo_z,extension_z,16,16,3821,0.09522546976627562
+Departure__Boosting__8,3,velo_z,release_z_sd_z,16,16,3812,0.08738713536707013
+Departure__Boosting__8,4,velo_z,extension_z,16,16,3821,0.14365418979239775
+Departure__Boosting__8,4,velo_z,release_z_sd_z,16,16,3812,0.11600015896960837
+Departure__Boosting__8,5,velo_z,extension_z,16,16,3821,0.09733739915392506
+Departure__Boosting__8,5,velo_z,release_z_sd_z,16,16,3812,0.11360465324219429
+Departure__Boosting__8,6,velo_z,extension_z,16,16,3821,0.07261578272812219
+Departure__Boosting__8,6,velo_z,release_z_sd_z,16,16,3812,0.1722330994792419
+Departure__Boosting__8,7,velo_z,extension_z,16,16,3821,0.08356695529568423
+Departure__Boosting__8,7,velo_z,release_z_sd_z,16,16,3812,0.05181861854948456
+Departure__Spline__0p1,-1,velo_z,extension_z,16,16,3821,5.3590942635761904e-17
+Departure__Spline__0p1,-1,velo_z,release_z_sd_z,16,16,3812,6.470522975517379e-17
+Departure__Spline__0p1,0,velo_z,extension_z,16,16,3821,8.543952482094963e-17
+Departure__Spline__0p1,0,velo_z,release_z_sd_z,16,16,3812,1.1787269038286022e-16
+Departure__Spline__0p1,1,velo_z,extension_z,16,16,3821,1.0643045618232058e-16
+Departure__Spline__0p1,1,velo_z,release_z_sd_z,16,16,3812,6.889208158028231e-17
+Departure__Spline__0p1,2,velo_z,extension_z,16,16,3821,5.118551095891718e-17
+Departure__Spline__0p1,2,velo_z,release_z_sd_z,16,16,3812,4.265390239084507e-17
+Departure__Spline__0p1,3,velo_z,extension_z,16,16,3821,3.563413616096012e-17
+Departure__Spline__0p1,3,velo_z,release_z_sd_z,16,16,3812,3.927484630344958e-17
+Departure__Spline__0p1,4,velo_z,extension_z,16,16,3821,7.902955349099012e-17
+Departure__Spline__0p1,4,velo_z,release_z_sd_z,16,16,3812,6.059687567463983e-17
+Departure__Spline__0p1,5,velo_z,extension_z,16,16,3821,8.707147509599488e-17
+Departure__Spline__0p1,5,velo_z,release_z_sd_z,16,16,3812,7.27104235608515e-17
+Departure__Spline__0p1,6,velo_z,extension_z,16,16,3821,4.202339365874121e-17
+Departure__Spline__0p1,6,velo_z,release_z_sd_z,16,16,3812,6.871379425807692e-17
+Departure__Spline__0p1,7,velo_z,extension_z,16,16,3821,3.842958589758225e-17
+Departure__Spline__0p1,7,velo_z,release_z_sd_z,16,16,3812,4.999443933013058e-17
+Linear|Departure,-1,velo_z,extension_z,16,16,3821,4.5406360452553086e-17
+Linear|Departure,-1,velo_z,release_z_sd_z,16,16,3812,7.7006797535674e-17
+Linear|Departure,0,velo_z,extension_z,16,16,3821,4.858031147875425e-17
+Linear|Departure,0,velo_z,release_z_sd_z,16,16,3812,7.790205329403266e-17
+Linear|Departure,1,velo_z,extension_z,16,16,3821,5.812696820644455e-17
+Linear|Departure,1,velo_z,release_z_sd_z,16,16,3812,9.746375660555854e-17
+Linear|Departure,2,velo_z,extension_z,16,16,3821,5.012878339477294e-17
+Linear|Departure,2,velo_z,release_z_sd_z,16,16,3812,1.1843956567045038e-16
+Linear|Departure,3,velo_z,extension_z,16,16,3821,4.891618254107325e-17
+Linear|Departure,3,velo_z,release_z_sd_z,16,16,3812,3.2055996237345097e-16
+Linear|Departure,4,velo_z,extension_z,16,16,3821,1.0645705191760016e-16
+Linear|Departure,4,velo_z,release_z_sd_z,16,16,3812,4.832800251035288e-17
+Linear|Departure,5,velo_z,extension_z,16,16,3821,1.2171197984864707e-16
+Linear|Departure,5,velo_z,release_z_sd_z,16,16,3812,1.5065645131199704e-16
+Linear|Departure,6,velo_z,extension_z,16,16,3821,6.387928941691103e-17
+Linear|Departure,6,velo_z,release_z_sd_z,16,16,3812,5.184131533414657e-17
+Linear|Departure,7,velo_z,extension_z,16,16,3821,5.324210803690744e-17
+Linear|Departure,7,velo_z,release_z_sd_z,16,16,3812,4.9405932923554054e-17
+Linear|Stable 62,-1,velo_z,extension_z,16,16,3821,4.5971906250542274e-17
+Linear|Stable 62,0,velo_z,extension_z,16,16,3821,4.793128763453925e-17
+Linear|Stable 62,1,velo_z,extension_z,16,16,3821,5.846150568743966e-17
+Linear|Stable 62,2,velo_z,extension_z,16,16,3821,7.166280475291708e-17
+Linear|Stable 62,3,velo_z,extension_z,16,16,3821,5.3856734712477676e-17
+Linear|Stable 62,4,velo_z,extension_z,16,16,3821,8.487792798918045e-17
+Linear|Stable 62,5,velo_z,extension_z,16,16,3821,5.052249458838444e-17
+Linear|Stable 62,6,velo_z,extension_z,16,16,3821,7.060228481845991e-17
+Linear|Stable 62,7,velo_z,extension_z,16,16,3821,4.834606277134366e-17

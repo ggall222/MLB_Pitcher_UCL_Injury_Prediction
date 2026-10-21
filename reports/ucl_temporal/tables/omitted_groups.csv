@@ -1,0 +1,49 @@
+feature,feature_group,screen_exclusion,classification_ambiguity,training_missing_fraction,support_only_sensitivity
+arm_angle_avg,Arm angle,insufficient long-history training measurement support,,0.8167108262986013,False
+arm_angle_sd,Arm angle,insufficient long-history training measurement support,,0.8175488323371742,False
+velocity_measured_count,Measurement coverage and history support,,,0.0,True
+arm_angle_measured_count,Measurement coverage and history support,,,0.0,True
+velocity_coverage,Measurement coverage and history support,,,0.0,True
+arm_angle_coverage,Measurement coverage and history support,,,0.0,True
+first_n_fb_velo,Within-appearance velocity change,insufficient long-history training measurement support,,0.8008256824203586,False
+last_n_fb_velo,Within-appearance velocity change,insufficient long-history training measurement support,,0.8008256824203586,False
+velo_drop_game,Within-appearance velocity change,insufficient long-history training measurement support,,0.8008256824203586,False
+ff_arm_angle_avg,Arm angle,insufficient long-history training measurement support,,0.8485304085279438,False
+si_arm_angle_avg,Arm angle,insufficient long-history training measurement support,,0.9140797338098464,False
+fc_arm_angle_avg,Arm angle,insufficient long-history training measurement support,,0.95434099451599,False
+sl_arm_angle_avg,Arm angle,insufficient long-history training measurement support,,0.8856737938258673,False
+st_arm_angle_avg,Arm angle,insufficient long-history training measurement support; too few observed training pitchers,,0.9856799556349743,False
+cu_arm_angle_avg,Arm angle,insufficient long-history training measurement support,,0.936964692833816,False
+kc_arm_angle_avg,Arm angle,insufficient long-history training measurement support; too few observed training pitchers,,0.984743360650687,False
+ch_arm_angle_avg,Arm angle,insufficient long-history training measurement support,,0.9119970423316286,False
+fs_arm_angle_avg,Arm angle,insufficient long-history training measurement support; too few observed training pitchers,,0.9877872943496212,False
+sv_arm_angle_avg,Arm angle,insufficient long-history training measurement support; too few observed training pitchers,,0.99848419495964,False
+pitch_count_difference,Measurement coverage and history support,constant or unobserved in training,,0.0,True
+flagged_pitch_count,Measurement coverage and history support,,,0.0,True
+documented_prior_ucl_count,Documented prior UCL history,publication timing not verified,"Registered source-safe, but excluded by the existing analysis knowledge-time policy.",0.0,False
+documented_prior_ucl,Documented prior UCL history,publication timing not verified,"Registered source-safe, but excluded by the existing analysis knowledge-time policy.",0.0,False
+workload_history_appearances,Measurement coverage and history support,,,0.0,True
+workload_7d_complete,Measurement coverage and history support,,,0.0,True
+workload_14d_complete,Measurement coverage and history support,,,0.0,True
+workload_28d_complete,Measurement coverage and history support,,,0.0,True
+prior_appearance_count,Measurement coverage and history support,,,0.0,True
+history_count_prev_3,Measurement coverage and history support,constant or unobserved in training,,0.0,True
+arm_angle_avg_prev_3,Arm angle,insufficient long-history training measurement support,,0.8216895680571816,False
+history_count_prev_5,Measurement coverage and history support,constant or unobserved in training,,0.0,True
+arm_angle_avg_prev_5,Arm angle,insufficient long-history training measurement support,,0.8186456343582476,False
+history_count_prev_10,Measurement coverage and history support,,,0.0,True
+arm_angle_avg_prev_10,Arm angle,insufficient long-history training measurement support,,0.8405077330704295,False
+arm_angle_change_vs_prev_5,Arm angle,insufficient long-history training measurement support,Builder resolves precise window; generic dictionary descriptions may say previous five.,0.8271242836896913,False
+arm_angle_slope_prev_5,Arm angle,insufficient long-history training measurement support,Builder defines OLS slope per outing; generic dictionary suffix rule can call this an average.,0.8256084786493314,False
+avg_fb_velo_baseline_count,Measurement coverage and history support,,,0.0,True
+release_x_avg_baseline_count,Measurement coverage and history support,,,0.0,True
+release_z_avg_baseline_count,Measurement coverage and history support,,,0.0,True
+release_x_sd_baseline_count,Measurement coverage and history support,,,0.0,True
+release_z_sd_baseline_count,Measurement coverage and history support,,,0.0,True
+extension_avg_baseline_count,Measurement coverage and history support,,,0.0,True
+arm_angle_avg_baseline_count,Measurement coverage and history support,,,0.0,True
+arm_angle_avg_baseline_mean,Arm angle,insufficient long-history training measurement support,,0.8343828948179185,False
+arm_angle_avg_baseline_sd,Arm angle,insufficient long-history training measurement support,,0.8343828948179185,False
+arm_angle_z,Arm angle,insufficient long-history training measurement support,,0.8406802637254298,False
+spin_avg_baseline_count,Measurement coverage and history support,,,0.0,True
+zone_pct_baseline_count,Measurement coverage and history support,,,0.0,True

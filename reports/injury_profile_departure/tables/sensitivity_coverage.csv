@@ -1,0 +1,49 @@
+category,condition,partition,rows,positive_rows,represented_events,original_rows
+Elbow / UCL,Complete P+D measurements,train,80106,1424,223,81145
+Elbow / UCL,Complete P+D measurements,validation,26531,594,89,26796
+Elbow / UCL,Complete P+D measurements,test,27323,701,110,27665
+Elbow / UCL,Shared availability flags,train,81145,1441,223,81145
+Elbow / UCL,Shared availability flags,validation,26796,600,89,26796
+Elbow / UCL,Shared availability flags,test,27665,708,110,27665
+Elbow / UCL,Exclude final six days,train,80752,1048,201,81145
+Elbow / UCL,Exclude final six days,validation,26625,429,80,26796
+Elbow / UCL,Exclude final six days,test,27477,520,104,27665
+Elbow / UCL,Measurement profiles only,train,81145,1441,223,81145
+Elbow / UCL,Measurement profiles only,validation,26796,600,89,26796
+Elbow / UCL,Measurement profiles only,test,27665,708,110,27665
+Shoulder,Complete P+D measurements,train,80929,2247,350,81978
+Shoulder,Complete P+D measurements,validation,26666,729,115,26932
+Shoulder,Complete P+D measurements,test,27459,837,125,27806
+Shoulder,Shared availability flags,train,81978,2274,350,81978
+Shoulder,Shared availability flags,validation,26932,736,115,26932
+Shoulder,Shared availability flags,test,27806,849,125,27806
+Shoulder,Exclude final six days,train,81340,1636,312,81978
+Shoulder,Exclude final six days,validation,26739,543,103,26932
+Shoulder,Exclude final six days,test,27581,624,116,27806
+Shoulder,Measurement profiles only,train,81978,2274,350,81978
+Shoulder,Measurement profiles only,validation,26932,736,115,26932
+Shoulder,Measurement profiles only,test,27806,849,125,27806
+Forearm,Complete P+D measurements,train,79326,644,109,80362
+Forearm,Complete P+D measurements,validation,26218,281,41,26478
+Forearm,Complete P+D measurements,test,26898,276,38,27236
+Forearm,Shared availability flags,train,80362,658,109,80362
+Forearm,Shared availability flags,validation,26478,282,41,26478
+Forearm,Shared availability flags,test,27236,279,38,27236
+Forearm,Exclude final six days,train,80159,455,92,80362
+Forearm,Exclude final six days,validation,26404,208,39,26478
+Forearm,Exclude final six days,test,27167,210,36,27236
+Forearm,Measurement profiles only,train,80362,658,109,80362
+Forearm,Measurement profiles only,validation,26478,282,41,26478
+Forearm,Measurement profiles only,test,27236,279,38,27236
+Lower body,Complete P+D measurements,train,80995,2313,360,82046
+Lower body,Complete P+D measurements,validation,26816,879,130,27089
+Lower body,Complete P+D measurements,test,27252,630,104,27593
+Lower body,Shared availability flags,train,82046,2342,361,82046
+Lower body,Shared availability flags,validation,27089,893,130,27089
+Lower body,Shared availability flags,test,27593,636,104,27593
+Lower body,Exclude final six days,train,81423,1719,328,82046
+Lower body,Exclude final six days,validation,26858,662,124,27089
+Lower body,Exclude final six days,test,27413,456,92,27593
+Lower body,Measurement profiles only,train,82046,2342,361,82046
+Lower body,Measurement profiles only,validation,27089,893,130,27089
+Lower body,Measurement profiles only,test,27593,636,104,27593

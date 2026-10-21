@@ -1,0 +1,61 @@
+analysis,category,partition,variant,reference,mean,low,high,events,pitchers
+modern_complete_angle,Elbow / UCL,validation,arm_angle,Full without arm angle,-0.03333333333333333,-0.1018103448275862,0.029149441918147837,120,111
+modern_complete_angle,Elbow / UCL,validation,arm_angle,Uniform random expectation,-0.07687474335834758,-0.12014596366722546,-0.031246476687001926,120,111
+modern_complete_angle,Elbow / UCL,validation,Full without arm angle,Full without arm angle,0.0,0.0,0.0,120,111
+modern_complete_angle,Elbow / UCL,validation,Full without arm angle,Uniform random expectation,-0.04354141002501425,-0.0964300124328868,0.012510652623614393,120,111
+modern_complete_angle,Elbow / UCL,validation,Full + arm angle,Full without arm angle,-0.008333333333333333,-0.03480036297640653,0.016740196078431368,120,111
+modern_complete_angle,Elbow / UCL,validation,Full + arm angle,Uniform random expectation,-0.05187474335834759,-0.1066804636314587,-0.0002662321677332062,120,111
+modern_complete_angle,Elbow / UCL,test,arm_angle,Full without arm angle,-0.020689655172413793,-0.0798623188405797,0.041379310344827586,145,129
+modern_complete_angle,Elbow / UCL,test,arm_angle,Uniform random expectation,-0.046489751595533035,-0.09241660181954775,0.00046501109522115636,145,129
+modern_complete_angle,Elbow / UCL,test,Full without arm angle,Full without arm angle,0.0,0.0,0.0,145,129
+modern_complete_angle,Elbow / UCL,test,Full without arm angle,Uniform random expectation,-0.025800096423119246,-0.07528938563534765,0.030323862888847773,145,129
+modern_complete_angle,Elbow / UCL,test,Full + arm angle,Full without arm angle,-0.013793103448275862,-0.0343705715635333,0.0,145,129
+modern_complete_angle,Elbow / UCL,test,Full + arm angle,Uniform random expectation,-0.03959319987139511,-0.08585472212846017,0.011611413352918173,145,129
+modern_complete_angle,Shoulder,validation,arm_angle,Full without arm angle,-0.055900621118012424,-0.13658381712626996,0.018983142037302697,161,142
+modern_complete_angle,Shoulder,validation,arm_angle,Uniform random expectation,-0.07018330284312246,-0.11445698894033082,-0.024738713599619662,161,142
+modern_complete_angle,Shoulder,validation,Full without arm angle,Full without arm angle,0.0,0.0,0.0,161,142
+modern_complete_angle,Shoulder,validation,Full without arm angle,Uniform random expectation,-0.01428268172511003,-0.059534443704604,0.0386036342762669,161,142
+modern_complete_angle,Shoulder,validation,Full + arm angle,Full without arm angle,-0.006211180124223602,-0.028185584740462784,0.018204365079365063,161,142
+modern_complete_angle,Shoulder,validation,Full + arm angle,Uniform random expectation,-0.020493861849333633,-0.06610657601873832,0.032822006585789536,161,142
+modern_complete_angle,Shoulder,test,arm_angle,Full without arm angle,-0.024844720496894408,-0.07707763337893296,0.03810166895106022,161,143
+modern_complete_angle,Shoulder,test,arm_angle,Uniform random expectation,-0.094786610882211,-0.13562649744956495,-0.049592175619043104,161,143
+modern_complete_angle,Shoulder,test,Full without arm angle,Full without arm angle,0.0,0.0,0.0,161,143
+modern_complete_angle,Shoulder,test,Full without arm angle,Uniform random expectation,-0.06994189038531659,-0.11431560946555148,-0.0198798234815772,161,143
+modern_complete_angle,Shoulder,test,Full + arm angle,Full without arm angle,0.012422360248447204,-0.012793024585477417,0.03728009259259258,161,143
+modern_complete_angle,Shoulder,test,Full + arm angle,Uniform random expectation,-0.05751953013686938,-0.10420901333680725,-0.004434440350631279,161,143
+modern_complete_angle,Trunk / neck,validation,arm_angle,Full without arm angle,-0.04032258064516129,-0.11025833333333333,0.03203380065296714,124,111
+modern_complete_angle,Trunk / neck,validation,arm_angle,Uniform random expectation,-0.09079413399064283,-0.14335625287012074,-0.02613914874318626,124,111
+modern_complete_angle,Trunk / neck,validation,Full without arm angle,Full without arm angle,0.0,0.0,0.0,124,111
+modern_complete_angle,Trunk / neck,validation,Full without arm angle,Uniform random expectation,-0.050471553345481535,-0.10040316691977692,0.0028496151906433737,124,111
+modern_complete_angle,Trunk / neck,validation,Full + arm angle,Full without arm angle,-0.016129032258064516,-0.04049468922108576,0.0,124,111
+modern_complete_angle,Trunk / neck,validation,Full + arm angle,Uniform random expectation,-0.06660058560354605,-0.11809790283425908,-0.016318174383672255,124,111
+modern_complete_angle,Trunk / neck,test,arm_angle,Full without arm angle,-0.058823529411764705,-0.15897702104097453,0.036585365853658534,85,75
+modern_complete_angle,Trunk / neck,test,arm_angle,Uniform random expectation,-0.06721631149676838,-0.12673093144618242,0.006411439226683564,85,75
+modern_complete_angle,Trunk / neck,test,Full without arm angle,Full without arm angle,0.0,0.0,0.0,85,75
+modern_complete_angle,Trunk / neck,test,Full without arm angle,Uniform random expectation,-0.008392782085003677,-0.08807812118071681,0.07831043470060553,85,75
+modern_complete_angle,Trunk / neck,test,Full + arm angle,Full without arm angle,-0.011764705882352941,-0.09042390194075588,0.06261726078799242,85,75
+modern_complete_angle,Trunk / neck,test,Full + arm angle,Uniform random expectation,-0.020157487967356624,-0.08954645866658116,0.05862223042209372,85,75
+modern_complete_angle,Lower body,validation,arm_angle,Full without arm angle,0.0392156862745098,-0.028887129283040595,0.11149488304093565,153,125
+modern_complete_angle,Lower body,validation,arm_angle,Uniform random expectation,-0.0490294029556,-0.09981832184406787,0.011251613745691237,153,125
+modern_complete_angle,Lower body,validation,Full without arm angle,Full without arm angle,0.0,0.0,0.0,153,125
+modern_complete_angle,Lower body,validation,Full without arm angle,Uniform random expectation,-0.08824508923010982,-0.1408747849311395,-0.027204307513660958,153,125
+modern_complete_angle,Lower body,validation,Full + arm angle,Full without arm angle,-0.006535947712418301,-0.02000755589137295,0.0,153,125
+modern_complete_angle,Lower body,validation,Full + arm angle,Uniform random expectation,-0.09478103694252812,-0.14784399032052511,-0.036274366481110876,153,125
+modern_complete_angle,Lower body,test,arm_angle,Full without arm angle,-0.088,-0.1713766043970009,-0.008294875327180058,125,106
+modern_complete_angle,Lower body,test,arm_angle,Uniform random expectation,-0.09757822852704102,-0.13898805506133408,-0.04200387998896292,125,106
+modern_complete_angle,Lower body,test,Full without arm angle,Full without arm angle,0.0,0.0,0.0,125,106
+modern_complete_angle,Lower body,test,Full without arm angle,Uniform random expectation,-0.009578228527041037,-0.07718745887515965,0.06489652322282945,125,106
+modern_complete_angle,Lower body,test,Full + arm angle,Full without arm angle,0.0,0.0,0.0,125,106
+modern_complete_angle,Lower body,test,Full + arm angle,Uniform random expectation,-0.009578228527041037,-0.07718745887515965,0.06489652322282945,125,106
+modern_complete_angle,Hand / wrist,validation,arm_angle,Full without arm angle,-0.05555555555555555,-0.17805429864253394,0.05405405405405406,36,31
+modern_complete_angle,Hand / wrist,validation,arm_angle,Uniform random expectation,-0.06401815242692839,-0.14249923085040567,0.01867801913562455,36,31
+modern_complete_angle,Hand / wrist,validation,Full without arm angle,Full without arm angle,0.0,0.0,0.0,36,31
+modern_complete_angle,Hand / wrist,validation,Full without arm angle,Uniform random expectation,-0.00846259687137284,-0.12927074833830507,0.13147770759373967,36,31
+modern_complete_angle,Hand / wrist,validation,Full + arm angle,Full without arm angle,0.0,0.0,0.0,36,31
+modern_complete_angle,Hand / wrist,validation,Full + arm angle,Uniform random expectation,-0.00846259687137284,-0.12927074833830507,0.13147770759373967,36,31
+modern_complete_angle,Hand / wrist,test,arm_angle,Full without arm angle,0.0,0.0,0.0,33,29
+modern_complete_angle,Hand / wrist,test,arm_angle,Uniform random expectation,-0.141206527909786,-0.1963785075203922,-0.07638162029914733,33,29
+modern_complete_angle,Hand / wrist,test,Full without arm angle,Full without arm angle,0.0,0.0,0.0,33,29
+modern_complete_angle,Hand / wrist,test,Full without arm angle,Uniform random expectation,-0.141206527909786,-0.1963785075203922,-0.07638162029914733,33,29
+modern_complete_angle,Hand / wrist,test,Full + arm angle,Full without arm angle,0.06060606060606061,0.0,0.15625,33,29
+modern_complete_angle,Hand / wrist,test,Full + arm angle,Uniform random expectation,-0.08060046730372537,-0.17061617237387877,0.019600612045411855,33,29

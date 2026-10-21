@@ -1,0 +1,36 @@
+category,appearance_before,events,median_lead_days,q25,q75
+Elbow / UCL,1,62,1.0,1.0,1.0
+Elbow / UCL,2,62,5.5,4.0,7.0
+Elbow / UCL,3,62,9.0,7.0,13.0
+Elbow / UCL,4,62,12.5,10.0,19.0
+Elbow / UCL,5,62,16.5,12.25,25.0
+Forearm,1,29,1.0,1.0,3.0
+Forearm,2,29,6.0,4.0,8.0
+Forearm,3,29,10.0,6.0,13.0
+Forearm,4,29,12.0,9.0,20.0
+Forearm,5,29,23.0,13.0,27.0
+Hand / wrist,1,19,1.0,1.0,1.0
+Hand / wrist,2,19,6.0,4.5,7.0
+Hand / wrist,3,19,12.0,9.0,12.5
+Hand / wrist,4,19,18.0,14.0,19.0
+Hand / wrist,5,19,23.0,17.5,25.0
+Lower body,1,69,1.0,1.0,1.0
+Lower body,2,69,6.0,4.0,7.0
+Lower body,3,69,10.0,7.0,13.0
+Lower body,4,69,14.0,9.0,19.0
+Lower body,5,69,16.0,13.0,25.0
+Other arm,1,27,1.0,1.0,1.0
+Other arm,2,27,6.0,4.0,7.0
+Other arm,3,27,8.0,7.0,13.0
+Other arm,4,27,11.0,9.5,20.5
+Other arm,5,27,19.0,12.5,26.0
+Shoulder,1,68,1.0,1.0,2.0
+Shoulder,2,68,6.0,4.0,7.0
+Shoulder,3,68,9.5,6.0,14.0
+Shoulder,4,68,13.5,9.0,19.0
+Shoulder,5,68,17.0,13.0,25.25
+Trunk / neck,1,48,1.0,1.0,1.0
+Trunk / neck,2,48,5.5,4.0,7.0
+Trunk / neck,3,48,10.0,6.75,13.0
+Trunk / neck,4,48,14.0,9.0,18.25
+Trunk / neck,5,48,19.5,12.0,24.0

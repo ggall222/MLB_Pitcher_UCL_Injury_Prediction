@@ -1,0 +1,77 @@
+block,feature,meaning
+Current feature space,avg_fb_velo,original selected continuous predictor
+Current feature space,fb_velo_sd,original selected continuous predictor
+Current feature space,fb_velo_change_vs_prev_3,original selected continuous predictor
+Current feature space,fb_velo_change_vs_prev_5,original selected continuous predictor
+Current feature space,velo_z,original selected continuous predictor
+Current feature space,fb_velo_slope_prev_5,original selected continuous predictor
+Current feature space,avg_fb_velo_baseline_mean,original selected continuous predictor
+Current feature space,release_x_avg,original selected continuous predictor
+Current feature space,release_z_avg,original selected continuous predictor
+Current feature space,release_x_sd,original selected continuous predictor
+Current feature space,release_z_sd,original selected continuous predictor
+Current feature space,extension_avg,original selected continuous predictor
+Current feature space,extension_sd,original selected continuous predictor
+Current feature space,release_x_change_vs_prev_5,original selected continuous predictor
+Current feature space,release_z_change_vs_prev_5,original selected continuous predictor
+Current feature space,extension_change_vs_prev_5,original selected continuous predictor
+Current feature space,release_x_z,original selected continuous predictor
+Current feature space,release_z_z,original selected continuous predictor
+Current feature space,extension_z,original selected continuous predictor
+Current feature space,spin_avg,original selected continuous predictor
+Current feature space,spin_change_vs_prev_5,original selected continuous predictor
+Current feature space,spin_z,original selected continuous predictor
+Current feature space,horizontal_movement_avg,original selected continuous predictor
+Current feature space,vertical_movement_avg,original selected continuous predictor
+Current feature space,horizontal_movement_avg_change_vs_prev_5,original selected continuous predictor
+Current feature space,vertical_movement_avg_change_vs_prev_5,original selected continuous predictor
+Current feature space,fastball_usage_pct,original selected continuous predictor
+Current feature space,fastball_usage_pct_change_vs_prev_5,original selected continuous predictor
+Current feature space,sl_usage_pct,original selected continuous predictor
+Current feature space,sl_usage_pct_change_vs_prev_5,original selected continuous predictor
+Current feature space,ch_usage_pct,original selected continuous predictor
+Current feature space,cu_usage_pct,original selected continuous predictor
+Current feature space,zone_pct,original selected continuous predictor
+Current feature space,location_variability,original selected continuous predictor
+Current feature space,strike_pct,original selected continuous predictor
+Current feature space,first_pitch_strike_pct,original selected continuous predictor
+Current feature space,zone_pct_change_vs_prev_5,original selected continuous predictor
+Current feature space,location_variability_change_vs_prev_5,original selected continuous predictor
+Current feature space,walk_rate,original selected continuous predictor
+Current feature space,hbp_rate,original selected continuous predictor
+Current feature space,total_pitches,original selected continuous predictor
+Current feature space,innings_pitched,original selected continuous predictor
+Current feature space,rest_days,original selected continuous predictor
+Current feature space,pitches_prev_7d,original selected continuous predictor
+Current feature space,pitches_prev_14d,original selected continuous predictor
+Current feature space,pitches_prev_28d,original selected continuous predictor
+Current feature space,appearances_prev_14d,original selected continuous predictor
+Current feature space,appearances_prev_28d,original selected continuous predictor
+Current feature space,season_pitch_count,original selected continuous predictor
+Current feature space,season_innings,original selected continuous predictor
+Current feature space,previous_season_innings,original selected continuous predictor
+Current feature space,workload_acceleration_7d_vs_21d,original selected continuous predictor
+Current feature space,acute_chronic_pitch_ratio,original selected continuous predictor
+Current feature space,starts_prev_30d,original selected continuous predictor
+Current feature space,starter_share_prev_5,original selected continuous predictor
+Current feature space,age_at_appearance,original selected continuous predictor
+Current feature space,observed_prior_mlb_starts,original selected continuous predictor
+Current feature space,days_since_mlb_debut,original selected continuous predictor
+Current feature space,prior_reported_il_count,original selected continuous predictor
+Current feature space,calendar_month,original selected continuous predictor
+Prior pitcher profile,avg_fb_velo_baseline_mean,strictly prior baseline mean
+Prior pitcher profile,release_x_avg_baseline_mean,strictly prior baseline mean
+Prior pitcher profile,release_z_avg_baseline_mean,strictly prior baseline mean
+Prior pitcher profile,release_x_sd_baseline_mean,strictly prior baseline mean
+Prior pitcher profile,release_z_sd_baseline_mean,strictly prior baseline mean
+Prior pitcher profile,extension_avg_baseline_mean,strictly prior baseline mean
+Prior pitcher profile,spin_avg_baseline_mean,strictly prior baseline mean
+Prior pitcher profile,zone_pct_baseline_mean,strictly prior baseline mean
+Within-pitcher departure,velo_z,"current measurement minus strictly prior pitcher mean, divided by prior SD"
+Within-pitcher departure,release_x_z,"current measurement minus strictly prior pitcher mean, divided by prior SD"
+Within-pitcher departure,release_z_z,"current measurement minus strictly prior pitcher mean, divided by prior SD"
+Within-pitcher departure,release_x_sd_z,"current measurement minus strictly prior pitcher mean, divided by prior SD"
+Within-pitcher departure,release_z_sd_z,"current measurement minus strictly prior pitcher mean, divided by prior SD"
+Within-pitcher departure,extension_z,"current measurement minus strictly prior pitcher mean, divided by prior SD"
+Within-pitcher departure,spin_z,"current measurement minus strictly prior pitcher mean, divided by prior SD"
+Within-pitcher departure,zone_pct_z,"current measurement minus strictly prior pitcher mean, divided by prior SD"

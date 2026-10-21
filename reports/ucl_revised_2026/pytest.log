@@ -1,0 +1,63 @@
+........................................................................ [ 36%]
+........................................................................ [ 72%]
+...............................................F........                 [100%]
+=================================== FAILURES ===================================
+__________ test_failed_boxscore_refetches_stale_postponed_game_cache ___________
+
+    def test_failed_boxscore_refetches_stale_postponed_game_cache():
+        from datetime import date
+        from src.ingest_mlb import ingest_boxscores
+        class DB:
+            def __init__(self):self.writes=[]
+            def query(self,sql,params=None):
+                if 'FROM games ' in sql:return pd.DataFrame({'game_id':[7]})
+                if 'starter_source' in sql:return pd.DataFrame({'game_id':[]})
+                return pd.DataFrame({'id':[7] if "status='failed'" in sql else []})
+            def upsert(self,table,rows,keys):self.writes.append((table,rows))
+        class Client:
+            refresh=False
+            def __init__(self):self.forced=[]
+            def many(self,jobs,fn):
+                for j in jobs:yield j,fn(j),None
+            def json(self,*args):raise AssertionError('Stale cache must be bypassed')
+            def get(self,url,force_refresh=False):
+                self.forced.append(force_refresh)
+                return json.dumps({'teams':{'home':{'team':{'id':1},'pitchers':[11],
+                    'players':{'ID11':{'person':{'id':11,'fullName':'Pitcher'},'stats':{'pitching':{'gamesPlayed':1,'gamesStarted':1,'outs':3}}}}},
+                    'away':{'team':{'id':2},'pitchers':[],'players':{}}}})
+>       db=DB();client=Client();ingest_boxscores(db,client,date(2026,9,22),date(2026,9,22))
+
+tests/test_ucl_revised_2026.py:88: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+src/ingest_mlb.py:111: in ingest_boxscores
+    ensure_pitchers(db, people)
+src/ingest_mlb.py:27: in ensure_pitchers
+    existing = set(db.query('SELECT pitcher_id FROM pitchers').pitcher_id)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+self = Empty DataFrame
+Columns: [id]
+Index: [], name = 'pitcher_id'
+
+    @final
+    def __getattr__(self, name: str):
+        """
+        After regular attribute access, try looking up the name
+        This allows simpler access to columns for interactive use.
+        """
+        # Note: obj.x will always call obj.__getattribute__('x') prior to
+        # calling obj.__getattr__('x').
+        if (
+            name not in self._internal_names_set
+            and name not in self._metadata
+            and name not in self._accessors
+            and self._info_axis._can_hold_identifiers_and_holds_name(name)
+        ):
+            return self[name]
+>       return object.__getattribute__(self, name)
+E       AttributeError: 'DataFrame' object has no attribute 'pitcher_id'
+
+.venv/lib/python3.9/site-packages/pandas/core/generic.py:6299: AttributeError
+=========================== short test summary info ============================
+FAILED tests/test_ucl_revised_2026.py::test_failed_boxscore_refetches_stale_postponed_game_cache
+1 failed, 199 passed in 10.03s

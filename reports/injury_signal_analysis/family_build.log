@@ -1,0 +1,13 @@
+Family decomposition: Elbow / UCL; events={'train': 223, 'validation': 89, 'test': 110}
+Family decomposition: Shoulder; events={'train': 350, 'validation': 115, 'test': 125}
+Family decomposition: Forearm; events={'train': 109, 'validation': 41, 'test': 38}
+Family decomposition: Other arm; events={'train': 107, 'validation': 33, 'test': 38}
+Family decomposition: Trunk / neck; events={'train': 272, 'validation': 103, 'test': 65}
+Family decomposition: Lower body; events={'train': 361, 'validation': 130, 'test': 104}
+Family decomposition: Hand / wrist; events={'train': 107, 'validation': 32, 'test': 29}
+Modern common-row arm-angle comparison: Elbow / UCL; events={'train': 38, 'validation': 89, 'test': 110}
+Modern common-row arm-angle comparison: Shoulder; events={'train': 69, 'validation': 115, 'test': 125}
+Modern common-row arm-angle comparison: Trunk / neck; events={'train': 57, 'validation': 103, 'test': 65}
+Modern common-row arm-angle comparison: Lower body; events={'train': 82, 'validation': 128, 'test': 104}
+Modern common-row arm-angle comparison: Hand / wrist; events={'train': 34, 'validation': 32, 'test': 29}
+FAMILY ANALYSES COMPLETE

@@ -1,0 +1,982 @@
+feature_a,feature_b,group_a,group_b,pearson,spearman,coobserved_rows,same_group,high_correlation
+hbp_count,hit_batters,Appearance performance,Appearance performance,1.0,1.0,13427,True,True
+appearances_prev_7d,appearances_7d,Workload and rest,Workload and rest,0.9999999999999991,1.0,13249,True,True
+outs_recorded,innings_pitched,Appearance performance,Appearance performance,1.000000000000001,1.0,13427,True,True
+appearances_prev_28d,appearances_28d,Workload and rest,Workload and rest,1.0,1.0,13119,True,True
+release_x_sd_baseline_count,release_z_sd_baseline_count,Measurement coverage and history support,Measurement coverage and history support,1.0,1.0,13427,True,True
+release_z_avg_baseline_count,zone_pct_baseline_count,Measurement coverage and history support,Measurement coverage and history support,1.0,1.0,13427,True,True
+total_pitches,pitch_count,Workload and rest,Workload and rest,1.0,1.0,13427,True,True
+observed_prior_mlb_appearances,workload_history_appearances,Pitcher background and experience,Measurement coverage and history support,1.0,1.0,13427,False,True
+appearances_prev_14d,appearances_14d,Workload and rest,Workload and rest,0.9999999999999999,1.0,13200,True,True
+release_x_avg_baseline_count,zone_pct_baseline_count,Measurement coverage and history support,Measurement coverage and history support,1.0,1.0,13427,True,True
+release_x_avg_baseline_count,release_z_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,1.0,1.0,13427,True,True
+workload_history_appearances,prior_appearance_count,Measurement coverage and history support,Measurement coverage and history support,0.9999997891805888,0.999999035581352,13427,True,True
+observed_prior_mlb_appearances,prior_appearance_count,Pitcher background and experience,Measurement coverage and history support,0.9999997891805888,0.999999035581352,13427,False,True
+sv_pitch_count,sv_usage_pct,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.8279468810990851,0.9999965280573776,13427,True,True
+total_pitches,velocity_measured_count,Workload and rest,Measurement coverage and history support,0.9999658077128419,0.9999463976989552,13427,False,True
+velocity_measured_count,pitch_count,Measurement coverage and history support,Workload and rest,0.9999658077128418,0.9999463976989552,13427,False,True
+max_velocity,max_fb_velo,Velocity,Velocity,0.9999479788056572,0.9999374918409468,13352,True,True
+sl_vertical_movement_avg,sl_ivb_inches,Pitch movement,Pitch movement,0.9997822757760377,0.9999274535086733,6282,True,True
+st_pitch_count,st_usage_pct,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.7099715286868293,0.999784794761302,13427,True,True
+ff_vertical_movement_avg,ff_ivb_inches,Pitch movement,Pitch movement,0.999452090638944,0.9994862147426836,8217,True,True
+fs_pitch_count,fs_usage_pct,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.7228054283405124,0.9992313087849372,13427,True,True
+kc_pitch_count,kc_usage_pct,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.7380112619480232,0.9988322815346896,13427,True,True
+statcast_batters_faced,batters_faced,Appearance performance,Appearance performance,0.9997088623687066,0.9986959727508533,13427,True,True
+hbp_rate,hit_batters,Appearance performance,Appearance performance,0.47343108413143764,0.9981416788710472,13427,True,True
+hbp_count,hbp_rate,Appearance performance,Appearance performance,0.47343108413143764,0.9981416788710472,13427,True,True
+release_x_avg_prev_3,release_x_avg_prev_5,Release position and variability,Release position and variability,0.9992034102437168,0.9975031712888293,13423,True,True
+si_release_x_avg_prev_3,si_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9991983857906407,0.9973214758835232,7281,True,True
+sl_release_x_avg_prev_3,sl_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9991587247171444,0.9973178326327733,8916,True,True
+ff_release_x_avg_prev_3,ff_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9990823017239061,0.9971672102181007,11696,True,True
+ch_release_x_avg_prev_3,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9991901670895716,0.996868908068142,7445,True,True
+release_x_avg_prev_10,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9987193131881814,0.9967724975414067,10226,True,True
+release_x_avg_prev_5,ff_release_x_avg_prev_5,Release position and variability,Release position and variability,0.998563928747905,0.9964126411306806,12126,True,True
+release_x_avg_prev_3,ff_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9985917394343108,0.9964045127090418,11696,True,True
+release_x_avg_prev_10,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9984505266511293,0.9960281964835181,6490,True,True
+release_x_avg,ff_release_x_avg,Release position and variability,Release position and variability,0.9983351120814797,0.9956673044462627,11544,True,True
+release_x_avg_prev_5,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9987015493513861,0.9956275645492516,11576,True,True
+release_x_avg_prev_3,si_release_x_avg_prev_3,Release position and variability,Release position and variability,0.998218934007751,0.9955081946895212,7281,True,True
+release_x_avg_prev_10,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9986336031826953,0.9954709213310563,11576,True,True
+si_release_x_avg_prev_5,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9987261753515825,0.9952767079652468,6427,True,True
+ivb_inches,vertical_movement_avg,Pitch movement,Pitch movement,0.9881870617206244,0.9952484252466972,9620,True,True
+release_z_avg_prev_3,release_z_avg_prev_5,Release position and variability,Release position and variability,0.9972211118839727,0.9951330454465175,13423,True,True
+sl_release_x_avg_prev_5,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9986461836950373,0.9950998393735001,7819,True,True
+ff_release_x_avg_prev_5,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9984533527735813,0.9950169982652723,10174,True,True
+release_x_avg_prev_5,si_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9980249460610687,0.994982079472017,7980,True,True
+ch_release_x_avg_prev_5,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9986290930541503,0.9949812987832092,6552,True,True
+release_x_avg_prev_10,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9983933767431475,0.99490840351741,7889,True,True
+si_release_z_avg_prev_3,si_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9973538095840725,0.9948699175337097,7281,True,True
+release_z_avg_prev_10,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9969910934570446,0.9945777109470761,11576,True,True
+release_x_avg,si_release_x_avg,Release position and variability,Release position and variability,0.997880066427085,0.9945549159653357,7201,True,True
+ff_release_z_avg_prev_3,ff_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9965840292713928,0.9944720016786278,11696,True,True
+sl_release_z_avg_prev_3,sl_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9971659351985854,0.9943194498594774,8916,True,True
+season_pitch_count,season_innings,Workload and rest,Workload and rest,0.9951793346140895,0.9943006029757264,12986,True,True
+extension_avg_baseline_count,spin_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9997206033312641,0.9942857770494484,13427,True,True
+ch_release_z_avg_prev_3,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9958512812508832,0.9942214329273208,7445,True,True
+release_z_avg_prev_5,release_z_avg_prev_10,Release position and variability,Release position and variability,0.9966554599159625,0.994052509134115,11576,True,True
+release_x_avg_prev_5,sl_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9980720282544422,0.993937165012643,9426,True,True
+ff_release_x_avg_prev_3,release_x_avg_prev_5,Release position and variability,Release position and variability,0.9977836852371569,0.9938888577394155,11696,True,True
+release_x_avg_prev_3,sl_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9979728032347485,0.9938644175892932,8916,True,True
+release_x_avg_prev_3,ff_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9977128384756889,0.9936347626278582,12122,True,True
+si_release_x_avg_prev_3,release_x_avg_prev_5,Release position and variability,Release position and variability,0.9974841044884423,0.9931738095504274,7281,True,True
+si_release_z_avg_prev_5,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9966310870526317,0.9930565084299485,6427,True,True
+release_x_avg,sl_release_x_avg,Release position and variability,Release position and variability,0.9975854847199497,0.9930543706746767,8715,True,True
+ff_release_z_avg_prev_5,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9958108617414636,0.9930258488669347,10174,True,True
+sl_release_z_avg_prev_5,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9965015297772546,0.9926513671255575,7819,True,True
+release_x_avg_prev_3,si_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9972628648331919,0.9922396501447585,7978,True,True
+release_x_avg_prev_5,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9973302319707416,0.9920508637854301,6490,True,True
+ff_release_x_avg_prev_10,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9971339233601627,0.9919967118336556,10226,True,True
+ff_release_x_avg_prev_5,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9971195088681672,0.9918508360238596,10419,True,True
+release_x_avg_prev_5,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.997330743541617,0.9918073144381743,10226,True,True
+ch_release_z_avg_prev_5,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9935920027988859,0.9916460946715185,6552,True,True
+release_x_avg_prev_3,sl_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9972588968678698,0.9915531174968572,9422,True,True
+avg_fb_velo_prev_3,avg_fb_velo_prev_5,Velocity,Velocity,0.9930563758022811,0.9915228368342707,13409,True,True
+sl_release_x_avg_prev_3,release_x_avg_prev_5,Release position and variability,Release position and variability,0.9972597327590955,0.9914565729358713,8916,True,True
+si_release_x_avg_prev_10,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9972397842379428,0.9914252546292541,6490,True,True
+ff_release_x_avg_prev_10,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9962494594524088,0.9914192946946535,5252,True,True
+release_x_avg_prev_5,cu_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9966094852726659,0.9912052921006164,6302,True,True
+si_avg_velocity_prev_3,si_avg_velocity_prev_5,Velocity,Velocity,0.9931981883568534,0.9911339531926662,7281,True,True
+si_release_x_avg_prev_3,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9975166418551669,0.9910960642904,6093,True,True
+release_x_avg_prev_3,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9973205953948874,0.9910889466484388,11572,True,True
+si_release_x_avg_prev_5,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9968682863351822,0.9906577149368949,6932,True,True
+extension_avg_prev_10,extension_avg_baseline_mean,Extension,Extension,0.9917628751778188,0.9906044924836326,11576,True,True
+sl_release_x_avg_prev_3,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9973619482704902,0.9905678957497623,7483,True,True
+release_x_avg_prev_10,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9973727346860033,0.9905647038494443,6653,True,True
+fc_pitch_count,fc_usage_pct,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.6922779167270677,0.9904646356859981,13427,True,True
+release_x_avg_prev_5,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9970559561602512,0.990436679305985,7889,True,True
+extension_avg_prev_3,extension_avg_prev_5,Extension,Extension,0.9910796187508745,0.9904308141641958,13418,True,True
+ff_avg_velocity_prev_3,ff_avg_velocity_prev_5,Velocity,Velocity,0.9921911775468745,0.9904026199763755,11696,True,True
+ch_release_x_avg_prev_3,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.997263182486818,0.9902151746929038,5997,True,True
+si_extension_avg_prev_3,si_extension_avg_prev_5,Extension,Extension,0.9898051287410761,0.9900526861536927,7267,True,True
+ff_extension_avg_prev_3,ff_extension_avg_prev_5,Extension,Extension,0.9911404786080081,0.9900463676644511,11684,True,True
+sl_release_x_avg_prev_10,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.997141428898049,0.9900136874283086,7889,True,True
+ff_release_x_avg_prev_3,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9968323506137198,0.9899958598531353,9909,True,True
+ch_avg_velocity_prev_3,ch_avg_velocity_prev_5,Velocity,Velocity,0.9923237228777689,0.9899943219659212,7445,True,True
+ff_release_x_avg_prev_5,si_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9958035520793346,0.9899631969575043,6781,True,True
+kc_usage_pct_prev_3,kc_usage_pct_prev_5,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9875361985496345,0.9899371782698668,13427,True,True
+release_x_avg_prev_3,ch_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9968900375911451,0.9898015374317289,7445,True,True
+si_release_x_avg_prev_10,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9965259199195325,0.9897927180941534,4511,True,True
+avg_fb_velo_prev_10,avg_fb_velo_baseline_mean,Velocity,Velocity,0.9917356809718847,0.9897927121101077,11576,True,True
+extension_avg_prev_5,extension_avg_prev_10,Extension,Extension,0.990619805681166,0.9897701478927169,11576,True,True
+release_x_avg_prev_5,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9966689577263061,0.989746055596873,8442,True,True
+sl_release_x_avg_prev_5,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9969561131437102,0.9896787448724458,8088,True,True
+ff_extension_avg_prev_5,ff_extension_avg_prev_10,Extension,Extension,0.9905813331450717,0.9896744037122835,10173,True,True
+ff_release_x_avg_prev_3,si_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9958051486134992,0.9896162323924814,5700,True,True
+release_x_avg,ch_release_x_avg,Release position and variability,Release position and variability,0.9963313226514514,0.9894887970247948,7244,True,True
+release_x_avg_prev_5,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9967715538525961,0.9892915035703181,13420,True,True
+avg_fb_velo_prev_5,avg_fb_velo_prev_10,Velocity,Velocity,0.9912509977583196,0.9889138294341953,11575,True,True
+ch_extension_avg_prev_3,ch_extension_avg_prev_5,Extension,Extension,0.9890926210311629,0.9883578473072859,7422,True,True
+sl_extension_avg_prev_3,sl_extension_avg_prev_5,Extension,Extension,0.9895598759117593,0.9882973323021303,8900,True,True
+si_extension_avg_prev_5,si_extension_avg_prev_10,Extension,Extension,0.9887229574518615,0.9882100362240284,6416,True,True
+release_x_avg_prev_3,cu_release_x_avg_prev_5,Release position and variability,Release position and variability,0.995766602530166,0.9881031757588183,6302,True,True
+si_release_x_avg_prev_3,sl_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9954290656902516,0.9879986767805681,4893,True,True
+sl_avg_velocity_prev_3,sl_avg_velocity_prev_5,Velocity,Velocity,0.9901732672288734,0.987976772593898,8916,True,True
+kc_usage_pct_prev_5,kc_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9871595314641954,0.9878152860196697,11576,True,True
+si_avg_velocity_prev_5,si_avg_velocity_prev_10,Velocity,Velocity,0.990613155939728,0.9876693047309685,6427,True,True
+ch_release_x_avg_prev_3,release_x_avg_prev_5,Release position and variability,Release position and variability,0.9963350132983477,0.9876651147865968,7445,True,True
+si_release_x_avg_prev_5,sl_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9955265670600363,0.9876546007117644,5696,True,True
+release_z_avg_prev_3,release_z_avg_prev_10,Release position and variability,Release position and variability,0.993005262569487,0.9876478884018497,11572,True,True
+release_z_avg_prev_5,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9925152600083732,0.9873624536414349,13420,True,True
+release_x_avg_prev_3,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9960939680441576,0.9873446323305146,6488,True,True
+si_release_x_avg_prev_3,ff_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9951117414385123,0.987268443844837,6090,True,True
+ff_release_x_avg,si_release_x_avg,Release position and variability,Release position and variability,0.994915174462156,0.9872533830356158,5527,True,True
+ff_avg_velocity_prev_5,ff_avg_velocity_prev_10,Velocity,Velocity,0.9897298562258336,0.9872000245394259,10174,True,True
+ff_release_x_avg_prev_3,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9955840152495363,0.9870251693650439,10029,True,True
+si_release_x_avg_prev_3,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9958714154212065,0.986995852661567,6341,True,True
+ff_release_x_avg_prev_5,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9949056837158345,0.98674419951849,5432,True,True
+ff_release_x_avg_prev_10,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9955213576631794,0.9867097230152481,7025,True,True
+ff_release_x_avg_prev_3,si_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9949176986805769,0.9866846076125574,6380,True,True
+release_x_avg_prev_3,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9957934969325926,0.9866787832359155,10223,True,True
+release_x_avg_prev_3,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9957661468087808,0.9866626426083492,8441,True,True
+avg_fb_velo,median_fb_velo,Velocity,Velocity,0.9889514380819625,0.9866027237441065,13352,True,True
+spin_avg_prev_10,spin_avg_baseline_mean,Spin,Spin,0.9867603589706804,0.9864487344203222,11576,True,True
+si_release_z_avg_prev_3,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9932725074065957,0.9863848177411801,6093,True,True
+si_release_x_avg_prev_3,sl_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9949349826882508,0.9862657995785681,5173,True,True
+cu_release_x_avg_prev_5,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9950434985027601,0.986236350248413,5350,True,True
+sl_extension_avg_prev_5,sl_extension_avg_prev_10,Extension,Extension,0.9878154805146,0.9861235599097279,7812,True,True
+ff_release_z_avg_prev_3,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9915347854519826,0.9860942525094953,9909,True,True
+release_z_avg_prev_10,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9852630581280294,0.9859715141862222,10226,True,True
+release_x_avg_prev_5,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9959656088345625,0.9859559897735962,6653,True,True
+sl_release_z_avg_prev_3,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.993069605745368,0.9858900442223124,7483,True,True
+release_x_avg_prev_3,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9956702564256152,0.9857548739179591,7886,True,True
+ch_extension_avg_prev_5,ch_extension_avg_prev_10,Extension,Extension,0.9866212261699012,0.9857362807032334,6540,True,True
+si_release_x_avg_prev_10,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9957792995103582,0.9854761401946291,4111,True,True
+sl_release_x_avg_prev_5,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.995253525509316,0.9853973533108836,4616,True,True
+ch_release_x_avg_prev_10,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9960160036777893,0.9853898787187532,6653,True,True
+release_z_avg_prev_10,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9873471715635677,0.9853658435829256,6490,True,True
+si_release_x_avg,sl_release_x_avg,Release position and variability,Release position and variability,0.9942688999213523,0.9853468023005305,4757,True,True
+ff_release_x_avg_prev_5,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9950440211831055,0.9853448617549195,12119,True,True
+si_release_x_avg_prev_5,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9945965434095824,0.9853197192111547,5690,True,True
+ff_release_x_avg_prev_5,sl_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9950379636366055,0.9852571358938633,8572,True,True
+sl_release_x_avg_prev_5,cu_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9938108533687453,0.9851175153498981,3571,True,True
+sl_release_x_avg_prev_3,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9956232990356702,0.9851114594110555,7639,True,True
+ch_release_x_avg_prev_5,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9955753129878161,0.9850836796715964,7154,True,True
+ff_release_x_avg_prev_3,sl_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9948147477831417,0.9848732173686859,7845,True,True
+sl_release_x_avg_prev_3,si_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9946378152828825,0.9848500032622397,5382,True,True
+ch_avg_velocity_prev_5,ch_avg_velocity_prev_10,Velocity,Velocity,0.9885307188880785,0.9847875040719601,6552,True,True
+si_release_x_avg_prev_5,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9947230154443385,0.9847125697094021,4834,True,True
+ff_spin_avg_prev_3,ff_spin_avg_prev_5,Spin,Spin,0.9858075352879356,0.9846105087424883,11684,True,True
+ff_release_x_avg_prev_5,cu_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9940471078321006,0.9845796614384785,5895,True,True
+sl_release_x_avg_prev_10,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9953633135863449,0.984574535699619,4420,True,True
+release_z_avg_prev_3,ff_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9841280259919559,0.9845305000941509,11696,True,True
+ch_release_z_avg_prev_3,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9878913319781797,0.9844937064775533,5997,True,True
+release_z_avg_prev_5,ff_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9834027282716565,0.9844856275560423,12126,True,True
+release_x_avg_prev_3,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9952503754254809,0.9844409534724425,13416,True,True
+si_release_x_avg_prev_5,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9951893527801238,0.9844061436621075,7976,True,True
+ff_release_x_avg_prev_10,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9949010841670454,0.9843639267246858,6013,True,True
+si_release_x_avg_prev_5,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9944749290288435,0.9843431801441767,5441,True,True
+release_z_avg_prev_3,si_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9854476824402326,0.9841739409775492,7281,True,True
+horizontal_movement_avg_prev_5,horizontal_movement_avg_prev_10,Pitch movement,Pitch movement,0.9858791099289448,0.9841680630324989,11576,True,True
+si_release_x_avg_prev_3,ch_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9947713675055315,0.9840358648928712,4498,True,True
+cu_release_x_avg_prev_5,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9944391793072327,0.9839219124491096,4486,True,True
+ff_release_x_avg_prev_5,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9945731738874245,0.9837437659643802,7734,True,True
+spin_avg_prev_3,spin_avg_prev_5,Spin,Spin,0.9842344904172494,0.9837198910581467,13419,True,True
+horizontal_movement_avg_prev_3,horizontal_movement_avg_prev_5,Pitch movement,Pitch movement,0.9854169766110581,0.9837073312538986,13423,True,True
+ff_extension_avg_prev_10,si_extension_avg_prev_10,Extension,Extension,0.9851059580041903,0.9833968515108116,5240,True,True
+ff_release_x_avg,sl_release_x_avg,Release position and variability,Release position and variability,0.9939179071567974,0.9833566023152827,7590,True,True
+ff_release_x_avg_prev_3,ch_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9944668602723843,0.9833038098039125,6654,True,True
+release_z_avg,ff_release_z_avg,Release position and variability,Release position and variability,0.9833213209619354,0.9828864859869596,11544,True,True
+sl_release_x_avg_prev_5,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.994383587784141,0.982741321604576,5845,True,True
+si_release_x_avg_prev_5,cu_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9939992490319691,0.9826792849450091,3843,True,True
+sl_release_x_avg_prev_5,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9950596963969112,0.9826618644976919,9423,True,True
+ff_release_x_avg_prev_3,sl_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9941910409032965,0.9826420634541019,8262,True,True
+release_z_avg_prev_5,si_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9848545489292797,0.9825919843912078,7980,True,True
+sl_release_x_avg_prev_3,ff_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9941327316656675,0.9824569719735176,8125,True,True
+release_x_avg,release_x_avg_prev_3,Release position and variability,Release position and variability,0.9940912393168179,0.9823691310630073,13422,True,True
+sl_avg_velocity_prev_5,sl_avg_velocity_prev_10,Velocity,Velocity,0.9855691864453792,0.982287897191332,7819,True,True
+si_release_x_avg,ch_release_x_avg,Release position and variability,Release position and variability,0.99354392044385,0.9822385109084034,4380,True,True
+ff_release_x_avg,ch_release_x_avg,Release position and variability,Release position and variability,0.9937597974343051,0.982136730281972,6426,True,True
+sl_release_x_avg_prev_3,cu_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9930249976631667,0.9820554681631415,3353,True,True
+ff_release_x_avg_prev_5,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9939157927828125,0.9819160381359676,7132,True,True
+spin_avg_prev_5,spin_avg_prev_10,Spin,Spin,0.9831145655199617,0.981906760930736,11576,True,True
+si_spin_avg_prev_3,si_spin_avg_prev_5,Spin,Spin,0.9814622521250279,0.9818092098688314,7265,True,True
+si_release_x_avg_prev_3,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.993730203327613,0.9816446584175988,5027,True,True
+si_release_x_avg_prev_3,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9938217142097922,0.9815818156387803,4400,True,True
+ch_spin_avg_prev_3,ch_spin_avg_prev_5,Spin,Spin,0.9844651127355939,0.9815167561631101,7409,True,True
+ff_release_x_avg_prev_3,cu_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9930268490894467,0.9814714602792313,5754,True,True
+cu_release_x_avg_prev_5,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9924151555067908,0.9814511051946322,2910,True,True
+ch_release_x_avg_prev_3,cu_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9938355796359731,0.9813471778556961,4070,True,True
+release_z_avg,si_release_z_avg,Release position and variability,Release position and variability,0.9827954623105324,0.9813369507907345,7201,True,True
+sl_release_x_avg_prev_3,ch_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9941173388873922,0.9812547100028508,4805,True,True
+ch_release_x_avg_prev_3,si_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9940873921799102,0.9811495962577259,4839,True,True
+ff_release_x_avg_prev_3,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9933240610166569,0.9810382044512891,5082,True,True
+ch_release_x_avg_prev_3,ff_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9938763674218357,0.981012412108694,6839,True,True
+sl_release_x_avg_prev_5,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9940605669748719,0.9809817993949108,7195,True,True
+ch_release_x_avg_prev_5,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9940616342050879,0.9808868996471438,4400,True,True
+release_x_avg_prev_3,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.994503750152362,0.9808201724754068,6652,True,True
+ch_release_x_avg_prev_3,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9944867653582468,0.9807801045862075,6297,True,True
+sl_release_x_avg_prev_3,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9939639265102881,0.9807572042067427,4342,True,True
+ff_release_z_avg_prev_10,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9816824183640506,0.9807306499704035,10226,True,True
+ff_release_x_avg_prev_3,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9936142499538556,0.98068587602426,7496,True,True
+si_release_x_avg_prev_3,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9940116604414369,0.980514214776651,7277,True,True
+release_z_avg_prev_3,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9883775100573227,0.9804134859251233,13416,True,True
+release_x_avg,release_x_avg_prev_5,Release position and variability,Release position and variability,0.9934410711098223,0.9802811182688751,13426,True,True
+ff_spin_avg_prev_5,ff_spin_avg_prev_10,Spin,Spin,0.9818633555369881,0.9802520994753544,10172,True,True
+si_release_x_avg_prev_5,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9939798225276273,0.980241160737614,4338,True,True
+ff_release_x_avg,ff_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9933218197969115,0.9801826419051031,11160,True,True
+cu_release_x_avg_prev_5,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9932478513412322,0.9801713620711096,3112,True,True
+si_release_x_avg_prev_3,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9932612870038381,0.9801233918339376,5110,True,True
+ff_release_x_avg_prev_3,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9933558143726281,0.9800929125848277,11690,True,True
+ch_release_x_avg_prev_3,sl_release_x_avg_prev_5,Release position and variability,Release position and variability,0.993974971428598,0.9800586523817325,5079,True,True
+ff_release_z_avg_prev_3,release_z_avg_prev_5,Release position and variability,Release position and variability,0.981424891587732,0.9799069385412654,11696,True,True
+si_release_x_avg_prev_3,cu_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9936448084677807,0.9799036264865341,3521,True,True
+si_release_x_avg,si_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9935952139737693,0.9798915770666928,6550,True,True
+cu_release_x_avg_prev_5,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9931376071617541,0.979870945327355,3527,True,True
+release_z_avg_prev_5,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9849329944179884,0.979817325731977,6490,True,True
+si_release_z_avg_prev_10,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9847196869114182,0.9798059579192765,6490,True,True
+sl_release_x_avg,ch_release_x_avg,Release position and variability,Release position and variability,0.9928592826064695,0.9797936866752263,4616,True,True
+sl_release_x_avg,sl_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9927022755667104,0.9797544191654489,8228,True,True
+ff_release_x_avg_prev_5,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.993313092051868,0.9796263397309115,6106,True,True
+cu_release_x_avg_prev_5,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9925336001633897,0.9795399719010045,4926,True,True
+si_release_z_avg_prev_3,release_z_avg_prev_5,Release position and variability,Release position and variability,0.9828699424458438,0.9795215932560255,7281,True,True
+release_x_avg_baseline_count,extension_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9988742828518429,0.9795168570013347,13427,True,True
+extension_avg_baseline_count,zone_pct_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9988742828518431,0.9795168570013347,13427,True,True
+release_z_avg_baseline_count,extension_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9988742828518429,0.9795168570013347,13427,True,True
+ch_release_x_avg_prev_5,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.993620490377829,0.9793426637106613,8435,True,True
+release_z_avg_prev_5,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9808420603920754,0.9793418122473677,10226,True,True
+si_usage_pct_prev_3,si_usage_pct_prev_5,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.982377017099212,0.9791493881517052,13427,True,True
+release_z_avg_prev_3,ff_release_z_avg_prev_5,Release position and variability,Release position and variability,0.97973723948746,0.9791239086807206,12122,True,True
+extension_avg_prev_5,extension_avg_baseline_mean,Extension,Extension,0.9809503186470023,0.9791179429668648,13414,True,True
+ch_release_x_avg_prev_5,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9934834772038936,0.9790803856713962,4783,True,True
+cu_release_x_avg_prev_5,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9929421000421556,0.9790559760065108,6297,True,True
+sl_release_x_avg_prev_5,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9937773930331016,0.9789504062624031,4546,True,True
+ff_release_z_avg_prev_5,release_z_avg_prev_10,Release position and variability,Release position and variability,0.9809218171040753,0.9788882140954236,10419,True,True
+sl_release_x_avg_prev_3,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9931328857601436,0.9788391738972503,5513,True,True
+ch_release_x_avg_prev_5,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9934054638169809,0.9787673675712738,6417,True,True
+kc_usage_pct_prev_3,kc_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9719016382158651,0.9786222972522681,11576,True,True
+release_z_avg_prev_10,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9876046217270411,0.978558848700391,7889,True,True
+ch_release_x_avg,ch_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9931897414143978,0.9785283125632899,6347,True,True
+ff_release_x_avg,ff_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9927139350469801,0.9780751385307436,11389,True,True
+si_release_x_avg,si_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9932238708091947,0.978061742271127,6840,True,True
+release_z_avg_prev_3,si_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9828644350313663,0.9779736308107451,7978,True,True
+ff_extension_avg_prev_3,ff_extension_avg_prev_10,Extension,Extension,0.9797415270470091,0.9779520201393793,9900,True,True
+ff_release_x_avg,release_x_avg_prev_3,Release position and variability,Release position and variability,0.9926633145414909,0.9779027810173402,11540,True,True
+si_usage_pct_prev_5,si_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9812299989230278,0.9778280162281522,11576,True,True
+sl_release_x_avg_prev_3,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.993556042595974,0.977827463658223,8913,True,True
+cu_usage_pct_prev_3,cu_usage_pct_prev_5,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9747391712987966,0.9778151596678424,13427,True,True
+sl_release_x_avg,sl_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9922680739137266,0.977716584987321,8515,True,True
+extension_avg_prev_3,extension_avg_prev_10,Extension,Extension,0.9788724113631054,0.9776033398044957,11568,True,True
+si_spin_avg_prev_5,si_spin_avg_prev_10,Spin,Spin,0.9778662738811867,0.9774864614611484,6414,True,True
+release_x_avg,ff_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9924162675895295,0.9774327782789315,11695,True,True
+release_x_avg,si_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9927476371065268,0.977369831179259,7280,True,True
+fs_usage_pct_prev_3,fs_usage_pct_prev_5,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9843602914886771,0.9773104739048474,13427,True,True
+avg_fb_velo_prev_3,avg_fb_velo_prev_10,Velocity,Velocity,0.9816578187233871,0.9772489883401656,11559,True,True
+fs_usage_pct_prev_5,fs_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9845367271630209,0.9771858748351989,11576,True,True
+pitches_prev_28d,pitches_28d,Workload and rest,Workload and rest,0.9860136958615914,0.9771456872885714,13119,True,True
+si_extension_avg_prev_3,si_extension_avg_prev_10,Extension,Extension,0.9766129347830133,0.9771095445106939,6080,True,True
+si_release_x_avg,release_x_avg_prev_3,Release position and variability,Release position and variability,0.9925142333630038,0.9770975479648246,7199,True,True
+pitches_prev_28d,innings_prev_28d,Workload and rest,Workload and rest,0.9841177120411251,0.9770024436547111,13119,True,True
+ff_release_x_avg_prev_3,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9923125485282552,0.9767942690713811,6867,True,True
+avg_fb_velo_prev_5,avg_fb_velo_baseline_mean,Velocity,Velocity,0.981100288042054,0.9765370962426074,13408,True,True
+si_release_z_avg_prev_5,release_z_avg_prev_10,Release position and variability,Release position and variability,0.9834069772467604,0.976398809711706,6932,True,True
+release_x_avg,sl_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9919631442141024,0.976364366416375,8916,True,True
+sl_usage_pct_prev_3,sl_usage_pct_prev_5,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9716428737802274,0.976310762443158,13427,True,True
+extension_avg_prev_10,ff_extension_avg_prev_10,Extension,Extension,0.9790101287746138,0.9762309723689463,10225,True,True
+ch_release_x_avg,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9926764133884851,0.9762254413055197,6822,True,True
+innings_prev_28d,innings_28d,Workload and rest,Workload and rest,0.985144559818786,0.9762076054922312,13119,True,True
+si_avg_velocity_prev_3,si_avg_velocity_prev_10,Velocity,Velocity,0.9819421642485996,0.9761722406050279,6093,True,True
+release_z_avg_prev_5,sl_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9851575140912148,0.9761565557751869,9426,True,True
+extension_avg_prev_10,si_extension_avg_prev_10,Extension,Extension,0.9783664171371743,0.9760723776172597,6479,True,True
+release_z_avg_prev_3,sl_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9851836390308583,0.9760543724790901,8916,True,True
+fc_usage_pct_prev_3,fc_usage_pct_prev_5,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9839885953837215,0.9760405977476214,13427,True,True
+ff_release_x_avg,release_x_avg_prev_5,Release position and variability,Release position and variability,0.9920067373434266,0.975737513181667,11544,True,True
+sl_usage_pct_prev_5,sl_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9717969605350836,0.9757057565193556,11576,True,True
+sl_release_x_avg_prev_3,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.992469683519634,0.9756926282625001,6811,True,True
+ch_release_x_avg_prev_3,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9930270719693434,0.9756057949624588,3912,True,True
+release_x_avg,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9920567478316205,0.9754813894999456,11576,True,True
+sl_release_x_avg,release_x_avg_prev_3,Release position and variability,Release position and variability,0.9913907707111601,0.9753299001267935,8712,True,True
+si_release_x_avg,release_x_avg_prev_5,Release position and variability,Release position and variability,0.9919667435162736,0.9752578833877409,7201,True,True
+si_release_x_avg_prev_3,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9926261050766167,0.9750763314356423,4038,True,True
+ff_release_z_avg_prev_10,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9640198695393409,0.9750497377731954,5252,True,True
+release_x_avg,ff_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9916896728679515,0.9750496861798111,12125,True,True
+release_z_avg_baseline_count,spin_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9986687106752564,0.9748285496673715,13427,True,True
+release_x_avg_baseline_count,spin_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9986687106752564,0.9748285496673715,13427,True,True
+spin_avg_baseline_count,zone_pct_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9986687106752562,0.9748285496673715,13427,True,True
+ch_spin_avg_prev_5,ch_spin_avg_prev_10,Spin,Spin,0.9790899694156737,0.974824699887353,6516,True,True
+pitches_28d,innings_28d,Workload and rest,Workload and rest,0.985474092253494,0.9747081639996585,13119,True,True
+ff_avg_velocity_prev_3,ff_avg_velocity_prev_10,Velocity,Velocity,0.9795533422408726,0.9746359985645152,9909,True,True
+release_x_avg,si_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9919330184867958,0.9744879522630789,7979,True,True
+ff_release_x_avg_prev_3,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9916546517836928,0.9744329995335494,5907,True,True
+ch_release_x_avg_prev_3,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9923069320100314,0.9744016619160145,7440,True,True
+release_z_avg,sl_release_z_avg,Release position and variability,Release position and variability,0.9836380261944196,0.9743157990252546,8715,True,True
+release_x_avg,sl_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9914764983862129,0.9741106355547667,9426,True,True
+ch_release_x_avg_prev_3,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9922493570094862,0.9740656680507398,4148,True,True
+si_release_x_avg,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.992197004039761,0.9740510469917866,5808,True,True
+sv_usage_pct_prev_3,sv_usage_pct_prev_5,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9881369004896154,0.973990489114697,13427,True,True
+sl_release_z_avg_prev_10,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9850443743756412,0.973856706596608,7889,True,True
+st_usage_pct_prev_3,st_usage_pct_prev_5,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.985727728854776,0.973845059763015,13427,True,True
+release_z_avg_prev_3,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9822174379464118,0.9737454210632627,6488,True,True
+ch_release_x_avg_prev_3,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9919442114739246,0.9736886140871689,5670,True,True
+cu_usage_pct_prev_5,cu_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.972989272942547,0.9735688716141937,11576,True,True
+sl_release_x_avg,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9912659325834866,0.9735180777527721,7186,True,True
+arm_angle_measured_count,arm_angle_coverage,Measurement coverage and history support,Measurement coverage and history support,0.7219031926794802,0.9733764686935492,13427,True,True
+ch_avg_velocity_prev_3,ch_avg_velocity_prev_10,Velocity,Velocity,0.979126098913962,0.9731313632222882,5997,True,True
+sl_release_x_avg,release_x_avg_prev_5,Release position and variability,Release position and variability,0.9907523288068016,0.9730451475148516,8715,True,True
+sl_release_x_avg_prev_3,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9920511630055469,0.973011259360751,4266,True,True
+ch_extension_avg_prev_3,ch_extension_avg_prev_10,Extension,Extension,0.9748974280238585,0.9729888940985596,5984,True,True
+st_usage_pct_prev_5,st_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9821809462314179,0.972976635767606,11576,True,True
+extension_avg_prev_5,ff_extension_avg_prev_5,Extension,Extension,0.9760974802985138,0.9729318728032986,12126,True,True
+ff_release_z_avg_prev_3,release_z_avg_prev_10,Release position and variability,Release position and variability,0.9773044612097508,0.9727466449014188,10029,True,True
+ff_release_x_avg,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9910188040680732,0.972697405885154,9656,True,True
+ff_release_z_avg_prev_5,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9757182090944614,0.9723598393914208,12119,True,True
+ff_extension_avg_prev_5,si_extension_avg_prev_5,Extension,Extension,0.9741592022623554,0.9723557820453136,6771,True,True
+release_z_avg_prev_5,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9845103936386074,0.9723263252736765,7889,True,True
+release_z_avg_prev_3,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9760926700280529,0.9722913350921754,10223,True,True
+ff_usage_pct_prev_3,ff_usage_pct_prev_5,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9750219851885087,0.9719721414592263,13427,True,True
+ff_extension_avg_prev_5,si_extension_avg_prev_10,Extension,Extension,0.9741429669364178,0.9719208298133297,5421,True,True
+sl_release_z_avg_prev_5,release_z_avg_prev_10,Release position and variability,Release position and variability,0.9840747982478538,0.9718326963493091,8088,True,True
+ch_release_x_avg,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.991695211358771,0.9718011683449846,5544,True,True
+sl_release_z_avg_prev_3,release_z_avg_prev_5,Release position and variability,Release position and variability,0.9829904497165609,0.9717636276911495,8916,True,True
+sl_extension_avg_prev_3,sl_extension_avg_prev_10,Extension,Extension,0.9746912126628817,0.9716839107995523,7474,True,True
+extension_avg_prev_3,ff_extension_avg_prev_3,Extension,Extension,0.974558261824905,0.9715298981906632,11684,True,True
+ch_release_x_avg,release_x_avg_prev_3,Release position and variability,Release position and variability,0.9907460132264041,0.9715177470138396,7243,True,True
+si_release_z_avg_prev_3,release_z_avg_prev_10,Release position and variability,Release position and variability,0.980339654045632,0.9712981952334296,6341,True,True
+si_extension_avg_prev_10,extension_avg_baseline_mean,Extension,Extension,0.9742461520882256,0.9712462079780146,6479,True,True
+ff_extension_avg_prev_10,extension_avg_baseline_mean,Extension,Extension,0.9738190275039373,0.9711522573661804,10225,True,True
+release_z_avg_prev_3,sl_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9824517041569335,0.9711081557610622,9422,True,True
+release_x_avg,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9911832687380495,0.9710137792566634,6490,True,True
+si_release_x_avg,sl_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9897164861536295,0.9707441610142948,4830,True,True
+ff_usage_pct_prev_5,ff_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9740971457394921,0.9706156253123722,11576,True,True
+release_x_avg,ch_release_x_avg_prev_3,Release position and variability,Release position and variability,0.990998513894172,0.9705543393022605,7444,True,True
+ff_release_z_avg_prev_5,si_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9584114370180357,0.970530157139212,6781,True,True
+si_release_x_avg,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9906528925549144,0.9704456372452549,6294,True,True
+ff_release_z_avg_prev_3,si_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9556934668828947,0.9704066254245721,5700,True,True
+ff_release_x_avg,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9902082980145611,0.9702569444210533,9893,True,True
+sl_release_x_avg,si_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9893728929717401,0.9701853438682594,4797,True,True
+release_z_sd_prev_10,release_z_sd_baseline_mean,Release position and variability,Release position and variability,0.9794172002508795,0.9701033823057919,11576,True,True
+release_x_avg,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9902903321045727,0.9698732192695987,7889,True,True
+release_x_sd_prev_10,release_x_sd_baseline_mean,Release position and variability,Release position and variability,0.9861798460958151,0.9698471065983898,11576,True,True
+release_x_avg,cu_release_x_avg_prev_5,Release position and variability,Release position and variability,0.989943376550464,0.9696941628427257,6301,True,True
+release_x_avg,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9901564304579937,0.9696471785491211,13419,True,True
+si_release_z_avg_prev_5,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9780887715460059,0.9695926462881037,7976,True,True
+release_x_avg,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9902220992326789,0.969572915609129,10226,True,True
+extension_avg_prev_5,si_extension_avg_prev_5,Extension,Extension,0.97195979811274,0.9694727309977003,7970,True,True
+ch_release_x_avg,release_x_avg_prev_5,Release position and variability,Release position and variability,0.9900141254315388,0.9693818764988259,7244,True,True
+ch_usage_pct_prev_5,ch_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9711736944526365,0.9693659640154572,11576,True,True
+extension_avg_prev_3,si_extension_avg_prev_3,Extension,Extension,0.9714978861685287,0.9693052922887654,7267,True,True
+si_release_x_avg,sl_release_x_avg_prev_5,Release position and variability,Release position and variability,0.989517418689776,0.9692969482730087,5116,True,True
+ff_extension_avg_prev_3,si_extension_avg_prev_3,Extension,Extension,0.9698182649304274,0.9692654741153165,5683,True,True
+ch_usage_pct_prev_3,ch_usage_pct_prev_5,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9705166569811124,0.9692544529683806,13427,True,True
+ff_release_x_avg,si_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9901708037500974,0.9690202385620228,5600,True,True
+sl_spin_avg_prev_3,sl_spin_avg_prev_5,Spin,Spin,0.9634802879537139,0.9690178750788107,8761,True,True
+ff_release_z_avg_prev_5,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9618339351965022,0.9688915078908735,5432,True,True
+sl_release_x_avg,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9896860129366237,0.9686290421974955,7489,True,True
+release_x_avg,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9902173431606338,0.9683628135895636,8441,True,True
+si_release_x_avg,ff_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9896940353619279,0.9680277628483931,5634,True,True
+avg_velocity,effective_speed_avg,Velocity,Velocity,0.9725281208050107,0.96794260445895,13408,True,True
+si_extension_avg_prev_5,ff_extension_avg_prev_10,Extension,Extension,0.9699464509773188,0.9676961557768794,5683,True,True
+spin_avg_prev_5,spin_avg_baseline_mean,Spin,Spin,0.9686285279328454,0.9675155499877209,13413,True,True
+ff_release_x_avg,sl_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9891514261069551,0.967039456642929,7711,True,True
+sv_usage_pct_prev_5,sv_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9825674660841704,0.9669864087592581,11576,True,True
+fc_usage_pct_prev_5,fc_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9826154359419129,0.9668766850609818,11576,True,True
+sl_release_x_avg,si_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9884744707445031,0.9668720149329129,5274,True,True
+horizontal_movement_avg_prev_3,horizontal_movement_avg_prev_10,Pitch movement,Pitch movement,0.9696356170263426,0.9667549166713757,11572,True,True
+ff_release_x_avg,si_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9894489738083869,0.966702831161186,6268,True,True
+release_z_avg_prev_10,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.973232653951765,0.9664391387867095,6653,True,True
+si_release_x_avg,ff_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9891975506803601,0.9662482916607233,6019,True,True
+sl_release_x_avg,ff_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9885237815112954,0.9662226757869277,7678,True,True
+sl_release_z_avg_prev_3,release_z_avg_prev_10,Release position and variability,Release position and variability,0.9811970676084436,0.9661186377593082,7639,True,True
+sl_avg_velocity_prev_3,sl_avg_velocity_prev_10,Velocity,Velocity,0.9722969125487108,0.9660689748168075,7483,True,True
+extension_avg_prev_5,ff_extension_avg_prev_10,Extension,Extension,0.969649192888495,0.9659423086593629,10225,True,True
+extension_avg_prev_3,extension_avg_baseline_mean,Extension,Extension,0.9681006144463149,0.9658070595852284,13406,True,True
+si_release_z_avg_prev_3,ff_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9531591834730645,0.9657822049250927,6090,True,True
+si_release_x_avg,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9885198971538339,0.9657609577727028,4362,True,True
+extension_avg_prev_5,si_extension_avg_prev_10,Extension,Extension,0.968180054603468,0.9657182785604761,6479,True,True
+ff_extension_avg_prev_5,extension_avg_prev_10,Extension,Extension,0.9692983290010189,0.9656071356521665,10419,True,True
+release_z_avg_prev_3,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9809037901769192,0.9655847935652804,7886,True,True
+ff_release_z_avg_prev_3,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9719949003692392,0.9655589298544001,11690,True,True
+si_release_z_avg_prev_5,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9599437044667617,0.9651330238695667,5690,True,True
+ff_release_z_avg_prev_3,si_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9556617213968757,0.9650434801208548,6380,True,True
+si_release_x_avg,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9890124465861577,0.9648435165050857,7197,True,True
+extension_avg,ff_extension_avg,Extension,Extension,0.9668568356839428,0.96483283944868,11524,True,True
+ff_release_z_avg,si_release_z_avg,Release position and variability,Release position and variability,0.9492356822343123,0.9648225438106025,5527,True,True
+avg_fb_velo_prev_3,avg_fb_velo_baseline_mean,Velocity,Velocity,0.971096505663001,0.9647947853785453,13391,True,True
+median_fb_velo,ff_avg_velocity,Velocity,Velocity,0.9625298248141184,0.9647628956794791,11544,True,True
+ch_release_x_avg,cu_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9880400469590188,0.9647349433327189,3954,True,True
+sl_release_z_avg_prev_5,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9787083089637928,0.9647181481203829,9423,True,True
+ff_extension_avg_prev_3,extension_avg_prev_5,Extension,Extension,0.9685426356193092,0.9645954129941389,11684,True,True
+ch_release_x_avg,si_release_x_avg_prev_3,Release position and variability,Release position and variability,0.98845560821499,0.9645520511495862,4370,True,True
+ff_release_x_avg,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9881954414686619,0.9644874455022913,11538,True,True
+ff_release_x_avg,sl_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9885770111398124,0.964474080356667,8136,True,True
+ff_release_x_avg,ch_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9886084923754541,0.9643194595251208,6553,True,True
+sl_release_x_avg,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9881885480422294,0.9642808483219806,4284,True,True
+si_release_x_avg,ch_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9893046711832009,0.9642427184208733,4434,True,True
+ch_release_x_avg,ff_release_x_avg_prev_3,Release position and variability,Release position and variability,0.988230796924474,0.9642389235793031,6436,True,True
+si_release_z_avg_prev_3,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9745887941067158,0.9640654375364988,7277,True,True
+si_extension_avg_prev_3,ff_extension_avg_prev_5,Extension,Extension,0.9651850786678625,0.9640110554634815,6077,True,True
+ch_release_x_avg,release_x_avg_prev_10,Release position and variability,Release position and variability,0.9888597240036241,0.9639835512155618,6133,True,True
+sl_release_x_avg,ff_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9878986123623328,0.9638822195740347,7953,True,True
+release_z_avg_prev_3,ch_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9702684721132193,0.9637132442966623,7445,True,True
+extension_avg_prev_3,ff_extension_avg_prev_5,Extension,Extension,0.9674392765087712,0.9635587665854259,12118,True,True
+ch_release_x_avg,sl_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9878865400058511,0.9633980910024745,4653,True,True
+ff_extension_avg_prev_3,si_extension_avg_prev_5,Extension,Extension,0.9652376200875005,0.9633840053619863,6360,True,True
+release_x_avg,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9892048008624998,0.9633471095147574,6653,True,True
+release_z_avg_prev_5,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9691603202464752,0.9633080469798081,8442,True,True
+si_extension_avg_prev_3,extension_avg_prev_5,Extension,Extension,0.9649777366693322,0.9630651306681081,7267,True,True
+spin_avg_prev_3,spin_avg_prev_10,Spin,Spin,0.964372240917244,0.9628314669308117,11569,True,True
+si_release_x_avg,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9885807451069812,0.9626064044270957,4970,True,True
+release_z_avg,release_z_avg_prev_5,Release position and variability,Release position and variability,0.9784116375711425,0.9624916439223352,13426,True,True
+ff_release_x_avg,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9879023823621378,0.9623784488211251,7399,True,True
+ff_release_x_avg,cu_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9870533493891548,0.9623617928904734,5689,True,True
+ff_release_z_avg_prev_3,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9575179824688728,0.962242460613034,5082,True,True
+ch_release_x_avg,si_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9876374285193824,0.9622085538300293,4705,True,True
+release_z_sd_prev_3,release_z_sd_prev_5,Release position and variability,Release position and variability,0.9691971182818678,0.9622047247917582,13421,True,True
+release_z_avg,ch_release_z_avg,Release position and variability,Release position and variability,0.9681060141736191,0.9621944874814493,7244,True,True
+si_extension_avg_prev_5,extension_avg_prev_10,Extension,Extension,0.9651839944011061,0.9621550770519381,6926,True,True
+ch_release_x_avg,ff_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9876942713302851,0.9621157140436306,6624,True,True
+ch_release_x_avg,sl_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9875122344093711,0.9620585618878335,4928,True,True
+release_z_avg,release_z_avg_prev_3,Release position and variability,Release position and variability,0.9781016891820885,0.9620528034816748,13422,True,True
+ch_release_z_avg_prev_10,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9701630922385774,0.9620162398502229,6653,True,True
+vertical_movement_avg_prev_3,vertical_movement_avg_prev_5,Pitch movement,Pitch movement,0.9675942364238221,0.9618602396062464,13423,True,True
+ff_release_x_avg,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.988227697598314,0.9617326215908837,4983,True,True
+avg_fb_velo_prev_10,ff_avg_velocity_prev_10,Velocity,Velocity,0.9672457821415927,0.9615641105249807,10226,True,True
+sl_release_x_avg,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9877331479123772,0.9615300709789424,8712,True,True
+ff_extension_avg_prev_3,si_extension_avg_prev_10,Extension,Extension,0.9635067815056325,0.9615174253157827,5065,True,True
+sl_spin_avg_prev_5,sl_spin_avg_prev_10,Spin,Spin,0.958654262591011,0.9613288029563555,7726,True,True
+si_release_x_avg,cu_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9883936334510053,0.9612554207184841,3468,True,True
+extension_avg,si_extension_avg,Extension,Extension,0.9623702471594859,0.9612038209847938,7183,True,True
+ff_spin_avg_prev_3,ff_spin_avg_prev_10,Spin,Spin,0.9636748130122983,0.9611585694444064,9899,True,True
+sl_release_x_avg,ch_release_x_avg_prev_3,Release position and variability,Release position and variability,0.9877645483574079,0.9610668760542898,4727,True,True
+release_z_avg,release_z_avg_prev_10,Release position and variability,Release position and variability,0.9780354579258975,0.9604622416615665,11576,True,True
+sl_release_x_avg,cu_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9858504042945793,0.9603654339675763,3293,True,True
+si_release_z_avg,si_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9784517738402494,0.9603276363165022,6550,True,True
+si_release_x_avg,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9876724820981253,0.9603231882213369,5072,True,True
+ff_release_x_avg,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9869612996139401,0.9601044351316015,6756,True,True
+release_x_sd_prev_3,release_x_sd_prev_5,Release position and variability,Release position and variability,0.9795530772855174,0.9599915823510192,13421,True,True
+ch_release_z_avg_prev_5,release_z_avg_prev_10,Release position and variability,Release position and variability,0.9683842667633356,0.9599564258928267,7154,True,True
+ch_release_z_avg_prev_3,release_z_avg_prev_5,Release position and variability,Release position and variability,0.9675292050304659,0.9599055079298199,7445,True,True
+extension_avg_prev_3,si_extension_avg_prev_5,Extension,Extension,0.9620564244922744,0.9598747068157657,7965,True,True
+velocity_coverage,flagged_pitch_count,Measurement coverage and history support,Measurement coverage and history support,-0.5877742584602466,-0.9595908000835411,13427,True,True
+si_release_z_avg,si_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9786167849098796,0.959547369818227,6840,True,True
+avg_fb_velo_prev_3,ff_avg_velocity_prev_3,Velocity,Velocity,0.9647798979971982,0.95945803298862,11696,True,True
+ff_extension_avg_prev_5,extension_avg_baseline_mean,Extension,Extension,0.9631483245904782,0.9593868265274644,12114,True,True
+vertical_movement_avg_prev_5,vertical_movement_avg_prev_10,Pitch movement,Pitch movement,0.9675719344645601,0.9593838045609067,11576,True,True
+sl_release_x_avg,ch_release_x_avg_prev_5,Release position and variability,Release position and variability,0.9873260781669028,0.9593160999874358,5407,True,True
+avg_fb_velo_prev_5,ff_avg_velocity_prev_5,Velocity,Velocity,0.9650117667563726,0.959306912922686,12126,True,True
+fs_usage_pct_prev_3,fs_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9660225861217439,0.9589904873744867,11576,True,True
+sl_release_x_avg,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9865916482993075,0.9588100173067838,6690,True,True
+ch_release_x_avg,si_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9873104199103594,0.958737438960455,3807,True,True
+si_release_z_avg,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9789555232363814,0.958642195672073,5808,True,True
+ch_spin_avg_prev_3,ch_spin_avg_prev_10,Spin,Spin,0.9646973069870084,0.9586332015808305,5963,True,True
+si_release_z_avg_prev_3,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9534987686683296,0.9586048337890472,5110,True,True
+release_z_avg_prev_5,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9664797267298223,0.9585356968023293,6653,True,True
+ff_avg_velocity_prev_10,si_avg_velocity_prev_10,Velocity,Velocity,0.9609341219912253,0.9583745083007283,5252,True,True
+ch_release_x_avg,release_x_avg_baseline_mean,Release position and variability,Release position and variability,0.9864995735896859,0.9583388860297114,7239,True,True
+sl_release_z_avg_prev_3,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.975233906907414,0.9579138144653261,8913,True,True
+release_z_avg_prev_3,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.965051421080991,0.9576424432321128,8441,True,True
+ch_release_x_avg,sl_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9864076784106637,0.9574327075397717,4030,True,True
+ff_release_z_avg,ff_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9720126550261633,0.9573595574470832,11160,True,True
+total_pitches,statcast_batters_faced,Workload and rest,Appearance performance,0.9826019774896105,0.9573129170366925,13427,False,True
+statcast_batters_faced,pitch_count,Appearance performance,Workload and rest,0.9826019774896105,0.9573129170366925,13427,False,True
+statcast_batters_faced,velocity_measured_count,Appearance performance,Measurement coverage and history support,0.9825724306942626,0.9572172277058405,13427,False,True
+release_x_sd_prev_5,release_x_sd_prev_10,Release position and variability,Release position and variability,0.9777921633239991,0.9571219249462963,11576,True,True
+si_extension_avg_prev_3,ff_extension_avg_prev_10,Extension,Extension,0.9587232486062794,0.9570638716741651,5100,True,True
+ff_release_z_avg,ff_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9722615252431085,0.9570189519857081,11389,True,True
+si_spin_avg_prev_3,si_spin_avg_prev_10,Spin,Spin,0.9579448772058748,0.9569938273297985,6077,True,True
+release_z_sd_prev_5,release_z_sd_prev_10,Release position and variability,Release position and variability,0.9654936461726011,0.95689728756512,11576,True,True
+ff_release_x_avg,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9863044268657087,0.9568448875083736,5834,True,True
+si_extension_avg_prev_5,extension_avg_baseline_mean,Extension,Extension,0.9599250141751711,0.9568104767987605,7963,True,True
+si_release_x_avg,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.987423603653309,0.9566859339621848,4017,True,True
+release_x_avg_baseline_count,release_z_sd_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9981436304110922,0.9566178381324418,13427,True,True
+release_x_sd_baseline_count,zone_pct_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9981436304110924,0.9566178381324418,13427,True,True
+release_z_avg_baseline_count,release_x_sd_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9981436304110922,0.9566178381324418,13427,True,True
+release_z_avg_baseline_count,release_z_sd_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9981436304110922,0.9566178381324418,13427,True,True
+release_x_avg_baseline_count,release_x_sd_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9981436304110922,0.9566178381324418,13427,True,True
+release_z_sd_baseline_count,zone_pct_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9981436304110924,0.9566178381324418,13427,True,True
+pitch_count,batters_faced,Workload and rest,Appearance performance,0.982375220190228,0.9564208079879781,13427,False,True
+total_pitches,batters_faced,Workload and rest,Appearance performance,0.982375220190228,0.9564208079879781,13427,False,True
+velocity_measured_count,batters_faced,Measurement coverage and history support,Appearance performance,0.98234349111253,0.9563188154954658,13427,False,True
+sl_release_z_avg,sl_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9760335068367454,0.9559547221111035,8515,True,True
+ch_release_x_avg,ff_release_x_avg_prev_10,Release position and variability,Release position and variability,0.9861549778286409,0.9559522664944531,5508,True,True
+sl_release_z_avg,sl_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9757289610687502,0.9559366741864016,8228,True,True
+avg_fb_velo,ff_avg_velocity,Velocity,Velocity,0.9605036283743684,0.955640362290674,11544,True,True
+si_usage_pct_prev_3,si_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9601240028717876,0.9554852448439629,11576,True,True
+ff_release_z_avg,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9717157862417386,0.9553435919402709,9656,True,True
+pitches_prev_28d,innings_28d,Workload and rest,Workload and rest,0.9709958443694086,0.9553278320882779,13119,True,True
+ff_extension_avg_prev_3,extension_avg_prev_10,Extension,Extension,0.959347308127505,0.9550819849265451,10020,True,True
+ch_release_z_avg_prev_3,release_z_avg_prev_10,Release position and variability,Release position and variability,0.9648507346592105,0.9547094554559731,6297,True,True
+sl_release_z_avg,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.976041179954078,0.954448295964693,7186,True,True
+sl_release_x_avg,ch_release_x_avg_prev_10,Release position and variability,Release position and variability,0.986101479549497,0.954446898866701,4210,True,True
+release_z_avg_prev_5,cu_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9640578481962244,0.954445104901256,6302,True,True
+release_z_avg,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9734228373093917,0.9542465082718026,13419,True,True
+extension_avg_prev_3,si_extension_avg_prev_10,Extension,Extension,0.9558997959973503,0.9542037347340697,6475,True,True
+pitches_28d,innings_prev_28d,Workload and rest,Workload and rest,0.9722197343890217,0.9541322490294578,13119,True,True
+extension_avg_prev_3,ff_extension_avg_prev_10,Extension,Extension,0.9584584747042411,0.9539304551645995,10219,True,True
+avg_fb_velo_prev_10,si_avg_velocity_prev_10,Velocity,Velocity,0.9631895242600501,0.9538168488505167,6490,True,True
+ff_avg_velocity_prev_10,avg_fb_velo_baseline_mean,Velocity,Velocity,0.9604568059948573,0.9533266573495432,10226,True,True
+pitches_prev_14d,innings_prev_14d,Workload and rest,Workload and rest,0.9628377893429206,0.9533215045073088,13200,True,True
+si_extension_avg_prev_3,extension_avg_prev_10,Extension,Extension,0.9549716914860159,0.9530487096890389,6331,True,True
+cu_pitch_count,cu_usage_pct,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.6465086578183391,0.95296271768072,13427,True,True
+si_release_z_avg_prev_10,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9728063838781165,0.9529326869313555,4511,True,True
+fb_velo_sd_prev_5,fb_velo_sd_prev_10,Velocity,Velocity,0.9716229678304257,0.9527661409638976,11564,True,True
+ch_release_z_avg,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9593329513616248,0.9523915385753727,6822,True,True
+pitches_14d,innings_14d,Workload and rest,Workload and rest,0.9724510343017241,0.9523251620984718,13200,True,True
+ch_release_z_avg_prev_5,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9613985641692677,0.9521542633365184,8435,True,True
+ch_release_z_avg,ch_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9603310642455537,0.9520727074518052,6347,True,True
+fb_velo_sd_prev_3,fb_velo_sd_prev_5,Velocity,Velocity,0.9750236525874535,0.9520120471250241,13363,True,True
+ff_extension_avg,si_extension_avg,Extension,Extension,0.9513269698201163,0.9518849760533091,5510,True,True
+ff_avg_velocity_prev_3,avg_fb_velo_prev_5,Velocity,Velocity,0.9590734804902642,0.951757859802081,11696,True,True
+sl_usage_pct_prev_3,sl_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.94088986970845,0.9510284936689093,11576,True,True
+release_z_avg_prev_3,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9606694793649472,0.9510013193550187,6652,True,True
+ch_release_z_avg,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9586145932400011,0.9509219635399071,5544,True,True
+avg_fb_velo_prev_3,ff_avg_velocity_prev_5,Velocity,Velocity,0.9572783283881696,0.950864822609419,12113,True,True
+avg_fb_velo_prev_5,ff_avg_velocity_prev_10,Velocity,Velocity,0.9573881798248375,0.9500803935182197,10225,True,True
+sv_usage_pct_prev_3,sv_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.965476266069978,0.9500459711338245,11576,True,True
+extension_avg_prev_10,sl_extension_avg_prev_10,Extension,Extension,0.955787729397858,0.949381440071518,7881,True,True
+release_z_avg_prev_3,cu_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9604502584562482,0.9492698398887289,6302,True,True
+release_z_avg,si_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9680918039698667,0.9492639935080511,7280,True,True
+si_release_z_avg_prev_3,sl_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9656775689401204,0.94919574897252,4893,True,True
+sl_release_z_avg_prev_10,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9497368901931263,0.9491864605413037,4420,True,True
+avg_fb_velo_prev_3,si_avg_velocity_prev_3,Velocity,Velocity,0.9582765720020784,0.9491425430561655,7281,True,True
+cu_release_z_avg_prev_5,release_z_avg_prev_10,Release position and variability,Release position and variability,0.961968523795779,0.9490121982267691,5350,True,True
+cu_usage_pct_prev_3,cu_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9430760772964217,0.9489731335373365,11576,True,True
+ff_avg_velocity_prev_5,avg_fb_velo_prev_10,Velocity,Velocity,0.95683199394423,0.948675015651047,10419,True,True
+release_z_avg,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9700977677122609,0.9483340124182045,6490,True,True
+si_avg_velocity_prev_10,avg_fb_velo_baseline_mean,Velocity,Velocity,0.9584717795739506,0.9482998868222439,6490,True,True
+spin_avg_prev_3,spin_avg_baseline_mean,Spin,Spin,0.9492498775892254,0.9478915214614008,13406,True,True
+ff_extension_avg_prev_3,extension_avg_baseline_mean,Extension,Extension,0.9524694994162842,0.947770091940573,11675,True,True
+sl_release_z_avg_prev_5,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9701927574339188,0.9475315883582562,4616,True,True
+ff_release_z_avg_prev_10,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9607603082189615,0.9473451244024677,7025,True,True
+si_release_z_avg_prev_5,sl_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9654524964930654,0.9471493139574795,5696,True,True
+st_usage_pct_prev_3,st_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9644022836637736,0.9470543238518467,11576,True,True
+release_z_avg,si_release_z_avg_prev_5,Release position and variability,Release position and variability,0.967423428291093,0.9470317330726551,7979,True,True
+si_release_z_avg,release_z_avg_prev_5,Release position and variability,Release position and variability,0.9646271441343154,0.9469382698591641,7201,True,True
+si_release_z_avg,release_z_avg_prev_3,Release position and variability,Release position and variability,0.9647875528514959,0.9468192001916172,7199,True,True
+max_fb_velo,ff_avg_velocity,Velocity,Velocity,0.9549229548002067,0.9467973196691781,11544,True,True
+max_velocity,ff_avg_velocity,Velocity,Velocity,0.9548974294851816,0.9467855966534856,11544,True,True
+fc_usage_pct_prev_3,fc_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9619177049584783,0.9466666046128595,11576,True,True
+si_extension_avg_prev_3,extension_avg_baseline_mean,Extension,Extension,0.9482165569244266,0.9462642111796554,7263,True,True
+ch_release_z_avg_prev_3,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9576486574030745,0.9458906952662756,7440,True,True
+ff_avg_velocity_prev_3,si_avg_velocity_prev_3,Velocity,Velocity,0.9497699737832058,0.9458511095354496,5700,True,True
+si_release_z_avg,sl_release_z_avg,Release position and variability,Release position and variability,0.9639800816715866,0.9458327297635392,4757,True,True
+ff_avg_velocity_prev_5,si_avg_velocity_prev_10,Velocity,Velocity,0.9509723226984835,0.9456406053398518,5432,True,True
+release_z_avg,ff_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9578107461208053,0.9455770212670532,11695,True,True
+median_fb_velo,si_avg_velocity,Velocity,Velocity,0.9510843950552279,0.9455446976925198,7201,True,True
+ff_release_z_avg,release_z_avg_prev_5,Release position and variability,Release position and variability,0.9604282065716038,0.9455151281598657,11544,True,True
+release_z_avg,ff_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9574922026997368,0.9453952471544609,12125,True,True
+ff_release_z_avg,release_z_avg_prev_3,Release position and variability,Release position and variability,0.9599435310223421,0.9451488780603358,11540,True,True
+pitches_prev_7d,innings_prev_7d,Workload and rest,Workload and rest,0.941171792986282,0.9446510144001216,13249,True,True
+extension_avg_prev_5,sl_extension_avg_prev_5,Extension,Extension,0.9511269751476352,0.9445717225134398,9418,True,True
+si_release_z_avg_prev_3,sl_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9629032823311425,0.9444623543761439,5173,True,True
+release_z_avg,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9575990119068291,0.9443613136809751,10226,True,True
+avg_fb_velo_prev_5,si_avg_velocity_prev_10,Velocity,Velocity,0.954916372891251,0.9440028300854939,6490,True,True
+kc_usage_pct,kc_usage_pct_prev_3,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.8934748372394474,0.9439241394145585,13427,True,True
+si_release_z_avg,release_z_avg_prev_10,Release position and variability,Release position and variability,0.9661332008635289,0.9438101862387429,6294,True,True
+ch_release_z_avg_prev_5,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9443326539072167,0.9437197127599299,4783,True,True
+ff_release_z_avg,release_z_avg_prev_10,Release position and variability,Release position and variability,0.9606551333753934,0.9436412134436449,9893,True,True
+sl_release_z_avg_prev_5,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9425553896297997,0.9433705993840938,5845,True,True
+avg_fb_velo_prev_5,si_avg_velocity_prev_5,Velocity,Velocity,0.9533801437242618,0.9433637050189883,7980,True,True
+extension_avg_prev_3,sl_extension_avg_prev_3,Extension,Extension,0.9494727419661774,0.9432630030245626,8900,True,True
+pitches_prev_14d,pitches_14d,Workload and rest,Workload and rest,0.9476471258829466,0.943184472666143,13200,True,True
+ff_avg_velocity_prev_5,si_avg_velocity_prev_5,Velocity,Velocity,0.9475906233617237,0.9431669207574976,6781,True,True
+sl_release_z_avg_prev_3,si_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9641615519307657,0.9431320641647499,5382,True,True
+kc_pitch_count,kc_usage_pct_prev_3,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.6818260534769366,0.9427960442396658,13427,True,True
+sl_release_z_avg_prev_3,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9681009432890401,0.9427519106822142,4342,True,True
+si_release_z_avg_prev_5,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9678972016527314,0.9426265992513633,4834,True,True
+si_avg_velocity_prev_3,avg_fb_velo_prev_5,Velocity,Velocity,0.9531516159636371,0.9423279040121461,7281,True,True
+ff_release_z_avg_prev_5,sl_release_z_avg_prev_5,Release position and variability,Release position and variability,0.956633967200067,0.9423047821383068,8572,True,True
+avg_fb_velo_baseline_count,release_x_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.995792929570053,0.9422518145481174,13427,True,True
+avg_fb_velo_baseline_count,release_z_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.995792929570053,0.9422518145481174,13427,True,True
+avg_fb_velo_baseline_count,zone_pct_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.995792929570053,0.9422518145481174,13427,True,True
+sl_release_z_avg_prev_3,ch_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9399997671067531,0.9417900243973006,4805,True,True
+kc_usage_pct,kc_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.8987678278703951,0.9414738708196535,11576,True,True
+extension_avg_prev_5,sl_extension_avg_prev_10,Extension,Extension,0.9480692793924894,0.9412784710329716,7881,True,True
+kc_usage_pct,kc_usage_pct_prev_5,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.8985951271535907,0.9410156472311697,13427,True,True
+ff_release_z_avg_prev_3,sl_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9554377445387092,0.9410139981397888,7845,True,True
+si_avg_velocity_prev_3,ff_avg_velocity_prev_5,Velocity,Velocity,0.9458374037822888,0.9406614093720156,6090,True,True
+cu_release_z_avg_prev_5,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9548351799241823,0.9406052546917204,6297,True,True
+sl_release_z_avg_prev_5,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9566695084098114,0.9403220787832487,7195,True,True
+kc_pitch_count,kc_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.6864276342319734,0.9401259942934839,11576,True,True
+kc_pitch_count,kc_usage_pct_prev_5,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.691451073496656,0.9398248488235509,13427,True,True
+ff_usage_pct_prev_3,ff_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9450350021783925,0.9397647570391495,11576,True,True
+ff_release_z_avg_prev_5,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9585234541499357,0.9397482740373474,7132,True,True
+avg_fb_velo,si_avg_velocity,Velocity,Velocity,0.9495164262707022,0.9396417887201004,7201,True,True
+innings_prev_14d,innings_14d,Workload and rest,Workload and rest,0.9445902095867987,0.9395876373882635,13200,True,True
+release_x_sd_baseline_count,spin_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9971707299595434,0.9395527435339415,13427,True,True
+release_z_sd_baseline_count,spin_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9971707299595434,0.9395527435339415,13427,True,True
+release_x_sd_baseline_count,extension_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9971663490209008,0.9393590586704959,13427,True,True
+release_z_sd_baseline_count,extension_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9971663490209008,0.9393590586704959,13427,True,True
+ff_avg_velocity_prev_5,avg_fb_velo_baseline_mean,Velocity,Velocity,0.9490870891868178,0.9392917050408531,12108,True,True
+ch_release_z_avg_prev_3,sl_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9378977253455252,0.9385333968661748,5079,True,True
+si_release_z_avg_prev_10,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9434152004159747,0.9384782236540239,4111,True,True
+avg_fb_velo_prev_3,ff_avg_velocity_prev_10,Velocity,Velocity,0.9469538971908115,0.9384757364446095,10215,True,True
+sl_release_z_avg,release_z_avg_prev_5,Release position and variability,Release position and variability,0.9642876812463836,0.9384480499638214,8715,True,True
+release_z_avg,sl_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9652315072186877,0.9383412860398579,9426,True,True
+si_release_z_avg_prev_3,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9647705623044271,0.9382572577234263,4400,True,True
+ff_avg_velocity_prev_3,avg_fb_velo_prev_10,Velocity,Velocity,0.9481359989685351,0.9381604964214366,10029,True,True
+ch_release_z_avg_prev_3,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9402258252137831,0.9381267541821905,4148,True,True
+ff_release_z_avg,sl_release_z_avg,Release position and variability,Release position and variability,0.9521241298920996,0.9378963475717021,7590,True,True
+release_z_avg,sl_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9651741220991122,0.9378496802444339,8916,True,True
+si_release_z_avg,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9595046861602818,0.9378281960830324,7197,True,True
+sl_release_z_avg_prev_5,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9412447170948206,0.9377036562707448,4546,True,True
+sl_release_z_avg,release_z_avg_prev_3,Release position and variability,Release position and variability,0.9637621329072577,0.9376838594359965,8712,True,True
+sl_release_z_avg,release_z_avg_prev_10,Release position and variability,Release position and variability,0.9655373100005625,0.9376615922532453,7489,True,True
+sl_extension_avg_prev_10,extension_avg_baseline_mean,Extension,Extension,0.9450426791164322,0.9374982923574348,7881,True,True
+ff_release_z_avg,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9549316602802453,0.9374861925759208,11538,True,True
+release_z_avg,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9668331863378171,0.9373004336294062,7889,True,True
+sl_release_z_avg_prev_3,ff_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9542627719959689,0.9371533056745038,8125,True,True
+ff_release_z_avg_prev_3,sl_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9524764142646904,0.9368593496356195,8262,True,True
+sl_release_z_avg_prev_3,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9377510173966902,0.9368321029412181,5513,True,True
+sl_release_z_avg,ch_release_z_avg,Release position and variability,Release position and variability,0.9384775032130013,0.9367764451434867,4616,True,True
+fastball_usage_pct_prev_3,fastball_usage_pct_prev_5,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9444037005172655,0.9365006991097496,13427,True,True
+extension_avg,sl_extension_avg,Extension,Extension,0.9432244905443199,0.9363967493972296,8691,True,True
+si_release_z_avg_prev_3,ch_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9384123159623415,0.9363857825909564,4498,True,True
+ch_usage_pct_prev_3,ch_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9390514845336037,0.9362773428565965,11576,True,True
+fastball_usage_pct_prev_5,fastball_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9459920993661275,0.9361802601837382,11576,True,True
+si_avg_velocity_prev_5,ff_avg_velocity_prev_10,Velocity,Velocity,0.9423161059457674,0.9360803758226298,5690,True,True
+avg_fb_velo_prev_3,si_avg_velocity_prev_5,Velocity,Velocity,0.9471389895034493,0.9360675706778229,7971,True,True
+avg_fb_velo_baseline_count,release_z_sd_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9957000375464679,0.9357146775517251,13427,True,True
+avg_fb_velo_baseline_count,release_x_sd_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9957000375464679,0.9357146775517251,13427,True,True
+extension_avg_prev_3,sl_extension_avg_prev_5,Extension,Extension,0.9423049611176447,0.9355285491252375,9412,True,True
+ff_release_z_avg_prev_10,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9369560806528489,0.9355059779605007,6013,True,True
+sl_extension_avg_prev_3,extension_avg_prev_5,Extension,Extension,0.9427881386200144,0.9353248765908252,8900,True,True
+avg_fb_velo,avg_fb_velo_prev_5,Velocity,Velocity,0.9459661693222252,0.9351330526995303,13351,True,True
+extension_avg_prev_10,ch_extension_avg_prev_10,Extension,Extension,0.9423072630256718,0.9350083542321307,6639,True,True
+si_release_z_avg_prev_5,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9348260249966763,0.9348164544046624,5441,True,True
+avg_fb_velo,avg_fb_velo_prev_3,Velocity,Velocity,0.9452902019373376,0.9347807114699161,13335,True,True
+ff_avg_velocity_prev_3,si_avg_velocity_prev_5,Velocity,Velocity,0.940665722223256,0.9346937685581852,6380,True,True
+pitches_7d,innings_7d,Workload and rest,Workload and rest,0.9642968665013038,0.934347455075823,13249,True,True
+sl_extension_avg_prev_5,extension_avg_prev_10,Extension,Extension,0.9419601197684392,0.9340869154352803,8083,True,True
+si_avg_velocity_prev_5,avg_fb_velo_prev_10,Velocity,Velocity,0.946788733420229,0.9340280537993156,6932,True,True
+sl_release_z_avg_prev_3,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9532634991660505,0.9338458299902671,6811,True,True
+avg_fb_velo_prev_3,si_avg_velocity_prev_10,Velocity,Velocity,0.9463337377830796,0.9338361521427097,6481,True,True
+ff_avg_velocity_prev_3,si_avg_velocity_prev_10,Velocity,Velocity,0.9410389956486631,0.9337609030959682,5082,True,True
+ff_release_z_avg,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9447439989859048,0.9333551634810617,4983,True,True
+sl_spin_avg_prev_3,sl_spin_avg_prev_10,Spin,Spin,0.9225869320606112,0.9329802337012153,7337,True,True
+ch_release_z_avg_prev_5,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9422610074900618,0.9329303727641907,4400,True,True
+ff_release_z_avg_prev_3,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9533982600864153,0.9327107531137661,6867,True,True
+velocity_measured_count,fastball_count,Measurement coverage and history support,Pitch mix and pitch-type counts,0.9439898687348551,0.9325929003313171,13427,False,True
+total_pitches,fastball_count,Workload and rest,Pitch mix and pitch-type counts,0.9439289037926522,0.9325403561975307,13427,False,True
+fastball_count,pitch_count,Pitch mix and pitch-type counts,Workload and rest,0.9439289037926519,0.9325403561975307,13427,False,True
+ff_release_z_avg,si_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9367241952879561,0.9323944696920082,5600,True,True
+ff_release_z_avg_prev_5,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9345419339203908,0.9320552395415669,7734,True,True
+max_fb_velo,median_fb_velo,Velocity,Velocity,0.9389206233837932,0.9320496911673898,13352,True,True
+max_velocity,median_fb_velo,Velocity,Velocity,0.9388540715740161,0.9319375424999011,13352,True,True
+si_release_z_avg_prev_3,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9296007951739025,0.9315732449644967,5027,True,True
+cu_release_z_avg_prev_5,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9444860236861835,0.9314815923764225,4486,True,True
+avg_fb_velo,avg_fb_velo_prev_10,Velocity,Velocity,0.9431003270482348,0.9312891959049311,11508,True,True
+release_x_sd_prev_5,release_x_sd_baseline_mean,Release position and variability,Release position and variability,0.9650184816954206,0.9310801613596459,13409,True,True
+sl_release_z_avg,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9597750731617289,0.930997794538287,8712,True,True
+si_release_z_avg,ff_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9296578903236387,0.9306181803527321,6019,True,True
+ff_release_z_avg_prev_3,ch_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9344224276762195,0.9305193672859606,6654,True,True
+ff_release_z_avg,si_release_z_avg_prev_5,Release position and variability,Release position and variability,0.938862059229683,0.9303358757037188,6268,True,True
+sl_release_z_avg_prev_3,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9354078481182934,0.930068578471122,4266,True,True
+extension_avg_prev_3,ch_extension_avg_prev_3,Extension,Extension,0.9358845033602776,0.9300279659522515,7422,True,True
+arm_angle_coverage,arm_angle_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.8411387646207856,0.9300216621802139,13427,True,True
+ch_release_z_avg_prev_3,si_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9362037858764922,0.9298307789567664,4839,True,True
+extension_avg,extension_avg_prev_5,Extension,Extension,0.9313327216208191,0.9297685529075599,13408,True,True
+extension_avg_prev_3,sl_extension_avg_prev_10,Extension,Extension,0.9364058172176345,0.9297417606249246,7876,True,True
+si_release_z_avg,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9349163840557372,0.9296851677333025,5072,True,True
+si_avg_velocity,si_avg_velocity_prev_5,Velocity,Velocity,0.9441459034095493,0.9296846531762851,6840,True,True
+si_avg_velocity_prev_3,avg_fb_velo_prev_10,Velocity,Velocity,0.9442026033845626,0.9296821258802109,6341,True,True
+si_avg_velocity,si_avg_velocity_prev_3,Velocity,Velocity,0.9438011246672438,0.9296663004129203,6550,True,True
+ch_release_z_avg_prev_5,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9326655226509619,0.9294886615095889,6417,True,True
+si_release_z_avg_prev_5,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9363639594060376,0.929328388623732,4338,True,True
+ch_pitch_count,ch_usage_pct,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.6651575555218263,0.9291933714323181,13427,True,True
+si_release_z_avg,ff_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9276581462188845,0.9291042810109251,5634,True,True
+si_avg_velocity_prev_3,ff_avg_velocity_prev_10,Velocity,Velocity,0.937464509144471,0.929056250540591,5110,True,True
+sl_release_z_avg_prev_5,cu_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9257130108813763,0.9290447181724462,3571,True,True
+release_z_sd_prev_5,release_z_sd_baseline_mean,Release position and variability,Release position and variability,0.9526797941691142,0.9287716767098219,13409,True,True
+ff_release_z_avg,ch_release_z_avg,Release position and variability,Release position and variability,0.9314682598456825,0.9287594665038394,6426,True,True
+si_release_z_avg,ch_release_z_avg,Release position and variability,Release position and variability,0.9303344012106657,0.9286690696795944,4380,True,True
+extension_avg,extension_avg_prev_10,Extension,Extension,0.9329717607262881,0.928595660486745,11561,True,True
+ch_extension_avg_prev_10,extension_avg_baseline_mean,Extension,Extension,0.936128304252945,0.9285805034083292,6639,True,True
+ff_avg_velocity_prev_3,avg_fb_velo_baseline_mean,Velocity,Velocity,0.9401407650630484,0.9284238105082427,11679,True,True
+ff_extension_avg,ff_extension_avg_prev_10,Extension,Extension,0.9287362960410447,0.9283064070322726,9642,True,True
+starter_share_prev_5,starter_role_prev_5,Role and recent starts,Role and recent starts,0.973987009851304,0.9282768930518991,13427,True,True
+si_avg_velocity,si_avg_velocity_prev_10,Velocity,Velocity,0.9432072983071264,0.9279617805030257,5808,True,True
+ch_release_z_avg,release_z_avg_prev_10,Release position and variability,Release position and variability,0.943836361241239,0.9277847881636322,6133,True,True
+si_avg_velocity_prev_5,avg_fb_velo_baseline_mean,Velocity,Velocity,0.9408744054768696,0.9276032814461008,7973,True,True
+ff_extension_avg,ff_extension_avg_prev_5,Extension,Extension,0.9289742153338817,0.9275814670712876,11369,True,True
+ch_release_z_avg,release_z_avg_prev_5,Release position and variability,Release position and variability,0.9420050081628041,0.9275276244038191,7244,True,True
+extension_avg_prev_5,ch_extension_avg_prev_5,Extension,Extension,0.9345770855898093,0.9273992166173017,8429,True,True
+ff_release_z_avg_prev_5,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9306685024780936,0.9272559156375041,6106,True,True
+ch_release_z_avg_prev_3,ff_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9302016979941288,0.9272466388894608,6839,True,True
+ff_avg_velocity,ff_avg_velocity_prev_3,Velocity,Velocity,0.9396227218699282,0.9271311665767995,11160,True,True
+ch_release_z_avg_prev_3,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9373436938725362,0.9269451663315122,3912,True,True
+ff_avg_velocity,ff_avg_velocity_prev_5,Velocity,Velocity,0.9393672265109263,0.9268108395119999,11389,True,True
+ch_release_z_avg,release_z_avg_prev_3,Release position and variability,Release position and variability,0.9414366435157887,0.9266604987592723,7243,True,True
+extension_avg,extension_avg_prev_3,Extension,Extension,0.9265045914636679,0.9265504559104144,13399,True,True
+fb_velo_change_vs_prev_5,fb_velo_change_vs_prev_3,Velocity,Velocity,0.9375959016531191,0.9261265005592729,13335,True,True
+avg_fb_velo_baseline_count,spin_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9949524417171434,0.9260560774079128,13427,True,True
+extension_avg_prev_5,ch_extension_avg_prev_10,Extension,Extension,0.9332493627023227,0.9257780605387398,6639,True,True
+ff_release_z_avg_prev_3,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9320288680113971,0.925626401552058,7496,True,True
+ch_release_z_avg_prev_3,cu_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9366847293815571,0.9254472910942282,4070,True,True
+si_extension_avg,si_extension_avg_prev_10,Extension,Extension,0.9258478701182962,0.9248311088839675,5793,True,True
+cu_release_z_avg_prev_5,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9286712069025299,0.9240873066708019,2910,True,True
+ff_extension_avg,ff_extension_avg_prev_3,Extension,Extension,0.9243113770999747,0.9236887703380926,11133,True,True
+si_release_z_avg_prev_3,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9289646703618022,0.9236442937122289,4038,True,True
+ch_release_z_avg_prev_3,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9266104983158511,0.9234483316299444,5670,True,True
+si_avg_velocity_prev_3,avg_fb_velo_baseline_mean,Velocity,Velocity,0.9376680745595242,0.9233991319316543,7275,True,True
+ff_avg_velocity,ff_avg_velocity_prev_10,Velocity,Velocity,0.9370328412658282,0.9233689447441418,9656,True,True
+ch_extension_avg_prev_3,extension_avg_prev_5,Extension,Extension,0.9297355977693101,0.9232050001152765,7422,True,True
+release_z_avg,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9393792005942928,0.9231091287409054,8441,True,True
+avg_fb_velo,avg_fb_velo_baseline_mean,Velocity,Velocity,0.935726083464585,0.923086322448439,13334,True,True
+si_extension_avg_prev_10,ch_extension_avg_prev_10,Extension,Extension,0.929880313550251,0.9227450732955218,4100,True,True
+release_z_avg,ch_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9393068200352515,0.9225817174272232,7444,True,True
+avg_fb_velo,max_fb_velo,Velocity,Velocity,0.9350847712496784,0.9225409484170197,13352,True,True
+ch_avg_velocity,ch_avg_velocity_prev_3,Velocity,Velocity,0.93904136158028,0.922526350159137,6347,True,True
+max_velocity,avg_fb_velo,Velocity,Velocity,0.9350476331441406,0.9224778246313813,13352,True,True
+ff_avg_velocity,si_avg_velocity,Velocity,Velocity,0.9274236353083178,0.9223954680612201,5527,True,True
+avg_fb_velo_baseline_count,extension_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.9946707447089257,0.9223705554890869,13427,True,True
+si_pitch_count,si_usage_pct,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.6176521796848934,0.9222125438439694,13427,True,True
+si_release_z_avg_prev_5,cu_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9391296759511778,0.9220070242551451,3843,True,True
+cu_release_z_avg_prev_5,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9369552800157286,0.921972160031841,3527,True,True
+sl_release_z_avg_prev_3,cu_release_z_avg_prev_5,Release position and variability,Release position and variability,0.919006095697116,0.9217300422621234,3353,True,True
+ch_avg_velocity,ch_avg_velocity_prev_5,Velocity,Velocity,0.9378797290402199,0.9212914973350567,6822,True,True
+sl_extension_avg_prev_3,extension_avg_prev_10,Extension,Extension,0.9302914318580057,0.9212769511638664,7631,True,True
+sl_extension_avg_prev_5,extension_avg_baseline_mean,Extension,Extension,0.929863882604983,0.921210394284241,9409,True,True
+release_z_avg,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9379415477799291,0.9208358587853981,6653,True,True
+median_fb_velo,avg_fb_velo_prev_5,Velocity,Velocity,0.9336634279325929,0.9207423405058446,13351,True,True
+ff_release_z_avg_prev_5,cu_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9313828839293173,0.9206455546089778,5895,True,True
+si_extension_avg,si_extension_avg_prev_5,Extension,Extension,0.9151895472532687,0.9206315182485327,6819,True,True
+median_fb_velo,avg_fb_velo_prev_3,Velocity,Velocity,0.9328839688936207,0.9203980107746763,13335,True,True
+extension_avg,extension_avg_baseline_mean,Extension,Extension,0.9227320359014369,0.9196886650514183,13396,True,True
+ch_release_z_avg,release_z_avg_baseline_mean,Release position and variability,Release position and variability,0.9367865676232692,0.919542387946988,7239,True,True
+ch_extension_avg_prev_5,extension_avg_prev_10,Extension,Extension,0.9264973503514535,0.9194261230237106,7149,True,True
+ff_release_z_avg_prev_3,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9258336935820217,0.9193119680282613,5907,True,True
+extension_avg,ch_extension_avg,Extension,Extension,0.9257652615352038,0.9191287523129729,7229,True,True
+ch_avg_velocity,ch_avg_velocity_prev_10,Velocity,Velocity,0.9367838894518032,0.919050118500026,5544,True,True
+si_extension_avg,si_extension_avg_prev_3,Extension,Extension,0.9129586413750103,0.9185317920295323,6528,True,True
+extension_avg_prev_3,ch_extension_avg_prev_5,Extension,Extension,0.9257660825140177,0.918511105344924,8427,True,True
+release_z_sd_prev_3,release_z_sd_prev_10,Release position and variability,Release position and variability,0.9268212244302341,0.9184078168028407,11570,True,True
+vertical_movement_avg_prev_3,vertical_movement_avg_prev_10,Pitch movement,Pitch movement,0.9324158468371943,0.918086676604934,11572,True,True
+cu_release_z_avg_prev_5,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9380294796511847,0.9180743621614695,3112,True,True
+si_release_z_avg_prev_3,cu_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9327683581090735,0.917819045816554,3521,True,True
+median_fb_velo,avg_fb_velo_prev_10,Velocity,Velocity,0.9312318534430065,0.9171784751371812,11508,True,True
+sl_release_z_avg,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9549717566173065,0.9169796052250004,4284,True,True
+arm_angle_measured_count,arm_angle_avg_baseline_count,Measurement coverage and history support,Measurement coverage and history support,0.566658975695352,0.9167111453096065,13427,True,True
+ff_extension_avg,si_extension_avg_prev_10,Extension,Extension,0.9157164888315739,0.9162951830934728,4967,True,True
+release_x_sd_prev_3,release_x_sd_prev_10,Release position and variability,Release position and variability,0.9595874258093686,0.916131346633715,11570,True,True
+sl_extension_avg,sl_extension_avg_prev_5,Extension,Extension,0.9214570014039921,0.915807669660699,8493,True,True
+cu_release_z_avg_prev_5,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9289926069857353,0.9149036446031356,4926,True,True
+sl_extension_avg,sl_extension_avg_prev_3,Extension,Extension,0.920206306725282,0.9148259507746185,8205,True,True
+si_release_z_avg,sl_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9459169398004562,0.9147953567347751,5116,True,True
+ff_release_z_avg_prev_3,cu_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9273845707809214,0.9145746713095946,5754,True,True
+si_release_z_avg,sl_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9458793471789146,0.9144325266908652,4830,True,True
+extension_avg_prev_3,ch_extension_avg_prev_10,Extension,Extension,0.9218045842708539,0.9140737763656265,6637,True,True
+release_z_avg,cu_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9355492156853972,0.9138517545413242,6301,True,True
+ch_extension_avg,ch_extension_avg_prev_10,Extension,Extension,0.9169078892804442,0.9135373344804791,5532,True,True
+sl_release_z_avg,si_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9486797663379322,0.9132072411802352,4797,True,True
+si_release_z_avg,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9519218585956852,0.9131514410245135,4362,True,True
+max_velocity,si_avg_velocity,Velocity,Velocity,0.926283906633208,0.9130203907059102,7201,True,True
+extension_avg_prev_5,cu_extension_avg_prev_5,Extension,Extension,0.9229005356897484,0.9129697857886174,6296,True,True
+max_fb_velo,si_avg_velocity,Velocity,Velocity,0.9262590987444553,0.9129428228197258,7201,True,True
+ch_extension_avg,ch_extension_avg_prev_5,Extension,Extension,0.9141535188157401,0.912802384197636,6809,True,True
+ch_extension_avg_prev_5,extension_avg_baseline_mean,Extension,Extension,0.9204206081698189,0.9125846091871477,8420,True,True
+sl_extension_avg,sl_extension_avg_prev_10,Extension,Extension,0.9194454674052166,0.9125614289513626,7167,True,True
+sl_avg_velocity,sl_avg_velocity_prev_3,Velocity,Velocity,0.9252012262736082,0.9125338314288971,8228,True,True
+starts_prev_30d,season_starts,Role and recent starts,Role and recent starts,0.8379229334543503,0.9122351276059059,12986,True,True
+sl_release_z_avg,si_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9498738778915697,0.9120157359971877,5274,True,True
+ch_extension_avg_prev_3,extension_avg_prev_10,Extension,Extension,0.9189121404469688,0.9119694993235606,6286,True,True
+extension_avg,si_extension_avg_prev_10,Extension,Extension,0.9134370580181698,0.9112445964914413,6470,True,True
+ff_extension_avg_prev_10,ch_extension_avg_prev_10,Extension,Extension,0.9185822135683359,0.9103706686796871,5999,True,True
+ch_release_z_avg,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9219260187855062,0.9103498451792291,4030,True,True
+ff_extension_avg,extension_avg_prev_5,Extension,Extension,0.9134761557699981,0.9102374336681751,11524,True,True
+si_extension_avg,ff_extension_avg_prev_10,Extension,Extension,0.9094368744676846,0.9101540037993814,5062,True,True
+sv_usage_pct,sv_usage_pct_prev_3,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9113091001898118,0.909836918832054,13427,True,True
+sv_pitch_count,sv_usage_pct_prev_3,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.7807407292507605,0.9098169194265439,13427,True,True
+ff_extension_avg,extension_avg_prev_10,Extension,Extension,0.9118388657116793,0.9097100525694285,9880,True,True
+ch_extension_avg,ch_extension_avg_prev_3,Extension,Extension,0.910808396697983,0.9096607384109111,6325,True,True
+median_fb_velo,avg_fb_velo_baseline_mean,Velocity,Velocity,0.9240636150403518,0.9093270424868036,13334,True,True
+si_extension_avg_prev_5,ch_extension_avg_prev_5,Extension,Extension,0.917120646913142,0.9091864731796985,5427,True,True
+si_extension_avg_prev_5,ch_extension_avg_prev_10,Extension,Extension,0.9172410464426161,0.9091670016298781,4329,True,True
+sl_avg_velocity,sl_avg_velocity_prev_5,Velocity,Velocity,0.922189682582912,0.9091188118884649,8515,True,True
+ff_extension_avg,si_extension_avg_prev_5,Extension,Extension,0.9090271345693236,0.909053261949268,6247,True,True
+extension_avg,ff_extension_avg_prev_10,Extension,Extension,0.9149105986895518,0.9088254504215403,10213,True,True
+si_extension_avg,ff_extension_avg_prev_5,Extension,Extension,0.9031069169015438,0.9085900637023147,6004,True,True
+extension_avg,ff_extension_avg_prev_5,Extension,Extension,0.912502400823273,0.9084444166268439,12110,True,True
+ch_extension_avg_prev_5,si_extension_avg_prev_10,Extension,Extension,0.9146886676156798,0.9078679511478954,4393,True,True
+si_extension_avg_prev_3,ch_extension_avg_prev_3,Extension,Extension,0.9142584833792831,0.9074995176046009,4480,True,True
+sl_extension_avg_prev_3,extension_avg_baseline_mean,Extension,Extension,0.9172122409488238,0.9073531324684113,8893,True,True
+sl_release_z_avg,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9357277504526768,0.9066138775655067,6690,True,True
+fb_velo_sd_prev_3,fb_velo_sd_prev_10,Velocity,Velocity,0.9414017437483635,0.9061130931007392,11514,True,True
+statcast_batters_faced,innings_pitched,Appearance performance,Appearance performance,0.9700744513318597,0.9056449108185423,13427,True,True
+statcast_batters_faced,outs_recorded,Appearance performance,Appearance performance,0.9700744513318573,0.9056449108185423,13427,True,True
+ff_extension_avg,extension_avg_prev_3,Extension,Extension,0.907841020232094,0.9054963152344967,11517,True,True
+si_extension_avg,extension_avg_prev_5,Extension,Extension,0.9018482321354124,0.9054652162373557,7183,True,True
+ch_extension_avg_prev_3,extension_avg_baseline_mean,Extension,Extension,0.9125177397354338,0.9054067175010073,7416,True,True
+extension_avg,ff_extension_avg_prev_3,Extension,Extension,0.9083153012170101,0.9053931094843022,11669,True,True
+si_extension_avg,extension_avg_prev_10,Extension,Extension,0.9075943285255978,0.905381603500762,6282,True,True
+extension_avg_prev_3,cu_extension_avg_prev_5,Extension,Extension,0.9148927064842802,0.9052912965540832,6295,True,True
+ff_extension_avg,si_extension_avg_prev_3,Extension,Extension,0.9067059516098532,0.905148469152555,5578,True,True
+extension_avg,si_extension_avg_prev_5,Extension,Extension,0.9024394311982487,0.9050747224432384,7958,True,True
+ch_release_z_avg,sl_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9145145089424861,0.904952705411106,4928,True,True
+ff_extension_avg,extension_avg_baseline_mean,Extension,Extension,0.9082795670567314,0.9049507451500424,11514,True,True
+pitches_prev_14d,innings_14d,Workload and rest,Workload and rest,0.9185753710421912,0.9047382164157065,13200,True,True
+si_extension_avg,ff_extension_avg_prev_3,Extension,Extension,0.8961486713168938,0.9042768372844803,5611,True,True
+sl_release_z_avg,ff_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9336911296563479,0.904222495060587,7953,True,True
+innings_pitched,batters_faced,Appearance performance,Appearance performance,0.9696377239044147,0.9042167500179803,13427,True,True
+outs_recorded,batters_faced,Appearance performance,Appearance performance,0.9696377239044104,0.9042167500179803,13427,True,True
+sl_extension_avg_prev_5,cu_extension_avg_prev_5,Extension,Extension,0.916277905823244,0.9040681040219993,3567,True,True
+median_fb_velo,ff_avg_velocity_prev_3,Velocity,Velocity,0.912215405946587,0.9036820995832312,11632,True,True
+median_fb_velo,ff_avg_velocity_prev_5,Velocity,Velocity,0.9123721790197378,0.903593290923045,12058,True,True
+ff_release_z_avg,sl_release_z_avg_prev_5,Release position and variability,Release position and variability,0.934243390400335,0.9035263936544093,8136,True,True
+si_extension_avg_prev_3,ch_extension_avg_prev_5,Extension,Extension,0.9108493521861845,0.9035183348601482,5011,True,True
+si_extension_avg_prev_10,sl_extension_avg_prev_10,Extension,Extension,0.9164353796552462,0.9034388982902102,4497,True,True
+ff_extension_avg_prev_5,ch_extension_avg_prev_5,Extension,Extension,0.910761594505965,0.9032952732102701,7723,True,True
+ff_release_z_avg,sl_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9385240641588837,0.9032697210979949,6756,True,True
+sl_release_z_avg,ff_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9309123637664006,0.903066126315981,7678,True,True
+extension_avg,si_extension_avg_prev_3,Extension,Extension,0.899436715245282,0.902921895724433,7255,True,True
+ff_release_z_avg,sl_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9347678083558074,0.9026566459424948,7711,True,True
+median_fb_velo,si_avg_velocity_prev_3,Velocity,Velocity,0.9151969355768125,0.9023430107261492,7247,True,True
+ch_release_z_avg,sl_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9104221098682092,0.9022905333725973,4653,True,True
+ff_extension_avg_prev_3,ch_extension_avg_prev_3,Extension,Extension,0.9084945147169798,0.9022691598537482,6632,True,True
+sl_avg_velocity,sl_avg_velocity_prev_10,Velocity,Velocity,0.9172851084561603,0.9021657481531554,7186,True,True
+ff_extension_avg_prev_5,ch_extension_avg_prev_10,Extension,Extension,0.9099626454293773,0.9020403512886372,6092,True,True
+statcast_batters_faced,fastball_count,Appearance performance,Pitch mix and pitch-type counts,0.928484945040953,0.9014258465709397,13427,False,True
+ch_extension_avg_prev_3,si_extension_avg_prev_5,Extension,Extension,0.9082003757104283,0.90132920499833,4821,True,True
+si_extension_avg,extension_avg_baseline_mean,Extension,Extension,0.8994148494752897,0.9010186849494284,7176,True,True
+si_extension_avg,extension_avg_prev_3,Extension,Extension,0.8947262826819263,0.9008189373087974,7179,True,True
+fastball_count,batters_faced,Pitch mix and pitch-type counts,Appearance performance,0.9283671044557203,0.900713210886179,13427,False,True
+si_extension_avg_prev_3,ch_extension_avg_prev_10,Extension,Extension,0.9076370464883127,0.9005914882522736,4026,True,True
+median_fb_velo,si_avg_velocity_prev_10,Velocity,Velocity,0.9140480573298849,0.9003731239143333,6462,True,True
+ch_release_z_avg,si_release_z_avg_prev_10,Release position and variability,Release position and variability,0.913491938765787,0.9000640289638708,3807,True,True
+sl_release_z_avg,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9053331811810064,0.8991906219607847,5407,True,True
+cu_extension_avg_prev_5,extension_avg_prev_10,Extension,Extension,0.9101188992326388,0.8991493283973704,5345,True,True
+pitches_14d,innings_prev_14d,Workload and rest,Workload and rest,0.9193093655820151,0.8991107931692675,13200,True,True
+ch_extension_avg_prev_3,ff_extension_avg_prev_5,Extension,Extension,0.9054850899841183,0.8986622846346579,6820,True,True
+median_fb_velo,ff_avg_velocity_prev_10,Velocity,Velocity,0.9083906872245502,0.8985821785732724,10167,True,True
+ch_release_z_avg,si_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9094757481214264,0.8983904481151388,4705,True,True
+ch_release_z_avg,si_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9050899656717516,0.8982244886958781,4370,True,True
+ch_extension_avg_prev_3,si_extension_avg_prev_10,Extension,Extension,0.9048970659781694,0.8980608954833325,3901,True,True
+ff_extension_avg_prev_10,sl_extension_avg_prev_10,Extension,Extension,0.9094586405996408,0.8977988155359451,7017,True,True
+avg_fb_velo,ff_avg_velocity_prev_3,Velocity,Velocity,0.9123802244149098,0.8977145942504525,11632,True,True
+avg_fb_velo,ff_avg_velocity_prev_5,Velocity,Velocity,0.9124398379052385,0.8976970335188496,12058,True,True
+sv_usage_pct,sv_usage_pct_prev_5,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9128606818457252,0.897399445029191,13427,True,True
+avg_fb_velo,si_avg_velocity_prev_3,Velocity,Velocity,0.9133295100376041,0.896999958964868,7247,True,True
+sl_release_z_avg,ch_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9012233219736723,0.8961726918649447,4727,True,True
+ch_release_z_avg,ff_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9052096375162254,0.8959028585867445,5508,True,True
+avg_fb_velo,si_avg_velocity_prev_10,Velocity,Velocity,0.912827058495781,0.895546916460248,6462,True,True
+ch_extension_avg_prev_5,ff_extension_avg_prev_10,Extension,Extension,0.9031960956429161,0.8954441457863049,6411,True,True
+median_fb_velo,si_avg_velocity_prev_5,Velocity,Velocity,0.908963904993545,0.895418601329601,7939,True,True
+ch_release_z_avg,ff_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9026029924448818,0.8953981007534099,6624,True,True
+sl_extension_avg_prev_3,cu_extension_avg_prev_5,Extension,Extension,0.9069388024001525,0.8950730672088736,3349,True,True
+ff_avg_velocity,avg_fb_velo_prev_5,Velocity,Velocity,0.9108794120408716,0.8949132212314136,11543,True,True
+ff_avg_velocity,avg_fb_velo_prev_3,Velocity,Velocity,0.9099073090653472,0.8947135330360234,11533,True,True
+ch_release_z_avg,ff_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9041491173810402,0.8944234916473526,6436,True,True
+sl_release_z_avg,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9035207591342573,0.8943640867782496,4210,True,True
+si_release_z_avg,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9002833107098762,0.8936066889166004,4970,True,True
+avg_fb_velo,ff_avg_velocity_prev_10,Velocity,Velocity,0.9088478391208874,0.8932532663801616,10167,True,True
+ff_extension_avg_prev_3,ch_extension_avg_prev_5,Extension,Extension,0.9003089014283924,0.8928123910708998,7480,True,True
+ff_avg_velocity,si_avg_velocity_prev_10,Velocity,Velocity,0.904542308205371,0.8927556348807401,4983,True,True
+ff_avg_velocity,avg_fb_velo_prev_10,Velocity,Velocity,0.9092175045024279,0.8924583234653697,9893,True,True
+ff_release_z_avg,ch_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9068949755218698,0.8917913824756365,7399,True,True
+release_z_sd_prev_3,release_z_sd_baseline_mean,Release position and variability,Release position and variability,0.9182489235445926,0.8916221182230568,13403,True,True
+ff_release_z_avg,ch_release_z_avg_prev_3,Release position and variability,Release position and variability,0.9045986863120479,0.8915852043583429,6553,True,True
+si_release_z_avg,ch_release_z_avg_prev_3,Release position and variability,Release position and variability,0.902589411748659,0.8913364701189013,4434,True,True
+ff_extension_avg_prev_5,sl_extension_avg_prev_5,Extension,Extension,0.9040662148892217,0.8908687970724497,8566,True,True
+ff_avg_velocity,si_avg_velocity_prev_3,Velocity,Velocity,0.9015650808299113,0.8908449540035867,5600,True,True
+avg_fb_velo,si_avg_velocity_prev_5,Velocity,Velocity,0.9080958235401126,0.8907561739217634,7939,True,True
+release_x_sd_prev_3,release_x_sd_baseline_mean,Release position and variability,Release position and variability,0.9458616287538435,0.8907133763099353,13403,True,True
+sl_extension_avg_prev_5,si_extension_avg_prev_10,Extension,Extension,0.9032885777532044,0.8905475805091022,4604,True,True
+ff_release_z_avg,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9059589528069055,0.8902523597322595,5834,True,True
+ff_extension_avg_prev_5,sl_extension_avg_prev_10,Extension,Extension,0.9024791144008026,0.8893358220624468,7125,True,True
+si_extension_avg_prev_5,sl_extension_avg_prev_5,Extension,Extension,0.9016349569336269,0.8891833792120403,5684,True,True
+max_fb_velo,ff_avg_velocity_prev_5,Velocity,Velocity,0.9062807159438299,0.8886798710011982,12058,True,True
+si_avg_velocity,avg_fb_velo_prev_5,Velocity,Velocity,0.9094129445567998,0.8885953782366426,7201,True,True
+si_release_z_avg,ch_release_z_avg_prev_10,Release position and variability,Release position and variability,0.9028641041192643,0.88837405691674,4017,True,True
+si_avg_velocity,avg_fb_velo_prev_3,Velocity,Velocity,0.9087699363895202,0.8883657253310674,7190,True,True
+si_extension_avg_prev_5,sl_extension_avg_prev_10,Extension,Extension,0.9021307128917982,0.8881766761786629,4825,True,True
+cu_extension_avg_prev_5,sl_extension_avg_prev_10,Extension,Extension,0.9031185792278912,0.8880562456185399,2908,True,True
+si_extension_avg_prev_3,sl_extension_avg_prev_3,Extension,Extension,0.9001086134619747,0.887910503938493,4872,True,True
+ff_extension_avg_prev_3,sl_extension_avg_prev_3,Extension,Extension,0.9004616158833116,0.887589421556715,7829,True,True
+max_fb_velo,ff_avg_velocity_prev_3,Velocity,Velocity,0.9049222997724877,0.886779018935475,11632,True,True
+ch_release_z_avg,cu_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9077221376006459,0.886048956874096,3954,True,True
+si_avg_velocity,ff_avg_velocity_prev_5,Velocity,Velocity,0.9008924098190453,0.8855095752896246,6019,True,True
+ff_avg_velocity,avg_fb_velo_baseline_mean,Velocity,Velocity,0.9026089879419729,0.884897702936598,11527,True,True
+max_fb_velo,ff_avg_velocity_prev_10,Velocity,Velocity,0.9041422049277935,0.8848202341985781,10167,True,True
+si_avg_velocity,avg_fb_velo_prev_10,Velocity,Velocity,0.9063238197947442,0.8839118724349653,6294,True,True
+ff_release_z_avg,cu_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9008339478699576,0.8802347421240835,5689,True,True
+si_avg_velocity,avg_fb_velo_baseline_mean,Velocity,Velocity,0.9019010150716954,0.8801379537444906,7193,True,True
+pitches_14d,pitches_28d,Workload and rest,Workload and rest,0.9247087911547995,0.8796454456186166,13119,True,True
+innings_14d,innings_28d,Workload and rest,Workload and rest,0.9246459905425771,0.8795901869754337,13119,True,True
+si_release_z_avg,cu_release_z_avg_prev_5,Release position and variability,Release position and variability,0.9071619272889895,0.879550740990593,3468,True,True
+sv_usage_pct,sv_usage_pct_prev_10,Pitch mix and pitch-type counts,Pitch mix and pitch-type counts,0.9159977084642879,0.8793365104733492,11576,True,True
+total_pitches,outs_recorded,Workload and rest,Appearance performance,0.9538760604775093,0.8784026615238782,13427,False,True
+innings_pitched,pitch_count,Appearance performance,Workload and rest,0.9538760604775073,0.8784026615238782,13427,False,True
+outs_recorded,pitch_count,Appearance performance,Workload and rest,0.9538760604775093,0.8784026615238782,13427,False,True
+total_pitches,innings_pitched,Workload and rest,Appearance performance,0.9538760604775073,0.8784026615238782,13427,False,True
+velocity_measured_count,outs_recorded,Measurement coverage and history support,Appearance performance,0.9538462818408264,0.8783772192800826,13427,False,True
+velocity_measured_count,innings_pitched,Measurement coverage and history support,Appearance performance,0.9538462818408286,0.8783772192800826,13427,False,True
+pitches_7d,pitches_14d,Workload and rest,Workload and rest,0.9346246730856661,0.8732019045623692,13200,True,True
+innings_7d,innings_14d,Workload and rest,Workload and rest,0.9348119428021678,0.8731058757196573,13200,True,True
+pitches_14d,innings_28d,Workload and rest,Workload and rest,0.9119188546960875,0.858083394855445,13119,True,True
+innings_14d,pitches_28d,Workload and rest,Workload and rest,0.9052254081571137,0.8496309933721519,13119,True,True
+ff_horizontal_movement_avg,si_horizontal_movement_avg,Pitch movement,Pitch movement,0.9269516443872619,0.8448542734485326,5527,True,True
+pitches_7d,innings_14d,Workload and rest,Workload and rest,0.9121313864059593,0.834205573952177,13200,True,True
+fastball_count,innings_pitched,Pitch mix and pitch-type counts,Appearance performance,0.9002129123912668,0.8339315909479188,13427,False,True
+fastball_count,outs_recorded,Pitch mix and pitch-type counts,Appearance performance,0.9002129123912702,0.8339315909479188,13427,False,True
+innings_7d,pitches_14d,Workload and rest,Workload and rest,0.9053961052258682,0.8284361156272022,13200,True,True
+si_horizontal_movement_avg,ch_horizontal_movement_avg,Pitch movement,Pitch movement,0.9666039170771891,0.8170591563386191,4380,True,True
+throws_left,ch_release_x_avg_prev_5,Pitcher background and experience,Release position and variability,0.9292519546216476,0.7817713436392477,8439,False,True
+ch_horizontal_movement_avg,throws_left,Pitch movement,Pitcher background and experience,0.953854095025486,0.7810433191208389,7240,False,True
+ch_release_x_avg,throws_left,Release position and variability,Pitcher background and experience,0.9266552714474421,0.7809340366274435,7240,False,True
+throws_left,ch_release_x_avg_prev_10,Pitcher background and experience,Release position and variability,0.9313136231869642,0.7802682757176619,6653,False,True
+statcast_batters_faced,is_starter,Appearance performance,Role and recent starts,0.9173316236924485,0.7788955703597535,13427,False,True
+is_starter,batters_faced,Role and recent starts,Appearance performance,0.9169303251747049,0.7787136672646356,13427,False,True
+throws_left,si_release_x_avg_prev_10,Pitcher background and experience,Release position and variability,0.9285790217288826,0.7785111886269286,6484,False,True
+throws_left,ch_release_x_avg_prev_3,Pitcher background and experience,Release position and variability,0.9281630753457308,0.7785020819603677,7442,False,True
+throws_left,si_release_x_avg_prev_5,Pitcher background and experience,Release position and variability,0.9265053180138108,0.775855740445815,7971,False,True
+throws_left,si_release_x_avg_prev_3,Pitcher background and experience,Release position and variability,0.9257669969417973,0.7757666979909609,7272,False,True
+total_pitches,is_starter,Workload and rest,Role and recent starts,0.9161548825783622,0.7754779120851505,13427,False,True
+is_starter,pitch_count,Role and recent starts,Workload and rest,0.9161548825783621,0.7754779120851505,13427,False,True
+velocity_measured_count,is_starter,Measurement coverage and history support,Role and recent starts,0.916111276602993,0.7754764336180012,13427,False,True
+si_horizontal_movement_avg,throws_left,Pitch movement,Pitcher background and experience,0.9729097604051462,0.7727580593974284,7192,False,True
+si_release_x_avg,throws_left,Release position and variability,Pitcher background and experience,0.9223900379657797,0.7726305408360719,7192,False,True
+throws_left,release_x_avg_prev_10,Pitcher background and experience,Release position and variability,0.9206794063689987,0.7712253778752056,11570,False,True
+throws_left,release_x_avg_baseline_mean,Pitcher background and experience,Release position and variability,0.9211267945914757,0.7693951229352501,13411,False,True
+throws_left,release_x_avg_prev_5,Pitcher background and experience,Release position and variability,0.9186578828650276,0.7693528615929042,13418,False,True
+throws_left,release_x_avg_prev_3,Pitcher background and experience,Release position and variability,0.9180124747457544,0.7691885126133892,13414,False,True
+release_x_avg,throws_left,Release position and variability,Pitcher background and experience,0.9160222150278565,0.7691206337418056,13417,False,True
+throws_left,cu_release_x_avg_prev_5,Pitcher background and experience,Release position and variability,0.919071835911067,0.7682595408972666,6302,False,True
+ff_horizontal_movement_avg,ch_horizontal_movement_avg,Pitch movement,Pitch movement,0.9078733301213459,0.7671719472561294,6426,True,True
+throws_left,sl_release_x_avg_prev_10,Pitcher background and experience,Release position and variability,0.9241683347092617,0.7659040472343078,7883,False,True
+throws_left,sl_release_x_avg_prev_5,Pitcher background and experience,Release position and variability,0.922265611136228,0.7639067011777416,9417,False,True
+throws_left,sl_release_x_avg_prev_3,Pitcher background and experience,Release position and variability,0.9206716202296034,0.7624272467201733,8907,False,True
+sl_release_x_avg,throws_left,Release position and variability,Pitcher background and experience,0.918101288338373,0.7603428786311791,8706,False,True
+throws_left,ff_release_x_avg_prev_5,Pitcher background and experience,Release position and variability,0.9141722876578896,0.7587310595427845,12126,False,True
+throws_left,ff_release_x_avg_prev_10,Pitcher background and experience,Release position and variability,0.9167007045796522,0.7585854943844847,10226,False,True
+throws_left,ff_release_x_avg_prev_3,Pitcher background and experience,Release position and variability,0.9133890063940313,0.757433873048542,11696,False,True
+ff_release_x_avg,throws_left,Release position and variability,Pitcher background and experience,0.9110090262619824,0.7565942596783468,11544,False,True
+pitches_28d,starts_prev_30d,Workload and rest,Role and recent starts,0.9092639557904241,0.7513073212260554,13113,False,True
+innings_28d,starts_prev_30d,Workload and rest,Role and recent starts,0.9026810697784807,0.7461005368829647,13113,False,True
+si_horizontal_movement_avg,ch_release_x_avg_prev_5,Pitch movement,Release position and variability,0.9282819995027616,0.688660231142817,4970,False,True
+si_horizontal_movement_avg,ch_release_x_avg,Pitch movement,Release position and variability,0.9244088798851783,0.6863195606155806,4380,False,True
+si_horizontal_movement_avg,ch_release_x_avg_prev_3,Pitch movement,Release position and variability,0.9277255830383779,0.6851575187635393,4434,False,True
+si_horizontal_movement_avg,ch_release_x_avg_prev_10,Pitch movement,Release position and variability,0.9305274232258984,0.6814451597962916,4017,False,True
+ch_horizontal_movement_avg,ch_release_x_avg,Pitch movement,Release position and variability,0.9044842027646491,0.6796391477213661,7244,False,True
+ch_horizontal_movement_avg,ch_release_x_avg_prev_10,Pitch movement,Release position and variability,0.9108254918628123,0.6786523174136476,5544,False,True
+ch_horizontal_movement_avg,ch_release_x_avg_prev_5,Pitch movement,Release position and variability,0.9064901552917126,0.6779147888551214,6822,False,True
+si_horizontal_movement_avg,cu_release_x_avg_prev_5,Pitch movement,Release position and variability,0.9202689653411391,0.6771791575033497,3468,False,True
+ch_horizontal_movement_avg,release_x_avg_prev_10,Pitch movement,Release position and variability,0.9045997560587427,0.6767508576069771,6133,False,True
+release_x_avg,ch_horizontal_movement_avg,Release position and variability,Pitch movement,0.9001807097791656,0.6763389288246551,7244,False,True
+si_horizontal_movement_avg,si_release_x_avg_prev_10,Pitch movement,Release position and variability,0.919458582833448,0.6748742682300781,5808,False,True
+ch_horizontal_movement_avg,release_x_avg_prev_3,Pitch movement,Release position and variability,0.9006885585280691,0.6742939162166947,7243,False,True
+si_horizontal_movement_avg,release_x_avg_prev_10,Pitch movement,Release position and variability,0.91785408943565,0.6740802085788433,6294,False,True
+ch_horizontal_movement_avg,ch_release_x_avg_prev_3,Pitch movement,Release position and variability,0.905880550468292,0.673917491764406,6347,False,True
+ch_horizontal_movement_avg,release_x_avg_prev_5,Pitch movement,Release position and variability,0.9009064582990938,0.6737968255443142,7244,False,True
+ch_horizontal_movement_avg,release_x_avg_baseline_mean,Pitch movement,Release position and variability,0.9026324429506811,0.6728532996266691,7239,False,True
+si_horizontal_movement_avg,si_release_x_avg_prev_3,Pitch movement,Release position and variability,0.9163725434833535,0.6717179923286006,6550,False,True
+si_horizontal_movement_avg,si_release_x_avg_prev_5,Pitch movement,Release position and variability,0.9171238341401091,0.6716062848375165,6840,False,True
+si_horizontal_movement_avg,sl_release_x_avg_prev_10,Pitch movement,Release position and variability,0.9176590395189754,0.6712263852566166,4362,False,True
+si_horizontal_movement_avg,release_x_avg_prev_5,Pitch movement,Release position and variability,0.9165963244078853,0.6702800440237862,7201,False,True
+si_horizontal_movement_avg,sl_release_x_avg_prev_5,Pitch movement,Release position and variability,0.9175749161261334,0.6698658657590424,5116,False,True
+si_horizontal_movement_avg,release_x_avg_prev_3,Pitch movement,Release position and variability,0.9160491498136094,0.6693296680219448,7199,False,True
+si_horizontal_movement_avg,release_x_avg_baseline_mean,Pitch movement,Release position and variability,0.918690265699917,0.6685375391937466,7197,False,True
+si_horizontal_movement_avg,si_release_x_avg,Pitch movement,Release position and variability,0.914437241085677,0.6678365014293055,7201,False,True
+release_x_avg,si_horizontal_movement_avg,Release position and variability,Pitch movement,0.9149558724350715,0.6678077165873549,7201,False,True
+si_horizontal_movement_avg,sl_release_x_avg_prev_3,Pitch movement,Release position and variability,0.915219045110069,0.6657735841896524,4830,False,True
+ch_horizontal_movement_avg,si_release_x_avg_prev_10,Pitch movement,Release position and variability,0.9086343509148211,0.6620176003768363,3807,False,True
+si_horizontal_movement_avg,sl_release_x_avg,Pitch movement,Release position and variability,0.9142724958504217,0.6606850747850659,4757,False,True
+si_release_x_avg,ch_horizontal_movement_avg,Release position and variability,Pitch movement,0.9004411540160285,0.6572381108348675,4380,False,True
+ch_horizontal_movement_avg,si_release_x_avg_prev_3,Pitch movement,Release position and variability,0.9029325719268293,0.6566788122630413,4370,False,True
+ch_horizontal_movement_avg,si_release_x_avg_prev_5,Pitch movement,Release position and variability,0.9033035746089789,0.6566626463550395,4705,False,True
+ch_horizontal_movement_avg,sl_release_x_avg_prev_5,Pitch movement,Release position and variability,0.9007029041820629,0.6519584989829965,4928,False,True
+ch_horizontal_movement_avg,sl_release_x_avg_prev_10,Pitch movement,Release position and variability,0.9012771321969454,0.6513516678120157,4030,False,True
+si_horizontal_movement_avg,ff_release_x_avg_prev_10,Pitch movement,Release position and variability,0.9128575872226824,0.6460385404285496,5072,False,True
+si_horizontal_movement_avg,ff_release_x_avg_prev_5,Pitch movement,Release position and variability,0.909517570397571,0.6437615704556942,6019,False,True
+si_horizontal_movement_avg,ff_release_x_avg_prev_3,Pitch movement,Release position and variability,0.909814557328953,0.6402833626650556,5634,False,True
+ff_release_x_avg,si_horizontal_movement_avg,Release position and variability,Pitch movement,0.9064481139863347,0.6353233350069841,5527,False,True
+season_pitch_count,season_starts,Workload and rest,Role and recent starts,0.9017148338693136,0.6320888682383132,12986,False,True
+season_innings,season_starts,Workload and rest,Role and recent starts,0.9014316100544448,0.6299710539334425,12986,False,True

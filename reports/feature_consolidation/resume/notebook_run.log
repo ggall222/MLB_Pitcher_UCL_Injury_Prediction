@@ -1,0 +1,8 @@
+Installed kernelspec mlb-ucl-analysis in /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/.venv/share/jupyter/kernels/mlb-ucl-analysis
+EXECUTING 01_inventory_and_redundancy.ipynb
+{"name": "01_inventory_and_redundancy.ipynb", "success": true, "seconds": 1.01, "code_cells": 4, "executed_cells": 4, "errors": 0, "sha256": "b8a2aa45a54c5dd483bbf40d02d18a98cce908bd812271f2eb8411c0725063c5"}
+EXECUTING 02_predictive_value_and_stability.ipynb
+{"name": "02_predictive_value_and_stability.ipynb", "success": true, "seconds": 1.15, "code_cells": 4, "executed_cells": 4, "errors": 0, "sha256": "b72c145f9478ca87a2fdc0df9006dcab931a064ea4fd8e21982ef7fae2735a67"}
+EXECUTING 03_candidate_set_and_freeze.ipynb
+{"name": "03_candidate_set_and_freeze.ipynb", "success": true, "seconds": 0.95, "code_cells": 5, "executed_cells": 5, "errors": 0, "sha256": "06ed913f52d3fd4d635d3d04e6d60b0540a1fda4844e05e25191127cb5873bcd"}
+Executed 3 notebooks; sources unchanged. Manifest: /Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/reports/feature_consolidation/notebook_execution.json

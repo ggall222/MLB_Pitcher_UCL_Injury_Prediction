@@ -1,0 +1,28 @@
+feature,basis
+velo_z,predeclared existing baseball/trajectory measure
+fb_velo_change_vs_prev_5,predeclared existing baseball/trajectory measure
+fb_velo_sd_change_vs_prev_5,predeclared existing baseball/trajectory measure
+release_x_z,predeclared existing baseball/trajectory measure
+release_z_z,predeclared existing baseball/trajectory measure
+release_x_sd_z,predeclared existing baseball/trajectory measure
+release_z_sd_z,predeclared existing baseball/trajectory measure
+extension_z,predeclared existing baseball/trajectory measure
+arm_angle_z,predeclared existing baseball/trajectory measure
+spin_z,predeclared existing baseball/trajectory measure
+horizontal_movement_avg_change_vs_prev_5,predeclared existing baseball/trajectory measure
+vertical_movement_avg_change_vs_prev_5,predeclared existing baseball/trajectory measure
+zone_pct_z,predeclared existing baseball/trajectory measure
+location_variability_change_vs_prev_5,predeclared existing baseball/trajectory measure
+fastball_usage_pct_change_vs_prev_5,predeclared existing baseball/trajectory measure
+rest_days,predeclared existing baseball/trajectory measure
+pitches_prev_28d,predeclared existing baseball/trajectory measure
+workload_acceleration_7d_vs_21d,predeclared existing baseball/trajectory measure
+acute_chronic_pitch_ratio,predeclared existing baseball/trajectory measure
+avg_fb_velo_baseline_mean,exploratory addition from validation variable inspection: Elbow / UCL
+fb_velo_sd,exploratory addition from validation variable inspection: Elbow / UCL
+extension_avg,exploratory addition from validation variable inspection: Forearm
+innings_pitched,exploratory addition from validation variable inspection: Forearm
+sl_usage_pct,exploratory addition from validation variable inspection: Lower body
+appearances_prev_14d,exploratory addition from validation variable inspection: Lower body
+season_pitch_count,exploratory addition from validation variable inspection: Shoulder
+starter_share_prev_5,exploratory addition from validation variable inspection: Shoulder

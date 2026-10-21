@@ -1,0 +1,13 @@
+{
+  "tests_passed": 100,
+  "test_command": ".venv/bin/python -m pytest -q",
+  "notebooks_executed": 8,
+  "reproducible_tables": {
+    "prediction_metrics": true,
+    "matched_controls": true,
+    "feature_family_ablation": true,
+    "recurrence_summary": true,
+    "severity_counts": true
+  },
+  "database_unchanged": true
+}

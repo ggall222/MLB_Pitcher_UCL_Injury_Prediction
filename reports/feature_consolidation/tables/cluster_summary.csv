@@ -1,0 +1,190 @@
+feature_group,correlation_cluster,features,representatives,members
+Appearance performance,Appearance performance__001,3,1,hbp_count;hbp_rate;hit_batters
+Appearance performance,Appearance performance__002,4,1,statcast_batters_faced;outs_recorded;innings_pitched;batters_faced
+Appearance performance,Appearance performance__003,1,1,strikeouts
+Appearance performance,Appearance performance__004,1,1,walk_rate
+Appearance performance,Appearance performance__005,1,1,walks
+Appearance performance,Appearance performance__006,1,1,strikeout_rate
+Extension,Extension__001,1,1,extension_z
+Extension,Extension__002,1,1,extension_change_vs_prev_5
+Extension,Extension__003,1,1,extension_slope_prev_5
+Extension,Extension__004,4,2,ch_extension_avg;ch_extension_avg_prev_3;ch_extension_avg_prev_5;ch_extension_avg_prev_10
+Extension,Extension__005,13,2,extension_avg;ff_extension_avg;si_extension_avg;extension_avg_prev_3;ff_extension_avg_prev_3;si_extension_avg_prev_3;extension_avg_prev_5;ff_extension_avg_prev_5;si_extension_avg_prev_5;extension_avg_prev_10;ff_extension_avg_prev_10;si_extension_avg_prev_10;extension_avg_baseline_mean
+Extension,Extension__006,4,2,sl_extension_avg;sl_extension_avg_prev_3;sl_extension_avg_prev_5;sl_extension_avg_prev_10
+Extension,Extension__007,1,1,cu_extension_avg_prev_5
+Extension,Extension__008,1,1,extension_sd
+Extension,Extension__009,1,1,extension_avg_baseline_sd
+Location and strike fractions,Location and strike fractions__001,1,1,zone_pct_baseline_sd
+Location and strike fractions,Location and strike fractions__002,1,1,zone_pct_slope_prev_5
+Location and strike fractions,Location and strike fractions__003,1,1,sl_strike_pct
+Location and strike fractions,Location and strike fractions__004,1,1,sl_zone_pct
+Location and strike fractions,Location and strike fractions__005,1,1,location_variability_change_vs_prev_5
+Location and strike fractions,Location and strike fractions__006,1,1,location_variability
+Location and strike fractions,Location and strike fractions__007,1,1,plate_z_sd
+Location and strike fractions,Location and strike fractions__008,1,1,zone_pct_z
+Location and strike fractions,Location and strike fractions__009,1,1,zone_pct_change_vs_prev_5
+Location and strike fractions,Location and strike fractions__010,1,1,zone_pct
+Location and strike fractions,Location and strike fractions__011,1,1,plate_x_sd
+Location and strike fractions,Location and strike fractions__012,1,1,ff_zone_pct
+Location and strike fractions,Location and strike fractions__013,1,1,ff_strike_pct
+Location and strike fractions,Location and strike fractions__014,1,1,first_pitch_strike_pct_change_vs_prev_5
+Location and strike fractions,Location and strike fractions__015,1,1,first_pitch_strike_pct
+Location and strike fractions,Location and strike fractions__016,1,1,strike_pct
+Location and strike fractions,Location and strike fractions__017,1,1,strike_pct_change_vs_prev_5
+Location and strike fractions,Location and strike fractions__018,1,1,si_strike_pct
+Location and strike fractions,Location and strike fractions__019,1,1,si_zone_pct
+Location and strike fractions,Location and strike fractions__020,1,1,first_pitch_strike_pct_prev_3
+Location and strike fractions,Location and strike fractions__021,1,1,first_pitch_strike_pct_prev_5
+Location and strike fractions,Location and strike fractions__022,1,1,first_pitch_strike_pct_prev_10
+Location and strike fractions,Location and strike fractions__023,1,1,strike_pct_prev_5
+Location and strike fractions,Location and strike fractions__024,1,1,strike_pct_prev_3
+Location and strike fractions,Location and strike fractions__025,1,1,strike_pct_prev_10
+Location and strike fractions,Location and strike fractions__026,1,1,zone_pct_baseline_mean
+Location and strike fractions,Location and strike fractions__027,1,1,zone_pct_prev_10
+Location and strike fractions,Location and strike fractions__028,1,1,zone_pct_prev_5
+Location and strike fractions,Location and strike fractions__029,1,1,zone_pct_prev_3
+Location and strike fractions,Location and strike fractions__030,1,1,location_variability_prev_3
+Location and strike fractions,Location and strike fractions__031,1,1,location_variability_prev_5
+Location and strike fractions,Location and strike fractions__032,1,1,location_variability_prev_10
+Location and strike fractions,Location and strike fractions__033,1,1,ch_strike_pct
+Location and strike fractions,Location and strike fractions__034,1,1,ch_zone_pct
+Measurement coverage and history support,Measurement coverage and history support__001,8,1,avg_fb_velo_baseline_count;release_x_avg_baseline_count;release_z_avg_baseline_count;release_x_sd_baseline_count;release_z_sd_baseline_count;extension_avg_baseline_count;spin_avg_baseline_count;zone_pct_baseline_count
+Measurement coverage and history support,Measurement coverage and history support__002,2,1,workload_history_appearances;prior_appearance_count
+Measurement coverage and history support,Measurement coverage and history support__003,1,1,history_count_prev_10
+Measurement coverage and history support,Measurement coverage and history support__004,2,1,velocity_coverage;flagged_pitch_count
+Measurement coverage and history support,Measurement coverage and history support__005,1,1,velocity_measured_count
+Measurement coverage and history support,Measurement coverage and history support__006,3,1,arm_angle_measured_count;arm_angle_coverage;arm_angle_avg_baseline_count
+Measurement coverage and history support,Measurement coverage and history support__007,1,1,workload_14d_complete
+Measurement coverage and history support,Measurement coverage and history support__008,1,1,workload_7d_complete
+Measurement coverage and history support,Measurement coverage and history support__009,1,1,workload_28d_complete
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__001,1,1,sl_pitch_count
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__002,1,1,sl_usage_pct
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__003,3,1,sl_usage_pct_prev_3;sl_usage_pct_prev_5;sl_usage_pct_prev_10
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__004,2,1,fastball_usage_pct_prev_3;fastball_usage_pct_prev_5
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__005,1,1,fastball_usage_pct_prev_10
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__006,3,1,fc_usage_pct_prev_3;fc_usage_pct_prev_5;fc_usage_pct_prev_10
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__007,2,1,fc_pitch_count;fc_usage_pct
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__008,1,1,fastball_usage_pct
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__009,1,1,fastball_usage_pct_change_vs_prev_5
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__010,1,1,ff_usage_pct_change_vs_prev_5
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__011,1,1,sl_usage_pct_change_vs_prev_5
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__012,1,1,si_usage_pct_change_vs_prev_5
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__013,1,1,cu_usage_pct_change_vs_prev_5
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__014,1,1,ch_usage_pct_change_vs_prev_5
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__015,1,1,fc_usage_pct_change_vs_prev_5
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__016,2,1,ch_pitch_count;ch_usage_pct
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__017,3,1,ch_usage_pct_prev_3;ch_usage_pct_prev_5;ch_usage_pct_prev_10
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__018,3,1,fs_usage_pct_prev_3;fs_usage_pct_prev_5;fs_usage_pct_prev_10
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__019,2,1,fs_pitch_count;fs_usage_pct
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__020,1,1,fs_usage_pct_change_vs_prev_5
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__021,1,1,ff_pitch_count
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__022,1,1,fastball_count
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__023,2,1,cu_pitch_count;cu_usage_pct
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__024,3,1,cu_usage_pct_prev_3;cu_usage_pct_prev_5;cu_usage_pct_prev_10
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__025,5,2,kc_pitch_count;kc_usage_pct;kc_usage_pct_prev_3;kc_usage_pct_prev_5;kc_usage_pct_prev_10
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__026,3,1,sv_usage_pct_prev_3;sv_usage_pct_prev_5;sv_usage_pct_prev_10
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__027,2,1,sv_pitch_count;sv_usage_pct
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__028,1,1,kc_usage_pct_change_vs_prev_5
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__029,3,1,st_usage_pct_prev_3;st_usage_pct_prev_5;st_usage_pct_prev_10
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__030,2,1,st_pitch_count;st_usage_pct
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__031,1,1,st_usage_pct_change_vs_prev_5
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__032,3,1,ff_usage_pct_prev_3;ff_usage_pct_prev_5;ff_usage_pct_prev_10
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__033,1,1,ff_usage_pct
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__034,3,1,si_usage_pct_prev_3;si_usage_pct_prev_5;si_usage_pct_prev_10
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__035,2,1,si_pitch_count;si_usage_pct
+Pitch mix and pitch-type counts,Pitch mix and pitch-type counts__036,1,1,sv_usage_pct_change_vs_prev_5
+Pitch movement,Pitch movement__001,2,1,sl_vertical_movement_avg;sl_ivb_inches
+Pitch movement,Pitch movement__002,3,1,vertical_movement_avg_prev_3;vertical_movement_avg_prev_5;vertical_movement_avg_prev_10
+Pitch movement,Pitch movement__003,2,1,ivb_inches;vertical_movement_avg
+Pitch movement,Pitch movement__004,2,1,ff_vertical_movement_avg;ff_ivb_inches
+Pitch movement,Pitch movement__005,1,1,si_vertical_movement_avg
+Pitch movement,Pitch movement__006,1,1,ch_vertical_movement_avg
+Pitch movement,Pitch movement__007,1,1,vertical_movement_avg_change_vs_prev_5
+Pitch movement,Pitch movement__008,1,1,horizontal_movement_avg_change_vs_prev_5
+Pitch movement,Pitch movement__009,1,1,sl_horizontal_movement_avg
+Pitch movement,Pitch movement__010,1,1,si_horizontal_movement_avg
+Pitch movement,Pitch movement__011,1,1,ff_horizontal_movement_avg
+Pitch movement,Pitch movement__012,1,1,ch_horizontal_movement_avg
+Pitch movement,Pitch movement__013,3,1,horizontal_movement_avg_prev_3;horizontal_movement_avg_prev_5;horizontal_movement_avg_prev_10
+Pitch movement,Pitch movement__014,1,1,horizontal_movement_avg
+Pitcher background and experience,Pitcher background and experience__001,1,1,age_at_appearance
+Pitcher background and experience,Pitcher background and experience__002,1,1,days_since_mlb_debut
+Pitcher background and experience,Pitcher background and experience__003,1,1,observed_prior_mlb_appearances
+Pitcher background and experience,Pitcher background and experience__004,1,1,prior_reported_il_count
+Pitcher background and experience,Pitcher background and experience__005,1,1,observed_prior_mlb_starts
+Pitcher background and experience,Pitcher background and experience__006,1,1,calendar_month
+Pitcher background and experience,Pitcher background and experience__007,1,1,throws_left
+Release position and variability,Release position and variability__001,22,2,release_x_avg;ff_release_x_avg;si_release_x_avg;sl_release_x_avg;ch_release_x_avg;release_x_avg_prev_3;ff_release_x_avg_prev_3;si_release_x_avg_prev_3;sl_release_x_avg_prev_3;ch_release_x_avg_prev_3;release_x_avg_prev_5;ff_release_x_avg_prev_5;si_release_x_avg_prev_5;sl_release_x_avg_prev_5;cu_release_x_avg_prev_5;ch_release_x_avg_prev_5;release_x_avg_prev_10;ff_release_x_avg_prev_10;si_release_x_avg_prev_10;sl_release_x_avg_prev_10;ch_release_x_avg_prev_10;release_x_avg_baseline_mean
+Release position and variability,Release position and variability__002,4,2,ch_release_z_avg;ch_release_z_avg_prev_3;ch_release_z_avg_prev_5;ch_release_z_avg_prev_10
+Release position and variability,Release position and variability__003,17,2,release_z_avg;ff_release_z_avg;si_release_z_avg;sl_release_z_avg;release_z_avg_prev_3;ff_release_z_avg_prev_3;si_release_z_avg_prev_3;sl_release_z_avg_prev_3;release_z_avg_prev_5;ff_release_z_avg_prev_5;si_release_z_avg_prev_5;sl_release_z_avg_prev_5;release_z_avg_prev_10;ff_release_z_avg_prev_10;si_release_z_avg_prev_10;sl_release_z_avg_prev_10;release_z_avg_baseline_mean
+Release position and variability,Release position and variability__004,1,1,cu_release_z_avg_prev_5
+Release position and variability,Release position and variability__005,1,1,release_x_change_vs_prev_5
+Release position and variability,Release position and variability__006,1,1,release_x_z
+Release position and variability,Release position and variability__007,1,1,release_x_slope_prev_5
+Release position and variability,Release position and variability__008,1,1,release_z_z
+Release position and variability,Release position and variability__009,1,1,release_z_change_vs_prev_5
+Release position and variability,Release position and variability__010,1,1,release_z_slope_prev_5
+Release position and variability,Release position and variability__011,1,1,release_x_sd_slope_prev_5
+Release position and variability,Release position and variability__012,1,1,release_z_sd_slope_prev_5
+Release position and variability,Release position and variability__013,1,1,release_z_sd_z
+Release position and variability,Release position and variability__014,1,1,release_z_sd_change_vs_prev_5
+Release position and variability,Release position and variability__015,1,1,release_x_sd_change_vs_prev_5
+Release position and variability,Release position and variability__016,1,1,release_x_sd_z
+Release position and variability,Release position and variability__017,2,1,release_z_sd_prev_10;release_z_sd_baseline_mean
+Release position and variability,Release position and variability__018,2,1,release_z_sd_prev_3;release_z_sd_prev_5
+Release position and variability,Release position and variability__019,1,1,release_z_sd
+Release position and variability,Release position and variability__020,2,1,release_x_sd_prev_3;release_x_sd_prev_5
+Release position and variability,Release position and variability__021,2,1,release_x_sd_prev_10;release_x_sd_baseline_mean
+Release position and variability,Release position and variability__022,1,1,release_x_sd
+Release position and variability,Release position and variability__023,1,1,release_x_sd_baseline_sd
+Release position and variability,Release position and variability__024,1,1,release_z_sd_baseline_sd
+Release position and variability,Release position and variability__025,1,1,release_z_avg_baseline_sd
+Release position and variability,Release position and variability__026,1,1,release_x_avg_baseline_sd
+Role and recent starts,Role and recent starts__001,2,1,starts_prev_30d;season_starts
+Role and recent starts,Role and recent starts__002,2,1,starter_share_prev_5;starter_role_prev_5
+Role and recent starts,Role and recent starts__003,1,1,is_starter
+Spin,Spin__001,1,1,spin_z
+Spin,Spin__002,1,1,spin_change_vs_prev_5
+Spin,Spin__003,1,1,spin_slope_prev_5
+Spin,Spin__004,3,1,sl_spin_avg_prev_3;sl_spin_avg_prev_5;sl_spin_avg_prev_10
+Spin,Spin__005,1,1,sl_spin_avg
+Spin,Spin__006,1,1,cu_spin_avg_prev_5
+Spin,Spin__007,4,1,spin_avg_prev_3;spin_avg_prev_5;spin_avg_prev_10;spin_avg_baseline_mean
+Spin,Spin__008,1,1,spin_avg
+Spin,Spin__009,3,1,ff_spin_avg_prev_3;ff_spin_avg_prev_5;ff_spin_avg_prev_10
+Spin,Spin__010,1,1,ff_spin_avg
+Spin,Spin__011,3,1,si_spin_avg_prev_3;si_spin_avg_prev_5;si_spin_avg_prev_10
+Spin,Spin__012,1,1,si_spin_avg
+Spin,Spin__013,3,1,ch_spin_avg_prev_3;ch_spin_avg_prev_5;ch_spin_avg_prev_10
+Spin,Spin__014,1,1,ch_spin_avg
+Spin,Spin__015,1,1,spin_avg_baseline_sd
+Velocity,Velocity__001,2,1,fb_velo_change_vs_prev_5;fb_velo_change_vs_prev_3
+Velocity,Velocity__002,1,1,velo_z
+Velocity,Velocity__003,1,1,fb_velo_sd_change_vs_prev_5
+Velocity,Velocity__004,1,1,fb_velo_slope_prev_5
+Velocity,Velocity__005,3,1,fb_velo_sd_prev_3;fb_velo_sd_prev_5;fb_velo_sd_prev_10
+Velocity,Velocity__006,1,1,fb_velo_sd
+Velocity,Velocity__007,1,1,avg_fb_velo_baseline_sd
+Velocity,Velocity__008,4,2,ch_avg_velocity;ch_avg_velocity_prev_3;ch_avg_velocity_prev_5;ch_avg_velocity_prev_10
+Velocity,Velocity__009,10,1,avg_fb_velo_prev_3;ff_avg_velocity_prev_3;si_avg_velocity_prev_3;avg_fb_velo_prev_5;ff_avg_velocity_prev_5;si_avg_velocity_prev_5;avg_fb_velo_prev_10;ff_avg_velocity_prev_10;si_avg_velocity_prev_10;avg_fb_velo_baseline_mean
+Velocity,Velocity__010,6,1,max_velocity;avg_fb_velo;max_fb_velo;median_fb_velo;ff_avg_velocity;si_avg_velocity
+Velocity,Velocity__011,2,1,avg_velocity;effective_speed_avg
+Velocity,Velocity__012,4,2,sl_avg_velocity;sl_avg_velocity_prev_3;sl_avg_velocity_prev_5;sl_avg_velocity_prev_10
+Velocity,Velocity__013,1,1,cu_avg_velocity_prev_5
+Workload and rest,Workload and rest__001,2,1,appearances_prev_28d;appearances_28d
+Workload and rest,Workload and rest__002,2,1,appearances_prev_14d;appearances_14d
+Workload and rest,Workload and rest__003,2,1,appearances_prev_7d;appearances_7d
+Workload and rest,Workload and rest__004,1,1,rest_days
+Workload and rest,Workload and rest__005,2,1,total_pitches;pitch_count
+Workload and rest,Workload and rest__006,1,1,workload_acceleration_7d_vs_21d
+Workload and rest,Workload and rest__007,1,1,acute_chronic_pitch_ratio
+Workload and rest,Workload and rest__008,2,1,season_pitch_count;season_innings
+Workload and rest,Workload and rest__009,1,1,season_appearances
+Workload and rest,Workload and rest__010,1,1,current_vs_previous_season_workload
+Workload and rest,Workload and rest__011,2,1,pitches_prev_7d;innings_prev_7d
+Workload and rest,Workload and rest__012,2,1,pitches_7d;innings_7d
+Workload and rest,Workload and rest__013,2,1,pitches_prev_14d;innings_prev_14d
+Workload and rest,Workload and rest__014,2,1,pitches_14d;innings_14d
+Workload and rest,Workload and rest__015,4,1,pitches_prev_28d;pitches_28d;innings_prev_28d;innings_28d
+Workload and rest,Workload and rest__016,1,1,previous_season_innings
+Workload and rest,Workload and rest__017,1,1,high_velocity_pitch_count

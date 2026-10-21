@@ -1,0 +1,43 @@
+{
+  "source_signature": {
+    "database": "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project/database/mlb_ucl.duckdb",
+    "database_bytes": 17895796736,
+    "database_mtime_ns": 1789002299179560729,
+    "events_sha256": "18d9ae297bd70d0b78178ae45fe731a26f6a459ec9ab65d68d17783c8862f468",
+    "config_sha256": "096e17f7445f34bf50938f06be973540577a4b9193bfd450c7acf0c8cd3d00b6",
+    "feature_config_sha256": "5b60e14a805a5e75c4159666edb41764741fe9fa7ac1eb5dce1cf8bc7c871672"
+  },
+  "config": {
+    "seed": 20260919,
+    "output_path": "reports/injury_dimensionality_reduction",
+    "cache_path": "data/injury/analysis/dimensionality_reduction",
+    "horizon_days": 30,
+    "fixed_components": [
+      5,
+      10,
+      20
+    ],
+    "variance_fraction": 0.9,
+    "logistic_tolerance": 1e-09,
+    "plotted_components": 3,
+    "pitcher_bootstrap_refits": 12,
+    "balanced_training_outings_per_pitcher": 20,
+    "focus_categories": [
+      "Elbow / UCL",
+      "Shoulder",
+      "Forearm",
+      "Lower body"
+    ]
+  },
+  "config_sha256": "9ff0d156e047b5c3a02c7a781c4b508dcf88dd490690e61ecbafd59037ee1358",
+  "original_cohort_manifest_sha256": "35cf22761f8ec21dc8e662522e78b4f650bef898fbf90ad607337b852ee20b70",
+  "matching_sha256": "90974f2809f5cfa5b719b62b95b57456aa143cb41273a7096fdabe2ba1f01261",
+  "code_sha256": {
+    "src/injury_analysis/reduction.py": "8175917cbca6272f1a2fb879f8f97252ac0b13804c0f59126b3c12f4f6a2ba7b",
+    "src/injury_analysis/reduction_prediction.py": "c6c398fc8eec61d7f5a59f4b787345c5692e5c52b3a4e6a2f5777790f157ee15",
+    "src/injury_analysis/reduction_trajectories.py": "81a8187c33ac536c6ca185eeeb2e52a4f9449caa2c073187cb5c986050b59374",
+    "src/injury_analysis/reduction_plots.py": "f3682bc0088e7bb6aca45d83b6c239de7578aef6fe536a283924459336151d1b",
+    "src/injury_analysis/reduction_report.py": "dbc930e6737d77351b4df2142594812df03f95ed4a08db4672f5673a6b9e80ca"
+  },
+  "interpretation": "Exploratory reuse of previously examined temporal partitions; not a fresh confirmatory test."
+}

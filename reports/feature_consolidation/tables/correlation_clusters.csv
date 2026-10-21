@@ -1,0 +1,354 @@
+feature,feature_group,underlying_concept,representation,signal_interpretation,correlation_cluster,representative,representative_feature,training_missing_fraction
+statcast_batters_faced,Appearance performance,statcast_batters_faced,current level,Current state,Appearance performance__002,False,batters_faced,0.0
+hbp_count,Appearance performance,hbp_count,count,Current state,Appearance performance__001,False,hbp_rate,0.0
+hbp_rate,Appearance performance,hbp_rate,current level,Current state,Appearance performance__001,True,hbp_rate,0.0
+outs_recorded,Appearance performance,outs_recorded,current level,Current state,Appearance performance__002,False,batters_faced,0.0
+innings_pitched,Appearance performance,innings_pitched,current level,Current state,Appearance performance__002,False,batters_faced,0.0
+batters_faced,Appearance performance,batters_faced,current level,Current state,Appearance performance__002,True,batters_faced,0.0
+walks,Appearance performance,walks,current level,Current state,Appearance performance__005,True,walks,0.0
+strikeouts,Appearance performance,strikeouts,current level,Current state,Appearance performance__003,True,strikeouts,0.0
+hit_batters,Appearance performance,hit_batters,current level,Current state,Appearance performance__001,False,hbp_rate,0.0
+walk_rate,Appearance performance,walk_rate,current level,Current state,Appearance performance__004,True,walk_rate,0.0003080904553576
+strikeout_rate,Appearance performance,strikeout_rate,current level,Current state,Appearance performance__006,True,strikeout_rate,0.0003080904553576
+extension_avg,Extension,extension_avg,current level,Current state,Extension__005,True,extension_avg,0.0015404522767884
+extension_sd,Extension,extension_sd,current level,Current state,Extension__008,True,extension_sd,0.0067410191632263
+ff_extension_avg,Extension,ff_extension_avg,current level,Current state,Extension__005,False,extension_avg,0.16644278760244
+si_extension_avg,Extension,si_extension_avg,current level,Current state,Extension__005,False,extension_avg,0.4518947563004498
+sl_extension_avg,Extension,sl_extension_avg,current level,Current state,Extension__006,True,sl_extension_avg,0.3787417585803191
+ch_extension_avg,Extension,ch_extension_avg,current level,Current state,Extension__004,True,ch_extension_avg,0.5130322262616304
+extension_avg_prev_3,Extension,extension_avg,rolling historical level,Profile/history,Extension__005,False,extension_avg_baseline_mean,0.0008133588021443
+ff_extension_avg_prev_3,Extension,ff_extension_avg,rolling historical level,Profile/history,Extension__005,False,extension_avg_baseline_mean,0.1527019532934869
+si_extension_avg_prev_3,Extension,si_extension_avg,rolling historical level,Profile/history,Extension__005,False,extension_avg_baseline_mean,0.4457575944297245
+sl_extension_avg_prev_3,Extension,sl_extension_avg,rolling historical level,Profile/history,Extension__006,False,sl_extension_avg_prev_5,0.358950027728141
+ch_extension_avg_prev_3,Extension,ch_extension_avg,rolling historical level,Profile/history,Extension__004,False,ch_extension_avg_prev_5,0.5038511306919712
+extension_avg_prev_5,Extension,extension_avg,rolling historical level,Profile/history,Extension__005,False,extension_avg_baseline_mean,0.0
+ff_extension_avg_prev_5,Extension,ff_extension_avg,rolling historical level,Profile/history,Extension__005,False,extension_avg_baseline_mean,0.1172715509273522
+si_extension_avg_prev_5,Extension,si_extension_avg,rolling historical level,Profile/history,Extension__005,False,extension_avg_baseline_mean,0.3932096863639164
+sl_extension_avg_prev_5,Extension,sl_extension_avg,rolling historical level,Profile/history,Extension__006,True,sl_extension_avg_prev_5,0.3190831228048555
+cu_extension_avg_prev_5,Extension,cu_extension_avg,rolling historical level,Profile/history,Extension__007,True,cu_extension_avg_prev_5,0.592112884342843
+ch_extension_avg_prev_5,Extension,ch_extension_avg,rolling historical level,Profile/history,Extension__004,True,ch_extension_avg_prev_5,0.4285291761661223
+extension_avg_prev_10,Extension,extension_avg,rolling historical level,Profile/history,Extension__005,False,extension_avg_baseline_mean,0.0560108447840285
+ff_extension_avg_prev_10,Extension,ff_extension_avg,rolling historical level,Profile/history,Extension__005,False,extension_avg_baseline_mean,0.184743360650687
+si_extension_avg_prev_10,Extension,si_extension_avg,rolling historical level,Profile/history,Extension__005,False,extension_avg_baseline_mean,0.4589561895372481
+sl_extension_avg_prev_10,Extension,sl_extension_avg,rolling historical level,Profile/history,Extension__006,False,sl_extension_avg_prev_5,0.3750569967342412
+ch_extension_avg_prev_10,Extension,ch_extension_avg,rolling historical level,Profile/history,Extension__004,False,ch_extension_avg_prev_5,0.5086080473226939
+extension_change_vs_prev_5,Extension,extension_avg,change from recent history,Departure,Extension__002,True,extension_change_vs_prev_5,0.0015404522767884
+extension_slope_prev_5,Extension,extension_avg,slope/trend,Trend,Extension__003,True,extension_slope_prev_5,2.464723642861544e-05
+extension_avg_baseline_mean,Extension,extension_avg,baseline mean,Profile/history,Extension__005,True,extension_avg_baseline_mean,0.0007147698564298
+extension_avg_baseline_sd,Extension,extension_avg,baseline sd,Profile/history,Extension__009,True,extension_avg_baseline_sd,0.0007147698564298
+extension_z,Extension,extension_avg,pitcher-relative z-score,Departure,Extension__001,True,extension_z,0.0022182512785753
+zone_pct,Location and strike fractions,zone_pct,current level,Current state,Location and strike fractions__010,True,zone_pct,7.394170928584633e-05
+strike_pct,Location and strike fractions,strike_pct,current level,Current state,Location and strike fractions__016,True,strike_pct,0.0
+first_pitch_strike_pct,Location and strike fractions,first_pitch_strike_pct,current level,Current state,Location and strike fractions__015,True,first_pitch_strike_pct,0.0001725306550003
+plate_x_sd,Location and strike fractions,plate_x_sd,current level,Current state,Location and strike fractions__011,True,plate_x_sd,0.0052128905046521
+plate_z_sd,Location and strike fractions,plate_z_sd,current level,Current state,Location and strike fractions__007,True,plate_z_sd,0.0052128905046521
+location_variability,Location and strike fractions,location_variability,current level,Current state,Location and strike fractions__006,True,location_variability,0.0052128905046521
+ff_zone_pct,Location and strike fractions,ff_zone_pct,current level,Current state,Location and strike fractions__012,True,ff_zone_pct,0.1649886006531517
+ff_strike_pct,Location and strike fractions,ff_strike_pct,current level,Current state,Location and strike fractions__013,True,ff_strike_pct,0.1649393061802945
+si_zone_pct,Location and strike fractions,si_zone_pct,current level,Current state,Location and strike fractions__019,True,si_zone_pct,0.4506131000061618
+si_strike_pct,Location and strike fractions,si_strike_pct,current level,Current state,Location and strike fractions__018,True,si_strike_pct,0.4505884527697332
+sl_zone_pct,Location and strike fractions,sl_zone_pct,current level,Current state,Location and strike fractions__004,True,sl_zone_pct,0.3772259535399593
+sl_strike_pct,Location and strike fractions,sl_strike_pct,current level,Current state,Location and strike fractions__003,True,sl_strike_pct,0.3772013063035307
+ch_zone_pct,Location and strike fractions,ch_zone_pct,current level,Current state,Location and strike fractions__034,True,ch_zone_pct,0.5119231006223427
+ch_strike_pct,Location and strike fractions,ch_strike_pct,current level,Current state,Location and strike fractions__033,True,ch_strike_pct,0.5119107770041285
+zone_pct_prev_3,Location and strike fractions,zone_pct,rolling historical level,Profile/history,Location and strike fractions__029,True,zone_pct_prev_3,0.000443650255715
+location_variability_prev_3,Location and strike fractions,location_variability,rolling historical level,Profile/history,Location and strike fractions__030,True,location_variability_prev_3,0.0007024462382155
+strike_pct_prev_3,Location and strike fractions,strike_pct,rolling historical level,Profile/history,Location and strike fractions__024,True,strike_pct_prev_3,0.0
+first_pitch_strike_pct_prev_3,Location and strike fractions,first_pitch_strike_pct,rolling historical level,Profile/history,Location and strike fractions__020,True,first_pitch_strike_pct_prev_3,0.0
+zone_pct_prev_5,Location and strike fractions,zone_pct,rolling historical level,Profile/history,Location and strike fractions__028,True,zone_pct_prev_5,0.0
+location_variability_prev_5,Location and strike fractions,location_variability,rolling historical level,Profile/history,Location and strike fractions__031,True,location_variability_prev_5,0.0
+strike_pct_prev_5,Location and strike fractions,strike_pct,rolling historical level,Profile/history,Location and strike fractions__023,True,strike_pct_prev_5,0.0
+first_pitch_strike_pct_prev_5,Location and strike fractions,first_pitch_strike_pct,rolling historical level,Profile/history,Location and strike fractions__021,True,first_pitch_strike_pct_prev_5,0.0
+zone_pct_prev_10,Location and strike fractions,zone_pct,rolling historical level,Profile/history,Location and strike fractions__027,True,zone_pct_prev_10,0.0560108447840285
+location_variability_prev_10,Location and strike fractions,location_variability,rolling historical level,Profile/history,Location and strike fractions__032,True,location_variability_prev_10,0.0560108447840285
+strike_pct_prev_10,Location and strike fractions,strike_pct,rolling historical level,Profile/history,Location and strike fractions__025,True,strike_pct_prev_10,0.0560108447840285
+first_pitch_strike_pct_prev_10,Location and strike fractions,first_pitch_strike_pct,rolling historical level,Profile/history,Location and strike fractions__022,True,first_pitch_strike_pct_prev_10,0.0560108447840285
+zone_pct_change_vs_prev_5,Location and strike fractions,zone_pct,change from recent history,Departure,Location and strike fractions__009,True,zone_pct_change_vs_prev_5,7.394170928584633e-05
+zone_pct_slope_prev_5,Location and strike fractions,zone_pct,slope/trend,Trend,Location and strike fractions__002,True,zone_pct_slope_prev_5,0.0
+location_variability_change_vs_prev_5,Location and strike fractions,location_variability,change from recent history,Departure,Location and strike fractions__005,True,location_variability_change_vs_prev_5,0.0052128905046521
+strike_pct_change_vs_prev_5,Location and strike fractions,strike_pct,change from recent history,Departure,Location and strike fractions__017,True,strike_pct_change_vs_prev_5,0.0
+first_pitch_strike_pct_change_vs_prev_5,Location and strike fractions,first_pitch_strike_pct,change from recent history,Departure,Location and strike fractions__014,True,first_pitch_strike_pct_change_vs_prev_5,0.0001725306550003
+zone_pct_baseline_mean,Location and strike fractions,zone_pct,baseline mean,Profile/history,Location and strike fractions__026,True,zone_pct_baseline_mean,8.626532750015405e-05
+zone_pct_baseline_sd,Location and strike fractions,zone_pct,baseline sd,Profile/history,Location and strike fractions__001,True,zone_pct_baseline_sd,8.626532750015405e-05
+zone_pct_z,Location and strike fractions,zone_pct,pitcher-relative z-score,Departure,Location and strike fractions__008,True,zone_pct_z,0.000160207036786
+velocity_measured_count,Measurement coverage and history support,velocity_measured_count,coverage / support,Availability,Measurement coverage and history support__005,True,velocity_measured_count,0.0
+arm_angle_measured_count,Measurement coverage and history support,arm_angle_measured_count,coverage / support,Availability,Measurement coverage and history support__006,False,arm_angle_avg_baseline_count,0.0
+velocity_coverage,Measurement coverage and history support,velocity_coverage,coverage / support,Availability,Measurement coverage and history support__004,False,flagged_pitch_count,0.0
+arm_angle_coverage,Measurement coverage and history support,arm_angle_coverage,coverage / support,Availability,Measurement coverage and history support__006,False,arm_angle_avg_baseline_count,0.0
+flagged_pitch_count,Measurement coverage and history support,flagged_pitch_count,coverage / support,Availability,Measurement coverage and history support__004,True,flagged_pitch_count,0.0
+workload_history_appearances,Measurement coverage and history support,workload_history_appearances,coverage / support,Availability,Measurement coverage and history support__002,False,prior_appearance_count,0.0
+workload_7d_complete,Measurement coverage and history support,workload_7d_complete,coverage / support,Availability,Measurement coverage and history support__008,True,workload_7d_complete,0.0
+workload_14d_complete,Measurement coverage and history support,workload_14d_complete,coverage / support,Availability,Measurement coverage and history support__007,True,workload_14d_complete,0.0
+workload_28d_complete,Measurement coverage and history support,workload_28d_complete,coverage / support,Availability,Measurement coverage and history support__009,True,workload_28d_complete,0.0
+prior_appearance_count,Measurement coverage and history support,prior_appearance_count,coverage / support,Availability,Measurement coverage and history support__002,True,prior_appearance_count,0.0
+history_count_prev_10,Measurement coverage and history support,history_count_prev_10,coverage / support,Availability,Measurement coverage and history support__003,True,history_count_prev_10,0.0
+avg_fb_velo_baseline_count,Measurement coverage and history support,avg_fb_velo,baseline count,Availability,Measurement coverage and history support__001,True,avg_fb_velo_baseline_count,0.0
+release_x_avg_baseline_count,Measurement coverage and history support,release_x_avg,baseline count,Availability,Measurement coverage and history support__001,False,avg_fb_velo_baseline_count,0.0
+release_z_avg_baseline_count,Measurement coverage and history support,release_z_avg,baseline count,Availability,Measurement coverage and history support__001,False,avg_fb_velo_baseline_count,0.0
+release_x_sd_baseline_count,Measurement coverage and history support,release_x_sd,baseline count,Availability,Measurement coverage and history support__001,False,avg_fb_velo_baseline_count,0.0
+release_z_sd_baseline_count,Measurement coverage and history support,release_z_sd,baseline count,Availability,Measurement coverage and history support__001,False,avg_fb_velo_baseline_count,0.0
+extension_avg_baseline_count,Measurement coverage and history support,extension_avg,baseline count,Availability,Measurement coverage and history support__001,False,avg_fb_velo_baseline_count,0.0
+arm_angle_avg_baseline_count,Measurement coverage and history support,arm_angle_avg,baseline count,Availability,Measurement coverage and history support__006,True,arm_angle_avg_baseline_count,0.0
+spin_avg_baseline_count,Measurement coverage and history support,spin_avg,baseline count,Availability,Measurement coverage and history support__001,False,avg_fb_velo_baseline_count,0.0
+zone_pct_baseline_count,Measurement coverage and history support,zone_pct,baseline count,Availability,Measurement coverage and history support__001,False,avg_fb_velo_baseline_count,0.0
+fastball_count,Pitch mix and pitch-type counts,fastball_count,count,Current state,Pitch mix and pitch-type counts__022,True,fastball_count,0.0
+fastball_usage_pct,Pitch mix and pitch-type counts,fastball_usage_pct,usage fraction,Current state,Pitch mix and pitch-type counts__008,True,fastball_usage_pct,0.0
+ff_pitch_count,Pitch mix and pitch-type counts,ff_pitch_count,count,Current state,Pitch mix and pitch-type counts__021,True,ff_pitch_count,0.0
+ff_usage_pct,Pitch mix and pitch-type counts,ff_usage_pct,usage fraction,Current state,Pitch mix and pitch-type counts__033,True,ff_usage_pct,0.0
+si_pitch_count,Pitch mix and pitch-type counts,si_pitch_count,count,Current state,Pitch mix and pitch-type counts__035,True,si_pitch_count,0.0
+si_usage_pct,Pitch mix and pitch-type counts,si_usage_pct,usage fraction,Current state,Pitch mix and pitch-type counts__035,False,si_pitch_count,0.0
+fc_pitch_count,Pitch mix and pitch-type counts,fc_pitch_count,count,Current state,Pitch mix and pitch-type counts__007,True,fc_pitch_count,0.0
+fc_usage_pct,Pitch mix and pitch-type counts,fc_usage_pct,usage fraction,Current state,Pitch mix and pitch-type counts__007,False,fc_pitch_count,0.0
+sl_pitch_count,Pitch mix and pitch-type counts,sl_pitch_count,count,Current state,Pitch mix and pitch-type counts__001,True,sl_pitch_count,0.0
+sl_usage_pct,Pitch mix and pitch-type counts,sl_usage_pct,usage fraction,Current state,Pitch mix and pitch-type counts__002,True,sl_usage_pct,0.0
+st_pitch_count,Pitch mix and pitch-type counts,st_pitch_count,count,Current state,Pitch mix and pitch-type counts__030,True,st_pitch_count,0.0
+st_usage_pct,Pitch mix and pitch-type counts,st_usage_pct,usage fraction,Current state,Pitch mix and pitch-type counts__030,False,st_pitch_count,0.0
+cu_pitch_count,Pitch mix and pitch-type counts,cu_pitch_count,count,Current state,Pitch mix and pitch-type counts__023,True,cu_pitch_count,0.0
+cu_usage_pct,Pitch mix and pitch-type counts,cu_usage_pct,usage fraction,Current state,Pitch mix and pitch-type counts__023,False,cu_pitch_count,0.0
+kc_pitch_count,Pitch mix and pitch-type counts,kc_pitch_count,count,Current state,Pitch mix and pitch-type counts__025,True,kc_pitch_count,0.0
+kc_usage_pct,Pitch mix and pitch-type counts,kc_usage_pct,usage fraction,Current state,Pitch mix and pitch-type counts__025,False,kc_pitch_count,0.0
+ch_pitch_count,Pitch mix and pitch-type counts,ch_pitch_count,count,Current state,Pitch mix and pitch-type counts__016,True,ch_pitch_count,0.0
+ch_usage_pct,Pitch mix and pitch-type counts,ch_usage_pct,usage fraction,Current state,Pitch mix and pitch-type counts__016,False,ch_pitch_count,0.0
+fs_pitch_count,Pitch mix and pitch-type counts,fs_pitch_count,count,Current state,Pitch mix and pitch-type counts__019,True,fs_pitch_count,0.0
+fs_usage_pct,Pitch mix and pitch-type counts,fs_usage_pct,usage fraction,Current state,Pitch mix and pitch-type counts__019,False,fs_pitch_count,0.0
+sv_pitch_count,Pitch mix and pitch-type counts,sv_pitch_count,count,Current state,Pitch mix and pitch-type counts__027,True,sv_pitch_count,0.0
+sv_usage_pct,Pitch mix and pitch-type counts,sv_usage_pct,usage fraction,Current state,Pitch mix and pitch-type counts__027,False,sv_pitch_count,0.0
+fastball_usage_pct_prev_3,Pitch mix and pitch-type counts,fastball_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__004,False,fastball_usage_pct_prev_5,0.0
+ff_usage_pct_prev_3,Pitch mix and pitch-type counts,ff_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__032,False,ff_usage_pct_prev_5,0.0
+si_usage_pct_prev_3,Pitch mix and pitch-type counts,si_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__034,False,si_usage_pct_prev_5,0.0
+fc_usage_pct_prev_3,Pitch mix and pitch-type counts,fc_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__006,False,fc_usage_pct_prev_5,0.0
+sl_usage_pct_prev_3,Pitch mix and pitch-type counts,sl_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__003,False,sl_usage_pct_prev_5,0.0
+st_usage_pct_prev_3,Pitch mix and pitch-type counts,st_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__029,False,st_usage_pct_prev_5,0.0
+cu_usage_pct_prev_3,Pitch mix and pitch-type counts,cu_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__024,False,cu_usage_pct_prev_5,0.0
+kc_usage_pct_prev_3,Pitch mix and pitch-type counts,kc_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__025,False,kc_usage_pct_prev_5,0.0
+ch_usage_pct_prev_3,Pitch mix and pitch-type counts,ch_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__017,False,ch_usage_pct_prev_5,0.0
+fs_usage_pct_prev_3,Pitch mix and pitch-type counts,fs_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__018,False,fs_usage_pct_prev_5,0.0
+sv_usage_pct_prev_3,Pitch mix and pitch-type counts,sv_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__026,False,sv_usage_pct_prev_5,0.0
+fastball_usage_pct_prev_5,Pitch mix and pitch-type counts,fastball_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__004,True,fastball_usage_pct_prev_5,0.0
+ff_usage_pct_prev_5,Pitch mix and pitch-type counts,ff_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__032,True,ff_usage_pct_prev_5,0.0
+si_usage_pct_prev_5,Pitch mix and pitch-type counts,si_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__034,True,si_usage_pct_prev_5,0.0
+fc_usage_pct_prev_5,Pitch mix and pitch-type counts,fc_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__006,True,fc_usage_pct_prev_5,0.0
+sl_usage_pct_prev_5,Pitch mix and pitch-type counts,sl_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__003,True,sl_usage_pct_prev_5,0.0
+st_usage_pct_prev_5,Pitch mix and pitch-type counts,st_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__029,True,st_usage_pct_prev_5,0.0
+cu_usage_pct_prev_5,Pitch mix and pitch-type counts,cu_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__024,True,cu_usage_pct_prev_5,0.0
+kc_usage_pct_prev_5,Pitch mix and pitch-type counts,kc_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__025,True,kc_usage_pct_prev_5,0.0
+ch_usage_pct_prev_5,Pitch mix and pitch-type counts,ch_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__017,True,ch_usage_pct_prev_5,0.0
+fs_usage_pct_prev_5,Pitch mix and pitch-type counts,fs_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__018,True,fs_usage_pct_prev_5,0.0
+sv_usage_pct_prev_5,Pitch mix and pitch-type counts,sv_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__026,True,sv_usage_pct_prev_5,0.0
+fastball_usage_pct_prev_10,Pitch mix and pitch-type counts,fastball_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__005,True,fastball_usage_pct_prev_10,0.0560108447840285
+ff_usage_pct_prev_10,Pitch mix and pitch-type counts,ff_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__032,False,ff_usage_pct_prev_5,0.0560108447840285
+si_usage_pct_prev_10,Pitch mix and pitch-type counts,si_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__034,False,si_usage_pct_prev_5,0.0560108447840285
+fc_usage_pct_prev_10,Pitch mix and pitch-type counts,fc_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__006,False,fc_usage_pct_prev_5,0.0560108447840285
+sl_usage_pct_prev_10,Pitch mix and pitch-type counts,sl_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__003,False,sl_usage_pct_prev_5,0.0560108447840285
+st_usage_pct_prev_10,Pitch mix and pitch-type counts,st_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__029,False,st_usage_pct_prev_5,0.0560108447840285
+cu_usage_pct_prev_10,Pitch mix and pitch-type counts,cu_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__024,False,cu_usage_pct_prev_5,0.0560108447840285
+kc_usage_pct_prev_10,Pitch mix and pitch-type counts,kc_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__025,False,kc_usage_pct_prev_5,0.0560108447840285
+ch_usage_pct_prev_10,Pitch mix and pitch-type counts,ch_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__017,False,ch_usage_pct_prev_5,0.0560108447840285
+fs_usage_pct_prev_10,Pitch mix and pitch-type counts,fs_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__018,False,fs_usage_pct_prev_5,0.0560108447840285
+sv_usage_pct_prev_10,Pitch mix and pitch-type counts,sv_usage_pct,rolling historical level,Profile/history,Pitch mix and pitch-type counts__026,False,sv_usage_pct_prev_5,0.0560108447840285
+fastball_usage_pct_change_vs_prev_5,Pitch mix and pitch-type counts,fastball_usage_pct,change from recent history,Departure,Pitch mix and pitch-type counts__009,True,fastball_usage_pct_change_vs_prev_5,0.0
+ff_usage_pct_change_vs_prev_5,Pitch mix and pitch-type counts,ff_usage_pct,change from recent history,Departure,Pitch mix and pitch-type counts__010,True,ff_usage_pct_change_vs_prev_5,0.0
+si_usage_pct_change_vs_prev_5,Pitch mix and pitch-type counts,si_usage_pct,change from recent history,Departure,Pitch mix and pitch-type counts__012,True,si_usage_pct_change_vs_prev_5,0.0
+fc_usage_pct_change_vs_prev_5,Pitch mix and pitch-type counts,fc_usage_pct,change from recent history,Departure,Pitch mix and pitch-type counts__015,True,fc_usage_pct_change_vs_prev_5,0.0
+sl_usage_pct_change_vs_prev_5,Pitch mix and pitch-type counts,sl_usage_pct,change from recent history,Departure,Pitch mix and pitch-type counts__011,True,sl_usage_pct_change_vs_prev_5,0.0
+st_usage_pct_change_vs_prev_5,Pitch mix and pitch-type counts,st_usage_pct,change from recent history,Departure,Pitch mix and pitch-type counts__031,True,st_usage_pct_change_vs_prev_5,0.0
+cu_usage_pct_change_vs_prev_5,Pitch mix and pitch-type counts,cu_usage_pct,change from recent history,Departure,Pitch mix and pitch-type counts__013,True,cu_usage_pct_change_vs_prev_5,0.0
+kc_usage_pct_change_vs_prev_5,Pitch mix and pitch-type counts,kc_usage_pct,change from recent history,Departure,Pitch mix and pitch-type counts__028,True,kc_usage_pct_change_vs_prev_5,0.0
+ch_usage_pct_change_vs_prev_5,Pitch mix and pitch-type counts,ch_usage_pct,change from recent history,Departure,Pitch mix and pitch-type counts__014,True,ch_usage_pct_change_vs_prev_5,0.0
+fs_usage_pct_change_vs_prev_5,Pitch mix and pitch-type counts,fs_usage_pct,change from recent history,Departure,Pitch mix and pitch-type counts__020,True,fs_usage_pct_change_vs_prev_5,0.0
+sv_usage_pct_change_vs_prev_5,Pitch mix and pitch-type counts,sv_usage_pct,change from recent history,Departure,Pitch mix and pitch-type counts__036,True,sv_usage_pct_change_vs_prev_5,0.0
+ivb_inches,Pitch movement,ivb_inches,current level,Current state,Pitch movement__003,False,vertical_movement_avg,0.2999815145726785
+horizontal_movement_avg,Pitch movement,horizontal_movement_avg,current level,Current state,Pitch movement__014,True,horizontal_movement_avg,1.232361821430772e-05
+vertical_movement_avg,Pitch movement,vertical_movement_avg,current level,Current state,Pitch movement__003,True,vertical_movement_avg,1.232361821430772e-05
+ff_horizontal_movement_avg,Pitch movement,ff_horizontal_movement_avg,current level,Current state,Pitch movement__011,True,ff_horizontal_movement_avg,0.1649393061802945
+ff_vertical_movement_avg,Pitch movement,ff_vertical_movement_avg,current level,Current state,Pitch movement__004,True,ff_vertical_movement_avg,0.1649393061802945
+ff_ivb_inches,Pitch movement,ff_ivb_inches,current level,Current state,Pitch movement__004,False,ff_vertical_movement_avg,0.4192618152689629
+si_horizontal_movement_avg,Pitch movement,si_horizontal_movement_avg,current level,Current state,Pitch movement__010,True,si_horizontal_movement_avg,0.4505884527697332
+si_vertical_movement_avg,Pitch movement,si_vertical_movement_avg,current level,Current state,Pitch movement__005,True,si_vertical_movement_avg,0.4505884527697332
+sl_horizontal_movement_avg,Pitch movement,sl_horizontal_movement_avg,current level,Current state,Pitch movement__009,True,sl_horizontal_movement_avg,0.3772013063035307
+sl_vertical_movement_avg,Pitch movement,sl_vertical_movement_avg,current level,Current state,Pitch movement__001,True,sl_vertical_movement_avg,0.3772013063035307
+sl_ivb_inches,Pitch movement,sl_ivb_inches,current level,Current state,Pitch movement__001,False,sl_vertical_movement_avg,0.5668371433852979
+ch_horizontal_movement_avg,Pitch movement,ch_horizontal_movement_avg,current level,Current state,Pitch movement__012,True,ch_horizontal_movement_avg,0.5119107770041285
+ch_vertical_movement_avg,Pitch movement,ch_vertical_movement_avg,current level,Current state,Pitch movement__006,True,ch_vertical_movement_avg,0.5119107770041285
+horizontal_movement_avg_prev_3,Pitch movement,horizontal_movement_avg,rolling historical level,Profile/history,Pitch movement__013,False,horizontal_movement_avg_prev_5,0.000443650255715
+vertical_movement_avg_prev_3,Pitch movement,vertical_movement_avg,rolling historical level,Profile/history,Pitch movement__002,False,vertical_movement_avg_prev_5,0.000443650255715
+horizontal_movement_avg_prev_5,Pitch movement,horizontal_movement_avg,rolling historical level,Profile/history,Pitch movement__013,True,horizontal_movement_avg_prev_5,0.0
+vertical_movement_avg_prev_5,Pitch movement,vertical_movement_avg,rolling historical level,Profile/history,Pitch movement__002,True,vertical_movement_avg_prev_5,0.0
+horizontal_movement_avg_prev_10,Pitch movement,horizontal_movement_avg,rolling historical level,Profile/history,Pitch movement__013,False,horizontal_movement_avg_prev_5,0.0560108447840285
+vertical_movement_avg_prev_10,Pitch movement,vertical_movement_avg,rolling historical level,Profile/history,Pitch movement__002,False,vertical_movement_avg_prev_5,0.0560108447840285
+horizontal_movement_avg_change_vs_prev_5,Pitch movement,horizontal_movement_avg,change from recent history,Departure,Pitch movement__008,True,horizontal_movement_avg_change_vs_prev_5,1.232361821430772e-05
+vertical_movement_avg_change_vs_prev_5,Pitch movement,vertical_movement_avg,change from recent history,Departure,Pitch movement__007,True,vertical_movement_avg_change_vs_prev_5,1.232361821430772e-05
+throws_left,Pitcher background and experience,throws_left,background/context,Profile/history,Pitcher background and experience__007,True,throws_left,0.0001725306550003
+age_at_appearance,Pitcher background and experience,age_at_appearance,background/context,Profile/history,Pitcher background and experience__001,True,age_at_appearance,0.0
+days_since_mlb_debut,Pitcher background and experience,days_since_mlb_debut,background/context,Profile/history,Pitcher background and experience__002,True,days_since_mlb_debut,0.0
+observed_prior_mlb_appearances,Pitcher background and experience,observed_prior_mlb_appearances,background/context,Profile/history,Pitcher background and experience__003,True,observed_prior_mlb_appearances,0.0
+observed_prior_mlb_starts,Pitcher background and experience,observed_prior_mlb_starts,background/context,Profile/history,Pitcher background and experience__005,True,observed_prior_mlb_starts,0.0
+prior_reported_il_count,Pitcher background and experience,prior_reported_il_count,background/context,Profile/history,Pitcher background and experience__004,True,prior_reported_il_count,0.0
+calendar_month,Pitcher background and experience,calendar_month,background/context,Profile/history,Pitcher background and experience__006,True,calendar_month,0.0
+release_x_avg,Release position and variability,release_x_avg,current level,Current state,Release position and variability__001,True,release_x_avg,7.394170928584633e-05
+release_z_avg,Release position and variability,release_z_avg,current level,Current state,Release position and variability__003,True,release_z_avg,7.394170928584633e-05
+release_x_sd,Release position and variability,release_x_sd,current level,Current state,Release position and variability__022,True,release_x_sd,0.0052128905046521
+release_z_sd,Release position and variability,release_z_sd,current level,Current state,Release position and variability__019,True,release_z_sd,0.0052128905046521
+ff_release_x_avg,Release position and variability,ff_release_x_avg,current level,Current state,Release position and variability__001,False,release_x_avg,0.1649886006531517
+ff_release_z_avg,Release position and variability,ff_release_z_avg,current level,Current state,Release position and variability__003,False,release_z_avg,0.1649886006531517
+si_release_x_avg,Release position and variability,si_release_x_avg,current level,Current state,Release position and variability__001,False,release_x_avg,0.4506131000061618
+si_release_z_avg,Release position and variability,si_release_z_avg,current level,Current state,Release position and variability__003,False,release_z_avg,0.4506131000061618
+sl_release_x_avg,Release position and variability,sl_release_x_avg,current level,Current state,Release position and variability__001,False,release_x_avg,0.3772259535399593
+sl_release_z_avg,Release position and variability,sl_release_z_avg,current level,Current state,Release position and variability__003,False,release_z_avg,0.3772259535399593
+ch_release_x_avg,Release position and variability,ch_release_x_avg,current level,Current state,Release position and variability__001,False,release_x_avg,0.5119231006223427
+ch_release_z_avg,Release position and variability,ch_release_z_avg,current level,Current state,Release position and variability__002,True,ch_release_z_avg,0.5119231006223427
+release_x_avg_prev_3,Release position and variability,release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.000443650255715
+release_z_avg_prev_3,Release position and variability,release_z_avg,rolling historical level,Profile/history,Release position and variability__003,False,release_z_avg_baseline_mean,0.000443650255715
+release_x_sd_prev_3,Release position and variability,release_x_sd,rolling historical level,Profile/history,Release position and variability__020,False,release_x_sd_prev_5,0.0007024462382155
+release_z_sd_prev_3,Release position and variability,release_z_sd,rolling historical level,Profile/history,Release position and variability__018,False,release_z_sd_prev_5,0.0007024462382155
+ff_release_x_avg_prev_3,Release position and variability,ff_release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.151863947254914
+ff_release_z_avg_prev_3,Release position and variability,ff_release_z_avg,rolling historical level,Profile/history,Release position and variability__003,False,release_z_avg_baseline_mean,0.151863947254914
+si_release_x_avg_prev_3,Release position and variability,si_release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.4446361451722225
+si_release_z_avg_prev_3,Release position and variability,si_release_z_avg,rolling historical level,Profile/history,Release position and variability__003,False,release_z_avg_baseline_mean,0.4446361451722225
+sl_release_x_avg_prev_3,Release position and variability,sl_release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.3578778729434962
+sl_release_z_avg_prev_3,Release position and variability,sl_release_z_avg,rolling historical level,Profile/history,Release position and variability__003,False,release_z_avg_baseline_mean,0.3578778729434962
+ch_release_x_avg_prev_3,Release position and variability,ch_release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.5025694743976832
+ch_release_z_avg_prev_3,Release position and variability,ch_release_z_avg,rolling historical level,Profile/history,Release position and variability__002,False,ch_release_z_avg_prev_5,0.5025694743976832
+release_x_avg_prev_5,Release position and variability,release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.0
+release_z_avg_prev_5,Release position and variability,release_z_avg,rolling historical level,Profile/history,Release position and variability__003,False,release_z_avg_baseline_mean,0.0
+release_x_sd_prev_5,Release position and variability,release_x_sd,rolling historical level,Profile/history,Release position and variability__020,True,release_x_sd_prev_5,0.0
+release_z_sd_prev_5,Release position and variability,release_z_sd,rolling historical level,Profile/history,Release position and variability__018,True,release_z_sd_prev_5,0.0
+ff_release_x_avg_prev_5,Release position and variability,ff_release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.1169881077084231
+ff_release_z_avg_prev_5,Release position and variability,ff_release_z_avg,rolling historical level,Profile/history,Release position and variability__003,False,release_z_avg_baseline_mean,0.1169881077084231
+si_release_x_avg_prev_5,Release position and variability,si_release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.3924456220346293
+si_release_z_avg_prev_5,Release position and variability,si_release_z_avg,rolling historical level,Profile/history,Release position and variability__003,False,release_z_avg_baseline_mean,0.3924456220346293
+sl_release_x_avg_prev_5,Release position and variability,sl_release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.3183313820937827
+sl_release_z_avg_prev_5,Release position and variability,sl_release_z_avg,rolling historical level,Profile/history,Release position and variability__003,False,release_z_avg_baseline_mean,0.3183313820937827
+cu_release_x_avg_prev_5,Release position and variability,cu_release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.5914720561956991
+cu_release_z_avg_prev_5,Release position and variability,cu_release_z_avg,rolling historical level,Profile/history,Release position and variability__004,True,cu_release_z_avg_prev_5,0.5914474089592704
+ch_release_x_avg_prev_5,Release position and variability,ch_release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.4275679339454064
+ch_release_z_avg_prev_5,Release position and variability,ch_release_z_avg,rolling historical level,Profile/history,Release position and variability__002,True,ch_release_z_avg_prev_5,0.4275679339454064
+release_x_avg_prev_10,Release position and variability,release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.0560108447840285
+release_z_avg_prev_10,Release position and variability,release_z_avg,rolling historical level,Profile/history,Release position and variability__003,False,release_z_avg_baseline_mean,0.0560108447840285
+release_x_sd_prev_10,Release position and variability,release_x_sd,rolling historical level,Profile/history,Release position and variability__021,False,release_x_sd_baseline_mean,0.0560108447840285
+release_z_sd_prev_10,Release position and variability,release_z_sd,rolling historical level,Profile/history,Release position and variability__017,False,release_z_sd_baseline_mean,0.0560108447840285
+ff_release_x_avg_prev_10,Release position and variability,ff_release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.1845215355228295
+ff_release_z_avg_prev_10,Release position and variability,ff_release_z_avg,rolling historical level,Profile/history,Release position and variability__003,False,release_z_avg_baseline_mean,0.1845215355228295
+si_release_x_avg_prev_10,Release position and variability,si_release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.4582660669172469
+si_release_z_avg_prev_10,Release position and variability,si_release_z_avg,rolling historical level,Profile/history,Release position and variability__003,False,release_z_avg_baseline_mean,0.4582660669172469
+sl_release_x_avg_prev_10,Release position and variability,sl_release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.3743668741142399
+sl_release_z_avg_prev_10,Release position and variability,sl_release_z_avg,rolling historical level,Profile/history,Release position and variability__003,False,release_z_avg_baseline_mean,0.3743668741142399
+ch_release_x_avg_prev_10,Release position and variability,ch_release_x_avg,rolling historical level,Profile/history,Release position and variability__001,False,release_x_avg_baseline_mean,0.5077946885205497
+ch_release_z_avg_prev_10,Release position and variability,ch_release_z_avg,rolling historical level,Profile/history,Release position and variability__002,False,ch_release_z_avg_prev_5,0.5077946885205497
+release_x_change_vs_prev_5,Release position and variability,release_x_avg,change from recent history,Departure,Release position and variability__005,True,release_x_change_vs_prev_5,7.394170928584633e-05
+release_x_slope_prev_5,Release position and variability,release_x_avg,slope/trend,Trend,Release position and variability__007,True,release_x_slope_prev_5,0.0
+release_z_change_vs_prev_5,Release position and variability,release_z_avg,change from recent history,Departure,Release position and variability__009,True,release_z_change_vs_prev_5,7.394170928584633e-05
+release_z_slope_prev_5,Release position and variability,release_z_avg,slope/trend,Trend,Release position and variability__010,True,release_z_slope_prev_5,0.0
+release_x_sd_change_vs_prev_5,Release position and variability,release_x_sd,change from recent history,Departure,Release position and variability__015,True,release_x_sd_change_vs_prev_5,0.0052128905046521
+release_x_sd_slope_prev_5,Release position and variability,release_x_sd,slope/trend,Trend,Release position and variability__011,True,release_x_sd_slope_prev_5,3.697085464292316e-05
+release_z_sd_change_vs_prev_5,Release position and variability,release_z_sd,change from recent history,Departure,Release position and variability__014,True,release_z_sd_change_vs_prev_5,0.0052128905046521
+release_z_sd_slope_prev_5,Release position and variability,release_z_sd,slope/trend,Trend,Release position and variability__012,True,release_z_sd_slope_prev_5,3.697085464292316e-05
+release_x_avg_baseline_mean,Release position and variability,release_x_avg,baseline mean,Profile/history,Release position and variability__001,True,release_x_avg_baseline_mean,8.626532750015405e-05
+release_x_avg_baseline_sd,Release position and variability,release_x_avg,baseline sd,Profile/history,Release position and variability__026,True,release_x_avg_baseline_sd,8.626532750015405e-05
+release_x_z,Release position and variability,release_x_avg,pitcher-relative z-score,Departure,Release position and variability__006,True,release_x_z,0.000160207036786
+release_z_avg_baseline_mean,Release position and variability,release_z_avg,baseline mean,Profile/history,Release position and variability__003,True,release_z_avg_baseline_mean,8.626532750015405e-05
+release_z_avg_baseline_sd,Release position and variability,release_z_avg,baseline sd,Profile/history,Release position and variability__025,True,release_z_avg_baseline_sd,8.626532750015405e-05
+release_z_z,Release position and variability,release_z_avg,pitcher-relative z-score,Departure,Release position and variability__008,True,release_z_z,0.000160207036786
+release_x_sd_baseline_mean,Release position and variability,release_x_sd,baseline mean,Profile/history,Release position and variability__021,True,release_x_sd_baseline_mean,0.000320414073572
+release_x_sd_baseline_sd,Release position and variability,release_x_sd,baseline sd,Profile/history,Release position and variability__023,True,release_x_sd_baseline_sd,0.000320414073572
+release_x_sd_z,Release position and variability,release_x_sd,pitcher-relative z-score,Departure,Release position and variability__016,True,release_x_sd_z,0.0055333045782241
+release_z_sd_baseline_mean,Release position and variability,release_z_sd,baseline mean,Profile/history,Release position and variability__017,True,release_z_sd_baseline_mean,0.000320414073572
+release_z_sd_baseline_sd,Release position and variability,release_z_sd,baseline sd,Profile/history,Release position and variability__024,True,release_z_sd_baseline_sd,0.000320414073572
+release_z_sd_z,Release position and variability,release_z_sd,pitcher-relative z-score,Departure,Release position and variability__013,True,release_z_sd_z,0.0055333045782241
+is_starter,Role and recent starts,is_starter,current level,Current state,Role and recent starts__003,True,is_starter,0.0
+starts_prev_30d,Role and recent starts,starts_prev_30d,workload window,Current state,Role and recent starts__001,True,starts_prev_30d,0.0217511861482531
+starter_share_prev_5,Role and recent starts,starter_share_prev_5,rolling historical level,Profile/history,Role and recent starts__002,False,starter_role_prev_5,0.0
+starter_role_prev_5,Role and recent starts,starter_role_prev_5,rolling historical level,Profile/history,Role and recent starts__002,True,starter_role_prev_5,0.0
+season_starts,Role and recent starts,season_starts,count,Current state,Role and recent starts__001,False,starts_prev_30d,0.0337050958161316
+spin_avg,Spin,spin_avg,current level,Current state,Spin__008,True,spin_avg,0.002045720623575
+ff_spin_avg,Spin,ff_spin_avg,current level,Current state,Spin__010,True,ff_spin_avg,0.1666892599667262
+si_spin_avg,Spin,si_spin_avg,current level,Current state,Spin__012,True,si_spin_avg,0.4521535522829503
+sl_spin_avg,Spin,sl_spin_avg,current level,Current state,Spin__005,True,sl_spin_avg,0.3963029145357077
+ch_spin_avg,Spin,ch_spin_avg,current level,Current state,Spin__014,True,ch_spin_avg,0.5140057921005607
+spin_avg_prev_3,Spin,spin_avg,rolling historical level,Profile/history,Spin__007,False,spin_avg_baseline_mean,0.00080103518393
+ff_spin_avg_prev_3,Spin,ff_spin_avg,rolling historical level,Profile/history,Spin__009,False,ff_spin_avg_prev_5,0.1529114548031302
+si_spin_avg_prev_3,Spin,si_spin_avg,rolling historical level,Profile/history,Spin__011,False,si_spin_avg_prev_5,0.446016390412225
+sl_spin_avg_prev_3,Spin,sl_spin_avg,rolling historical level,Profile/history,Spin__004,False,sl_spin_avg_prev_5,0.3752418510074558
+ch_spin_avg_prev_3,Spin,ch_spin_avg,rolling historical level,Profile/history,Spin__013,False,ch_spin_avg_prev_5,0.5050218744223304
+spin_avg_prev_5,Spin,spin_avg,rolling historical level,Profile/history,Spin__007,False,spin_avg_baseline_mean,0.0
+ff_spin_avg_prev_5,Spin,ff_spin_avg,rolling historical level,Profile/history,Spin__009,True,ff_spin_avg_prev_5,0.1174317579641382
+si_spin_avg_prev_5,Spin,si_spin_avg,rolling historical level,Profile/history,Spin__011,True,si_spin_avg_prev_5,0.3934808059646312
+sl_spin_avg_prev_5,Spin,sl_spin_avg,rolling historical level,Profile/history,Spin__004,True,sl_spin_avg_prev_5,0.3271674163534414
+cu_spin_avg_prev_5,Spin,cu_spin_avg,rolling historical level,Profile/history,Spin__006,True,cu_spin_avg_prev_5,0.5955388502064206
+ch_spin_avg_prev_5,Spin,ch_spin_avg,rolling historical level,Profile/history,Spin__013,True,ch_spin_avg_prev_5,0.4297368907511245
+spin_avg_prev_10,Spin,spin_avg,rolling historical level,Profile/history,Spin__007,False,spin_avg_baseline_mean,0.0560108447840285
+ff_spin_avg_prev_10,Spin,ff_spin_avg,rolling historical level,Profile/history,Spin__009,False,ff_spin_avg_prev_5,0.1849405385421159
+si_spin_avg_prev_10,Spin,si_spin_avg,rolling historical level,Profile/history,Spin__011,False,si_spin_avg_prev_5,0.4591656910468913
+sl_spin_avg_prev_10,Spin,sl_spin_avg,rolling historical level,Profile/history,Spin__004,False,sl_spin_avg_prev_5,0.3863207837821184
+ch_spin_avg_prev_10,Spin,ch_spin_avg,rolling historical level,Profile/history,Spin__013,False,ch_spin_avg_prev_5,0.5099143508534105
+spin_change_vs_prev_5,Spin,spin_avg,change from recent history,Departure,Spin__002,True,spin_change_vs_prev_5,0.002045720623575
+spin_slope_prev_5,Spin,spin_avg,slope/trend,Trend,Spin__003,True,spin_slope_prev_5,2.464723642861544e-05
+spin_avg_baseline_mean,Spin,spin_avg,baseline mean,Profile/history,Spin__007,True,spin_avg_baseline_mean,0.0007394170928584
+spin_avg_baseline_sd,Spin,spin_avg,baseline sd,Profile/history,Spin__015,True,spin_avg_baseline_sd,0.0007394170928584
+spin_z,Spin,spin_avg,pitcher-relative z-score,Departure,Spin__001,True,spin_z,0.0027481668617906
+avg_velocity,Velocity,avg_velocity,current level,Current state,Velocity__011,True,avg_velocity,0.0
+max_velocity,Velocity,max_velocity,current level,Current state,Velocity__010,True,max_velocity,0.0
+effective_speed_avg,Velocity,effective_speed_avg,current level,Current state,Velocity__011,False,avg_velocity,0.0015034814221455
+avg_fb_velo,Velocity,avg_fb_velo,current level,Current state,Velocity__010,False,max_velocity,0.0065808121264403
+max_fb_velo,Velocity,max_fb_velo,current level,Current state,Velocity__010,False,max_velocity,0.0065808121264403
+median_fb_velo,Velocity,median_fb_velo,current level,Current state,Velocity__010,False,max_velocity,0.0065808121264403
+fb_velo_sd,Velocity,fb_velo_sd,current level,Current state,Velocity__006,True,fb_velo_sd,0.0238585248628997
+ff_avg_velocity,Velocity,ff_avg_velocity,current level,Current state,Velocity__010,False,max_velocity,0.1649393061802945
+si_avg_velocity,Velocity,si_avg_velocity,current level,Current state,Velocity__010,False,max_velocity,0.4505884527697332
+sl_avg_velocity,Velocity,sl_avg_velocity,current level,Current state,Velocity__012,True,sl_avg_velocity,0.3772013063035307
+ch_avg_velocity,Velocity,ch_avg_velocity,current level,Current state,Velocity__008,True,ch_avg_velocity,0.5119107770041285
+avg_fb_velo_prev_3,Velocity,avg_fb_velo,rolling historical level,Profile/history,Velocity__009,False,avg_fb_velo_baseline_mean,0.001244685439645
+ff_avg_velocity_prev_3,Velocity,ff_avg_velocity,rolling historical level,Profile/history,Velocity__009,False,avg_fb_velo_baseline_mean,0.151863947254914
+si_avg_velocity_prev_3,Velocity,si_avg_velocity,rolling historical level,Profile/history,Velocity__009,False,avg_fb_velo_baseline_mean,0.4446361451722225
+sl_avg_velocity_prev_3,Velocity,sl_avg_velocity,rolling historical level,Profile/history,Velocity__012,False,sl_avg_velocity_prev_5,0.3578778729434962
+ch_avg_velocity_prev_3,Velocity,ch_avg_velocity,rolling historical level,Profile/history,Velocity__008,False,ch_avg_velocity_prev_5,0.5025694743976832
+fb_velo_sd_prev_3,Velocity,fb_velo_sd,rolling historical level,Profile/history,Velocity__005,False,fb_velo_sd_prev_5,0.005927660361082
+avg_fb_velo_prev_5,Velocity,avg_fb_velo,rolling historical level,Profile/history,Velocity__009,False,avg_fb_velo_baseline_mean,3.697085464292316e-05
+ff_avg_velocity_prev_5,Velocity,ff_avg_velocity,rolling historical level,Profile/history,Velocity__009,False,avg_fb_velo_baseline_mean,0.1169881077084231
+si_avg_velocity_prev_5,Velocity,si_avg_velocity,rolling historical level,Profile/history,Velocity__009,False,avg_fb_velo_baseline_mean,0.3924456220346293
+sl_avg_velocity_prev_5,Velocity,sl_avg_velocity,rolling historical level,Profile/history,Velocity__012,True,sl_avg_velocity_prev_5,0.3183313820937827
+cu_avg_velocity_prev_5,Velocity,cu_avg_velocity,rolling historical level,Profile/history,Velocity__013,True,cu_avg_velocity_prev_5,0.5914474089592704
+ch_avg_velocity_prev_5,Velocity,ch_avg_velocity,rolling historical level,Profile/history,Velocity__008,True,ch_avg_velocity_prev_5,0.4275679339454064
+fb_velo_sd_prev_5,Velocity,fb_velo_sd,rolling historical level,Profile/history,Velocity__005,True,fb_velo_sd_prev_5,0.0004190030192864
+avg_fb_velo_prev_10,Velocity,avg_fb_velo,rolling historical level,Profile/history,Velocity__009,False,avg_fb_velo_baseline_mean,0.0560108447840285
+ff_avg_velocity_prev_10,Velocity,ff_avg_velocity,rolling historical level,Profile/history,Velocity__009,False,avg_fb_velo_baseline_mean,0.1845215355228295
+si_avg_velocity_prev_10,Velocity,si_avg_velocity,rolling historical level,Profile/history,Velocity__009,False,avg_fb_velo_baseline_mean,0.4582660669172469
+sl_avg_velocity_prev_10,Velocity,sl_avg_velocity,rolling historical level,Profile/history,Velocity__012,False,sl_avg_velocity_prev_5,0.3743668741142399
+ch_avg_velocity_prev_10,Velocity,ch_avg_velocity,rolling historical level,Profile/history,Velocity__008,False,ch_avg_velocity_prev_5,0.5077946885205497
+fb_velo_sd_prev_10,Velocity,fb_velo_sd,rolling historical level,Profile/history,Velocity__005,False,fb_velo_sd_prev_5,0.0565037895126009
+fb_velo_change_vs_prev_5,Velocity,avg_fb_velo,change from recent history,Departure,Velocity__001,True,fb_velo_change_vs_prev_5,0.0066177829810832
+fb_velo_slope_prev_5,Velocity,avg_fb_velo,slope/trend,Trend,Velocity__004,True,fb_velo_slope_prev_5,0.0002095015096432
+fb_velo_change_vs_prev_3,Velocity,avg_fb_velo,change from recent history,Departure,Velocity__001,False,fb_velo_change_vs_prev_5,0.0077392322385852
+fb_velo_sd_change_vs_prev_5,Velocity,fb_velo_sd,change from recent history,Departure,Velocity__003,True,fb_velo_sd_change_vs_prev_5,0.0241419680818288
+avg_fb_velo_baseline_mean,Velocity,avg_fb_velo,baseline mean,Profile/history,Velocity__009,True,avg_fb_velo_baseline_mean,0.0002957668371433
+avg_fb_velo_baseline_sd,Velocity,avg_fb_velo,baseline sd,Profile/history,Velocity__007,True,avg_fb_velo_baseline_sd,0.0002957668371433
+velo_z,Velocity,avg_fb_velo,pitcher-relative z-score,Departure,Velocity__002,True,velo_z,0.0068765789635837
+total_pitches,Workload and rest,total_pitches,count,Workload,Workload and rest__005,False,pitch_count,0.0
+high_velocity_pitch_count,Workload and rest,high_velocity_pitch_count,count,Workload,Workload and rest__017,True,high_velocity_pitch_count,0.0
+pitch_count,Workload and rest,pitch_count,count,Workload,Workload and rest__005,True,pitch_count,0.0
+rest_days,Workload and rest,rest_days,workload window,Workload,Workload and rest__004,True,rest_days,0.0117320845400209
+pitches_prev_7d,Workload and rest,pitches_prev_7d,workload window,Workload,Workload and rest__011,False,innings_prev_7d,0.0134943619446669
+pitches_7d,Workload and rest,pitches_7d,workload window,Workload,Workload and rest__012,False,innings_7d,0.0134943619446669
+innings_prev_7d,Workload and rest,innings_prev_7d,workload window,Workload,Workload and rest__011,True,innings_prev_7d,0.0134943619446669
+innings_7d,Workload and rest,innings_7d,workload window,Workload,Workload and rest__012,True,innings_7d,0.0134943619446669
+appearances_prev_7d,Workload and rest,appearances_prev_7d,workload window,Workload,Workload and rest__003,False,appearances_7d,0.0134943619446669
+appearances_7d,Workload and rest,appearances_7d,workload window,Workload,Workload and rest__003,True,appearances_7d,0.0134943619446669
+pitches_prev_14d,Workload and rest,pitches_prev_14d,workload window,Workload,Workload and rest__013,False,innings_prev_14d,0.0164397066978865
+pitches_14d,Workload and rest,pitches_14d,workload window,Workload,Workload and rest__014,False,innings_14d,0.0164397066978865
+innings_prev_14d,Workload and rest,innings_prev_14d,workload window,Workload,Workload and rest__013,True,innings_prev_14d,0.0164397066978865
+innings_14d,Workload and rest,innings_14d,workload window,Workload,Workload and rest__014,True,innings_14d,0.0164397066978865
+appearances_prev_14d,Workload and rest,appearances_prev_14d,workload window,Workload,Workload and rest__002,False,appearances_14d,0.0164397066978865
+appearances_14d,Workload and rest,appearances_14d,workload window,Workload,Workload and rest__002,True,appearances_14d,0.0164397066978865
+pitches_prev_28d,Workload and rest,pitches_prev_28d,workload window,Workload,Workload and rest__015,False,innings_28d,0.021307535892538
+pitches_28d,Workload and rest,pitches_28d,workload window,Workload,Workload and rest__015,False,innings_28d,0.021307535892538
+innings_prev_28d,Workload and rest,innings_prev_28d,workload window,Workload,Workload and rest__015,False,innings_28d,0.021307535892538
+innings_28d,Workload and rest,innings_28d,workload window,Workload,Workload and rest__015,True,innings_28d,0.021307535892538
+appearances_prev_28d,Workload and rest,appearances_prev_28d,workload window,Workload,Workload and rest__001,False,appearances_28d,0.021307535892538
+appearances_28d,Workload and rest,appearances_28d,workload window,Workload,Workload and rest__001,True,appearances_28d,0.021307535892538
+season_pitch_count,Workload and rest,season_pitch_count,count,Workload,Workload and rest__008,False,season_innings,0.0337050958161316
+season_innings,Workload and rest,season_innings,count,Workload,Workload and rest__008,True,season_innings,0.0337050958161316
+season_appearances,Workload and rest,season_appearances,count,Workload,Workload and rest__009,True,season_appearances,0.0337050958161316
+previous_season_innings,Workload and rest,previous_season_innings,background/context,Profile/history,Workload and rest__016,True,previous_season_innings,0.0962721054901719
+current_vs_previous_season_workload,Workload and rest,current_vs_previous_season_workload,ratio,Workload,Workload and rest__010,True,current_vs_previous_season_workload,0.1263294103148684
+workload_acceleration_7d_vs_21d,Workload and rest,workload_acceleration_7d_vs_21d,workload window,Workload,Workload and rest__006,True,workload_acceleration_7d_vs_21d,0.021307535892538
+acute_chronic_pitch_ratio,Workload and rest,acute_chronic_pitch_ratio,ratio,Workload,Workload and rest__007,True,acute_chronic_pitch_ratio,0.021307535892538

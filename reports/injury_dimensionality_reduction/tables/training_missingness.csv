@@ -1,0 +1,77 @@
+block,feature,train_missing_fraction
+Current feature space,avg_fb_velo,0.007558566779452973
+Current feature space,fb_velo_sd,0.02575242463640548
+Current feature space,fb_velo_change_vs_prev_3,0.00886678026051214
+Current feature space,fb_velo_change_vs_prev_5,0.007590868346886532
+Current feature space,velo_z,0.00797041176423086
+Current feature space,fb_velo_slope_prev_5,0.00038761880920271655
+Current feature space,avg_fb_velo_baseline_mean,0.0004118449847778863
+Current feature space,release_x_avg,5.6527743008729496e-05
+Current feature space,release_z_avg,5.6527743008729496e-05
+Current feature space,release_x_sd,0.005144024613794385
+Current feature space,release_z_sd,0.005144024613794385
+Current feature space,extension_avg,0.0018815663030048533
+Current feature space,extension_sd,0.007001364741224068
+Current feature space,release_x_change_vs_prev_5,5.6527743008729496e-05
+Current feature space,release_z_change_vs_prev_5,5.6527743008729496e-05
+Current feature space,extension_change_vs_prev_5,0.0018815663030048533
+Current feature space,release_x_z,0.00012920626973423886
+Current feature space,release_z_z,0.00012920626973423886
+Current feature space,extension_z,0.0024145421656585884
+Current feature space,spin_avg,0.002366089814508249
+Current feature space,spin_change_vs_prev_5,0.0023741652063666388
+Current feature space,spin_z,0.002931367244595544
+Current feature space,horizontal_movement_avg,8.075391858389929e-06
+Current feature space,vertical_movement_avg,8.075391858389929e-06
+Current feature space,horizontal_movement_avg_change_vs_prev_5,8.075391858389929e-06
+Current feature space,vertical_movement_avg_change_vs_prev_5,8.075391858389929e-06
+Current feature space,fastball_usage_pct,0.0
+Current feature space,fastball_usage_pct_change_vs_prev_5,0.0
+Current feature space,sl_usage_pct,0.0
+Current feature space,sl_usage_pct_change_vs_prev_5,0.0
+Current feature space,ch_usage_pct,0.0
+Current feature space,cu_usage_pct,0.0
+Current feature space,zone_pct,5.6527743008729496e-05
+Current feature space,location_variability,0.005144024613794385
+Current feature space,strike_pct,0.0
+Current feature space,first_pitch_strike_pct,0.00016150783716779857
+Current feature space,zone_pct_change_vs_prev_5,5.6527743008729496e-05
+Current feature space,location_variability_change_vs_prev_5,0.005144024613794385
+Current feature space,walk_rate,0.0003633926336275468
+Current feature space,hbp_rate,0.0
+Current feature space,total_pitches,0.0
+Current feature space,innings_pitched,0.0
+Current feature space,rest_days,0.009593565527767235
+Current feature space,pitches_prev_7d,0.011337850169179459
+Current feature space,pitches_prev_14d,0.014471102210234751
+Current feature space,pitches_prev_28d,0.02022078121340838
+Current feature space,appearances_prev_14d,0.014471102210234751
+Current feature space,appearances_prev_28d,0.02022078121340838
+Current feature space,season_pitch_count,0.03836618671921055
+Current feature space,season_innings,0.03836618671921055
+Current feature space,previous_season_innings,0.12333545985318937
+Current feature space,workload_acceleration_7d_vs_21d,0.02022078121340838
+Current feature space,acute_chronic_pitch_ratio,0.02022078121340838
+Current feature space,starts_prev_30d,0.020818360210929237
+Current feature space,starter_share_prev_5,0.0
+Current feature space,age_at_appearance,0.0
+Current feature space,observed_prior_mlb_starts,0.0
+Current feature space,days_since_mlb_debut,0.0
+Current feature space,prior_reported_il_count,0.0
+Current feature space,calendar_month,0.0
+Prior pitcher profile,avg_fb_velo_baseline_mean,0.0004118449847778863
+Prior pitcher profile,release_x_avg_baseline_mean,7.267852672550936e-05
+Prior pitcher profile,release_z_avg_baseline_mean,7.267852672550936e-05
+Prior pitcher profile,release_x_sd_baseline_mean,0.00032301567433559714
+Prior pitcher profile,release_z_sd_baseline_mean,0.00032301567433559714
+Prior pitcher profile,extension_avg_baseline_mean,0.000565277430087295
+Prior pitcher profile,spin_avg_baseline_mean,0.0005975789975208547
+Prior pitcher profile,zone_pct_baseline_mean,7.267852672550936e-05
+Within-pitcher departure,velo_z,0.00797041176423086
+Within-pitcher departure,release_x_z,0.00012920626973423886
+Within-pitcher departure,release_z_z,0.00012920626973423886
+Within-pitcher departure,release_x_sd_z,0.005467040288129981
+Within-pitcher departure,release_z_sd_z,0.005467040288129981
+Within-pitcher departure,extension_z,0.0024145421656585884
+Within-pitcher departure,spin_z,0.002931367244595544
+Within-pitcher departure,zone_pct_z,0.00012920626973423886

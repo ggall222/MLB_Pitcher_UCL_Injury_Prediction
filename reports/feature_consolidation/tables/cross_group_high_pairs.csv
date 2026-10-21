@@ -1,0 +1,94 @@
+feature_a,feature_b,group_a,group_b,pearson,spearman,coobserved_rows,same_group,high_correlation
+total_pitches,statcast_batters_faced,Workload and rest,Appearance performance,0.9826019774896105,0.9573129170366925,13427,False,True
+total_pitches,velocity_measured_count,Workload and rest,Measurement coverage and history support,0.9999658077128419,0.9999463976989552,13427,False,True
+total_pitches,fastball_count,Workload and rest,Pitch mix and pitch-type counts,0.9439289037926522,0.9325403561975307,13427,False,True
+total_pitches,is_starter,Workload and rest,Role and recent starts,0.9161548825783622,0.7754779120851505,13427,False,True
+total_pitches,outs_recorded,Workload and rest,Appearance performance,0.9538760604775093,0.8784026615238782,13427,False,True
+total_pitches,innings_pitched,Workload and rest,Appearance performance,0.9538760604775073,0.8784026615238782,13427,False,True
+total_pitches,batters_faced,Workload and rest,Appearance performance,0.982375220190228,0.9564208079879781,13427,False,True
+statcast_batters_faced,velocity_measured_count,Appearance performance,Measurement coverage and history support,0.9825724306942626,0.9572172277058405,13427,False,True
+statcast_batters_faced,fastball_count,Appearance performance,Pitch mix and pitch-type counts,0.928484945040953,0.9014258465709397,13427,False,True
+statcast_batters_faced,is_starter,Appearance performance,Role and recent starts,0.9173316236924485,0.7788955703597535,13427,False,True
+statcast_batters_faced,pitch_count,Appearance performance,Workload and rest,0.9826019774896105,0.9573129170366925,13427,False,True
+release_x_avg,si_horizontal_movement_avg,Release position and variability,Pitch movement,0.9149558724350715,0.6678077165873549,7201,False,True
+release_x_avg,ch_horizontal_movement_avg,Release position and variability,Pitch movement,0.9001807097791656,0.6763389288246551,7244,False,True
+release_x_avg,throws_left,Release position and variability,Pitcher background and experience,0.9160222150278565,0.7691206337418056,13417,False,True
+velocity_measured_count,fastball_count,Measurement coverage and history support,Pitch mix and pitch-type counts,0.9439898687348551,0.9325929003313171,13427,False,True
+velocity_measured_count,is_starter,Measurement coverage and history support,Role and recent starts,0.916111276602993,0.7754764336180012,13427,False,True
+velocity_measured_count,outs_recorded,Measurement coverage and history support,Appearance performance,0.9538462818408264,0.8783772192800826,13427,False,True
+velocity_measured_count,innings_pitched,Measurement coverage and history support,Appearance performance,0.9538462818408286,0.8783772192800826,13427,False,True
+velocity_measured_count,pitch_count,Measurement coverage and history support,Workload and rest,0.9999658077128418,0.9999463976989552,13427,False,True
+velocity_measured_count,batters_faced,Measurement coverage and history support,Appearance performance,0.98234349111253,0.9563188154954658,13427,False,True
+fastball_count,outs_recorded,Pitch mix and pitch-type counts,Appearance performance,0.9002129123912702,0.8339315909479188,13427,False,True
+fastball_count,innings_pitched,Pitch mix and pitch-type counts,Appearance performance,0.9002129123912668,0.8339315909479188,13427,False,True
+fastball_count,pitch_count,Pitch mix and pitch-type counts,Workload and rest,0.9439289037926519,0.9325403561975307,13427,False,True
+fastball_count,batters_faced,Pitch mix and pitch-type counts,Appearance performance,0.9283671044557203,0.900713210886179,13427,False,True
+ff_release_x_avg,si_horizontal_movement_avg,Release position and variability,Pitch movement,0.9064481139863347,0.6353233350069841,5527,False,True
+ff_release_x_avg,throws_left,Release position and variability,Pitcher background and experience,0.9110090262619824,0.7565942596783468,11544,False,True
+si_horizontal_movement_avg,si_release_x_avg,Pitch movement,Release position and variability,0.914437241085677,0.6678365014293055,7201,False,True
+si_horizontal_movement_avg,sl_release_x_avg,Pitch movement,Release position and variability,0.9142724958504217,0.6606850747850659,4757,False,True
+si_horizontal_movement_avg,ch_release_x_avg,Pitch movement,Release position and variability,0.9244088798851783,0.6863195606155806,4380,False,True
+si_horizontal_movement_avg,throws_left,Pitch movement,Pitcher background and experience,0.9729097604051462,0.7727580593974284,7192,False,True
+si_horizontal_movement_avg,release_x_avg_prev_3,Pitch movement,Release position and variability,0.9160491498136094,0.6693296680219448,7199,False,True
+si_horizontal_movement_avg,ff_release_x_avg_prev_3,Pitch movement,Release position and variability,0.909814557328953,0.6402833626650556,5634,False,True
+si_horizontal_movement_avg,si_release_x_avg_prev_3,Pitch movement,Release position and variability,0.9163725434833535,0.6717179923286006,6550,False,True
+si_horizontal_movement_avg,sl_release_x_avg_prev_3,Pitch movement,Release position and variability,0.915219045110069,0.6657735841896524,4830,False,True
+si_horizontal_movement_avg,ch_release_x_avg_prev_3,Pitch movement,Release position and variability,0.9277255830383779,0.6851575187635393,4434,False,True
+si_horizontal_movement_avg,release_x_avg_prev_5,Pitch movement,Release position and variability,0.9165963244078853,0.6702800440237862,7201,False,True
+si_horizontal_movement_avg,ff_release_x_avg_prev_5,Pitch movement,Release position and variability,0.909517570397571,0.6437615704556942,6019,False,True
+si_horizontal_movement_avg,si_release_x_avg_prev_5,Pitch movement,Release position and variability,0.9171238341401091,0.6716062848375165,6840,False,True
+si_horizontal_movement_avg,sl_release_x_avg_prev_5,Pitch movement,Release position and variability,0.9175749161261334,0.6698658657590424,5116,False,True
+si_horizontal_movement_avg,cu_release_x_avg_prev_5,Pitch movement,Release position and variability,0.9202689653411391,0.6771791575033497,3468,False,True
+si_horizontal_movement_avg,ch_release_x_avg_prev_5,Pitch movement,Release position and variability,0.9282819995027616,0.688660231142817,4970,False,True
+si_horizontal_movement_avg,release_x_avg_prev_10,Pitch movement,Release position and variability,0.91785408943565,0.6740802085788433,6294,False,True
+si_horizontal_movement_avg,ff_release_x_avg_prev_10,Pitch movement,Release position and variability,0.9128575872226824,0.6460385404285496,5072,False,True
+si_horizontal_movement_avg,si_release_x_avg_prev_10,Pitch movement,Release position and variability,0.919458582833448,0.6748742682300781,5808,False,True
+si_horizontal_movement_avg,sl_release_x_avg_prev_10,Pitch movement,Release position and variability,0.9176590395189754,0.6712263852566166,4362,False,True
+si_horizontal_movement_avg,ch_release_x_avg_prev_10,Pitch movement,Release position and variability,0.9305274232258984,0.6814451597962916,4017,False,True
+si_horizontal_movement_avg,release_x_avg_baseline_mean,Pitch movement,Release position and variability,0.918690265699917,0.6685375391937466,7197,False,True
+si_release_x_avg,ch_horizontal_movement_avg,Release position and variability,Pitch movement,0.9004411540160285,0.6572381108348675,4380,False,True
+si_release_x_avg,throws_left,Release position and variability,Pitcher background and experience,0.9223900379657797,0.7726305408360719,7192,False,True
+sl_release_x_avg,throws_left,Release position and variability,Pitcher background and experience,0.918101288338373,0.7603428786311791,8706,False,True
+ch_horizontal_movement_avg,ch_release_x_avg,Pitch movement,Release position and variability,0.9044842027646491,0.6796391477213661,7244,False,True
+ch_horizontal_movement_avg,throws_left,Pitch movement,Pitcher background and experience,0.953854095025486,0.7810433191208389,7240,False,True
+ch_horizontal_movement_avg,release_x_avg_prev_3,Pitch movement,Release position and variability,0.9006885585280691,0.6742939162166947,7243,False,True
+ch_horizontal_movement_avg,si_release_x_avg_prev_3,Pitch movement,Release position and variability,0.9029325719268293,0.6566788122630413,4370,False,True
+ch_horizontal_movement_avg,ch_release_x_avg_prev_3,Pitch movement,Release position and variability,0.905880550468292,0.673917491764406,6347,False,True
+ch_horizontal_movement_avg,release_x_avg_prev_5,Pitch movement,Release position and variability,0.9009064582990938,0.6737968255443142,7244,False,True
+ch_horizontal_movement_avg,si_release_x_avg_prev_5,Pitch movement,Release position and variability,0.9033035746089789,0.6566626463550395,4705,False,True
+ch_horizontal_movement_avg,sl_release_x_avg_prev_5,Pitch movement,Release position and variability,0.9007029041820629,0.6519584989829965,4928,False,True
+ch_horizontal_movement_avg,ch_release_x_avg_prev_5,Pitch movement,Release position and variability,0.9064901552917126,0.6779147888551214,6822,False,True
+ch_horizontal_movement_avg,release_x_avg_prev_10,Pitch movement,Release position and variability,0.9045997560587427,0.6767508576069771,6133,False,True
+ch_horizontal_movement_avg,si_release_x_avg_prev_10,Pitch movement,Release position and variability,0.9086343509148211,0.6620176003768363,3807,False,True
+ch_horizontal_movement_avg,sl_release_x_avg_prev_10,Pitch movement,Release position and variability,0.9012771321969454,0.6513516678120157,4030,False,True
+ch_horizontal_movement_avg,ch_release_x_avg_prev_10,Pitch movement,Release position and variability,0.9108254918628123,0.6786523174136476,5544,False,True
+ch_horizontal_movement_avg,release_x_avg_baseline_mean,Pitch movement,Release position and variability,0.9026324429506811,0.6728532996266691,7239,False,True
+ch_release_x_avg,throws_left,Release position and variability,Pitcher background and experience,0.9266552714474421,0.7809340366274435,7240,False,True
+is_starter,pitch_count,Role and recent starts,Workload and rest,0.9161548825783621,0.7754779120851505,13427,False,True
+is_starter,batters_faced,Role and recent starts,Appearance performance,0.9169303251747049,0.7787136672646356,13427,False,True
+outs_recorded,pitch_count,Appearance performance,Workload and rest,0.9538760604775093,0.8784026615238782,13427,False,True
+innings_pitched,pitch_count,Appearance performance,Workload and rest,0.9538760604775073,0.8784026615238782,13427,False,True
+pitch_count,batters_faced,Workload and rest,Appearance performance,0.982375220190228,0.9564208079879781,13427,False,True
+throws_left,release_x_avg_prev_3,Pitcher background and experience,Release position and variability,0.9180124747457544,0.7691885126133892,13414,False,True
+throws_left,ff_release_x_avg_prev_3,Pitcher background and experience,Release position and variability,0.9133890063940313,0.757433873048542,11696,False,True
+throws_left,si_release_x_avg_prev_3,Pitcher background and experience,Release position and variability,0.9257669969417973,0.7757666979909609,7272,False,True
+throws_left,sl_release_x_avg_prev_3,Pitcher background and experience,Release position and variability,0.9206716202296034,0.7624272467201733,8907,False,True
+throws_left,ch_release_x_avg_prev_3,Pitcher background and experience,Release position and variability,0.9281630753457308,0.7785020819603677,7442,False,True
+throws_left,release_x_avg_prev_5,Pitcher background and experience,Release position and variability,0.9186578828650276,0.7693528615929042,13418,False,True
+throws_left,ff_release_x_avg_prev_5,Pitcher background and experience,Release position and variability,0.9141722876578896,0.7587310595427845,12126,False,True
+throws_left,si_release_x_avg_prev_5,Pitcher background and experience,Release position and variability,0.9265053180138108,0.775855740445815,7971,False,True
+throws_left,sl_release_x_avg_prev_5,Pitcher background and experience,Release position and variability,0.922265611136228,0.7639067011777416,9417,False,True
+throws_left,cu_release_x_avg_prev_5,Pitcher background and experience,Release position and variability,0.919071835911067,0.7682595408972666,6302,False,True
+throws_left,ch_release_x_avg_prev_5,Pitcher background and experience,Release position and variability,0.9292519546216476,0.7817713436392477,8439,False,True
+throws_left,release_x_avg_prev_10,Pitcher background and experience,Release position and variability,0.9206794063689987,0.7712253778752056,11570,False,True
+throws_left,ff_release_x_avg_prev_10,Pitcher background and experience,Release position and variability,0.9167007045796522,0.7585854943844847,10226,False,True
+throws_left,si_release_x_avg_prev_10,Pitcher background and experience,Release position and variability,0.9285790217288826,0.7785111886269286,6484,False,True
+throws_left,sl_release_x_avg_prev_10,Pitcher background and experience,Release position and variability,0.9241683347092617,0.7659040472343078,7883,False,True
+throws_left,ch_release_x_avg_prev_10,Pitcher background and experience,Release position and variability,0.9313136231869642,0.7802682757176619,6653,False,True
+throws_left,release_x_avg_baseline_mean,Pitcher background and experience,Release position and variability,0.9211267945914757,0.7693951229352501,13411,False,True
+observed_prior_mlb_appearances,workload_history_appearances,Pitcher background and experience,Measurement coverage and history support,1.0,1.0,13427,False,True
+observed_prior_mlb_appearances,prior_appearance_count,Pitcher background and experience,Measurement coverage and history support,0.9999997891805888,0.999999035581352,13427,False,True
+pitches_28d,starts_prev_30d,Workload and rest,Role and recent starts,0.9092639557904241,0.7513073212260554,13113,False,True
+innings_28d,starts_prev_30d,Workload and rest,Role and recent starts,0.9026810697784807,0.7461005368829647,13113,False,True
+season_pitch_count,season_starts,Workload and rest,Role and recent starts,0.9017148338693136,0.6320888682383132,12986,False,True
+season_innings,season_starts,Workload and rest,Role and recent starts,0.9014316100544448,0.6299710539334425,12986,False,True

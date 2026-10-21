@@ -1,0 +1,64 @@
+category,variant,source_features,design_columns,missing_indicators,training_rows
+Elbow / UCL,Profile only,13,22,9,81145
+Elbow / UCL,Departure only,8,16,8,81145
+Elbow / UCL,Profile + Departure,21,38,17,81145
+Elbow / UCL,Context + Profile,30,51,21,81145
+Elbow / UCL,Context + Departure,25,45,20,81145
+Elbow / UCL,Context + Profile + Departure,38,67,29,81145
+Elbow / UCL,Profile + Departure + slopes,29,51,22,81145
+Elbow / UCL,Workload + history,22,35,13,81145
+Elbow / UCL,Original 62,62,107,45,81145
+Shoulder,Profile only,13,22,9,81978
+Shoulder,Departure only,8,16,8,81978
+Shoulder,Profile + Departure,21,38,17,81978
+Shoulder,Context + Profile,30,51,21,81978
+Shoulder,Context + Departure,25,45,20,81978
+Shoulder,Context + Profile + Departure,38,67,29,81978
+Shoulder,Profile + Departure + slopes,29,51,22,81978
+Shoulder,Workload + history,22,35,13,81978
+Shoulder,Original 62,62,107,45,81978
+Forearm,Profile only,13,22,9,80362
+Forearm,Departure only,8,16,8,80362
+Forearm,Profile + Departure,21,38,17,80362
+Forearm,Context + Profile,30,51,21,80362
+Forearm,Context + Departure,25,45,20,80362
+Forearm,Context + Profile + Departure,38,67,29,80362
+Forearm,Profile + Departure + slopes,29,51,22,80362
+Forearm,Workload + history,22,35,13,80362
+Forearm,Original 62,62,107,45,80362
+Other arm,Profile only,13,22,9,80373
+Other arm,Departure only,8,16,8,80373
+Other arm,Profile + Departure,21,38,17,80373
+Other arm,Context + Profile,30,51,21,80373
+Other arm,Context + Departure,25,45,20,80373
+Other arm,Context + Profile + Departure,38,67,29,80373
+Other arm,Profile + Departure + slopes,29,51,22,80373
+Other arm,Workload + history,22,35,13,80373
+Other arm,Original 62,62,107,45,80373
+Trunk / neck,Profile only,13,22,9,81519
+Trunk / neck,Departure only,8,16,8,81519
+Trunk / neck,Profile + Departure,21,38,17,81519
+Trunk / neck,Context + Profile,30,51,21,81519
+Trunk / neck,Context + Departure,25,45,20,81519
+Trunk / neck,Context + Profile + Departure,38,67,29,81519
+Trunk / neck,Profile + Departure + slopes,29,51,22,81519
+Trunk / neck,Workload + history,22,35,13,81519
+Trunk / neck,Original 62,62,107,45,81519
+Lower body,Profile only,13,22,9,82046
+Lower body,Departure only,8,16,8,82046
+Lower body,Profile + Departure,21,38,17,82046
+Lower body,Context + Profile,30,51,21,82046
+Lower body,Context + Departure,25,45,20,82046
+Lower body,Context + Profile + Departure,38,67,29,82046
+Lower body,Profile + Departure + slopes,29,51,22,82046
+Lower body,Workload + history,22,35,13,82046
+Lower body,Original 62,62,107,45,82046
+Hand / wrist,Profile only,13,22,9,80371
+Hand / wrist,Departure only,8,16,8,80371
+Hand / wrist,Profile + Departure,21,38,17,80371
+Hand / wrist,Context + Profile,30,51,21,80371
+Hand / wrist,Context + Departure,25,45,20,80371
+Hand / wrist,Context + Profile + Departure,38,67,29,80371
+Hand / wrist,Profile + Departure + slopes,29,51,22,80371
+Hand / wrist,Workload + history,22,35,13,80371
+Hand / wrist,Original 62,62,107,45,80371

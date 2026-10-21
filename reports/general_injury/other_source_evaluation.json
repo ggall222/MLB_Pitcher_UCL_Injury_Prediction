@@ -1,0 +1,17 @@
+[
+  {
+    "source": "baseball_prospectus",
+    "url": "https://www.baseballprospectus.com/news/article/69824/visualizing-the-infirmary-introducing-the-recovery-dashboard/",
+    "http_status": "retrieved",
+    "bytes": 69811,
+    "integration_status": "evaluated_not_ingested",
+    "reason": "No verified MLBAM-keyed bulk export adapter; official MLB and ID-keyed RosterResource/Roegele evidence used."
+  },
+  {
+    "source": "pro_sports_transactions",
+    "url": "https://www.prosportstransactions.com/baseball/Search/Search.php",
+    "http_status": "unavailable",
+    "integration_status": "not_ingested",
+    "reason": "403 Client Error: Forbidden for url: https://www.prosportstransactions.com/baseball/Search/Search.php"
+  }
+]

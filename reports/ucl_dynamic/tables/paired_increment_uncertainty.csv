@@ -1,0 +1,21 @@
+partition,comparison,metric,mean_bootstrap_difference,ci_low,ci_high,fraction_positive,interpretation
+validation,Departure minus Profile,average_precision,0.0012232618615047237,-0.0029435520718456183,0.006259861755438428,0.68,conditional on trained models; whole-pitcher resampling
+validation,Departure minus Profile,event_recall_7_30d,0.2150980392156863,0.08823529411764706,0.35294117647058826,1.0,conditional on trained models; whole-pitcher resampling
+validation,Profile + departure minus Profile,average_precision,0.0016907468924578196,-0.0016233190524903283,0.007644335355608387,0.8233333333333334,conditional on trained models; whole-pitcher resampling
+validation,Profile + departure minus Profile,event_recall_7_30d,0.0923529411764706,0.0,0.17647058823529413,0.95,conditional on trained models; whole-pitcher resampling
+validation,Profile + departure + trajectory minus Profile + departure,average_precision,0.0004533642802529528,-0.0008578871296389339,0.0023293048630436118,0.73,conditional on trained models; whole-pitcher resampling
+validation,Profile + departure + trajectory minus Profile + departure,event_recall_7_30d,0.0,0.0,0.0,0.0,conditional on trained models; whole-pitcher resampling
+validation,Profile + departure + trajectory + interactions minus Profile + departure + trajectory,average_precision,0.00031363621168815117,1.6613598389827796e-05,0.0014863305538336208,0.9866666666666667,conditional on trained models; whole-pitcher resampling
+validation,Profile + departure + trajectory + interactions minus Profile + departure + trajectory,event_recall_7_30d,0.0,0.0,0.0,0.0,conditional on trained models; whole-pitcher resampling
+validation,Departure minus Departure,average_precision,0.0,0.0,0.0,0.0,conditional on trained models; whole-pitcher resampling
+validation,Departure minus Departure,event_recall_7_30d,0.0,0.0,0.0,0.0,conditional on trained models; whole-pitcher resampling
+test,Departure minus Profile,average_precision,-0.002884545224324039,-0.011038696749072343,0.0022006702469475293,0.24333333333333335,conditional on trained models; whole-pitcher resampling
+test,Departure minus Profile,event_recall_7_30d,-0.021691005458893325,-0.12502587991718428,0.07234320557491285,0.26,conditional on trained models; whole-pitcher resampling
+test,Profile + departure minus Profile,average_precision,9.478131488122663e-05,-0.004051633121830966,0.005422912949880087,0.5266666666666666,conditional on trained models; whole-pitcher resampling
+test,Profile + departure minus Profile,event_recall_7_30d,0.04626650629669462,0.0,0.1279268292682924,0.8633333333333333,conditional on trained models; whole-pitcher resampling
+test,Profile + departure + trajectory minus Profile + departure,average_precision,0.003876990049053218,-0.002156129587358653,0.017517906087680505,0.89,conditional on trained models; whole-pitcher resampling
+test,Profile + departure + trajectory minus Profile + departure,event_recall_7_30d,0.02178514174625105,0.0,0.07317073170731707,0.6166666666666667,conditional on trained models; whole-pitcher resampling
+test,Profile + departure + trajectory + interactions minus Profile + departure + trajectory,average_precision,0.000191601486646032,-0.00010343221225185298,0.0010796182157741677,0.7433333333333333,conditional on trained models; whole-pitcher resampling
+test,Profile + departure + trajectory + interactions minus Profile + departure + trajectory,event_recall_7_30d,0.0,0.0,0.0,0.0,conditional on trained models; whole-pitcher resampling
+test,Departure minus Departure,average_precision,0.0,0.0,0.0,0.0,conditional on trained models; whole-pitcher resampling
+test,Departure minus Departure,event_recall_7_30d,0.0,0.0,0.0,0.0,conditional on trained models; whole-pitcher resampling
