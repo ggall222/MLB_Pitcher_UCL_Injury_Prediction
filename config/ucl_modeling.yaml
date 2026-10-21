@@ -1,0 +1,30 @@
+# Active chronological UCL modeling policy. Older stage configs are frozen archives.
+seed: 20261021
+output_path: reports/ucl_revised_2026
+cache_path: data/injury/analysis/ucl_revised_2026
+database_path: database/mlb_ucl.duckdb
+events_path: data/injury/revised_2026/processed/mlb_pitcher_injury_events_2015_2026.parquet
+train_end: '2023-12-31'
+validation_end: '2025-12-31'
+test_end: '2026-12-31'
+observation_end: '2026-10-20'
+post_test_partition: outside_study
+embargo_days: 60
+minimum_prior_appearances: 5
+negative_followup_grace_days: 30
+horizons: [7, 14, 21, 30, 60]
+primary_horizon: 30
+secondary_horizons: [7, 14, 21, 60]
+representations: [Background, Profile, Departure, Profile + departure, Profile + departure + trajectory, Previous 62, Stable 62]
+logistic_C: [0.1, 1.0, 10.0]
+spline_C: [0.1, 1.0]
+tree_leaf_limits: [2, 4, 8]
+tree_depth_limits: [1, 2, 3]
+tree_iterations: 150
+tree_learning_rate: 0.05
+tree_min_leaf: 200
+tree_l2: 10.0
+bootstrap_replicates: 300
+alert_rates: [0.01, 0.025, 0.05, 0.10]
+minimum_leads: [7, 14, 21]
+selection_rule: Validation 7–30-day event recall at 5% appearance budget with AP above prevalence; ties prefer fewer raw fields, simpler algorithm/setting, then AP. AP leader is a separate secondary hypothesis.

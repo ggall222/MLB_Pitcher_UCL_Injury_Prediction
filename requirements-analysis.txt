@@ -1,0 +1,6 @@
+-r requirements.txt
+matplotlib==3.9.4
+scikit-learn==1.6.1
+scipy==1.13.1
+nbclient==0.10.2
+ipykernel==6.29.5

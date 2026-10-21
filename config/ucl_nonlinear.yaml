@@ -1,0 +1,32 @@
+seed: 20261014
+output_path: reports/ucl_nonlinear
+cache_path: data/injury/analysis/ucl_nonlinear
+horizon: 30
+representations: [Background, Profile, Departure, Profile + departure, Profile + departure + trajectory, Previous 62, Stable 62]
+spline_C: [0.1, 1.0]
+spline_knots: 4
+spline_degree: 3
+tree_leaf_limits: [2, 4, 8]
+tree_depth_limits: [1, 2, 3]
+tree_iterations: 150
+tree_learning_rate: 0.05
+tree_min_leaf: 200
+tree_l2: 10.0
+training_refits: 8
+permutation_repeats: 3
+refit_permutation_repeats: 1
+ale_bins: 10
+reference_rows: 4000
+reference_max_outings_per_pitcher: 5
+interaction_bins: 4
+interaction_min_rows: 40
+interaction_min_pitchers: 15
+interpretation_features: [velo_z, release_x_z, release_z_z, release_x_sd_z, release_z_sd_z, extension_z, spin_z, zone_pct_z, avg_fb_velo_baseline_mean, release_z_sd_baseline_mean, extension_avg_baseline_mean, pitches_prev_28d, workload_acceleration_7d_vs_21d, age_at_appearance]
+interaction_pairs:
+  - [velo_z, release_z_sd_z]
+  - [velo_z, extension_z]
+  - [velo_z, avg_fb_velo_baseline_mean]
+  - [velo_z, pitches_prev_28d]
+  - [release_z_sd_z, workload_acceleration_7d_vs_21d]
+  - [extension_z, extension_avg_baseline_mean]
+selection_rule: Validation 7–30-day event recall at 5% budget, AP above prevalence; ties prefer fewer raw features, simpler setting, then AP. Also freeze AP leader as a separately labeled ranking hypothesis.

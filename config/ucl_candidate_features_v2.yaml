@@ -1,0 +1,99 @@
+status: "Development candidate frozen before this stage scores 2024\u20132025; future\
+  \ untouched cohort required"
+endpoint: Broad initial Elbow / UCL proxy; adjudicate confirmed UCL before confirmatory
+  modeling
+prediction_time: after completed appearance
+horizon_days: 30
+warning_window_days:
+- 7
+- 30
+alert_budget: 0.05
+selection:
+  selected: Departure only
+  features:
+  - velo_z
+  - release_x_z
+  - release_z_z
+  - release_x_sd_z
+  - release_z_sd_z
+  - extension_z
+  - spin_z
+  - zone_pct_z
+  model_name: candidate_04
+  selection_rule: Within one paired-bootstrap AP SE of highest validation AP; within
+    two detected events of best warning among AP-competitive models; smallest input
+    set
+  parameters_chosen_without_test: true
+preprocessing:
+  median_imputation: training only
+  winsor_quantiles:
+  - 0.005
+  - 0.995
+  standardization: training only
+  missing_indicators: true
+  total_design_columns: 16
+features:
+- name: velo_z
+  group: Velocity
+  concept: avg_fb_velo
+  representation: pitcher-relative z-score
+  rationale: Pitcher-relative z-score of avg_fb_velo; represents departure in the
+    validation-selected joint set. Individual incremental evidence is reported separately.
+  timing: after completed outing
+  signal_type: Departure
+- name: release_x_z
+  group: Release position and variability
+  concept: release_x_avg
+  representation: pitcher-relative z-score
+  rationale: Pitcher-relative z-score of release_x_avg; represents departure in the
+    validation-selected joint set. Individual incremental evidence is reported separately.
+  timing: after completed outing
+  signal_type: Departure
+- name: release_z_z
+  group: Release position and variability
+  concept: release_z_avg
+  representation: pitcher-relative z-score
+  rationale: Pitcher-relative z-score of release_z_avg; represents departure in the
+    validation-selected joint set. Individual incremental evidence is reported separately.
+  timing: after completed outing
+  signal_type: Departure
+- name: release_x_sd_z
+  group: Release position and variability
+  concept: release_x_sd
+  representation: pitcher-relative z-score
+  rationale: Pitcher-relative z-score of release_x_sd; represents departure in the
+    validation-selected joint set. Individual incremental evidence is reported separately.
+  timing: after completed outing
+  signal_type: Departure
+- name: release_z_sd_z
+  group: Release position and variability
+  concept: release_z_sd
+  representation: pitcher-relative z-score
+  rationale: Pitcher-relative z-score of release_z_sd; represents departure in the
+    validation-selected joint set. Individual incremental evidence is reported separately.
+  timing: after completed outing
+  signal_type: Departure
+- name: extension_z
+  group: Extension
+  concept: extension_avg
+  representation: pitcher-relative z-score
+  rationale: Pitcher-relative z-score of extension_avg; represents departure in the
+    validation-selected joint set. Individual incremental evidence is reported separately.
+  timing: after completed outing
+  signal_type: Departure
+- name: spin_z
+  group: Spin
+  concept: spin_avg
+  representation: pitcher-relative z-score
+  rationale: Pitcher-relative z-score of spin_avg; represents departure in the validation-selected
+    joint set. Individual incremental evidence is reported separately.
+  timing: after completed outing
+  signal_type: Departure
+- name: zone_pct_z
+  group: Location and strike fractions
+  concept: zone_pct
+  representation: pitcher-relative z-score
+  rationale: Pitcher-relative z-score of zone_pct; represents departure in the validation-selected
+    joint set. Individual incremental evidence is reported separately.
+  timing: after completed outing
+  signal_type: Departure

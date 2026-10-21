@@ -1,0 +1,27 @@
+seed: 20261008
+output_path: reports/feature_consolidation
+cache_path: data/injury/analysis/feature_consolidation
+category: Elbow / UCL
+horizon_days: 30
+maximum_training_missing_fraction: 0.60
+minimum_observed_training_pitchers: 100
+correlation_appearances_per_pitcher: 12
+minimum_correlation_pairs: 250
+correlation_cut: 0.90
+high_pair_cut: 0.90
+bootstrap_replicates: 300
+training_refits: 16
+permutation_repeats: 5
+elastic_net_C: [0.003, 0.03, 0.3]
+elastic_net_l1_ratio: [0.25, 0.75]
+elastic_net_max_iter: 5000
+elastic_net_tolerance: 0.0001
+logistic_C: 1.0
+logistic_tolerance: 0.000001
+winsor_quantiles: [0.005, 0.995]
+selection_frequencies: [0.90, 0.75, 0.50, 0.25]
+coefficient_nonzero_tolerance: 0.00001
+top_rank_fraction: 0.10
+maximum_validation_warning_events_lost: 2
+# Selection uses training/validation only; the already examined test period is
+# scored only AFTER writing the candidate freeze manifest. No independent test claim.

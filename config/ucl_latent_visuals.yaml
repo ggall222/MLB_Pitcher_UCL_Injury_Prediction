@@ -1,0 +1,13 @@
+seed: 20260919
+output_path: reports/injury_supervised_reduction/ucl_focus
+cache_path: data/injury/analysis/supervised_reduction/ucl_focus
+category: Elbow / UCL
+bootstrap_replicates: 300
+# All components retained by the EXISTING validation-selected models enter the heatmap.
+blocks: [Departure, Combined]
+trajectory_components_per_block: 2
+individual_representation: Departure
+calendar_bins: [1, 8, 15, 31, 61]
+last_appearances: 5
+individual_display_limit_sd: 3.0
+

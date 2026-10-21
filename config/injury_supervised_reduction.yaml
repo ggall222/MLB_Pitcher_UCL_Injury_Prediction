@@ -1,0 +1,18 @@
+seed: 20260919
+output_path: reports/injury_supervised_reduction
+cache_path: data/injury/analysis/supervised_reduction
+horizon_days: 30
+logistic_tolerance: 0.000000001
+pls_tolerance: 0.0000000001
+bootstrap_replicates: 300
+training_refits: 12
+stability_categories: [Shoulder, Lower body]
+stability_blocks: [Original 62, Combined]
+component_grids:
+  Original 62: [1, 2, 3, 5, 10, 20, 30]
+  Profile: [1, 2, 3, 5, 8, 12]
+  Departure: [1, 2, 3, 5, 8]
+  Combined: [1, 2, 3, 5, 8, 10, 15, 20]
+# Add the training-learned PCA-90% dimension to BOTH method grids.
+plateau_fraction_of_validation_ap_gain: 0.95
+

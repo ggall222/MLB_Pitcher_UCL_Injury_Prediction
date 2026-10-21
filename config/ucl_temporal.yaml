@@ -1,0 +1,12 @@
+seed: 20261020
+output_path: reports/ucl_temporal
+cache_path: data/injury/analysis/ucl_temporal
+intervals: [[1, 7], [8, 14], [15, 30], [31, 60]]
+representations: [Background, Profile, Departure, Previous 62, Stable 62]
+logistic_C: 1.0
+bootstrap_replicates: 300
+permutation_repeats: 3
+training_refits: 6
+alert_rate: 0.05
+candidate_families: 2
+trajectory_display_families: [Velocity, Release position and variability, Workload and rest, Pitcher background and experience]

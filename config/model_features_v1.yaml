@@ -1,0 +1,272 @@
+version: 1
+prediction_time: after completion of the appearance
+default_population: model_ready_starting_pitcher_appearances
+imputation: none; retain nullable values
+history: Prior windows use all MLB pitching appearances, excluding every current-date
+  appearance.
+era_policy: Long-history features require per-season availability audit; modern_optional
+  features require separate temporal study.
+features:
+- name: avg_fb_velo
+  category: velocity
+  era: long_history
+  rationale: Current FF/SI/FC mean velocity; primary pitch speed signal.
+- name: fb_velo_sd
+  category: velocity
+  era: long_history
+  rationale: Within-appearance fastball speed variability.
+- name: fb_velo_change_vs_prev_3
+  category: velocity
+  era: long_history
+  rationale: Short-term speed deviation from strictly prior outings.
+- name: fb_velo_change_vs_prev_5
+  category: velocity
+  era: long_history
+  rationale: More stable recent speed deviation.
+- name: velo_drop_game
+  category: velocity
+  era: long_history
+  rationale: Late minus early fastball speed in disjoint 20-pitch segments; requires
+    40 fastballs.
+- name: velo_z
+  category: velocity
+  era: long_history
+  rationale: Speed deviation scaled to pitcher-specific prior variability.
+- name: fb_velo_slope_prev_5
+  category: velocity
+  era: long_history
+  rationale: Speed trend over prior five appearances.
+- name: avg_fb_velo_baseline_mean
+  category: velocity
+  era: long_history
+  rationale: Pitcher-specific recent typical fastball speed.
+- name: release_x_avg
+  category: release_mechanics
+  era: long_history
+  rationale: Current lateral release point.
+- name: release_z_avg
+  category: release_mechanics
+  era: long_history
+  rationale: Current release height.
+- name: release_x_sd
+  category: release_mechanics
+  era: long_history
+  rationale: Lateral release repeatability.
+- name: release_z_sd
+  category: release_mechanics
+  era: long_history
+  rationale: Release height repeatability.
+- name: extension_avg
+  category: release_mechanics
+  era: long_history
+  rationale: Mean extension toward the plate.
+- name: extension_sd
+  category: release_mechanics
+  era: long_history
+  rationale: Extension repeatability.
+- name: release_x_change_vs_prev_5
+  category: release_mechanics
+  era: long_history
+  rationale: Change in lateral release point.
+- name: release_z_change_vs_prev_5
+  category: release_mechanics
+  era: long_history
+  rationale: Change in release height.
+- name: extension_change_vs_prev_5
+  category: release_mechanics
+  era: long_history
+  rationale: Change in extension.
+- name: release_x_z
+  category: release_mechanics
+  era: long_history
+  rationale: Lateral release deviation relative to personal baseline.
+- name: release_z_z
+  category: release_mechanics
+  era: long_history
+  rationale: Release height deviation relative to personal baseline.
+- name: extension_z
+  category: release_mechanics
+  era: long_history
+  rationale: Extension deviation relative to personal baseline.
+- name: arm_angle_avg
+  category: release_mechanics
+  era: modern_optional
+  rationale: Observed arm angle; use only in empirically supported modern seasons.
+- name: arm_angle_sd
+  category: release_mechanics
+  era: modern_optional
+  rationale: Arm-angle variability.
+- name: arm_angle_change_vs_prev_5
+  category: release_mechanics
+  era: modern_optional
+  rationale: Recent change in arm angle.
+- name: arm_angle_z
+  category: release_mechanics
+  era: modern_optional
+  rationale: Arm-angle deviation from pitcher baseline.
+- name: spin_avg
+  category: pitch_shape
+  era: long_history
+  rationale: Mean observed spin; pitch mix must be considered.
+- name: spin_change_vs_prev_5
+  category: pitch_shape
+  era: long_history
+  rationale: Recent spin change.
+- name: spin_z
+  category: pitch_shape
+  era: long_history
+  rationale: Pitcher-specific standardized spin change.
+- name: horizontal_movement_avg
+  category: pitch_shape
+  era: long_history
+  rationale: Observed horizontal movement in feet.
+- name: vertical_movement_avg
+  category: pitch_shape
+  era: long_history
+  rationale: Observed vertical movement in feet; not substituted for native IVB.
+- name: horizontal_movement_avg_change_vs_prev_5
+  category: pitch_shape
+  era: long_history
+  rationale: Recent horizontal movement change.
+- name: vertical_movement_avg_change_vs_prev_5
+  category: pitch_shape
+  era: long_history
+  rationale: Recent vertical movement change.
+- name: fastball_usage_pct
+  category: pitch_shape
+  era: long_history
+  rationale: FF/SI/FC share of physical pitches.
+- name: fastball_usage_pct_change_vs_prev_5
+  category: pitch_shape
+  era: long_history
+  rationale: Recent fastball mix change.
+- name: sl_usage_pct
+  category: pitch_shape
+  era: long_history
+  rationale: Slider share, including true zeros when unused.
+- name: sl_usage_pct_change_vs_prev_5
+  category: pitch_shape
+  era: long_history
+  rationale: Recent slider usage change.
+- name: ch_usage_pct
+  category: pitch_shape
+  era: long_history
+  rationale: Changeup usage share.
+- name: cu_usage_pct
+  category: pitch_shape
+  era: long_history
+  rationale: Curveball usage share.
+- name: zone_pct
+  category: command
+  era: long_history
+  rationale: Fraction of measured zones inside 1 through 9.
+- name: location_variability
+  category: command
+  era: long_history
+  rationale: Combined horizontal/vertical location variation.
+- name: strike_pct
+  category: command
+  era: long_history
+  rationale: Strike-or-contact share.
+- name: first_pitch_strike_pct
+  category: command
+  era: long_history
+  rationale: First-pitch strike-or-contact share.
+- name: zone_pct_change_vs_prev_5
+  category: command
+  era: long_history
+  rationale: Zone rate deviation from prior outings.
+- name: location_variability_change_vs_prev_5
+  category: command
+  era: long_history
+  rationale: Recent location variation change.
+- name: walk_rate
+  category: command
+  era: long_history
+  rationale: Official current walks per batter faced.
+- name: hbp_rate
+  category: command
+  era: long_history
+  rationale: Current hit-batter rate.
+- name: total_pitches
+  category: workload
+  era: long_history
+  rationale: Current physical pitch workload, available after the appearance.
+- name: innings_pitched
+  category: workload
+  era: long_history
+  rationale: Current official outs divided by three.
+- name: rest_days
+  category: workload
+  era: long_history
+  rationale: Days without pitching since prior MLB outing.
+- name: pitches_prev_7d
+  category: workload
+  era: long_history
+  rationale: Prior seven-day physical workload from official pitch counts.
+- name: pitches_prev_14d
+  category: workload
+  era: long_history
+  rationale: Prior two-week workload.
+- name: pitches_prev_28d
+  category: workload
+  era: long_history
+  rationale: Prior four-week workload.
+- name: appearances_prev_14d
+  category: workload
+  era: long_history
+  rationale: Prior two-week appearance frequency.
+- name: appearances_prev_28d
+  category: workload
+  era: long_history
+  rationale: Prior four-week appearance frequency.
+- name: season_pitch_count
+  category: workload
+  era: long_history
+  rationale: Year-to-date pitch total through prediction appearance.
+- name: season_innings
+  category: workload
+  era: long_history
+  rationale: Year-to-date innings through prediction appearance.
+- name: previous_season_innings
+  category: workload
+  era: long_history
+  rationale: Completed preceding-year innings, never future current-season total.
+- name: workload_acceleration_7d_vs_21d
+  category: workload
+  era: long_history
+  rationale: Recent daily pitch load minus previous three-week daily load.
+- name: acute_chronic_pitch_ratio
+  category: workload
+  era: long_history
+  rationale: Seven-day relative to 28-day pitch rate; descriptive exposure, not a
+    causal threshold.
+- name: starts_prev_30d
+  category: workload
+  era: long_history
+  rationale: Prior monthly starts.
+- name: starter_share_prev_5
+  category: workload
+  era: long_history
+  rationale: Recent role context distinguishes opener/rotation transitions.
+- name: age_at_appearance
+  category: pitcher_context
+  era: long_history
+  rationale: Age on prediction date.
+- name: throws_left
+  category: pitcher_context
+  era: long_history
+  rationale: Observed hand from this appearance, NULL if inconsistent or unavailable.
+- name: documented_prior_ucl
+  category: pitcher_context
+  era: long_history
+  rationale: Documented procedure before this date; absence means no record, not confirmed
+    no history.
+- name: observed_prior_mlb_starts
+  category: pitcher_context
+  era: long_history
+  rationale: Prior observed MLB starts; left-truncated at study start, not full career.
+- name: days_since_mlb_debut
+  category: pitcher_context
+  era: long_history
+  rationale: Elapsed days since recorded debut, not future career length.

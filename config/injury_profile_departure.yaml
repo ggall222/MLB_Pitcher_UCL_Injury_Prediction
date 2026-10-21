@@ -1,0 +1,27 @@
+seed: 20260919
+output_path: reports/injury_profile_departure
+cache_path: data/injury/analysis/profile_departure
+horizon_days: 30
+minimum_warning_days: 7
+logistic_tolerance: 0.000000001
+bootstrap_replicates: 300
+training_refits: 12
+calibration_bins: 10
+focus_categories: [Elbow / UCL, Shoulder, Forearm, Lower body]
+profile_context:
+  - age_at_appearance
+  - throws_left
+  - observed_prior_mlb_starts
+  - days_since_mlb_debut
+  - prior_reported_il_count
+# Workload and calendar/current role are shared adjustment variables, not forcibly
+# called persistent susceptibility or within-pitcher mechanical departure.
+prior_slopes:
+  - fb_velo_slope_prev_5
+  - release_x_slope_prev_5
+  - release_z_slope_prev_5
+  - release_x_sd_slope_prev_5
+  - release_z_sd_slope_prev_5
+  - extension_slope_prev_5
+  - spin_slope_prev_5
+  - zone_pct_slope_prev_5

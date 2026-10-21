@@ -1,0 +1,18 @@
+seed: 20260919
+output_path: reports/injury_signal_analysis
+cache_path: data/injury/analysis/signal_analysis
+horizon_days: 30
+minimum_warning_days: 7
+bootstrap_replicates: 300
+permutation_repeats: 5
+categories: [Elbow / UCL, Shoulder, Forearm, Other arm, Trunk / neck, Lower body, Hand / wrist]
+focus_categories: [Elbow / UCL, Shoulder, Forearm, Lower body]
+modern_start: '2020-01-01'
+minimum_events_for_timing: 30
+last_appearances: 5
+calendar_bins: [1, 8, 15, 31, 61]
+calendar_labels: [1–7d, 8–14d, 15–30d, 31–60d]
+strong_baseline_minimum: 15
+absolute_z_reference: 1.0
+# No clinical change threshold or breakpoint is assumed. Timing uses simultaneous
+# within-feature bands and at least two adjacent supported points, not a p-value scan.

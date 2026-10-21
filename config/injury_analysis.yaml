@@ -1,0 +1,19 @@
+seed: 20260919
+database_path: database/mlb_ucl.duckdb
+events_path: data/injury/processed/mlb_pitcher_injury_events_2015_2026.parquet
+output_path: reports/injury_type_analysis
+cache_path: data/injury/analysis
+train_end: '2021-12-31'
+validation_end: '2023-12-31'
+test_end: '2025-12-31'
+horizons: [14, 30, 60]
+embargo_days: 60
+minimum_prior_appearances: 5
+negative_followup_grace_days: 30
+minimum_training_events: 30
+minimum_validation_events: 10
+minimum_test_events: 10
+maximum_training_missing_fraction: 0.40
+bootstrap_replicates: 300
+logistic_C: 1.0
+alert_rates: [0.01, 0.025, 0.05, 0.10]

@@ -1,0 +1,17 @@
+start_date: '2015-01-01'
+end_date: '2026-10-20'
+maximum_study_date: '2026-12-31'
+database_path: database/mlb_ucl.duckdb
+output_path: data/injury/revised_2026
+report_path: reports/ucl_revised_2026/injury_refresh
+network_workers: 4
+request_timeout_seconds: 60
+request_retries: 3
+refresh_metadata_hours: 24
+refresh_recent_days: 294
+activation_max_gap_days: 730
+long_duration_review_days: 180
+maximum_retroactive_gap_days: 31
+continuation_max_gap_days: 180
+rosterresource_retro_tolerance_days: 3
+rosterresource_combined_date_tolerance_days: 7

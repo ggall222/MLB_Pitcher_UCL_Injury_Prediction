@@ -1,0 +1,25 @@
+# Bounded first build; expand to 2022-03-01 / null for the full research cohort.
+start_date: '2024-03-20'
+end_date: '2024-04-30'  # null means yesterday; --end overrides
+# Follow-up beyond pitch sample is required to label late-sample appearances.
+followup_days: 90
+injury_link_lookback_days: 180
+# An unresolved surgery onset cannot establish healthy negatives in this interval.
+uncertain_onset_lookback_days: 180
+baseline_appearances: 20
+baseline_min_history: 5
+velocity_segment_pitches: 20
+high_velocity_mph: 95
+fastball_types: [FF, SI, FC]
+major_pitch_types: [FF, SI, FC, SL, ST, CU, KC, CH, FS, SV]
+network_workers: 4
+request_timeout_seconds: 90
+request_retries: 3
+refresh_metadata_hours: 24
+database_path: database/mlb_ucl.duckdb
+cache_path: data/cache
+export_path: data/exports
+report_path: reports
+roegele_sheet_id: 1gQujXQQGOVNaiuwSN680Hq-FDVsCwvN-3AazykOBON0
+include_internal_brace: true
+include_mlb_pitch_tracking: true

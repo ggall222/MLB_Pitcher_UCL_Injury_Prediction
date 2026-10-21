@@ -1,0 +1,13 @@
+seed: 20260919
+output_path: reports/injury_dimensionality_reduction
+cache_path: data/injury/analysis/dimensionality_reduction
+horizon_days: 30
+fixed_components: [5, 10, 20]
+variance_fraction: 0.90
+logistic_tolerance: 0.000000001
+plotted_components: 3
+pitcher_bootstrap_refits: 12
+balanced_training_outings_per_pitcher: 20
+focus_categories: [Elbow / UCL, Shoulder, Forearm, Lower body]
+# No label-based dimension selection for descriptive maps. Prediction dimension
+# selection uses validation AP only; the previously examined test remains exploratory.
