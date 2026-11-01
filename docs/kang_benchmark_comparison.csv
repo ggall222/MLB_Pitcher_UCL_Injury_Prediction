@@ -1,0 +1,18 @@
+Component,Kang et al.,Our benchmark,Planned extension,match_status
+Period,2017–2025 regular seasons,Same years and game type R,Expanded historical chronological training,exact design period
+Observation,Pitcher-game; season-based eligibility,One MLBAM pitcher × game ID; doubleheaders remain separate,Preserve completed-outing landmark,exact observation concept
+Endpoint,First shoulder **or** elbow IL event per pitcher-season; separate endpoint models,Initial official-transaction anatomy; first combined shoulder/elbow placement; forearm remains separate,Adjudicated UCL-specific endpoint,approximate source/QA
+Reference date,IL placement,"`transaction_date`, not retroactive effective date, surgery or activation",Existing adjudicated earliest defensible date rules,exact IL-placement proxy; approximate source
+Sources,Savant/Baseball Reference; Spotrac/Pro Sports Transactions,Existing Savant + official boxscore/people + MLB transaction episode pipeline,Retain provenance and UCL adjudication evidence,approximate source coverage
+Exposure/missingness,At least 5 season appearances; at most 10% games missing a required field,Same thresholds on 23 declared inputs; residual NaNs retained,Landmark eligibility and historical support rules,exact thresholds; approximate required fields
+Role,Majority role in season; innings break ties,"Official appearance starts; count majority, then outs by role; unresolved ties excluded",Role known at prediction time,approximate tie handling
+Controls,Methods: no shoulder/elbow IL; Results: no IL,Primary no IL; target-specific controls counted separately,Full prospective-style risk set and competing-event handling,unresolved publication ambiguity
+Window,Cumulative 7–49 days pre-IL,Seven fixed weekly windows; earlier pre-IL games negative,Prespecified lead-time/family contrasts,approximate grid and outside-window treatment
+Predictors,"Age, outing workload, release/velocity/spin, pitch proportions",23 mapped inputs; 18 existing plus 5 necessary aggregates,"Limited original families, not all engineered derivatives",approximate mapped feature implementation
+Preprocessing,Absolute horizontal release; domain Pearson pruning,Same conceptual operations; existing source QC; native XGBoost NaN handling,Training-only preprocessing retained,approximate residual NaN/cleaning
+Learner,Class-weighted XGBoost,Same family; one fixed parameter configuration,Hold learner fixed for attributable comparisons,exact model family; approximate parameters
+Selection,Repeated training-only gain/stability selection; domain correlation >0.7,"Three training subsample gain fits and greedy domain pruning, nested inside CV",Frozen selection within chronological development,approximate bounded selection
+Split,Approximately 67/33 stratified random pitcher-games,"Same ratio; fixed reservation stratified at 49 days, reused across windows",Train 2015–2023 / validate 2024–2025 / reserve 2026,exact ratio/grain; approximate stratification reuse
+Dependence,Same pitcher can occur in train/test; pitcher-season bootstrap,Overlap explicitly reported; 500 pitcher-season AUC bootstraps,Event-aware chronological separation and existing embargo,exact bootstrap cluster/iterations; overlap retained
+Window selection,GAM-smoothed CV AUC; slope band at 25–35% maximum slope,Highest mean CV AUC; shorter exact tie; **not a GAM replication**,"Prespecified temporal comparisons, not test-selected windows","deliberate foundation approximation, not published plateau"
+Metrics,Development and holdout ROC-AUC with bootstrap CI,"AUC primary; AP, prevalence, PR lift, Brier and mean risk descriptive","Event recall, lead time, calibration and alert burden",AUC match; added descriptive metrics

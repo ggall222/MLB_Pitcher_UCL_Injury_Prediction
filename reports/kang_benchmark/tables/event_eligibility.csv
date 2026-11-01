@@ -1,0 +1,9 @@
+endpoint,eligible_case,has_preinjury_appearance,case_exclusion,events
+elbow,False,False,ambiguous first placement/episode,33
+elbow,False,False,pitcher-season ineligible or absent,155
+elbow,True,False,,42
+elbow,True,True,,334
+shoulder,False,False,ambiguous first placement/episode,28
+shoulder,False,False,pitcher-season ineligible or absent,101
+shoulder,True,False,,55
+shoulder,True,True,,473

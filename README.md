@@ -1,4 +1,14 @@
 <<<<<<< HEAD
+
+## Locked temporal replication and operational warning
+
+The new [replication synthesis](notebooks/ucl_temporal_replication/README.md) applies the original fixed L2 temporal models and nominated Velocity / Pitcher background and experience families to refreshed 2026 data. It preserves the original 2015–2021 training and 2022–2023 development freeze, with 2024–2025 remaining exploratory transfer. 2026 is a locked retrospective replication sensitivity, not prospective confirmation. See the [computed findings](reports/ucl_temporal_replication/summary.md) and [methods](docs/ucl_temporal_replication_methods.md) for event influence, shared-event contrasts, development-fixed alert episodes, calibration and workload interpretation.
+
+```bash
+.venv/bin/python -m src.injury_analysis.ucl_replication_pipeline
+.venv/bin/python scripts/run_injury_analysis_notebooks.py --suite ucl-replication
+```
+
 # MLB_Pitcher_UCL_Injury_Prediction
 =======
 # MLB starting-pitcher UCL early-warning research database

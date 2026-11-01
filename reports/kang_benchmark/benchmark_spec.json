@@ -1,0 +1,169 @@
+{
+  "config": {
+    "version": "kang_foundation_v1",
+    "paper_doi": "10.1177/23259671261477532",
+    "database": "database/mlb_ucl.duckdb",
+    "injury_transactions": "data/injury/revised_2026/processed/mlb_pitcher_injury_transactions_2015_2026.parquet",
+    "injury_episode_config": "config/injury.yaml",
+    "output": "reports/kang_benchmark",
+    "cache": "data/injury/analysis/kang_benchmark",
+    "start_date": "2017-01-01",
+    "end_date": "2025-12-31",
+    "game_type": "R",
+    "positions": [
+      "P",
+      "TWP"
+    ],
+    "minimum_season_appearances": 5,
+    "maximum_season_missing_fraction": 0.1,
+    "primary_control_rule": "no_any_il",
+    "control_rules": [
+      "no_any_il",
+      "no_shoulder_elbow_il"
+    ],
+    "windows_days": [
+      7,
+      14,
+      21,
+      28,
+      35,
+      42,
+      49
+    ],
+    "seed": 20261029,
+    "test_fraction": 0.33,
+    "cv_folds": 5,
+    "window_selection": "maximum_mean_development_cv_auc_shorter_tie",
+    "selector": {
+      "pearson_threshold": 0.7,
+      "gain_refits": 3,
+      "subsample_fraction": 0.8,
+      "drop_zero_gain": false
+    },
+    "bootstrap_iterations": 500,
+    "xgboost": {
+      "n_estimators": 150,
+      "max_depth": 3,
+      "learning_rate": 0.05,
+      "min_child_weight": 5,
+      "reg_lambda": 1.0,
+      "reg_alpha": 0.0,
+      "subsample": 1.0,
+      "colsample_bytree": 1.0,
+      "tree_method": "hist",
+      "n_jobs": 2,
+      "eval_metric": "logloss",
+      "objective": "binary:logistic"
+    }
+  },
+  "input_manifest": {
+    "fingerprint": "cde9fc13505711985366ca5a961ab6eadb4a704866ce695a620fc896a5bfa665",
+    "config": {
+      "version": "kang_foundation_v1",
+      "paper_doi": "10.1177/23259671261477532",
+      "database": "database/mlb_ucl.duckdb",
+      "injury_transactions": "data/injury/revised_2026/processed/mlb_pitcher_injury_transactions_2015_2026.parquet",
+      "injury_episode_config": "config/injury.yaml",
+      "output": "reports/kang_benchmark",
+      "cache": "data/injury/analysis/kang_benchmark",
+      "start_date": "2017-01-01",
+      "end_date": "2025-12-31",
+      "game_type": "R",
+      "positions": [
+        "P",
+        "TWP"
+      ],
+      "minimum_season_appearances": 5,
+      "maximum_season_missing_fraction": 0.1,
+      "primary_control_rule": "no_any_il",
+      "control_rules": [
+        "no_any_il",
+        "no_shoulder_elbow_il"
+      ],
+      "windows_days": [
+        7,
+        14,
+        21,
+        28,
+        35,
+        42,
+        49
+      ],
+      "seed": 20261029,
+      "test_fraction": 0.33,
+      "cv_folds": 5,
+      "window_selection": "maximum_mean_development_cv_auc_shorter_tie",
+      "selector": {
+        "pearson_threshold": 0.7,
+        "gain_refits": 3,
+        "subsample_fraction": 0.8,
+        "drop_zero_gain": false
+      },
+      "bootstrap_iterations": 500,
+      "xgboost": {
+        "n_estimators": 150,
+        "max_depth": 3,
+        "learning_rate": 0.05,
+        "min_child_weight": 5,
+        "reg_lambda": 1.0,
+        "reg_alpha": 0.0,
+        "subsample": 1.0,
+        "colsample_bytree": 1.0,
+        "tree_method": "hist",
+        "n_jobs": 2,
+        "eval_metric": "logloss",
+        "objective": "binary:logistic"
+      }
+    },
+    "database_read_only": true,
+    "sql_end_date": "2025-12-31",
+    "source_database_stat": [
+      20481847296,
+      1792617242170071328
+    ],
+    "episode_reconstruction_end": "2025-12-31",
+    "episode_transactions": 9825,
+    "episode_observed_appearances": 215461,
+    "injury_sha256": "28affe6c18d5643799fc75c285476c224e860315f9aceab3e7f8ea95d4a0b52a",
+    "files": {
+      "appearances.parquet": "0985710ba6d93c500bc244c4ef950f1ac7a2df6824170c107e276c9525ef999b",
+      "injury_placements.parquet": "42b6554d0284aa3f13979aafea2c825acc01adb1e525535aec67698a6b55011d"
+    }
+  },
+  "packages": {
+    "duckdb": "1.4.3",
+    "pandas": "2.2.3",
+    "numpy": "2.0.2",
+    "scikit-learn": "1.6.1",
+    "xgboost": "2.1.4"
+  },
+  "python": "3.9.6",
+  "feature_names": [
+    "age_at_appearance",
+    "total_pitches",
+    "innings_pitched",
+    "batters_faced",
+    "avg_velocity",
+    "max_velocity",
+    "kang_velocity_sd",
+    "spin_avg",
+    "kang_spin_max",
+    "kang_spin_sd",
+    "kang_release_abs_x_avg",
+    "kang_release_y_avg",
+    "release_z_avg",
+    "extension_avg",
+    "fs_usage_pct",
+    "sl_usage_pct",
+    "ff_usage_pct",
+    "st_usage_pct",
+    "kc_usage_pct",
+    "fc_usage_pct",
+    "si_usage_pct",
+    "cu_usage_pct",
+    "ch_usage_pct"
+  ],
+  "development_period": "2017\u20132025 random games; not chronological",
+  "protected_test_year": 2026,
+  "executed_modeling": true
+}

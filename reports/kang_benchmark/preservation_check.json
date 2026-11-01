@@ -1,0 +1,13 @@
+{
+  "preexisting_paths_checked": 1154,
+  "comparison": "file existence, byte size and modification timestamp",
+  "changed_preexisting_paths": [],
+  "model_artifacts_hash_verified": 4,
+  "cohorts_verified": 8,
+  "source_database_unchanged": true,
+  "legacy_stages_unchanged": true,
+  "changes_outside_new_stage": [
+    ".gitignore: targeted public-output exceptions only"
+  ],
+  "episode_cutoff": "2025-12-31"
+}

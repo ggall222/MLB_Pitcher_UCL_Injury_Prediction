@@ -1,0 +1,41 @@
+task,quantity,kang,replication,explanation,numeric_difference
+elbow_starter,pitcher-games,34285,34477,Official-source IL coding and Methods control definition; no additional episode QA exclusions,192.0
+elbow_starter,pitcher-seasons,1114,1665,Official-source IL coding and Methods control definition; no additional episode QA exclusions,551.0
+elbow_starter,unique pitchers within role,553,620,Official-source IL coding and Methods control definition; no additional episode QA exclusions,67.0
+elbow_starter,injury events with pre-IL games,146,123,Official-source IL coding and Methods control definition; no additional episode QA exclusions,-23.0
+elbow_starter,slope-band window days,27.5–29.5,26.88–29.39,Daily candidate grid and mgcv defaults are disclosed approximations,
+elbow_starter,test ROC-AUC,0.868,0.924505608832282,"Different source cohort, unknown original hyperparameters/selection rules, selected window",0.05650560883228206
+elbow_starter,top five mean total-Gain features,"release Z, absolute X, extension, slider fraction, velocity SD","age_at_appearance, release_z_avg, kang_release_abs_x_avg, extension_avg, kang_velocity_sd",Training bootstrap Gain; correlated alternatives can exchange rank,
+elbow_reliever,pitcher-games,81975,119590,Official-source IL coding and Methods control definition; no additional episode QA exclusions,37615.0
+elbow_reliever,pitcher-seasons,2856,3669,Official-source IL coding and Methods control definition; no additional episode QA exclusions,813.0
+elbow_reliever,unique pitchers within role,1101,1418,Official-source IL coding and Methods control definition; no additional episode QA exclusions,317.0
+elbow_reliever,injury events with pre-IL games,284,233,Official-source IL coding and Methods control definition; no additional episode QA exclusions,-51.0
+elbow_reliever,slope-band window days,19.7–21.3,23.69–26.33,Daily candidate grid and mgcv defaults are disclosed approximations,
+elbow_reliever,test ROC-AUC,0.815,0.909715334704099,"Different source cohort, unknown original hyperparameters/selection rules, selected window",0.0947153347040991
+elbow_reliever,top five mean total-Gain features,"release Z, absolute X, age, extension, velocity","age_at_appearance, release_z_avg, kang_release_abs_x_avg, extension_avg, kang_spin_max",Training bootstrap Gain; correlated alternatives can exchange rank,
+shoulder_starter,pitcher-games,36354,35384,Official-source IL coding and Methods control definition; no additional episode QA exclusions,-970.0
+shoulder_starter,pitcher-seasons,1180,1735,Official-source IL coding and Methods control definition; no additional episode QA exclusions,555.0
+shoulder_starter,unique pitchers within role,563,627,Official-source IL coding and Methods control definition; no additional episode QA exclusions,64.0
+shoulder_starter,injury events with pre-IL games,212,193,Official-source IL coding and Methods control definition; no additional episode QA exclusions,-19.0
+shoulder_starter,slope-band window days,22.8–25.7,12.69–32.93,Daily candidate grid and mgcv defaults are disclosed approximations,
+shoulder_starter,test ROC-AUC,0.815,0.855468012499709,"Different source cohort, unknown original hyperparameters/selection rules, selected window",0.040468012499709105
+shoulder_starter,top five mean total-Gain features,"extension, mean spin, maximum velocity, absolute X, age","age_at_appearance, kang_release_abs_x_avg, extension_avg, release_z_avg, spin_avg",Training bootstrap Gain; correlated alternatives can exchange rank,
+shoulder_reliever,pitcher-games,83897,120704,Official-source IL coding and Methods control definition; no additional episode QA exclusions,36807.0
+shoulder_reliever,pitcher-seasons,2905,3737,Official-source IL coding and Methods control definition; no additional episode QA exclusions,832.0
+shoulder_reliever,unique pitchers within role,1109,1421,Official-source IL coding and Methods control definition; no additional episode QA exclusions,312.0
+shoulder_reliever,injury events with pre-IL games,333,301,Official-source IL coding and Methods control definition; no additional episode QA exclusions,-32.0
+shoulder_reliever,slope-band window days,18.6–20.3,27.26–34.46,Daily candidate grid and mgcv defaults are disclosed approximations,
+shoulder_reliever,test ROC-AUC,0.797,0.896084723252238,"Different source cohort, unknown original hyperparameters/selection rules, selected window",0.09908472325223794
+shoulder_reliever,top five mean total-Gain features,"release Z, extension, absolute X, age, maximum velocity","age_at_appearance, release_z_avg, kang_release_abs_x_avg, extension_avg, max_velocity",Training bootstrap Gain; correlated alternatives can exchange rank,
+elbow_combined,pitcher-games,116260,154067,Controls shared across endpoint analyses; individual pitchers counted once across role strata,37807.0
+elbow_combined,pitcher-seasons,3970,5334,Controls shared across endpoint analyses; individual pitchers counted once across role strata,1364.0
+elbow_combined,unique pitchers,1654,1758,Controls shared across endpoint analyses; individual pitchers counted once across role strata,104.0
+elbow_combined,injury events with pre-IL games,430,356,Controls shared across endpoint analyses; individual pitchers counted once across role strata,-74.0
+shoulder_combined,pitcher-games,120251,156088,Controls shared across endpoint analyses; individual pitchers counted once across role strata,35837.0
+shoulder_combined,pitcher-seasons,4085,5472,Controls shared across endpoint analyses; individual pitchers counted once across role strata,1387.0
+shoulder_combined,unique pitchers,1672,1761,Controls shared across endpoint analyses; individual pitchers counted once across role strata,89.0
+shoulder_combined,injury events with pre-IL games,545,494,Controls shared across endpoint analyses; individual pitchers counted once across role strata,-51.0
+raw_pitching,pitcher-games,175685,175708,"Retrieved source coverage, required-field missingness and unresolved role ties",23.0
+raw_pitching,pitcher-seasons,7491,7491,"Retrieved source coverage, required-field missingness and unresolved role ties",0.0
+missingness_and_role,pitcher-games,172022,172044,"Retrieved source coverage, required-field missingness and unresolved role ties",22.0
+missingness_and_role,pitcher-seasons,5943,5943,"Retrieved source coverage, required-field missingness and unresolved role ties",0.0

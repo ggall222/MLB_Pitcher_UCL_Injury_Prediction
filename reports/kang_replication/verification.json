@@ -1,0 +1,17 @@
+{
+  "database_read_only": true,
+  "database_unchanged": true,
+  "cohorts": 4,
+  "completed_tasks": {
+    "elbow_starter": "complete",
+    "elbow_reliever": "complete",
+    "shoulder_starter": "complete",
+    "shoulder_reliever": "complete"
+  },
+  "study_years": [
+    2017,
+    2025
+  ],
+  "primary_metric": "ROC-AUC",
+  "no_ucl_endpoint": true
+}

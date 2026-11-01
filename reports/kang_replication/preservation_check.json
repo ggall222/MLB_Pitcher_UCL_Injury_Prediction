@@ -1,0 +1,28 @@
+{
+  "verified_on": "2026-11-01",
+  "timezone": "America/New_York",
+  "pre_stage_snapshot_sha256": "39be9c3f395cf61532d4c956467f10465122ed4f1f8a05919b6e585ab11ff355",
+  "pre_existing_paths_checked": 1213,
+  "comparison_method": "file size and mtime_ns; no claim of a pre-stage content-hash comparison",
+  "changed_paths": [],
+  "pre_existing_metadata_preserved": true,
+  "database_record": {
+    "path": "database/mlb_ucl.duckdb",
+    "size": 20481847296,
+    "mtime_ns": 1792617242170071328
+  },
+  "final_task_artifact_hashes_verified": 56,
+  "readable_intermediate_r_checkpoints_with_matching_signatures": 2372,
+  "partial_task_tmp_files": 0,
+  "current_cohort_r_code_config_software_fingerprints_match": true,
+  "report_artifacts_validated": 20,
+  "notebook_executed_code_cells": 7,
+  "notebook_error_outputs": 0,
+  "previous_full_test_suite_result": "225 passed in 9.85s",
+  "model_refits_on_resume": 0,
+  "intentional_stage_navigation_changes_outside_pre_stage_inventory": [
+    ".gitignore",
+    "RESEARCH_DESIGN.md"
+  ],
+  "notes": "Unrelated pre-existing working-tree edits are preserved. Archived seed-API attempt is not used as a completed result."
+}

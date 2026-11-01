@@ -1,0 +1,17 @@
+# Locked replication of the existing temporal freeze; no new model fitting.
+seed: 20261020
+output_path: reports/ucl_temporal_replication
+cache_path: data/injury/analysis/ucl_temporal_replication
+observation_end: '2026-10-20'
+replication_year: 2026
+intervals: [[1, 7], [8, 14], [15, 30], [31, 60]]
+candidate_families: [Velocity, Pitcher background and experience]
+alert_rates: [0.01, 0.025, 0.05, 0.10]
+threshold_source: original_2022_2023_validation_predictions
+max_episode_gap_days: 30
+reliability_bins: 5
+minimum_calibration_events: 10
+minimum_calibration_positive_rows: 20
+bootstrap_replicates: 300
+model_refitting_allowed: false
+selection_allowed: false

@@ -1,0 +1,5 @@
+task,status,training_games,test_games,candidate_windows,selection_fits,importance_refits,independently_verified_auc,shared_pitchers,study_period_valid,artifact_hashes_valid
+elbow_starter,passed,23098,11379,43,250,500,0.924505608832282,614,True,True
+elbow_reliever,passed,80124,39466,43,250,500,0.909715334704099,1403,True,True
+shoulder_starter,passed,23706,11678,43,250,500,0.855468012499709,617,True,True
+shoulder_reliever,passed,80871,39833,43,250,500,0.896084723252238,1406,True,True

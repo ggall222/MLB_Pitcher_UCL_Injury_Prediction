@@ -1,0 +1,46 @@
+# Approximate reference benchmark, NOT the final chronological UCL study.
+version: kang_foundation_v1
+paper_doi: 10.1177/23259671261477532
+database: database/mlb_ucl.duckdb
+injury_transactions: data/injury/revised_2026/processed/mlb_pitcher_injury_transactions_2015_2026.parquet
+injury_episode_config: config/injury.yaml
+# Reuse the episode builder on <=2025 transactions; do not inherit QA revised in 2026.
+output: reports/kang_benchmark
+cache: data/injury/analysis/kang_benchmark
+start_date: '2017-01-01'
+end_date: '2025-12-31'
+game_type: R
+positions: [P, TWP]
+minimum_season_appearances: 5
+maximum_season_missing_fraction: 0.10
+# Results describe no IL; Methods describe no shoulder/elbow IL. Audit both.
+primary_control_rule: no_any_il
+control_rules: [no_any_il, no_shoulder_elbow_il]
+windows_days: [7, 14, 21, 28, 35, 42, 49]
+seed: 20261029
+test_fraction: 0.33
+cv_folds: 5
+# One development split shared across windows, stratified at maximum window.
+# No exact GAM plateau reconstruction: basis/penalty/grid not reported.
+window_selection: maximum_mean_development_cv_auc_shorter_tie
+selector:
+  pearson_threshold: 0.70
+  gain_refits: 3
+  subsample_fraction: 0.80
+  # Deliberately simpler than paper's 50 repetitions and unspecified cutoffs.
+  drop_zero_gain: false
+bootstrap_iterations: 500
+xgboost:
+  n_estimators: 150
+  max_depth: 3
+  learning_rate: 0.05
+  min_child_weight: 5
+  reg_lambda: 1.0
+  reg_alpha: 0.0
+  subsample: 1.0
+  colsample_bytree: 1.0
+  tree_method: hist
+  n_jobs: 2
+  eval_metric: logloss
+  objective: binary:logistic
+  # No tuning; inverse-frequency sample weights calculated inside each fit.

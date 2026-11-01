@@ -1,0 +1,9 @@
+endpoint,role,control_definition,games,unique_pitchers,pitcher_seasons,events,control_seasons,unknown_diagnosis_control_seasons
+elbow,starter,no_shoulder_elbow_il,34477,620,1665,123,1542,127
+elbow,starter,no_any_il,21884,538,1068,123,945,0
+elbow,reliever,no_shoulder_elbow_il,119590,1418,3669,233,3436,194
+elbow,reliever,no_any_il,88929,1314,2781,233,2548,0
+shoulder,starter,no_shoulder_elbow_il,35384,627,1735,193,1542,127
+shoulder,starter,no_any_il,22791,550,1138,193,945,0
+shoulder,reliever,no_shoulder_elbow_il,120704,1421,3737,301,3436,194
+shoulder,reliever,no_any_il,90043,1315,2849,301,2548,0

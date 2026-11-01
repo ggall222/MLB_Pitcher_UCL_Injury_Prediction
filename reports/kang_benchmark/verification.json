@@ -1,0 +1,11 @@
+{
+  "database_unchanged": true,
+  "read_only": true,
+  "earliest_date": "2017-04-02 00:00:00",
+  "latest_date": "2025-09-28 00:00:00",
+  "no_2026_rows": true,
+  "duplicate_appearance_keys": 0,
+  "cohort_reports_written": true,
+  "reference_models_completed": 4,
+  "source_fingerprint": "cde9fc13505711985366ca5a961ab6eadb4a704866ce695a620fc896a5bfa665"
+}

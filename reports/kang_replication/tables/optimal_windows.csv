@@ -1,0 +1,5 @@
+task,lower,upper,selected,segments,maximum_slope,status,selected_day_in_band
+elbow_starter,26.88,29.39,28,1,0.0146,inferred_with_disclosed_gam_settings,True
+elbow_reliever,23.69,26.33,25,1,0.0128,inferred_with_disclosed_gam_settings,True
+shoulder_starter,12.69,32.93,23,4,0.0193,inferred_with_disclosed_gam_settings,False
+shoulder_reliever,27.26,34.46,31,1,0.0119,inferred_with_disclosed_gam_settings,True

@@ -1,0 +1,57 @@
+# Parent-paper replication only. Unreported choices are documented, not tuned.
+version: kang_replication_v1
+paper_doi: 10.1177/23259671261477532
+database: database/mlb_ucl.duckdb
+injury_transactions: data/injury/revised_2026/processed/mlb_pitcher_injury_transactions_2015_2026.parquet
+injury_episode_config: config/injury.yaml
+output: reports/kang_replication
+cache: data/injury/analysis/kang_replication
+start_date: '2017-01-01'
+end_date: '2025-12-31'
+game_type: R
+minimum_season_appearances: 5
+maximum_season_missing_fraction: 0.10
+anatomy_field: injury_region
+primary_control_rule: no_shoulder_elbow_il
+outside_window_case_games: negative
+features: appendix_a1
+window_min: 7
+window_max: 49
+window_step: 1  # increment not reported; integer calendar days, no added horizons
+seed: 20261030  # author seed unavailable
+test_fraction: 0.33
+cv_folds: 5
+selection_repetitions: 50
+selection_subset_fraction: 0.80  # not reported
+minimum_selection_frequency: 0.50  # not reported; use-in-tree frequency
+minimum_mean_gain: 0.0  # no unpublished effect-size cutoff claimed
+correlation_threshold: 0.70
+bootstrap_iterations: 500
+importance_bootstrap_iterations: 500
+gam:
+  basis: tp
+  k: 10
+  method: GCV.Cp
+  derivative_step: 0.0001
+  grid_step: 0.01
+  low_fraction: 0.25
+  high_fraction: 0.35
+  final_window_rule: rounded_band_midpoint  # final integer rule not reported
+# Author hyperparameters/tuning grid unavailable: a single untuned R-XGBoost
+# default-style specification; no search and no use of previous project scores.
+xgboost:
+  objective: binary:logistic
+  booster: gbtree
+  eval_metric: auc
+  eta: 0.3
+  max_depth: 6
+  min_child_weight: 1
+  lambda: 1
+  alpha: 0
+  subsample: 1.0
+  colsample_bytree: 1.0
+  tree_method: hist
+  nthread: 1
+nrounds: 100
+rscript: Rscript
+workers: 4

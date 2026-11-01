@@ -20,7 +20,7 @@ from src.injury_analysis.common import OUT, source_signature
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--from-notebook',type=int,default=1,choices=range(1,9))
-    parser.add_argument('--suite',choices=['injury-types','injury-signals','injury-reduction','injury-profiles','injury-supervised','ucl-visuals','feature-consolidation','ucl-dynamic','ucl-nonlinear','ucl-temporal'],default='injury-types')
+    parser.add_argument('--suite',choices=['injury-types','injury-signals','injury-reduction','injury-profiles','injury-supervised','ucl-visuals','feature-consolidation','ucl-dynamic','ucl-nonlinear','ucl-temporal','ucl-replication'],default='injury-types')
     args=parser.parse_args()
     if args.suite!='injury-types' and args.from_notebook>3:
         parser.error('The extension suites each have three notebooks.')
@@ -66,6 +66,10 @@ def main():
         from src.injury_analysis.ucl_temporal_common import OUT as temporal_output
         output=temporal_output
         notebook_directory=ROOT/'notebooks/ucl_temporal'
+    elif args.suite=='ucl-replication':
+        from src.injury_analysis.ucl_replication_common import OUT as replication_output
+        output=replication_output
+        notebook_directory=ROOT/'notebooks/ucl_temporal_replication'
     # Install the kernel only inside this project's Python environment.
     subprocess.run([sys.executable,'-m','ipykernel','install','--prefix',sys.prefix,
         '--name','mlb-ucl-analysis','--display-name','MLB UCL analysis (.venv)'],check=True)
