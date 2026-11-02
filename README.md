@@ -84,7 +84,7 @@ The central database is **`database/mlb_ucl.duckdb`**. [data/SOURCE_TABLES.md](d
 ## Install and run
 
 ```bash
-cd "/Users/garrettgall/Desktop/MLB pitch stats/mlb_ucl_project"
+cd "/Users/(username)/MLB pitch stats/mlb_ucl_project"
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
 
