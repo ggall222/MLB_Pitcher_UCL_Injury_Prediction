@@ -1,0 +1,5 @@
+outcome,role,games,pitcher_seasons,unique_pitchers,injury_events,injured_pitchers,control_games,case_games
+elbow,starter,34477,1665,620,123,106,32975,1502
+elbow,reliever,119590,3669,1418,233,208,114349,5241
+ucl,starter,33218,1567,599,36,36,32853,365
+ucl,reliever,114915,3466,1389,34,34,114304,611

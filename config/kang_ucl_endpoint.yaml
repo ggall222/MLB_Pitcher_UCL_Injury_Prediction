@@ -1,0 +1,14 @@
+# Extension 1 changes the endpoint; all experimental settings inherit verbatim.
+benchmark_config: config/kang_replication.yaml
+output: reports/kang_ucl_endpoint
+cache: data/injury/analysis/kang_ucl_endpoint
+adjudicated_events: data/injury/analysis/ucl_temporal_replication/adjudicated_events.parquet
+adjudication_checkpoint: data/injury/analysis/ucl_temporal_replication/endpoint_checkpoint.json
+endpoint_implementation: src/injury_analysis/ucl_dynamic_endpoint.py
+endpoint_flag: endpoint_primary
+reference_date: prediction_reference_date
+cohort_policy: first_broad_shoulder_elbow_or_confirmed_ucl_episode
+control_policy: preserve_benchmark_controls_except_confirmed_ucl_promotions
+endpoint_source_observation_end: '2026-10-20'
+study_start: '2017-01-01'
+study_end: '2025-12-31'

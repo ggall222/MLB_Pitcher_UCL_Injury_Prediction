@@ -1,0 +1,151 @@
+injury_event_id,player_id,season,initial_injury_region,injury_region,evidence_category,prediction_reference_date,transaction_date,ucl_confirmation_reported_date,benchmark_mapping_status
+c3db3b49bf107cb0ee0ecbb4042dab32,448281,2022,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2022-04-20,2022-04-20,2026-09-18 21:05:36.194884,retained_benchmark_elbow
+afab452e6fb2b11ea8cb5033957b3ebb,456501,2018,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2018-07-29,2018-07-30,2026-10-21 21:01:02.472654,earlier_broad_shoulder_elbow_or_UCL_event
+fbab79485cd554a6eff86e9f6a412dad,456713,2018,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2018-06-14,2018-06-15,2026-10-21 21:01:02.592230,retained_benchmark_elbow
+fc257228fa3533fa68e069decb0064d4,474029,2017,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2017-04-23,2017-04-25,2026-10-21 21:01:02.482927,retained_benchmark_elbow
+ef0daa5e8f10e6cd9d8467ca1fd87d5d,475479,2018,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2018-03-26,2018-03-28,2018-03-28 00:00:00.000000,benchmark_pitcher_season_ineligible
+1eff14d7cee1d2592b129035eb87f6b1,476589,2019,Forearm,Forearm,confirmed_procedure_supported,2019-06-08,2019-06-08,2026-10-21 21:01:02.463834,added_confirmed_UCL_not_benchmark_elbow
+c3e8b88c633ffc46258dd080a1a69dc9,489119,2024,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2024-04-19,2024-04-22,2026-09-18 21:05:37.812705,benchmark_pitcher_season_ineligible
+4a6b1bd912bfc5bc247d31bf4d8a368d,500610,2022,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2022-04-07,2022-04-07,2022-04-07 00:00:00.000000,benchmark_pitcher_season_ineligible
+ed65d6fc3a5c23732a851e32aa72b2c3,500724,2018,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2018-04-08,2018-04-08,2026-10-21 21:01:02.476018,benchmark_pitcher_season_ineligible
+bfb30c24284fe2a33fa1a7163e0a932f,502028,2018,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2018-04-23,2018-04-23,2026-10-21 21:01:02.474762,retained_benchmark_elbow
+90ea75a9d52932656191e66b9ecab58b,502085,2019,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2019-04-15,2019-04-15,2026-10-21 21:01:02.464077,retained_benchmark_elbow
+50fd5d86ec3a643b2a0de2ad1dd0bc94,518693,2020,Forearm,Forearm,confirmed_procedure_supported,2020-08-13,2020-08-13,2026-09-18 21:05:35.863047,added_confirmed_UCL_not_benchmark_elbow
+4bba77c14f08f1654cbe139fe394073f,519242,2020,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2020-06-28,2020-06-28,2020-06-28 00:00:00.000000,benchmark_pitcher_season_ineligible
+4bc2fed1837bd89957ae70449b9a8560,519322,2017,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2017-09-10,2017-09-13,2026-10-21 21:01:02.480689,retained_benchmark_elbow
+deb3a30ab7301a18b986478681f45301,519455,2019,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2019-04-26,2019-04-26,2019-04-26 00:00:00.000000,retained_benchmark_elbow
+00063184096cfacffd696681ef4d4744,528748,2022,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2022-06-01,2022-06-01,2026-09-18 21:05:36.194884,retained_benchmark_elbow
+1b6e38aa0070ce7c300b553468ab3e97,534910,2018,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2018-03-06,2018-03-06,2018-03-06 00:00:00.000000,benchmark_pitcher_season_ineligible
+f88d97ab9be1855a0ee138f744930d92,543101,2017,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2017-04-02,2017-04-02,2017-04-05 00:00:00.000000,benchmark_pitcher_season_ineligible
+81cacc00019f1771e3e1585abfe350d2,543169,2019,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2019-03-25,2019-03-28,2019-03-28 00:00:00.000000,no_eligible_pre_reference_games
+876b9e6c40ce64c75213454974af5c8f,544759,2017,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2017-03-30,2017-04-02,2017-04-02 00:00:00.000000,benchmark_pitcher_season_ineligible
+4e35d008d818c716f6c904ea6cf604d6,548384,2024,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2024-04-21,2024-04-21,2026-09-18 21:05:37.812705,retained_benchmark_elbow
+09b25238773ad1f8cd629991cd12ebe9,552640,2020,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2020-08-12,2020-08-12,2020-08-12 00:00:00.000000,retained_benchmark_elbow
+64fcf9e74a7b8e7c8821147b96d573fc,554431,2023,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2023-03-30,2023-03-30,2023-03-30 00:00:00.000000,benchmark_pitcher_season_ineligible
+104ec2ec6d39949f07e6e9ab9fe853fa,571510,2023,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2023-06-27,2023-06-27,2026-09-18 21:05:37.812705,retained_benchmark_elbow
+6adb2bdd604ffbcc0d2d42947b410b3d,571704,2020,Forearm,Forearm,confirmed_procedure_supported,2020-09-16,2020-09-16,2026-09-18 21:05:35.863047,benchmark_pitcher_season_ineligible
+77d2d6a87be13d47bc205587d0ef80ee,571760,2017,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2017-03-30,2017-04-01,2017-04-01 00:00:00.000000,outside_regular_season_placement_or_no_placement
+a4023b0955aff17d08f74d267869be5b,571946,2017,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2017-04-24,2017-04-24,2026-10-21 21:01:02.484435,benchmark_pitcher_season_ineligible
+1ba19467301f1fdad1c8eed6f0bb53dc,572070,2018,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2018-07-11,2018-07-11,2018-07-11 00:00:00.000000,retained_benchmark_elbow
+ba249ff9f1a619b1478e875f0d25a69d,572096,2017,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2017-08-17,2017-08-17,2026-10-21 21:01:02.481120,retained_benchmark_elbow
+c370df39e09c4d9362e81348bbe67812,592279,2017,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2017-09-11,2017-09-11,2026-10-21 21:01:02.480807,retained_benchmark_elbow
+cd275af0214d87430c86b82cfb4aab12,592346,2017,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2017-04-02,2017-04-02,2017-04-02 00:00:00.000000,benchmark_pitcher_season_ineligible
+89c65f6b1132df1e39a3bd518332894d,592499,2018,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2018-08-14,2018-08-15,2026-10-21 21:01:02.472131,retained_benchmark_elbow
+78e1b28bdc3f1ac24dc9208089b39e9a,592662,2023,Forearm,Forearm,confirmed_procedure_supported,2023-04-01,2023-04-01,2026-09-18 21:05:37.641061,benchmark_pitcher_season_ineligible
+ac30354db0a705a6658d2fb0fcf84161,592712,2019,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2019-06-03,2019-06-04,2026-10-21 21:01:02.463156,retained_benchmark_elbow
+231171b4bb838f2ffc6ecfeba316bc66,592767,2017,Forearm,Forearm,confirmed_procedure_supported,2017-03-31,2017-03-31,2026-10-21 21:01:02.482506,benchmark_pitcher_season_ineligible
+d07260becbf152742a732e6a20f565b4,592789,2020,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2020-06-27,2020-06-27,2020-06-27 00:00:00.000000,benchmark_pitcher_season_ineligible
+b277c3547323ba176c3c4e9a36d3b0fb,592791,2019,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2019-05-04,2019-05-04,2026-10-21 21:01:02.464195,retained_benchmark_elbow
+465b370ea35521863e7a853ea3842559,592804,2020,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2020-09-11,2020-09-11,2026-09-18 21:05:35.863047,retained_benchmark_elbow
+0c427570be4d14c32440a90894713095,592836,2018,Forearm,Forearm,confirmed_procedure_supported,2018-04-15,2018-04-15,2026-10-21 21:01:02.475776,benchmark_pitcher_season_ineligible
+177fdf3fc7fca97cb6d1255c541b67d3,592866,2025,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2025-07-04,2025-07-04,2026-09-18 20:59:26.620516,retained_benchmark_elbow
+ffd07fa87fae224503e8644471a9dffa,593423,2025,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2025-08-22,2025-08-23,2025-08-23 00:00:00.000000,retained_benchmark_elbow
+fa5bafbd24baea6214c0ec3a2bdbc58d,594311,2017,Forearm,Forearm,confirmed_procedure_supported,2017-04-19,2017-04-20,2026-10-21 21:01:02.483107,added_confirmed_UCL_not_benchmark_elbow
+445cddddcb2b7cbfb00effa84297ef8a,594798,2023,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2023-04-29,2023-04-29,2026-09-18 21:05:37.641061,retained_benchmark_elbow
+23e84322663732d5a87049897b07b3fd,594902,2025,Forearm,Forearm,confirmed_procedure_supported,2025-05-13,2025-05-13,2026-09-18 20:59:26.620516,added_confirmed_UCL_not_benchmark_elbow
+4e14492d109f275df6f0c20ec4e3db6e,594951,2017,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2017-03-30,2017-03-31,2026-10-21 21:01:02.484732,benchmark_pitcher_season_ineligible
+6bb1d7b3b0ef2eabd9bdeaef3c9d43ba,595897,2020,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2020-08-05,2020-08-05,2026-09-18 21:05:35.863047,benchmark_pitcher_season_ineligible
+30d32c7de8bbad8d9fd620f51b5405e7,605121,2020,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2020-07-23,2020-07-23,2020-07-23 00:00:00.000000,benchmark_pitcher_season_ineligible
+3e8699ef4bbd41000eaafe553e95c853,605154,2020,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2020-06-27,2020-06-27,2020-06-27 00:00:00.000000,benchmark_pitcher_season_ineligible
+917d1725681b3c72db108eea23a900bb,605254,2018,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2018-06-04,2018-06-05,2026-10-21 21:01:02.472847,retained_benchmark_elbow
+baa12791000c8e8093018abeaee99253,605452,2017,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2017-07-11,2017-07-14,2026-10-21 21:01:02.482326,retained_benchmark_elbow
+aa878babd17736855846a34245fa068f,606965,2021,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2021-05-15,2021-05-15,2021-05-15 00:00:00.000000,retained_benchmark_elbow
+145e0e825fa297bb1cfe406e2983335e,607074,2019,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2019-05-02,2019-05-02,2026-10-21 21:01:02.466416,retained_benchmark_elbow
+85b6a969c370406af439bd4aa09f8f56,607215,2018,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2018-05-26,2018-05-26,2018-05-26 00:00:00.000000,retained_benchmark_elbow
+63a407625c7aa69d60620b36f9ac8a18,607374,2017,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2017-04-01,2017-04-01,2017-04-01 00:00:00.000000,benchmark_pitcher_season_ineligible
+6ed9c3c5c1a7a30c7ab4d4b7e011207c,607473,2019,Forearm,Forearm,confirmed_procedure_supported,2019-06-03,2019-06-03,2026-10-21 21:01:02.464136,earlier_broad_shoulder_elbow_or_UCL_event
+b57a2bdf3deb00f277e79c6669ac06c7,608349,2019,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2019-03-25,2019-03-27,2026-10-21 21:01:02.467817,benchmark_pitcher_season_ineligible
+3c8fe958ea8079a6433ddf83b36c03e7,608566,2023,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2023-04-27,2023-04-28,2026-10-21 21:01:02.434110,benchmark_pitcher_season_ineligible
+c38ae6918286127e87e7864b2b5f4508,608678,2024,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2024-08-15,2024-08-16,2024-08-16 00:00:00.000000,earlier_broad_shoulder_elbow_or_UCL_event
+3b0cb26613ffbcf948b14ba9c701b40c,608718,2018,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2018-07-23,2018-07-23,2018-07-23 00:00:00.000000,retained_benchmark_elbow
+592632fbbb47e546c1a57df2bf2075fd,611093,2019,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2019-03-11,2019-03-11,2019-03-11 00:00:00.000000,benchmark_pitcher_season_ineligible
+071a719d101f6aa0e24d604d9f63a2ed,611093,2020,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2020-06-28,2020-06-28,2020-06-28 00:00:00.000000,benchmark_pitcher_season_ineligible
+d97c89079432e061f19be26106ea299e,621111,2022,Forearm,Forearm,confirmed_procedure_supported,2022-06-11,2022-06-11,2026-09-18 21:05:36.194884,added_confirmed_UCL_not_benchmark_elbow
+6a42d762951047867c6cb94b4e654f95,621114,2019,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2019-05-25,2019-05-28,2026-10-21 21:01:02.465298,earlier_broad_shoulder_elbow_or_UCL_event
+ca8476f94658f26089e0f205ac1666aa,621294,2018,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2018-03-27,2018-04-02,2026-10-21 21:01:02.476374,benchmark_pitcher_season_ineligible
+776213dadfb55efb8935fb4a1b9753e6,621363,2020,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2020-07-21,2020-07-21,2020-07-21 00:00:00.000000,benchmark_pitcher_season_ineligible
+5f11ea38a69ff482065bbf5712bad66b,622259,2020,Unknown / Unspecified,Elbow / UCL,confirmed_official_documentation,2020-07-20,2020-07-22,2020-07-31 00:00:00.000000,benchmark_pitcher_season_ineligible
+50ecd273affc3e5ccc24a2e05bc3c12c,622554,2019,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2019-06-06,2019-06-07,2019-06-07 00:00:00.000000,retained_benchmark_elbow
+60faee0a0f5a61156deeb4803525a31f,622554,2020,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2020-06-28,2020-06-28,2026-10-21 21:01:02.459143,benchmark_pitcher_season_ineligible
+f22ecf0ddaa0c19605dc9e15d110435e,622608,2023,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2023-05-11,2023-05-13,2026-09-18 21:05:37.641061,benchmark_pitcher_season_ineligible
+fffdc4403458b2c33faeeb92df4b21b0,623364,2022,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2022-03-17,2022-03-17,2026-10-21 21:01:02.439792,benchmark_pitcher_season_ineligible
+9eb6950d50c16fb09e52de3d8af4306d,623465,2025,Forearm,Forearm,confirmed_procedure_supported,2025-05-07,2025-05-07,2026-09-18 20:59:26.620516,added_confirmed_UCL_not_benchmark_elbow
+3ffb3a61364d3481f552423f7686d10c,630023,2020,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2020-08-17,2020-08-19,2026-09-18 21:05:35.863047,benchmark_pitcher_season_ineligible
+4184b52b39ad53f1a331797d893d3bef,639373,2020,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2020-07-22,2020-07-22,2020-07-22 00:00:00.000000,benchmark_pitcher_season_ineligible
+6a0505e212c3e69b7881b72dbe2c13ed,640462,2025,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2025-04-18,2025-04-19,2026-09-18 20:59:26.620516,retained_benchmark_elbow
+176ffb4619bed1adb566209e90170df9,641712,2020,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2020-09-18,2020-09-18,2026-09-18 21:05:35.863047,retained_benchmark_elbow
+1257cfd3ae26d8f0611832afac4b31c1,641771,2018,Forearm,Forearm,confirmed_procedure_supported,2018-06-27,2018-06-29,2026-10-21 21:01:02.471813,added_confirmed_UCL_not_benchmark_elbow
+e16811ce0f58d06ec45cdd4bef35022d,641816,2023,Forearm,Forearm,confirmed_procedure_supported,2023-04-30,2023-05-03,2026-09-18 21:05:37.641061,added_confirmed_UCL_not_benchmark_elbow
+c938ef357396b5e0c0a79857603a38bb,641835,2019,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2019-09-18,2019-09-18,2019-09-18 00:00:00.000000,earlier_broad_shoulder_elbow_or_UCL_event
+f12f4581715adc5a337fd8eed2ea696b,641871,2018,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2018-05-14,2018-05-14,2018-05-14 00:00:00.000000,earlier_broad_shoulder_elbow_or_UCL_event
+9508a77c5ea2362edb19c5cf39fb8798,642028,2019,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2019-06-26,2019-06-26,2026-10-21 21:01:02.464821,retained_benchmark_elbow
+2bedb7c5b2d786006234380caad7ca49,642152,2023,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2023-03-27,2023-03-30,2026-09-18 21:05:37.641061,benchmark_pitcher_season_ineligible
+8c945a320728dd144f1dccaa07472b52,642585,2023,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2023-08-26,2023-08-26,2023-08-26 00:00:00.000000,retained_benchmark_elbow
+2c0e3d5b1db0d1c7e7f289ec2964d8f5,642585,2024,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2024-02-14,2024-02-14,2024-02-14 00:00:00.000000,benchmark_pitcher_season_ineligible
+c6ce47c91945149b326b5c970bc9fc5f,642759,2018,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2018-03-29,2018-03-29,2018-03-29 00:00:00.000000,benchmark_pitcher_season_ineligible
+53aa0737746b80e7bead70bef72a52e0,645307,2020,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2020-08-29,2020-08-29,2026-09-18 21:05:35.863047,benchmark_pitcher_season_ineligible
+f93de3fa6de096118fc03445d6b62293,650671,2023,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2023-04-29,2023-04-29,2026-09-18 21:05:37.641061,retained_benchmark_elbow
+222f5a6384960e159f769e1035bb5003,656186,2018,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2018-06-07,2018-06-08,2018-06-08 00:00:00.000000,earlier_broad_shoulder_elbow_or_UCL_event
+a26dac511db1e5e664fcfe8c83d53938,656222,2020,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2020-08-26,2020-08-26,2026-09-18 21:05:36.011032,retained_benchmark_elbow
+6d47d4abaac255a0058eacff3e1aea47,656492,2020,Forearm,Forearm,confirmed_procedure_supported,2020-07-28,2020-07-28,2026-09-18 21:05:35.863047,benchmark_pitcher_season_ineligible
+0d9b1dbaa0bdacf2b2d148a461004d09,656629,2018,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2018-09-08,2018-09-08,2018-09-08 00:00:00.000000,benchmark_pitcher_season_ineligible
+42d5e2ab29891c3fd33aa3acc11bc228,656755,2023,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2023-03-27,2023-03-30,2023-03-30 00:00:00.000000,benchmark_pitcher_season_ineligible
+5db9ef4bb5f6aa0b1d33a8e58239ccab,656756,2018,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2018-05-02,2018-05-02,2026-10-21 21:01:02.474337,retained_benchmark_elbow
+7261018d2abf8bb2c7ce4e3f9d102d38,656818,2023,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2023-04-15,2023-04-15,2026-09-18 21:05:37.641061,benchmark_pitcher_season_ineligible
+aecc78a67612cc72750dbfc5f3a42594,656876,2023,Forearm,Forearm,confirmed_procedure_supported,2023-05-12,2023-05-12,2026-09-18 21:05:37.641061,added_confirmed_UCL_not_benchmark_elbow
+233c8830584db96a709ddfdb427a1bff,656887,2022,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2022-05-01,2022-05-01,2022-05-01 00:00:00.000000,retained_benchmark_elbow
+19b0aeae3071dec41d8626b5e1537726,657006,2025,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2025-04-08,2025-04-09,2026-09-18 20:59:26.620516,benchmark_pitcher_season_ineligible
+4fa1889382bc97df3e62baf8e0dbaa33,657376,2025,Forearm,Forearm,confirmed_procedure_supported,2025-07-04,2025-07-04,2026-09-18 20:59:26.620516,earlier_broad_shoulder_elbow_or_UCL_event
+1af6b476358900bfc12f94cac5ec5d13,657571,2020,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2020-09-16,2020-09-16,2026-09-18 21:05:36.011032,retained_benchmark_elbow
+f7a7d24bef648036646b32adcb80d4b2,659275,2018,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2018-03-26,2018-03-28,2026-10-21 21:01:02.475838,benchmark_pitcher_season_ineligible
+080be047d76952ab3a8026eb7d3a617f,660271,2018,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2018-06-07,2018-06-08,2018-06-08 00:00:00.000000,retained_benchmark_elbow
+e8083b61d4a3d2d74c48d592ab3f6a18,660271,2019,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2019-03-25,2019-03-28,2019-03-28 00:00:00.000000,benchmark_pitcher_season_ineligible
+1f9ae48d8625ae83a061f6f2ff5f1547,660623,2023,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2023-03-30,2023-03-30,2023-03-30 00:00:00.000000,benchmark_pitcher_season_ineligible
+e4eec2cb47485f3540f6cd1613d2592f,663432,2022,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2022-07-13,2022-07-13,2022-07-13 00:00:00.000000,retained_benchmark_elbow
+9e0f3604336fedc6fbd3e26da3ecc461,663556,2023,Forearm,Forearm,confirmed_procedure_supported,2023-08-03,2023-08-03,2026-09-18 21:05:37.641061,added_confirmed_UCL_not_benchmark_elbow
+dddd773130d715058360e2acad91e52f,663753,2023,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2023-06-28,2023-06-28,2026-09-18 21:05:37.641061,benchmark_pitcher_season_ineligible
+1fecdd098b466441252231540450b46e,663776,2024,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2024-06-22,2024-06-22,2026-09-18 21:05:37.812705,retained_benchmark_elbow
+60c3571f40a6c549834594aa738baec9,663804,2024,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2024-03-10,2024-03-10,2024-03-10 00:00:00.000000,benchmark_pitcher_season_ineligible
+581a8e41645189df6b599841429c1a2e,663855,2019,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2019-06-23,2019-06-25,2019-06-25 00:00:00.000000,retained_benchmark_elbow
+dafa10ed89d3cf696b69a68ac6adc2d2,663978,2022,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2022-05-09,2022-05-10,2026-09-18 21:05:36.194884,retained_benchmark_elbow
+a4df2b6fb9f2538b0c1f9b89db21e252,664062,2023,Forearm,Forearm,confirmed_procedure_supported,2023-08-19,2023-08-19,2026-09-18 21:05:37.641061,added_confirmed_UCL_not_benchmark_elbow
+85eaa362ae49032c59a7198a62287823,664141,2023,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2023-03-27,2023-03-30,2026-09-18 21:05:37.641061,benchmark_pitcher_season_ineligible
+63b504671b5bd0278dc35450a8ee587b,664299,2024,Forearm,Forearm,confirmed_procedure_supported,2024-05-24,2024-05-27,2026-09-18 21:05:37.812705,added_confirmed_UCL_not_benchmark_elbow
+0cb9a4054a059bd70cffce4d8b58d3cf,664849,2025,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2025-04-27,2025-04-30,2026-09-18 20:59:26.620516,retained_benchmark_elbow
+09ae827a618bea311927fb3db930f5a6,664977,2021,Unknown / Unspecified,Elbow / UCL,confirmed_official_documentation,2021-03-12,2021-03-12,2021-03-12 00:00:00.000000,benchmark_pitcher_season_ineligible
+dfe8a42b574749e33f1ce90ef8e06051,665665,2023,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2023-05-08,2023-05-09,2026-09-18 21:05:37.641061,retained_benchmark_elbow
+39f304aeee476d941c2590f5a0e48774,666201,2024,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2024-05-30,2024-05-31,2026-09-18 21:05:37.812705,earlier_broad_shoulder_elbow_or_UCL_event
+d6cc11a3d6030e6bce033f4b4836c0a7,666374,2024,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2024-03-25,2024-03-28,2026-09-18 21:05:37.812705,benchmark_pitcher_season_ineligible
+21ff6e8cd23ca61c628e38ea1c3e72ef,666374,2025,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2025-03-24,2025-03-27,2025-03-27 00:00:00.000000,no_eligible_pre_reference_games
+8f9b81f78d7dfc9074200ac898587f4c,668834,2023,Forearm,Forearm,confirmed_procedure_supported,2023-04-30,2023-04-30,2026-09-18 21:05:37.641061,benchmark_pitcher_season_ineligible
+b8c709ba2285198a20ea9de37551445f,669160,2023,Forearm,Forearm,confirmed_procedure_supported,2023-05-18,2023-05-18,2026-09-18 21:05:37.641061,added_confirmed_UCL_not_benchmark_elbow
+1f0047d6395ccaad6d180c7adc8c2a68,669203,2025,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2025-06-02,2025-06-03,2026-09-18 20:59:26.620516,retained_benchmark_elbow
+06ab6aca113a8078ed101cc4664baa1f,669330,2024,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2024-04-13,2024-04-16,2026-09-18 21:05:37.812705,benchmark_pitcher_season_ineligible
+fae28b12535c521d62c9956ae54987a5,669622,2022,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2022-08-14,2022-08-14,2026-09-18 21:05:36.194884,retained_benchmark_elbow
+24a1b840d0aa90fcd632cadbc6fe5810,669684,2024,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2024-03-28,2024-03-28,2024-03-28 00:00:00.000000,benchmark_pitcher_season_ineligible
+730411f974b93dc44455e61b676bbf25,669713,2025,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2025-05-07,2025-05-09,2026-09-18 20:59:26.620516,retained_benchmark_elbow
+2dc37e464369d12298c70ac56767daed,669854,2025,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2025-05-20,2025-05-22,2026-09-18 20:59:26.620516,retained_benchmark_elbow
+c3871d851a43a5f6c77065b8d4691d6d,669947,2024,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2024-02-27,2024-02-27,2024-02-27 00:00:00.000000,benchmark_pitcher_season_ineligible
+2f0f9063dd4a5bffca542e0878412fee,672715,2024,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2024-03-19,2024-03-19,2026-09-18 21:05:37.812705,benchmark_pitcher_season_ineligible
+c4b8b0cebc1352240df5a25495c97433,673380,2025,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2025-07-03,2025-07-03,2026-09-18 20:59:26.620516,retained_benchmark_elbow
+6dce6db1a205df6e60e87854c501e964,673820,2025,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2025-09-02,2025-09-02,2025-09-02 00:00:00.000000,benchmark_pitcher_season_ineligible
+4d9a83be33d0282138dc05e2b06c9c4d,674003,2025,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2025-03-24,2025-03-27,2026-09-18 20:59:26.620516,benchmark_pitcher_season_ineligible
+c3b8b29255bc196a576d23c6f87de0ad,675911,2024,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2024-04-07,2024-04-07,2026-09-18 21:05:37.812705,benchmark_pitcher_season_ineligible
+da6e1dd22978d40ca764868815d39dc9,676974,2022,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2022-07-24,2022-07-24,2026-09-18 21:05:36.194884,benchmark_pitcher_season_ineligible
+07b37d14536faba796273866c7823305,677651,2023,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2023-05-02,2023-05-02,2026-09-18 21:05:37.641061,retained_benchmark_elbow
+efe7bbada8d4204a28d489774d214c89,677651,2025,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2025-09-10,2025-09-10,2026-09-18 20:59:26.620516,benchmark_pitcher_season_ineligible
+864c106cc759eae1e8437e84e2a88b01,678495,2025,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2025-08-23,2025-08-26,2026-09-18 20:59:26.620516,retained_benchmark_elbow
+e27e13fce8d41eb795ba9670d008fb45,679885,2025,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2025-06-10,2025-06-10,2025-06-10 00:00:00.000000,earlier_broad_shoulder_elbow_or_UCL_event
+ffc32105e96b1776be8465a25d97e611,680694,2024,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2024-03-25,2024-03-28,2024-03-28 00:00:00.000000,no_eligible_pre_reference_games
+35c60394c60b37b21166db644c288d26,680694,2024,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2024-06-15,2024-06-15,2024-06-15 00:00:00.000000,earlier_broad_shoulder_elbow_or_UCL_event
+51b0eabf370cd3e90d0957b004db5d4d,681035,2024,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2024-07-22,2024-07-23,2024-07-23 00:00:00.000000,retained_benchmark_elbow
+2d2e7ce82dff5c427400750b02cc369e,681810,2023,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2023-04-24,2023-04-26,2026-09-18 21:05:37.641061,benchmark_pitcher_season_ineligible
+725584ba118e1adfdc5431dd6ccc8260,683003,2025,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2025-03-24,2025-03-27,2025-03-27 00:00:00.000000,benchmark_pitcher_season_ineligible
+d55ef1353a72f715f61ba9d3d63ec578,686218,2024,Forearm,Forearm,confirmed_procedure_supported,2024-03-19,2024-03-19,2026-09-18 21:05:37.812705,benchmark_pitcher_season_ineligible
+13b42bbc3fa91953acb32506b1d86c3b,686753,2023,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2023-07-07,2023-07-07,2026-09-18 21:05:37.641061,retained_benchmark_elbow
+c164c64cde221066cb20fbe17e6cba13,686796,2025,Elbow / UCL,Elbow / UCL,confirmed_official_documentation,2025-03-23,2025-03-23,2025-03-23 00:00:00.000000,benchmark_pitcher_season_ineligible
+f407494e866846aeba34a3c904e22f92,687888,2025,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2025-07-24,2025-07-25,2026-09-18 20:59:26.620516,retained_benchmark_elbow
+5c110f47c206272390878246d984ffc3,688107,2024,Forearm,Forearm,confirmed_procedure_supported,2024-06-02,2024-06-05,2026-09-18 21:05:37.812705,added_confirmed_UCL_not_benchmark_elbow
+50ab9ceda9c1150bdfe0a37cbdb0e583,691587,2024,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2024-03-25,2024-03-28,2026-09-18 21:05:37.812705,benchmark_pitcher_season_ineligible
+223ecfdd6544d6142bf28095bae4230a,695549,2025,Forearm,Forearm,confirmed_procedure_supported,2025-05-29,2025-05-30,2026-09-18 20:59:26.620516,added_confirmed_UCL_not_benchmark_elbow
+fe0b62e00b79f9129228ca8c0aea16d7,700363,2025,Elbow / UCL,Elbow / UCL,confirmed_procedure_supported,2025-05-29,2025-05-29,2026-09-18 20:59:26.620516,retained_benchmark_elbow

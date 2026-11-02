@@ -1,0 +1,5 @@
+outcome,role,games,positive_games,negative_games,prevalence,represented_events
+elbow,starter,34477,552,33925,0.0160106737825216,120
+elbow,reliever,119590,1916,117674,0.016021406472113,230
+ucl,starter,33218,186,33032,0.0055993738334637,36
+ucl,reliever,114915,285,114630,0.0024800939825088,34

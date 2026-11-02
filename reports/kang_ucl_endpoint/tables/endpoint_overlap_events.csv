@@ -1,0 +1,357 @@
+injury_event_id,pitcher_id,season,role,injury_region,initial_injury_region,injury_diagnosis,evidence_category,endpoint_exclusions,ucl_accepted,retained_in_ucl_cohort,refinement_reason,transaction_date,prediction_reference_date,reference_date_shift_days
+21c9be7e5b2b3051f922f6b7b66256b2,518633,2017,starter,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-08-26,2017-08-26,0
+abaf60cb4d1f91e416026713bf201f33,500724,2017,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-08-21,2017-08-20,1
+5804e55320e3475715b75332e2d602ba,544931,2017,starter,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-07-27,2017-07-24,3
+6b4ab08e948b1fb825145696dbe55d60,425794,2017,starter,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-08-18,2017-08-18,0
+45070b4ed1c2bfc04773087d1ad5fdc5,501381,2017,starter,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,confirmed_official_documentation,overlapping_episode,False,False,existing_endpoint_QA_exclusion,2017-07-14,2017-07-11,3
+5f729ca62fbd227573b4699cdae9eb66,605242,2017,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-08-03,2017-08-01,2
+baa12791000c8e8093018abeaee99253,605452,2017,starter,Elbow / UCL,Elbow / UCL,Sprain,confirmed_procedure_supported,,True,True,retained,2017-07-14,2017-07-11,3
+ca91479f60976ef2f70429f2ffd54788,456034,2017,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-07-28,2017-07-25,3
+aa3835e855d432b942ff5770c1f1bd26,600944,2017,starter,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2017-10-01,2017-10-01,0
+1ba19467301f1fdad1c8eed6f0bb53dc,572070,2018,starter,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,confirmed_official_documentation,,True,True,retained,2018-07-11,2018-07-11,0
+962d00c21dddca8bdd468f80b17b3001,608665,2018,starter,Elbow / UCL,Elbow / UCL,Surgery / Postoperative Recovery,probable_supplemental_documentation,postoperative_or_preexisting,False,False,existing_endpoint_QA_exclusion,2018-09-01,2018-09-01,0
+8f4365c1d13dcf927adb0c7ad4ce5432,456501,2018,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-05-01,2018-05-01,0
+350a966123f60edbfd6f7e42c22f1684,471911,2018,starter,Elbow / UCL,Elbow / UCL,Contusion / Bruise,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-06-17,2018-06-17,0
+10c3e753fd5a82a7ec50f16fe7c4762f,621121,2018,starter,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-08-05,2018-08-05,0
+3b0cb26613ffbcf948b14ba9c701b40c,608718,2018,starter,Elbow / UCL,Elbow / UCL,Tear / Rupture,confirmed_official_documentation,,True,True,retained,2018-07-23,2018-07-23,0
+fd7d890a940f3e7baaefa39c882f7ed5,594798,2018,starter,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2018-05-06,2018-05-03,3
+917d1725681b3c72db108eea23a900bb,605254,2018,starter,Elbow / UCL,Elbow / UCL,Strain,confirmed_procedure_supported,,True,True,retained,2018-06-05,2018-06-04,1
+080be047d76952ab3a8026eb7d3a617f,660271,2018,starter,Elbow / UCL,Elbow / UCL,Sprain,confirmed_official_documentation,,True,True,retained,2018-06-08,2018-06-07,1
+0ded4963bb6abf1a9ec95660b29cfdee,571951,2018,starter,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-06-20,2018-06-17,3
+5db9ef4bb5f6aa0b1d33a8e58239ccab,656756,2018,starter,Elbow / UCL,Elbow / UCL,Strain,confirmed_procedure_supported,,True,True,retained,2018-05-02,2018-05-02,0
+e5db0ca7232bfe2192ba3bfc10d01470,425794,2018,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-04-22,2018-04-20,2
+85b6a969c370406af439bd4aa09f8f56,607215,2018,starter,Elbow / UCL,Elbow / UCL,Sprain,confirmed_official_documentation,,True,True,retained,2018-05-26,2018-05-26,0
+1ea0952c80273335406525d1f6072f80,502239,2018,starter,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-05-09,2018-05-06,3
+d3b4cf4200a48cc960df6eb975b34a75,453329,2018,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-09-15,2018-09-15,0
+f0f89c20d716d992ee85c196343b8149,621112,2018,starter,Elbow / UCL,Elbow / UCL,Tendinopathy,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-07-08,2018-07-07,1
+41c27a16c1bd5ec5a49671e7e86f27e1,571946,2018,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-07-12,2018-07-12,0
+b277c3547323ba176c3c4e9a36d3b0fb,592791,2019,starter,Elbow / UCL,Elbow / UCL,Strain,confirmed_procedure_supported,,True,True,retained,2019-05-04,2019-05-04,0
+145e0e825fa297bb1cfe406e2983335e,607074,2019,starter,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,,True,True,retained,2019-05-02,2019-05-02,0
+6d92296369da4dbf28578867b7fde0c6,594798,2019,starter,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-04-20,2019-04-16,4
+770bdd74470d44dbfa2aff3866470ab7,519242,2019,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-08-17,2019-08-17,0
+b52821bc4748a81979d6d302303d2d00,605483,2019,starter,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2019-07-25,2019-07-22,3
+deb3a30ab7301a18b986478681f45301,519455,2019,starter,Elbow / UCL,Elbow / UCL,Sprain,confirmed_official_documentation,,True,True,retained,2019-04-26,2019-04-26,0
+fa8198040049de3bd2d100cdae5c4249,543135,2019,starter,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2019-04-20,2019-04-18,2
+fbee29f61eae31684beab4cd7d7a6373,663423,2019,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-07-22,2019-07-21,1
+cc92b080c5cec70e5783f865398ccb74,453562,2019,starter,Elbow / UCL,Elbow / UCL,Other,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-08-14,2019-08-12,2
+e71a91b922cb1d6219ebaa9c74a82577,456034,2019,starter,Elbow / UCL,Elbow / UCL,Tendinopathy,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-05-06,2019-05-03,3
+9abc7c611d72fdc7095cab2124bcf184,475115,2019,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-05-13,2019-05-11,2
+b80c6db49eabb5a9c1789930b4a90abc,656288,2019,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-08-04,2019-08-01,3
+0eed8fcf0ad16afb3b773cdc7c1b593e,543548,2020,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-09-10,2020-09-10,0
+176ffb4619bed1adb566209e90170df9,641712,2020,starter,Elbow / UCL,Elbow / UCL,Strain,confirmed_procedure_supported,,True,True,retained,2020-09-18,2020-09-18,0
+bd68cb146a22e1f0d4b6a7e7a68ce263,453281,2020,starter,Elbow / UCL,Elbow / UCL,Stress Reaction,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-08-25,2020-08-25,0
+3838d6c09d7d4735e85983f03d8b1567,643327,2020,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-09-10,2020-09-07,3
+0ef21bb07f5cd079b2c28ab6022355c2,663878,2020,starter,Elbow / UCL,Elbow / UCL,Tightness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-08-19,2020-08-19,0
+3d2a1c2dd06493fc8aa02d2aa8b62f6b,477132,2021,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,overlapping_episode,False,False,existing_endpoint_QA_exclusion,2021-08-09,2021-08-09,0
+017180309c7975869ed118ff358bebb4,571510,2021,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,unresolved_anatomy_conflict,False,False,existing_endpoint_QA_exclusion,2021-09-11,2021-09-09,2
+7b9d6d50e0ae8e542803095621440773,607192,2021,starter,Elbow / UCL,Elbow / UCL,Sprain,confirmed_procedure_supported,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-06-15,2021-06-15,0
+d0ff78b9f6422b82e97c3280a8741a0d,456501,2021,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-09-01,2021-09-01,0
+2c64b5d7d142927340805f2b4e4947ed,663978,2021,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-09-13,2021-09-12,1
+ec8dfc9dc3404d3e914831f68cf8a412,501381,2021,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-06-14,2021-06-14,0
+ebc3a01697d5db52a5af4fecc1438886,453281,2021,starter,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2021-08-13,2021-08-13,0
+1fd422d0f16149777503f3d9fc3ea37c,664192,2021,starter,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-06-19,2021-06-19,0
+d4e5c46e4ad3827cd7aabad60161b044,605452,2021,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-07-08,2021-07-07,1
+f195376041d57736a1c1d62b5be14e78,668678,2021,starter,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-05-12,2021-05-09,3
+27eccdc9bc37234e778d9d380082c9d9,547942,2021,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-08-09,2021-08-08,1
+d50e8939c1f98b90fad170e7ed4fdc22,656457,2021,starter,Elbow / UCL,Elbow / UCL,Other,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-09-15,2021-09-13,2
+32d1208b38b6d0952b75b7ebd7e0bf3f,506433,2022,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-08-26,2022-08-26,0
+00063184096cfacffd696681ef4d4744,528748,2022,starter,Elbow / UCL,Elbow / UCL,Strain,confirmed_procedure_supported,,True,True,retained,2022-06-01,2022-06-01,0
+155903b371df09f329de2180b9777d6e,641302,2022,starter,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-05-02,2022-04-30,2
+5ed97de47bb901a9957bb61bb01389f2,641778,2022,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-09-10,2022-09-08,2
+dafa10ed89d3cf696b69a68ac6adc2d2,663978,2022,starter,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,,True,True,retained,2022-05-10,2022-05-09,1
+ab135ed23dee4595002f7d5b274d97d2,669022,2022,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-07-26,2022-07-26,0
+bd2f18930b9798bc01b1a93b1ece5ae3,656457,2022,starter,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-07-29,2022-07-27,2
+0f1c12b3c606c35c35b1ea7d00daa93a,665795,2022,starter,Elbow / UCL,Elbow / UCL,Tendinopathy,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-06-15,2022-06-13,2
+0efbd36320638eced70b359ccc75d1bd,669358,2022,starter,Elbow / UCL,Elbow / UCL,Sprain,probable_supplemental_documentation,,False,False,no_confirmed_UCL_evidence,2022-07-14,2022-07-13,1
+df45b4dc3aafb5abd1170d8d5a15a77a,678394,2022,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,uncertain_timing;overlapping_episode,False,False,existing_endpoint_QA_exclusion,2022-08-24,2022-08-24,0
+2c1085b130094093337c1c602ff5378f,669456,2023,starter,Elbow / UCL,Unknown / Unspecified,Inflammation,other_or_unknown_injury,,False,False,no_confirmed_UCL_evidence,2023-07-15,2023-07-12,3
+445cddddcb2b7cbfb00effa84297ef8a,594798,2023,starter,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,,True,True,retained,2023-04-29,2023-04-29,0
+07b37d14536faba796273866c7823305,677651,2023,starter,Elbow / UCL,Elbow / UCL,Soreness,confirmed_procedure_supported,,True,True,retained,2023-05-02,2023-05-02,0
+57ba5603efa3486d333b282107a7a1a9,592826,2023,starter,Elbow / UCL,Elbow / UCL,Soreness,confirmed_procedure_supported,uncertain_timing,False,False,existing_endpoint_QA_exclusion,2023-05-27,2023-05-27,0
+6d200ef8a77513874a45edf3c10274d2,663372,2023,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-09-27,2023-09-27,0
+104ec2ec6d39949f07e6e9ab9fe853fa,571510,2023,starter,Elbow / UCL,Elbow / UCL,Strain,confirmed_procedure_supported,,True,True,retained,2023-06-27,2023-06-27,0
+cd7bdd29e319b78b5521252e374eebc9,471911,2023,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-04-18,2023-04-16,2
+fc194d30808e6dbe344ea0e4f5c1bdde,489119,2023,starter,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-07-17,2023-07-14,3
+28dfa414b9999c922f46e21d0afa12ed,663562,2023,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-04-30,2023-04-30,0
+adb496b290ed68444e6b932f9ab813fd,674072,2023,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-07-30,2023-07-29,1
+2f407965a2de4bb2e1572aba5656bac2,605288,2023,starter,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2023-08-28,2023-08-28,0
+825a5761ae6f0a0468353d342dcf166a,607192,2024,starter,Elbow / UCL,Elbow / UCL,Tendinopathy,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-08-16,2024-08-13,3
+89be8278b6c666ad9f277bd5ba733fbe,605397,2024,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-05-05,2024-05-05,0
+4d491d27abe852c44d6a90445d31f3af,657006,2024,starter,Elbow / UCL,Elbow / UCL,Tendinopathy,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-09-04,2024-09-01,3
+1f0650612175b2bbb212a052fd49428c,666200,2024,starter,Elbow / UCL,Elbow / UCL,Tightness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-04-26,2024-04-23,3
+d0597503aa9820775a6b18a5825210bb,641482,2024,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-09-25,2024-09-22,3
+1fecdd098b466441252231540450b46e,663776,2024,starter,Elbow / UCL,Elbow / UCL,Strain,confirmed_procedure_supported,,True,True,retained,2024-06-22,2024-06-22,0
+c9dde251e49e3dc834038d08d2d19200,607536,2024,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-04-19,2024-04-16,3
+8a67e17b5cccca5c0bc8940e90a4a3c3,601713,2024,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-04-09,2024-04-06,3
+3a2db56ce0e7aad77ee78be9de81efcf,548389,2024,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-05-25,2024-05-25,0
+7db4561fcee6d0b73c47ac15f3685f32,668881,2024,starter,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-08-17,2024-08-14,3
+46ad70e649697ffeb08a198843767665,676775,2024,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-06-22,2024-06-21,1
+4af22d19c7da497b271640a5464046ba,641712,2024,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-08-11,2024-08-11,0
+2a651566d8bdf04e4c81726129e3262d,669194,2024,starter,Elbow / UCL,Elbow / UCL,Contusion / Bruise,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-04-19,2024-04-19,0
+e39f65474e8f0be65bbe7f01b824e7a5,668933,2024,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-07-10,2024-07-08,2
+7a3104f5f94a40e15d96adb35bc3928f,679525,2024,starter,Elbow / UCL,Elbow / UCL,Contusion / Bruise,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-04-25,2024-04-25,0
+51b0eabf370cd3e90d0957b004db5d4d,681035,2024,starter,Elbow / UCL,Elbow / UCL,Sprain,confirmed_official_documentation,,True,True,retained,2024-07-23,2024-07-22,1
+ef2c896191d3ef6e0f7b08b131be0e0b,665622,2024,starter,Elbow / UCL,Elbow / UCL,Sprain,confirmed_procedure_supported,overlapping_episode,False,False,existing_endpoint_QA_exclusion,2024-07-13,2024-07-13,0
+014ee75be0b2769abd09da9a820a8580,605488,2024,starter,Elbow / UCL,Elbow / UCL,Other,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-09-08,2024-09-05,3
+c6aa67dfd5aa2f235557b043f2fb3489,687924,2024,starter,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-09-24,2024-09-21,3
+e63646f60b0644fdea3e28e5edb19ca0,656550,2025,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-07-27,2025-07-27,0
+4b437237fccd49005dc79b1645885137,669302,2025,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-04-26,2025-04-26,0
+9edd6b6409953ce1d70286d85776b9a9,543135,2025,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,unresolved_anatomy_conflict,False,False,existing_endpoint_QA_exclusion,2025-06-01,2025-05-29,3
+9b0a2e3346341470c30654980a3abedb,621244,2025,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-09-25,2025-09-25,0
+b7ec7b9b6075dc78a5ca272c97333e8e,656731,2025,starter,Elbow / UCL,Elbow / UCL,Sprain,probable_supplemental_documentation,,False,False,no_confirmed_UCL_evidence,2025-06-17,2025-06-15,2
+b7f8a85f579ae53a7b18e83d732efd07,680885,2025,starter,Elbow / UCL,Elbow / UCL,Fracture,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-07-02,2025-06-29,3
+d849ab88bf798f5a36ee42c0840e7436,682243,2025,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-05-14,2025-05-12,2
+6da698849e5693b1959704e707115276,681293,2025,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-09-03,2025-08-31,3
+8fb1b7ff13f8fc57a8cc0593fcfa1afe,641482,2025,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-04-06,2025-04-04,2
+fe0b62e00b79f9129228ca8c0aea16d7,700363,2025,starter,Elbow / UCL,Elbow / UCL,Strain,confirmed_procedure_supported,,True,True,retained,2025-05-29,2025-05-29,0
+2dc37e464369d12298c70ac56767daed,669854,2025,starter,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,,True,True,retained,2025-05-22,2025-05-20,2
+36b0df22b0998e4233ad8f0036b542e4,527048,2025,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-04-19,2025-04-19,0
+f1e7783cce79acdb5d27b5edd695c7d8,669160,2025,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-09-09,2025-09-06,3
+730411f974b93dc44455e61b676bbf25,669713,2025,starter,Elbow / UCL,Elbow / UCL,Soreness,confirmed_procedure_supported,,True,True,retained,2025-05-09,2025-05-07,2
+177fdf3fc7fca97cb6d1255c541b67d3,592866,2025,starter,Elbow / UCL,Elbow / UCL,Sprain,confirmed_procedure_supported,,True,True,retained,2025-07-04,2025-07-04,0
+1f0047d6395ccaad6d180c7adc8c2a68,669203,2025,starter,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,,True,True,retained,2025-06-03,2025-06-02,1
+44c37536aeb67a27852245b0d7cf684c,694738,2025,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-07-25,2025-07-23,2
+1d46e1cef51ec7a88e6567fb20a6d22a,690928,2025,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-06-22,2025-06-21,1
+ff4a7a855be99c50242fe0d9fbadd7ab,665795,2025,starter,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-09-01,2025-08-31,1
+d2c00da77918faf70ea9a004fc73de13,669372,2025,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-04-26,2025-04-25,1
+9224943a9f59ecc79ad41bf647864549,682052,2025,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-08-26,2025-08-25,1
+606f2eac27c5485f2532977cfd85024f,701656,2025,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-08-08,2025-08-04,4
+b594c7d12f44f5e03a1b53da7ba0f415,686701,2025,starter,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-09-18,2025-09-18,0
+94844eea38224314c1450a512e764179,688138,2025,starter,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-08-15,2025-08-15,0
+f8787b32989f9b696d2f59695f8388ea,664062,2025,starter,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-06-07,2025-06-07,0
+f407494e866846aeba34a3c904e22f92,687888,2025,starter,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,,True,True,retained,2025-07-25,2025-07-24,1
+de07f1835e48058fa494d04fd5df19f8,676083,2025,starter,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2025-08-27,2025-08-24,3
+ffd07fa87fae224503e8644471a9dffa,593423,2025,starter,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,confirmed_official_documentation,,True,True,retained,2025-08-23,2025-08-22,1
+ab4fbec05d102b3ffc7dc925c31fc575,475479,2017,reliever,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-08-08,2017-08-07,1
+546a4d6120f0a66d998bbe33caffdef5,519301,2017,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-04-19,2017-04-19,0
+be00a449629580cd38901921f30b32db,491646,2017,reliever,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-05-09,2017-05-06,3
+4bc2fed1837bd89957ae70449b9a8560,519322,2017,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_procedure_supported,,True,True,retained,2017-09-13,2017-09-10,3
+fc257228fa3533fa68e069decb0064d4,474029,2017,reliever,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,,True,True,retained,2017-04-25,2017-04-23,2
+faccd3cd74516e4e62eb5e5fc9ef3a99,502593,2017,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-06-29,2017-06-29,0
+55887b4f547a57ef6fc91a395a427363,516714,2017,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-05-28,2017-05-26,2
+c2e80851faa54e66fff69c6e1cb8fed3,517414,2017,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-07-16,2017-07-16,0
+3b9a1fac07a8516022fdc671bade763c,491703,2017,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2017-08-19,2017-08-14,5
+a6c890e30b2772e111faf43067fc5315,621295,2017,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-07-28,2017-07-27,1
+59b0291e6c218cb57761141f4f8d5885,518875,2017,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2017-09-30,2017-09-30,0
+6dd157280f3253f602371df35a72457f,518858,2017,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-05-04,2017-05-01,3
+ba249ff9f1a619b1478e875f0d25a69d,572096,2017,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,confirmed_procedure_supported,,True,True,retained,2017-08-17,2017-08-17,0
+57a1284e788d9d1ddc501ce10efe7dfc,543726,2017,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-06-01,2017-05-19,13
+4aebe2a65f119dda5a2d485fe3def6b5,543964,2017,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-08-22,2017-08-20,2
+9dd36681320e2a7bd5bf0064039ca5a4,570810,2017,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-08-10,2017-08-07,3
+99fe6b3f369d8cba0e4b85e8d0a8007b,430641,2017,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2017-07-16,2017-07-16,0
+c370df39e09c4d9362e81348bbe67812,592279,2017,reliever,Elbow / UCL,Elbow / UCL,Strain,confirmed_procedure_supported,,True,True,retained,2017-09-11,2017-09-11,0
+fbab79485cd554a6eff86e9f6a412dad,456713,2018,reliever,Elbow / UCL,Elbow / UCL,Strain,confirmed_procedure_supported,,True,True,retained,2018-06-15,2018-06-14,1
+bfb30c24284fe2a33fa1a7163e0a932f,502028,2018,reliever,Elbow / UCL,Elbow / UCL,Impingement,confirmed_procedure_supported,,True,True,retained,2018-04-23,2018-04-23,0
+f5e2276e5c163bd521db6eefbadebeaa,641871,2018,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-05-01,2018-04-29,2
+a76269b415ded5590dfa2a54545eb8a5,503285,2018,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2018-05-09,2018-05-06,3
+18f89949ba06d6cbc3cb31c03fd716bf,621385,2018,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2018-05-30,2018-05-29,1
+462ef7c4e4c080dbebf62c4f29b5cfe5,501925,2018,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-06-10,2018-06-07,3
+93ecce1ebd694287e32ca1c49acc0036,572193,2018,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-06-30,2018-06-28,2
+6f511ef174d5a02599dfaea15fede85a,543475,2018,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-06-24,2018-06-21,3
+d3dade229a162439c5eb632d8aa3c3b3,606478,2018,reliever,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-06-11,2018-06-11,0
+42ccce4d149dc478448e56aef428953b,544928,2018,reliever,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-06-08,2018-06-06,2
+034b77df66b793d9722b5e19d0369c95,580792,2018,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-05-03,2018-05-03,0
+779da5972dccca2e09dcb77352fb2a8c,518875,2018,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2018-04-24,2018-04-24,0
+3089abb8170b18cc048f558445e66449,592865,2018,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-08-04,2018-08-03,1
+89c65f6b1132df1e39a3bd518332894d,592499,2018,reliever,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,,True,True,retained,2018-08-15,2018-08-14,1
+5db1581ac8c98f0758ea677af03ef5e4,605359,2018,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-06-19,2018-06-19,0
+ea19ba2221ba02014e1dae8d88b87baa,592340,2018,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-08-17,2018-08-17,0
+1c819b33c8d652162c324cda69fb4348,543278,2018,reliever,Elbow / UCL,Elbow / UCL,Tendinopathy,broader_elbow,,False,False,no_confirmed_UCL_evidence,2018-08-17,2018-08-17,0
+bb353b41d21d324ce81c510809fd4b02,518858,2019,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,overlapping_episode,False,False,existing_endpoint_QA_exclusion,2019-04-28,2019-04-27,1
+08bd32509b05c7444483f984a63f2cdd,502239,2019,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-06-09,2019-06-06,3
+7abac9959a6c1e1bd64db90efd623ef8,592390,2019,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-06-14,2019-06-11,3
+645988dfeda5a0432533c9e5c5835465,598271,2019,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-04-06,2019-04-06,0
+ed30bce9adb2e51e3cfc9653655adecb,445926,2019,reliever,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-08-13,2019-08-13,0
+2e38059a71bb8b11cb7ceb039861f0f8,664871,2019,reliever,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-06-04,2019-06-01,3
+4fffd66e3658d81a787ed9ae016f9419,571704,2019,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-06-12,2019-06-12,0
+90ea75a9d52932656191e66b9ecab58b,502085,2019,reliever,Elbow / UCL,Elbow / UCL,Soreness,confirmed_procedure_supported,,True,True,retained,2019-04-15,2019-04-15,0
+e985acc3b287917e2f22e4e4fe758c68,673633,2019,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-08-17,2019-08-17,0
+b79ab4e4b3a7684d5a681ce91c2257c6,641627,2019,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-08-27,2019-08-27,0
+05ef485648e27a69172c17bc0dd591a3,621237,2019,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-08-25,2019-08-25,0
+f2cdba761dff8711b5149adb017e0b47,608716,2019,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-05-08,2019-05-07,1
+581a8e41645189df6b599841429c1a2e,663855,2019,reliever,Elbow / UCL,Elbow / UCL,Tear / Rupture,confirmed_official_documentation,,True,True,retained,2019-06-25,2019-06-23,2
+d13ee2cfab259f692e47b468e69655b2,458677,2019,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-04-22,2019-04-22,0
+633cc88d1cfe9b1734738c02beb000d8,543521,2019,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-05-21,2019-05-21,0
+c5570213f6caecd9359f100e05648349,450172,2019,reliever,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-04-05,2019-04-05,0
+af38d3fdfa926fa018126906c4d19162,641835,2019,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-05-26,2019-05-26,0
+50ecd273affc3e5ccc24a2e05bc3c12c,622554,2019,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,confirmed_official_documentation,,True,True,retained,2019-06-07,2019-06-06,1
+15887613bdb72a14d394f2541be731a7,605309,2019,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2019-05-08,2019-05-06,2
+cf5ca6f165766cdc3c4c99fea4cb55aa,501593,2019,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-05-04,2019-05-04,0
+c5dde6e86a0a5af3512001c8b00add87,621385,2019,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-09-16,2019-09-16,0
+ff24aa067c9592e8f909192a96c931aa,672773,2019,reliever,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-06-13,2019-06-13,0
+e0cf706f23e32261ab650506fe7aa631,643466,2019,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-05-04,2019-05-04,0
+c7cb671bbcdd5447acd110efa34b39b0,605501,2019,reliever,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-08-11,2019-08-11,0
+ac30354db0a705a6658d2fb0fcf84161,592712,2019,reliever,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,,True,True,retained,2019-06-04,2019-06-03,1
+9508a77c5ea2362edb19c5cf39fb8798,642028,2019,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_procedure_supported,,True,True,retained,2019-06-26,2019-06-26,0
+d60e8fede531d42d8520069d50c41c11,594736,2019,reliever,Elbow / UCL,Elbow / UCL,Surgery / Postoperative Recovery,broader_elbow,postoperative_or_preexisting,False,False,existing_endpoint_QA_exclusion,2019-07-12,2019-07-12,0
+0cefe52ae9ee191eab1f626083c77cf9,657097,2019,reliever,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-08-19,2019-08-19,0
+5f92fa27f9cb1fbbaf7b6015cde33332,642008,2019,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-08-04,2019-08-04,0
+9c0859915bb8ca0a661b8bed43a8a099,518886,2019,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2019-09-05,2019-09-02,3
+1af6b476358900bfc12f94cac5ec5d13,657571,2020,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,confirmed_procedure_supported,,True,True,retained,2020-09-16,2020-09-16,0
+a26dac511db1e5e664fcfe8c83d53938,656222,2020,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_procedure_supported,,True,True,retained,2020-08-26,2020-08-26,0
+b65d8f74d9bfa6eb5f255dc4148d84a5,642130,2020,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-09-07,2020-09-06,1
+bf49c9efab1bb6bb3b4e3f1c75295602,630263,2020,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-09-21,2020-09-21,0
+4e3e9108bab543d162366ea92df492d9,475054,2020,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2020-08-22,2020-08-20,2
+3da36906f5f4c482a75c75314a525668,489446,2020,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-08-15,2020-08-15,0
+8d3b83bb8333d11cb413f756f870649c,641627,2020,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-09-13,2020-09-10,3
+c8c3c8bc4f1587844a7f8faaefdb4f29,641482,2020,reliever,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-08-15,2020-08-15,0
+ee43249ad729121679ef740900a696ad,641793,2020,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-08-22,2020-08-22,0
+db5de9410aea6500bf58f67edf888aad,592390,2020,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-09-21,2020-09-21,0
+09b25238773ad1f8cd629991cd12ebe9,552640,2020,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_official_documentation,,True,True,retained,2020-08-12,2020-08-12,0
+e4792dbd4f8b09ea19356b069949ad61,622092,2020,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-09-23,2020-09-23,0
+babdcb72b176f19a51e1adb69f04f428,623465,2020,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-09-23,2020-09-23,0
+465b370ea35521863e7a853ea3842559,592804,2020,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_procedure_supported,,True,True,retained,2020-09-11,2020-09-11,0
+f3f2fa4007140770aa473c3342b7b800,657240,2020,reliever,Elbow / UCL,Elbow / UCL,Tendinopathy,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-09-21,2020-09-18,3
+d9dd0c0ff78cfd3ae0380863d190101a,605335,2020,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2020-09-07,2020-09-07,0
+dfba34142de51f75822c0b8da7388697,519076,2021,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,overlapping_episode,False,False,existing_endpoint_QA_exclusion,2021-08-06,2021-08-06,0
+5f9bf7bd5452da4e3eedc511bbb7eca5,641401,2021,reliever,Elbow / UCL,Elbow / UCL,Tendinopathy,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-08-03,2021-07-31,3
+335277faff1cf5ea3353be297d15d9da,670056,2021,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-05-30,2021-05-29,1
+5af4f43af028173badb5181823119bb3,664854,2021,reliever,Elbow / UCL,Elbow / UCL,Stress Reaction,broader_elbow,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-08-20,2021-08-17,3
+7f57318c28ccf51f7e56e25aa787ba0d,605447,2021,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-04-15,2021-04-14,1
+dae98994e12b69fbd0a0cf19679283ba,542585,2021,reliever,Elbow / UCL,Elbow / UCL,Other,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-09-14,2021-09-13,1
+40edbdea9a833bbbc6b2e9c167f2406b,595928,2021,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,confirmed_procedure_supported,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-08-11,2021-08-11,0
+5cb8296b33cf546111f28a3ce179a4f8,593140,2021,reliever,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-06-08,2021-06-07,1
+9cec49d0b25669ffb58858f5b8bb952f,641835,2021,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-08-07,2021-08-06,1
+4f781c242426daa4dcc139594f3042c4,663855,2021,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-05-04,2021-05-02,2
+aa878babd17736855846a34245fa068f,606965,2021,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_official_documentation,,True,True,retained,2021-05-15,2021-05-15,0
+97a25f5a54dbebf88ec60c8fe974f72b,608371,2021,reliever,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-06-24,2021-06-23,1
+a8e838d6abd0f388328a23b1b3c23426,642207,2021,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-07-17,2021-07-17,0
+c277718613f0517fb1ad3087f5588d98,547973,2021,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-08-07,2021-08-06,1
+7d7ae36a5ab498e284b0f4a93ab1b2a3,543339,2021,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-06-12,2021-06-10,2
+1b4dad617e45cf7cc49aebb22f54bbb4,641851,2021,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_official_documentation,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-09-03,2021-09-01,2
+c56b9bd7b074cf0f08f7400309ed8989,664714,2021,reliever,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_official_documentation,uncertain_timing;inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-05-09,2021-05-09,0
+0bc79dcde2e12646ac15a02264efaf0d,668941,2021,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_procedure_supported,overlapping_episode,False,False,existing_endpoint_QA_exclusion,2021-05-18,2021-05-18,0
+9994bf088a1a1c3850cbaee5541743a1,664042,2021,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-06-30,2021-06-30,0
+40072d9887e1047ace949402981538e4,621593,2021,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2021-07-19,2021-07-12,7
+000f0fd2b746ddc1f8e17aa0a7cc002c,656266,2021,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-05-15,2021-05-15,0
+4f7dae02d80c6ac1f8eee5dadbb31bdf,656887,2021,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-07-04,2021-07-01,3
+2a021791aab2afdc4245965f58aa4f8e,592288,2021,reliever,Elbow / UCL,Elbow / UCL,Soreness,confirmed_procedure_supported,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-05-28,2021-05-26,2
+e613f23fb63b0eb3d26c63fb8a46d938,664076,2021,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-05-18,2021-05-17,1
+97b314bef162b5617caf82d43ca20f6d,621056,2021,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-05-25,2021-05-23,2
+b00bf671e569be2e83109812c7ef05e6,502154,2021,reliever,Elbow / UCL,Elbow / UCL,Sprain,probable_supplemental_documentation,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-08-23,2021-08-20,3
+b8bcea8b3c4a3a9490b6b7c4c53985b7,642073,2021,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-07-24,2021-07-24,0
+638f0f621d638b5ca7b5a14845df4616,502522,2021,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2021-08-18,2021-08-16,2
+8abd32ea28b9f08774c90020d5170e8c,663992,2021,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_official_documentation,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2021-08-29,2021-08-29,0
+aab7fe7c1589b19cd552920c46eff9df,641726,2021,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2021-09-18,2021-09-13,5
+0c25a227c0243a7fbc298d84c4919ba2,605151,2022,reliever,Elbow / UCL,Elbow / UCL,Fracture,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-06-28,2022-06-27,1
+fd00dda52940e340eeb606734fa23fcf,640444,2022,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-10-01,2022-10-01,0
+cb362125373ac4aef397b0d31d0024b7,664776,2022,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2022-05-01,2022-05-01,0
+3c2fb17cde3d7653d161b65b1ebf0351,596133,2022,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-04-08,2022-04-08,0
+d2feaf9035a119bec5574945fa9326ac,642130,2022,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,overlapping_episode,False,False,existing_endpoint_QA_exclusion,2022-06-04,2022-06-04,0
+9643663c991ed06e4d47bcd99ff0e826,543272,2022,reliever,Elbow / UCL,Elbow / UCL,Tendinopathy,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-09-25,2022-09-22,3
+d263634a0011168be1e12e8f8e253ca9,643338,2022,reliever,Elbow / UCL,Elbow / UCL,Strain,probable_supplemental_documentation,overlapping_episode,False,False,existing_endpoint_QA_exclusion,2022-05-21,2022-05-21,0
+64cd95ef635baa61aca2d58f022c905e,650633,2022,reliever,Elbow / UCL,Elbow / UCL,Fracture,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-07-23,2022-07-23,0
+df4ef8c3d8adba9b57e922ffb61d652d,622250,2022,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-04-16,2022-04-16,0
+613ed6b9bdbacb515d089c2a7f6040ba,552640,2022,reliever,Elbow / UCL,Elbow / UCL,Soreness,probable_supplemental_documentation,,False,False,no_confirmed_UCL_evidence,2022-06-09,2022-06-08,1
+5740daf1757b39f1f18300271b7d110a,501625,2022,reliever,Elbow / UCL,Elbow / UCL,Inflammation,probable_supplemental_documentation,uncertain_timing;overlapping_episode,False,False,existing_endpoint_QA_exclusion,2022-07-05,2022-07-05,0
+3abdb62a9a6b7794d691f7ed087e0cbb,608678,2022,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-09-09,2022-09-09,0
+fae28b12535c521d62c9956ae54987a5,669622,2022,reliever,Elbow / UCL,Elbow / UCL,Strain,confirmed_procedure_supported,,True,True,retained,2022-08-14,2022-08-14,0
+c3db3b49bf107cb0ee0ecbb4042dab32,448281,2022,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_procedure_supported,,True,True,retained,2022-04-20,2022-04-20,0
+233c8830584db96a709ddfdb427a1bff,656887,2022,reliever,Elbow / UCL,Elbow / UCL,Tear / Rupture,confirmed_official_documentation,,True,True,retained,2022-05-01,2022-05-01,0
+8a4569c728cacd270ff4e03b4f96c47b,605195,2022,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-06-15,2022-06-14,1
+40ee9dd3eaec6df9cf8e484b5a04e03e,641755,2022,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2022-06-12,2022-06-09,3
+e4eec2cb47485f3540f6cd1613d2592f,663432,2022,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_official_documentation,,True,True,retained,2022-07-13,2022-07-13,0
+146ff21d670b83a4cc4df83f7ac04601,517008,2022,reliever,Elbow / UCL,Elbow / UCL,Tendinopathy,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-08-13,2022-08-12,1
+e915a341a3fc67b0b47aba36752a297d,657024,2022,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-05-14,2022-05-14,0
+7270c42d3c2a0dc7e71556d07408744e,670036,2022,reliever,Elbow / UCL,Elbow / UCL,Tendinopathy,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-05-05,2022-05-04,1
+858adce0513c2812dafda47a2e89a2dd,669459,2022,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-09-15,2022-09-13,2
+d60a80d74a9a652bd44ba669882120c0,547001,2022,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2022-05-29,2022-05-29,0
+8178209c813a008a249fec96554b8fe6,656061,2022,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-08-21,2022-08-21,0
+b7010a59343e3570897d74ab19a2b2a8,596071,2022,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-08-04,2022-08-04,0
+cac552aa35cee2f041795dc0b1bb54a5,664042,2022,reliever,Elbow / UCL,Unknown / Unspecified,Inflammation,other_or_unknown_injury,,False,False,no_confirmed_UCL_evidence,2022-05-20,2022-05-12,8
+88f2ee3a7955442bc6c7fc28524f81b6,656786,2022,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-06-07,2022-06-07,0
+b7e99d8ce6c3711d8e15ac720dc60d1d,656458,2022,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,unresolved_anatomy_conflict,False,False,existing_endpoint_QA_exclusion,2022-08-28,2022-08-27,1
+47b7a32e06d0ea2cbeb1804a13629008,663485,2022,reliever,Elbow / UCL,Elbow / UCL,Contusion / Bruise,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-08-24,2022-08-24,0
+71940914fd59b0eea00a13adf1f06c0a,606131,2022,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2022-05-28,2022-05-28,0
+b5c816e3d6028aac1654d8869a66060d,622075,2022,reliever,Elbow / UCL,Elbow / UCL,Tightness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2022-08-07,2022-08-07,0
+f5261e46723b4c30905f909ae053b47e,667376,2022,reliever,Elbow / UCL,Elbow / UCL,Soreness,confirmed_official_documentation,overlapping_episode,False,False,existing_endpoint_QA_exclusion,2022-06-25,2022-06-22,3
+775e225662d20d09dabbcf5c08d44b08,667427,2023,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-05-19,2023-05-17,2
+f8303069ff7611e921557418e08a1ec1,571882,2023,reliever,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-05-19,2023-05-17,2
+5afa8ab77e578a3f2d759985160744ee,548384,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-04-29,2023-04-28,1
+12c78797bf037a112d0a78dab97e175a,607237,2023,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2023-06-02,2023-05-29,4
+6be70a52da2760d947125c49a25fdaa5,640451,2023,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-07-17,2023-07-16,1
+c8fe65f6bf6e2425cf95da95f0c49996,642528,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-04-08,2023-04-06,2
+8c945a320728dd144f1dccaa07472b52,642585,2023,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,confirmed_official_documentation,,True,True,retained,2023-08-26,2023-08-26,0
+5bc161af1e2b50d329f925285e3d5d4a,672391,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-07-07,2023-07-05,2
+354c3b136a907b108303a7a6d1255c4d,677161,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-04-13,2023-04-13,0
+e432e018e7431dbfae65ad34d78b2482,682171,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-05-06,2023-05-04,2
+13b42bbc3fa91953acb32506b1d86c3b,686753,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,,True,True,retained,2023-07-07,2023-07-07,0
+2c39b67273ab311c2053c12c7e9d92da,640462,2023,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2023-05-13,2023-05-13,0
+725da6b9461d7649e913e921cd3b13ee,664199,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-08-04,2023-08-03,1
+58d1f22f3df36ffa3bf513da5afed0f4,621237,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-05-10,2023-05-08,2
+53ab6305d06f6f50cebe223b2a88e170,676534,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-06-07,2023-06-06,1
+dfe8a42b574749e33f1ce90ef8e06051,665665,2023,reliever,Elbow / UCL,Elbow / UCL,Stress Reaction,confirmed_procedure_supported,,True,True,retained,2023-05-09,2023-05-08,1
+aee9280443282c63a26bbfe1e13f2b63,666619,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-09-20,2023-09-20,0
+93665f5985f0bf8ea530767df802e984,608723,2023,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2023-06-14,2023-06-14,0
+d9d8ded6e785ec5c77769a7e74e7c616,661309,2023,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-04-24,2023-04-23,1
+4b2c054b368e96c4530edf75a191f5b3,668665,2023,reliever,Elbow / UCL,Elbow / UCL,Contusion / Bruise,broader_elbow,explicit_nonthrowing_side,False,False,existing_endpoint_QA_exclusion,2023-04-15,2023-04-15,0
+f93de3fa6de096118fc03445d6b62293,650671,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,,True,True,retained,2023-04-29,2023-04-29,0
+ce8078b3c8b1de6052e46ad2fd2cc509,676596,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,uncertain_timing,False,False,existing_endpoint_QA_exclusion,2023-06-03,2023-06-03,0
+dfb0f58e74ad8aba56ee5ed8bdc82675,676477,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-04-28,2023-04-25,3
+a609be4833dbcb609b7d16258d64174c,630023,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-08-21,2023-08-20,1
+248aed8e92a4ce3eee625bad30191319,663992,2023,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-06-16,2023-06-16,0
+a59902a4a21705b60ea151babf1c77bd,592779,2023,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-06-27,2023-06-26,1
+0b27b239f48796dda421d85578a8e79f,656290,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-07-01,2023-07-01,0
+ade7b4c943688d8983047a410fbd11d3,521230,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,overlapping_episode,False,False,existing_endpoint_QA_exclusion,2023-06-11,2023-06-10,1
+dae896f5824eeb165c78d799430aa985,622780,2023,reliever,Elbow / UCL,Elbow / UCL,Soreness,confirmed_procedure_supported,overlapping_episode,False,False,existing_endpoint_QA_exclusion,2023-08-20,2023-08-19,1
+648ccbb857916bedd6e8c09fbdc2506b,669387,2023,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-08-12,2023-08-10,2
+e017c6d95bfb35e0a91b2820d96044fd,665734,2023,reliever,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-08-15,2023-08-15,0
+f30327f85e3853051b5172f03417d604,641755,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-08-20,2023-08-17,3
+62f3d43339ff93dfc98a1d04a57ec549,623451,2023,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2023-10-01,2023-09-30,1
+8bca91a52878fb930e495d07d5c6a2bb,666745,2024,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-09-22,2024-09-22,0
+46a79690700fa7dcc0eaabe51294fa92,676680,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-06-28,2024-06-27,1
+c0013bb7301686ca9f52944287ca8e05,455119,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-07-05,2024-07-04,1
+5c7709045439f5b1982d6ed67a0ec87c,677053,2024,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2024-08-24,2024-08-22,2
+039c78019ebc60ed80ddb874ad87072c,608678,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-05-24,2024-05-21,3
+51915cfe2df79e3d2bcac5bcdc61ed84,572955,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-05-04,2024-05-01,3
+ab38b9816fb01371b4f79b73fd8d1192,641755,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-09-20,2024-09-20,0
+52fc4bbcd328f5c6101e7ad31d787b75,656234,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-05-19,2024-05-18,1
+2c3804ecfbd120a77b3917af27157d4a,554340,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-06-17,2024-06-17,0
+ee9a0ffb67d30ddc3f4ac404c869925d,686580,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-07-12,2024-07-09,3
+fd9efb629816161c1dd8a1dd75043c23,554431,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,overlapping_episode,False,False,existing_endpoint_QA_exclusion,2024-05-07,2024-05-05,2
+9e52628b42859799524ad07d929e9325,663704,2024,reliever,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,uncertain_timing,False,False,existing_endpoint_QA_exclusion,2024-09-17,2024-09-17,0
+0b208336ff26b240c215a332f22b0d03,571882,2024,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-08-17,2024-08-17,0
+5827ef5e3b95cfdc224f7b609c0969f7,472610,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-08-27,2024-08-27,0
+18393fd70fe53179015ee235f4da8efc,543056,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-06-11,2024-06-09,2
+07c52c4dcdbd158bf17b2eb195bac7ff,657097,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-08-07,2024-08-04,3
+f401d34993b1998c8f393a8be09176d1,686826,2024,reliever,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-08-02,2024-07-31,2
+5f753e6390487e29f7219f6be6f56f6d,641726,2024,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-07-06,2024-07-06,0
+4e35d008d818c716f6c904ea6cf604d6,548384,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,,True,True,retained,2024-04-21,2024-04-21,0
+caf358fef13bf926ca99257a0773d565,657585,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-07-10,2024-07-10,0
+ce1362fdadda0486790060ee2f1feaae,608334,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-08-30,2024-08-27,3
+540932fdb611822ee9029552b7d7b8d5,657514,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-09-11,2024-09-11,0
+6a717b15576823f381a12b4e070bfd64,592155,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-08-14,2024-08-14,0
+d0af10e38ca2c29e239de7715ac474fc,687798,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-05-26,2024-05-23,3
+9b63c352deb54b7ba0bf72bd1c9ffa59,686796,2024,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2024-06-06,2024-06-06,0
+163d6f4d449bf4710b20de804227459f,678495,2024,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-08-15,2024-08-14,1
+8520e14c3c6e7c1998502e3cd0c5e430,642239,2024,reliever,Elbow / UCL,Elbow / UCL,Tendinopathy,broader_elbow,overlapping_episode,False,False,existing_endpoint_QA_exclusion,2024-07-25,2024-07-25,0
+ed896389a991e866d17e6a5632397c65,669111,2024,reliever,Elbow / UCL,Elbow / UCL,Tightness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2024-09-12,2024-09-12,0
+736397f61f4efc07d758e0d5d19cd9f6,656945,2025,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-07-22,2025-07-22,0
+6f08d9e32adc4ec3a7bf565f8c6a7da2,669212,2025,reliever,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-04-15,2025-04-15,0
+89eac1ffe735752809796c87ad023344,680704,2025,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-07-08,2025-07-08,0
+570aecdac03e9c748fe2e8676996869d,669674,2025,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-04-13,2025-04-13,0
+0cb9a4054a059bd70cffce4d8b58d3cf,664849,2025,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_procedure_supported,,True,True,retained,2025-04-30,2025-04-27,3
+b371255a49fcd45e1fbcea876a7ea51c,669062,2025,reliever,Elbow / UCL,Elbow / UCL,Sprain,broader_elbow,inferred_continuation,False,False,existing_endpoint_QA_exclusion,2025-07-05,2025-07-03,2
+864c106cc759eae1e8437e84e2a88b01,678495,2025,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_procedure_supported,,True,True,retained,2025-08-26,2025-08-23,3
+00e5cfa800cfeedd5713e5d3d15a0622,657585,2025,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-08-25,2025-08-23,2
+563583bd167316c152999329921925d5,571946,2025,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_official_documentation,overlapping_episode,False,False,existing_endpoint_QA_exclusion,2025-09-03,2025-09-02,1
+6492f6aab98e1998b3f8997fe4f615c1,663738,2025,reliever,Elbow / UCL,Elbow / UCL,Unknown / Unspecified,ambiguous_elbow,,False,False,no_confirmed_UCL_evidence,2025-07-06,2025-07-06,0
+bb0251ad5b5cebe0c1a795e08c0c8103,668820,2025,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,unresolved_anatomy_conflict,False,False,existing_endpoint_QA_exclusion,2025-06-19,2025-06-16,3
+d13612b3b26fd65d8e6e6d9ad1617c3d,678020,2025,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-08-03,2025-08-03,0
+4cb91f8fde3b71be518faeca45ee09ab,665625,2025,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-08-20,2025-08-20,0
+9882da9918e37a6b690ce221d5d2d93d,664875,2025,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-04-24,2025-04-23,1
+6a0505e212c3e69b7881b72dbe2c13ed,640462,2025,reliever,Elbow / UCL,Elbow / UCL,Inflammation,confirmed_procedure_supported,,True,True,retained,2025-04-19,2025-04-18,1
+8e112bae099ece1494cc50995b2cdaad,672282,2025,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-09-11,2025-09-11,0
+fa521e90a08eb3d059fde87ce850a422,656794,2025,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-09-20,2025-09-20,0
+daec5319d24230ffbe95cd6875009f86,656240,2025,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-07-13,2025-07-13,0
+623e107936c4aecd3c03788988106ac3,656986,2025,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-08-22,2025-08-20,2
+28954c4326c843ed10eb0bf349e20415,692285,2025,reliever,Elbow / UCL,Elbow / UCL,Strain,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-06-28,2025-06-28,0
+c82cd5e574f97eeb8c811f9b83166b58,820862,2025,reliever,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-05-18,2025-05-15,3
+966db3ea128918a289d57051bcbc2fec,660787,2025,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-06-19,2025-06-19,0
+65eb0145718c3d5f87a6dc0c22e0a33a,672391,2025,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-09-05,2025-09-05,0
+c4b8b0cebc1352240df5a25495c97433,673380,2025,reliever,Elbow / UCL,Elbow / UCL,Sprain,confirmed_procedure_supported,,True,True,retained,2025-07-03,2025-07-03,0
+b18fa214d7af317e2c1763f1702a5a86,681869,2025,reliever,Elbow / UCL,Elbow / UCL,Soreness,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-09-14,2025-09-13,1
+78ec879adb9d4a2c523f5424a51a57cb,663671,2025,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,multiple_regions,False,False,existing_endpoint_QA_exclusion,2025-09-04,2025-09-04,0
+4fccfeb6b0781884d581cc69019dc8d1,596112,2025,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-09-20,2025-09-20,0
+959e75a8e7aa22ce498be362f9a865b2,682790,2025,reliever,Elbow / UCL,Elbow / UCL,Impingement,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-09-24,2025-09-21,3
+6fbfd0d3ffc66f5221eee1d2f06a561c,608334,2025,reliever,Elbow / UCL,Elbow / UCL,Inflammation,broader_elbow,,False,False,no_confirmed_UCL_evidence,2025-08-24,2025-08-24,0

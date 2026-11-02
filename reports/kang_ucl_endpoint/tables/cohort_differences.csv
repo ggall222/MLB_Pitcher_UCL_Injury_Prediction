@@ -1,0 +1,15 @@
+role,quantity,broad_elbow,ucl,difference
+starter,games,34477,33218,-1259
+starter,pitcher_seasons,1665,1567,-98
+starter,unique_pitchers,620,599,-21
+starter,injury_events,123,36,-87
+starter,injured_pitchers,106,36,-70
+starter,control_games,32975,32853,-122
+starter,case_games,1502,365,-1137
+reliever,games,119590,114915,-4675
+reliever,pitcher_seasons,3669,3466,-203
+reliever,unique_pitchers,1418,1389,-29
+reliever,injury_events,233,34,-199
+reliever,injured_pitchers,208,34,-174
+reliever,control_games,114349,114304,-45
+reliever,case_games,5241,611,-4630

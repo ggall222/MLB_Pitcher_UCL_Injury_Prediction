@@ -1,0 +1,42 @@
+{
+  "benchmark_hashes_unchanged": true,
+  "benchmark_files": 2512,
+  "authoritative_endpoint_unchanged": true,
+  "database_metadata_unchanged": true,
+  "models_refit": [
+    "ucl_reliever",
+    "ucl_starter"
+  ],
+  "no_benchmark_refits": true,
+  "identical_R_script": true,
+  "identical_predictors": true,
+  "identical_hyperparameters": true,
+  "identical_random_game_split_algorithm": true,
+  "chronological_split_used": false,
+  "roles": [
+    {
+      "role": "starter",
+      "status": "passed",
+      "independent_roc_auc": 0.9558749247959436,
+      "training_games": 22255,
+      "test_games": 10963,
+      "test_events": 30,
+      "shared_pitchers": 587,
+      "candidate_windows": 43,
+      "selection_fits": 250,
+      "importance_refits": 500
+    },
+    {
+      "role": "reliever",
+      "status": "passed",
+      "independent_roc_auc": 0.9868266117832408,
+      "training_games": 76992,
+      "test_games": 37923,
+      "test_events": 29,
+      "shared_pitchers": 1373,
+      "candidate_windows": 43,
+      "selection_fits": 250,
+      "importance_refits": 500
+    }
+  ]
+}

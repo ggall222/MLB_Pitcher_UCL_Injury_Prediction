@@ -1,0 +1,43 @@
+component,unchanged,evidence
+version,True,Identical inherited configuration value
+paper_doi,True,Identical inherited configuration value
+database,True,Identical inherited configuration value
+injury_transactions,True,Identical inherited configuration value
+injury_episode_config,True,Identical inherited configuration value
+start_date,True,Identical inherited configuration value
+end_date,True,Identical inherited configuration value
+game_type,True,Identical inherited configuration value
+minimum_season_appearances,True,Identical inherited configuration value
+maximum_season_missing_fraction,True,Identical inherited configuration value
+anatomy_field,True,Identical inherited configuration value
+primary_control_rule,True,Identical inherited configuration value
+outside_window_case_games,True,Identical inherited configuration value
+features,True,Identical inherited configuration value
+window_min,True,Identical inherited configuration value
+window_max,True,Identical inherited configuration value
+window_step,True,Identical inherited configuration value
+seed,True,Identical inherited configuration value
+test_fraction,True,Identical inherited configuration value
+cv_folds,True,Identical inherited configuration value
+selection_repetitions,True,Identical inherited configuration value
+selection_subset_fraction,True,Identical inherited configuration value
+minimum_selection_frequency,True,Identical inherited configuration value
+minimum_mean_gain,True,Identical inherited configuration value
+correlation_threshold,True,Identical inherited configuration value
+bootstrap_iterations,True,Identical inherited configuration value
+importance_bootstrap_iterations,True,Identical inherited configuration value
+gam,True,Identical inherited configuration value
+xgboost,True,Identical inherited configuration value
+nrounds,True,Identical inherited configuration value
+rscript,True,Identical inherited configuration value
+workers,True,Identical inherited configuration value
+split_algorithm,True,"Identical scripts/kang_replication.R, reused without edits"
+XGBoost_fit,True,"Identical scripts/kang_replication.R, reused without edits"
+inverse_frequency_weights,True,"Identical scripts/kang_replication.R, reused without edits"
+CV_and_feature_selection,True,"Identical scripts/kang_replication.R, reused without edits"
+correlation_pruning,True,"Identical scripts/kang_replication.R, reused without edits"
+GAM_window_selection,True,"Identical scripts/kang_replication.R, reused without edits"
+ROC_AUC,True,"Identical scripts/kang_replication.R, reused without edits"
+cluster_bootstrap,True,"Identical scripts/kang_replication.R, reused without edits"
+gain_importance,True,"Identical scripts/kang_replication.R, reused without edits"
+predictors_and_crosswalk,True,22 original inputs; identical crosswalk hash

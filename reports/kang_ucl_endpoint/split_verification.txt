@@ -1,0 +1,2 @@
+starter : identical stratified random-game partition
+reliever : identical stratified random-game partition

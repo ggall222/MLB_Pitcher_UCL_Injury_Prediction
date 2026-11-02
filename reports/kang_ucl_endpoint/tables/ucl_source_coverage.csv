@@ -1,0 +1,10 @@
+benchmark_mapping_status,initial_injury_region,events
+added_confirmed_UCL_not_benchmark_elbow,Forearm,15
+benchmark_pitcher_season_ineligible,Elbow / UCL,56
+benchmark_pitcher_season_ineligible,Forearm,7
+benchmark_pitcher_season_ineligible,Unknown / Unspecified,2
+earlier_broad_shoulder_elbow_or_UCL_event,Elbow / UCL,9
+earlier_broad_shoulder_elbow_or_UCL_event,Forearm,2
+no_eligible_pre_reference_games,Elbow / UCL,3
+outside_regular_season_placement_or_no_placement,Elbow / UCL,1
+retained_benchmark_elbow,Elbow / UCL,55

@@ -1,0 +1,24 @@
+kang_concept,feature,match_quality,used_in_model,notes,correlation_domain,source_variables
+Age,age_at_appearance,exact,True,Same concept; source cleaning and original author code may differ.,context,appearances.age_at_appearance
+Total pitches,total_pitches,exact,True,Same concept; source cleaning and original author code may differ.,workload,appearances.total_pitches
+Innings pitched,innings_pitched,exact,True,Same concept; source cleaning and original author code may differ.,workload,appearances.innings_pitched
+Batters faced,batters_faced,exact,True,Same concept; source cleaning and original author code may differ.,workload,appearances.batters_faced
+Mean velocity,avg_velocity,exact,True,Same concept; source cleaning and original author code may differ.,velocity,appearances.avg_velocity
+Maximum velocity,max_velocity,exact,True,Same concept; source cleaning and original author code may differ.,velocity,appearances.max_velocity
+Velocity SD (all pitch types),kang_velocity_sd,close proxy,True,Same concept; source cleaning and original author code may differ. Do not substitute fastball-only fb_velo_sd; sample SD requires 2 measured pitches.,velocity,pitches.release_speed
+Mean spin rate,spin_avg,exact,True,Same concept; source cleaning and original author code may differ.,spin,appearances.spin_avg
+Maximum spin rate,kang_spin_max,close proxy,True,Same concept; source cleaning and original author code may differ.,spin,pitches.release_spin_rate
+Spin rate SD,kang_spin_sd,close proxy,True,Same concept; source cleaning and original author code may differ. Sample SD requires 2 measured pitches; paper SD denominator not specified.,spin,pitches.release_spin_rate
+Mean absolute horizontal release position,kang_release_abs_x_avg,close proxy,True,Same concept; source cleaning and original author code may differ. Absolute value before averaging; paper operation order unspecified.,release,pitches.release_pos_x
+Mean longitudinal release position,kang_release_y_avg,close proxy,False,"Same concept; source cleaning and original author code may differ. Paper tables name release Y but appendix/importance name extension; include both separately, identity unresolved.",release,pitches.release_pos_y
+Mean vertical release position,release_z_avg,exact,True,Same concept; source cleaning and original author code may differ.,release,appearances.release_z_avg
+Mean release extension,extension_avg,close proxy,True,"Same concept; source cleaning and original author code may differ. Paper tables name release Y but appendix/importance name extension; include both separately, identity unresolved.",release,appearances.extension_avg
+Splitter fraction,fs_usage_pct,exact,True,"Same concept; source cleaning and original author code may differ. Fraction 0–1 over all physical pitches; absent type is zero, not missing. Historical coding may change.",pitch_mix,appearances.fs_usage_pct
+Slider fraction,sl_usage_pct,exact,True,"Same concept; source cleaning and original author code may differ. Fraction 0–1 over all physical pitches; absent type is zero, not missing. Historical coding may change.",pitch_mix,appearances.sl_usage_pct
+Four-seam fastball fraction,ff_usage_pct,exact,True,"Same concept; source cleaning and original author code may differ. Fraction 0–1 over all physical pitches; absent type is zero, not missing. Historical coding may change.",pitch_mix,appearances.ff_usage_pct
+Sweeper fraction,st_usage_pct,exact,True,"Same concept; source cleaning and original author code may differ. Fraction 0–1 over all physical pitches; absent type is zero, not missing. Historical coding may change.",pitch_mix,appearances.st_usage_pct
+Knuckle-curve fraction,kc_usage_pct,exact,True,"Same concept; source cleaning and original author code may differ. Fraction 0–1 over all physical pitches; absent type is zero, not missing. Historical coding may change.",pitch_mix,appearances.kc_usage_pct
+Cutter fraction,fc_usage_pct,exact,True,"Same concept; source cleaning and original author code may differ. Fraction 0–1 over all physical pitches; absent type is zero, not missing. Historical coding may change.",pitch_mix,appearances.fc_usage_pct
+Sinker fraction,si_usage_pct,exact,True,"Same concept; source cleaning and original author code may differ. Fraction 0–1 over all physical pitches; absent type is zero, not missing. Historical coding may change.",pitch_mix,appearances.si_usage_pct
+Curveball fraction,cu_usage_pct,exact,True,"Same concept; source cleaning and original author code may differ. Fraction 0–1 over all physical pitches; absent type is zero, not missing. Historical coding may change.",pitch_mix,appearances.cu_usage_pct
+Changeup fraction,ch_usage_pct,exact,True,"Same concept; source cleaning and original author code may differ. Fraction 0–1 over all physical pitches; absent type is zero, not missing. Historical coding may change.",pitch_mix,appearances.ch_usage_pct
