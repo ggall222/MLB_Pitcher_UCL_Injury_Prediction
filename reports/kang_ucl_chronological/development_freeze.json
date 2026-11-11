@@ -1,0 +1,80 @@
+{
+  "frozen_at_utc": "2026-11-10T18:59:15.831334+00:00",
+  "protocol_sha256": "2732707109afa2f4d9a8ebd7db0f75ea655a95c20987e6f37aaf9d496b9e8a3c",
+  "training_hashes": {
+    "data/injury/analysis/kang_ucl_chronological/starter/training.csv": "925cc84e3d26755127fb7cb527ed261a526a222a4fc6795b60c5486ab74e6cd7",
+    "data/injury/analysis/kang_ucl_chronological/starter/training_support.csv": "71f8636bc25b457b3dcda3886086b8ab4150a18837eada012cd3929d7b71438c",
+    "data/injury/analysis/kang_ucl_chronological/starter/window_cv.csv": "c611d732ed51fd8cadd616abc8fb4e4223a0ad5ad07766c49de850579b9f0d61",
+    "data/injury/analysis/kang_ucl_chronological/starter/gam_curve.csv": "f31f764aa3b8216104bbcd3d9c970db78abfc9229815d2fca229c8ec0d8d3c57",
+    "data/injury/analysis/kang_ucl_chronological/starter/window_selection.json": "c95f440118062b46e4802d0ff27d98d61bfd6d6b383d8ff9de08d16fe8512d97",
+    "data/injury/analysis/kang_ucl_chronological/starter/feature_selection.csv": "d1525269ee1820384a0cc15e961679f7e63864a6e7bfa15365776efb3027ea22",
+    "data/injury/analysis/kang_ucl_chronological/starter/model.bin": "905e3dd4620eb26d7f45b6b3c4424072c3e78c0250b150995b6781ac121b42ab",
+    "data/injury/analysis/kang_ucl_chronological/starter/training_freeze.json": "c03295ef04935e5b43726e7f36a0bc4a4964397435a6e11a151a86a8bac68ac2",
+    "data/injury/analysis/kang_ucl_chronological/starter/importance.csv": "eae837059be7a1cb45625a78d0cb1abc1160c3a74746e1bd5e7dc96c3dc97661",
+    "data/injury/analysis/kang_ucl_chronological/reliever/training.csv": "277c5776d6ac51e55a2064b3bf2436b89e3e5e864c3a37cabd82b96b4a65d5d2",
+    "data/injury/analysis/kang_ucl_chronological/reliever/training_support.csv": "dc5e5b989d7a26c89762d8f1ae8b93c25e6a92bd222e22942721b081db19114d",
+    "data/injury/analysis/kang_ucl_chronological/reliever/window_cv.csv": "22491d33f92edf18f5fc79402f7f4c49c62e92dcff285f3a855f9227d7e12290",
+    "data/injury/analysis/kang_ucl_chronological/reliever/gam_curve.csv": "10efe0081d4c117138054138d6f22b6bc05440849129475b9913b17fc84e9526",
+    "data/injury/analysis/kang_ucl_chronological/reliever/window_selection.json": "9b736ef38a1cf8cb35159396162115209204182d7af4f8d0b3e8f81e739126d9",
+    "data/injury/analysis/kang_ucl_chronological/reliever/feature_selection.csv": "75b2ea2a6abe0fcce8af20a7fac5a87e20162c68f512e2f2b9869dfa26cec78b",
+    "data/injury/analysis/kang_ucl_chronological/reliever/model.bin": "acdb70cf7308f97ac9cc96c161cecd4e62cba65d240348c1951a9e4db11ec105",
+    "data/injury/analysis/kang_ucl_chronological/reliever/training_freeze.json": "82e1d0de0e0955e66cc498f4b3a208030b3cb4da0a257940faf09a693ed7fe91",
+    "data/injury/analysis/kang_ucl_chronological/reliever/importance.csv": "899427f193eb80a72639500a739dadea075e4538194337ec19da60392d9fc155"
+  },
+  "roles": {
+    "starter": {
+      "status": "complete",
+      "signature": "eae227ea040abb62aebfe9b4834346bc54aad8d6d8aa1e1b56f9069d5111eff8",
+      "selected_window": 16,
+      "features": [
+        "age_at_appearance",
+        "kang_velocity_sd",
+        "ff_usage_pct",
+        "kang_release_abs_x_avg",
+        "total_pitches",
+        "extension_avg",
+        "release_z_avg",
+        "spin_avg",
+        "ch_usage_pct",
+        "sl_usage_pct",
+        "max_velocity",
+        "cu_usage_pct",
+        "kang_spin_sd",
+        "kang_spin_max",
+        "fc_usage_pct",
+        "kc_usage_pct",
+        "fs_usage_pct",
+        "st_usage_pct"
+      ]
+    },
+    "reliever": {
+      "status": "complete",
+      "signature": "ebeed2ec5f36c573305754e6ad70ac898e960500c4eb8d728f5951c7045b6d2b",
+      "selected_window": 15,
+      "features": [
+        "age_at_appearance",
+        "kang_release_abs_x_avg",
+        "release_z_avg",
+        "extension_avg",
+        "avg_velocity",
+        "kang_velocity_sd",
+        "kang_spin_sd",
+        "kang_spin_max",
+        "ff_usage_pct",
+        "sl_usage_pct",
+        "ch_usage_pct",
+        "cu_usage_pct",
+        "total_pitches",
+        "fc_usage_pct",
+        "st_usage_pct",
+        "si_usage_pct",
+        "fs_usage_pct",
+        "kc_usage_pct"
+      ]
+    }
+  },
+  "training_end": "2023-12-31",
+  "same_frozen_model_for_validation_and_test": true,
+  "no_later_outcomes_used": true,
+  "interpretation_policy": "Retrospective temporal discrimination only. If a supported later-period interval includes 0.5, any role/period cannot be evaluated, or a later period represents fewer than five events, overall temporal discrimination does not clearly persist. Otherwise, if every later interval also contains its random-split comparator, describe discrimination as largely persisting without claiming equivalence. If later intervals stay above 0.5 but fall below the random comparator, describe weakening above chance. Increases alone are not improvement. These qualitative labels do not select models or alter the analysis."
+}

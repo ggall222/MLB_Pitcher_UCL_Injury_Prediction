@@ -1,0 +1,12 @@
+evidence_category,endpoint_primary,in_model_cohort,episodes
+ambiguous_elbow,False,False,5
+broader_elbow,False,False,76
+confirmed_official_documentation,False,False,3
+confirmed_official_documentation,True,False,2
+confirmed_official_documentation,True,True,2
+confirmed_procedure_supported,False,False,2
+confirmed_procedure_supported,True,False,4
+confirmed_procedure_supported,True,True,13
+forearm_without_ucl_confirmation,False,False,39
+other_or_unknown_injury,False,False,51
+probable_supplemental_documentation,False,False,33

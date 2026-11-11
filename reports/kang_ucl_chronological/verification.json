@@ -1,0 +1,103 @@
+{
+  "prior_files_unchanged": 3773,
+  "endpoint_unchanged": true,
+  "database_unchanged": true,
+  "training_cutoff": "2023-12-31",
+  "source_cutoff": "2026-10-20",
+  "later_access_after_freeze": true,
+  "no_later_refits": true,
+  "no_cross_period_event_sharing": true,
+  "same_parent_functions": true,
+  "predictors": [
+    "age_at_appearance",
+    "total_pitches",
+    "innings_pitched",
+    "batters_faced",
+    "avg_velocity",
+    "max_velocity",
+    "kang_velocity_sd",
+    "spin_avg",
+    "kang_spin_max",
+    "kang_spin_sd",
+    "kang_release_abs_x_avg",
+    "release_z_avg",
+    "extension_avg",
+    "fs_usage_pct",
+    "sl_usage_pct",
+    "ff_usage_pct",
+    "st_usage_pct",
+    "kc_usage_pct",
+    "fc_usage_pct",
+    "si_usage_pct",
+    "cu_usage_pct",
+    "ch_usage_pct"
+  ],
+  "checks": [
+    {
+      "role": "starter",
+      "period": "training",
+      "status": "passed",
+      "games": 25675,
+      "known_labels": 25675,
+      "independent_auc": 1.0,
+      "no_cross_period_games": true,
+      "no_cross_period_pitcher_seasons": true,
+      "no_cross_period_positive_events": true
+    },
+    {
+      "role": "starter",
+      "period": "validation",
+      "status": "passed",
+      "games": 7543,
+      "known_labels": 7543,
+      "independent_auc": 0.5320219647,
+      "no_cross_period_games": true,
+      "no_cross_period_pitcher_seasons": true,
+      "no_cross_period_positive_events": true
+    },
+    {
+      "role": "starter",
+      "period": "test",
+      "status": "passed",
+      "games": 3830,
+      "known_labels": 3830,
+      "independent_auc": 0.6420805643,
+      "no_cross_period_games": true,
+      "no_cross_period_pitcher_seasons": true,
+      "no_cross_period_positive_events": true
+    },
+    {
+      "role": "reliever",
+      "period": "training",
+      "status": "passed",
+      "games": 88220,
+      "known_labels": 88220,
+      "independent_auc": 1.0,
+      "no_cross_period_games": true,
+      "no_cross_period_pitcher_seasons": true,
+      "no_cross_period_positive_events": true
+    },
+    {
+      "role": "reliever",
+      "period": "validation",
+      "status": "passed",
+      "games": 26695,
+      "known_labels": 26695,
+      "independent_auc": 0.4752766825,
+      "no_cross_period_games": true,
+      "no_cross_period_pitcher_seasons": true,
+      "no_cross_period_positive_events": true
+    },
+    {
+      "role": "reliever",
+      "period": "test",
+      "status": "passed",
+      "games": 13421,
+      "known_labels": 13421,
+      "independent_auc": 0.4015586489,
+      "no_cross_period_games": true,
+      "no_cross_period_pitcher_seasons": true,
+      "no_cross_period_positive_events": true
+    }
+  ]
+}

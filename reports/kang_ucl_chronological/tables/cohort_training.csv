@@ -1,0 +1,3 @@
+period,role,games,pitcher_seasons,unique_pitchers,ucl_events,first_game,last_game
+training,starter,25675,1227,502,23,2017-04-02,2023-10-01
+training,reliever,88220,2698,1162,28,2017-04-02,2023-10-01

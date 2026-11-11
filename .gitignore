@@ -187,6 +187,17 @@ secrets.yml
 !/reports/kang_ucl_endpoint/tables/*.csv
 !/reports/kang_ucl_endpoint/figures/0[1-2]_*.png
 
+# Extension 2: frozen chronology and compact public evaluation artifacts.
+!/reports/kang_ucl_chronological/protocol_freeze.json
+!/reports/kang_ucl_chronological/development_freeze.json
+!/reports/kang_ucl_chronological/verification.json
+!/reports/kang_ucl_chronological/notebook_execution.json
+!/reports/kang_ucl_chronological/*_access.json
+!/reports/kang_ucl_chronological/software.txt
+!/reports/kang_ucl_chronological/test_results.txt
+!/reports/kang_ucl_chronological/tables/*.csv
+!/reports/kang_ucl_chronological/figures/0[1-6]_*.png
+
 # Never retain archived/repeated runs just because they contain Markdown files.
 /reports/logs/
 /reports/research_smoke/

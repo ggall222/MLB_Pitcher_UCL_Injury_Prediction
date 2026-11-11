@@ -1,0 +1,24 @@
+extension1_config: config/kang_ucl_endpoint.yaml
+output: reports/kang_ucl_chronological
+cache: data/injury/analysis/kang_ucl_chronological
+training_start: '2017-01-01'
+training_end: '2023-12-31'
+validation_start: '2024-01-01'
+validation_end: '2025-12-31'
+test_start: '2026-01-01'
+test_end: '2026-12-31'
+canonical_episodes: data/injury/revised_2026/processed/mlb_pitcher_injury_events_2015_2026.parquet
+source_observation_end_expected: '2026-10-20'
+negative_followup: calendar_horizon_within_source_cutoff
+reliability_bins: 5
+small_event_count_flag: 5
+# No model overrides: settings and R functions inherit from the frozen parent.
+interpretation_policy: >-
+  Retrospective temporal discrimination only. If a supported later-period interval
+  includes 0.5, any role/period cannot be evaluated, or a later period represents
+  fewer than five events, overall temporal discrimination does not clearly persist.
+  Otherwise, if every later interval also contains its random-split comparator,
+  describe discrimination as largely persisting without claiming equivalence.
+  If later intervals stay above 0.5 but fall below the random comparator, describe
+  weakening above chance. Increases alone are not improvement. These qualitative
+  labels do not select models or alter the analysis.

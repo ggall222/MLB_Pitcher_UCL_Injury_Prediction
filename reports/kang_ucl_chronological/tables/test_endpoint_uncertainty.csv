@@ -1,0 +1,231 @@
+injury_event_id,player_id,initial_injury_region,evidence_category,endpoint_primary,endpoint_exclusions,prediction_reference_date,ucl_confirmation_reported_date,right_censored,procedure_link_valid,linked_procedure_ids,in_model_cohort
+eef34d0bf6b60d62f3a9d7c58b01ac1b,453286,Forearm,forearm_without_ucl_confirmation,False,multiple_regions,2026-04-25,,False,False,,False
+c3eb315afd0f5c4da278df41ebbfa23e,500779,Elbow / UCL,broader_elbow,False,,2026-05-25,,False,False,,False
+6d8165c667c0391c6937aa87245a68f6,518585,Elbow / UCL,broader_elbow,False,,2026-08-26,,True,False,,False
+0bb3251646ceb87445c46595fc5568b8,519141,Elbow / UCL,broader_elbow,False,,2026-05-13,,False,False,,False
+182bf2b101e0f9f9ee8e245ceac0fb79,527048,Forearm,forearm_without_ucl_confirmation,False,,2026-07-06,,False,False,,False
+81a99a861771e3b6d1c399890d26a067,543037,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-03-25,2026-10-21 21:07:05.941885,False,False,,False
+2d4b8268e019cc7475c09ca702883d3e,543135,Elbow / UCL,broader_elbow,False,,2026-08-09,,False,False,,False
+2ce2a2c585e0284e61346719b32adcd2,554340,Elbow / UCL,broader_elbow,False,multiple_regions;postoperative_or_preexisting;unresolved_anatomy_conflict,2026-03-22,,True,False,,False
+51dd8dd4870b4e592418257d966c7991,571510,Upper Arm,other_or_unknown_injury,False,,2026-04-03,,False,False,,False
+d20ba6cf7e2c81738a6a2e27abf9aba3,571927,Elbow / UCL,broader_elbow,False,,2026-05-04,,False,False,,False
+e175aa103c3d588c5482bb1e3bfd58cb,571946,Elbow / UCL,confirmed_official_documentation,False,overlapping_episode,2026-03-01,2026-03-01 00:00:00.000000,True,False,,False
+2724353b91e58337d49e542e0f4f074d,572955,Elbow / UCL,broader_elbow,False,,2026-05-30,,False,False,,False
+76e3f6cd1d290bb87b8af0e5b35636b2,592791,Forearm,forearm_without_ucl_confirmation,False,,2026-08-11,,False,False,,False
+d6a995f45b71ebe1c9922f93b9adb286,592791,Elbow / UCL,broader_elbow,False,,2026-09-05,,False,False,,False
+bb50488ea21e51460acb87feba80277b,592858,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-02-15,2026-02-15 00:00:00.000000,True,False,,False
+f53d79b145e0cefe62d0575e4fb9cc24,592866,Unknown / Unspecified,other_or_unknown_injury,False,,2026-02-10,,False,False,,False
+399f2d16fb324edd3dc58b995659a6b0,595014,Elbow / UCL,broader_elbow,False,,2026-06-20,,False,False,,False
+e91a22fb794d4bb8284af9fe861f7503,596112,Elbow / UCL,broader_elbow,False,,2026-03-24,,True,False,,False
+74893ba4553b67962971cf5c05944440,601713,Elbow / UCL,broader_elbow,False,unresolved_anatomy_conflict,2026-04-13,,False,False,,False
+7c8b3878c3922eca40e868879ce3ecb9,605280,Unknown / Unspecified,other_or_unknown_injury,False,overlapping_episode,2026-08-03,,False,False,,False
+a835ae92bd445f181deef76834f13644,605288,Forearm,forearm_without_ucl_confirmation,False,,2026-08-26,,True,False,,False
+c3cfc55b4ed4669d9965679af7068d12,605397,Elbow / UCL,probable_supplemental_documentation,False,,2026-03-25,2026-10-21 21:07:05.941885,False,False,,False
+cbd44923698ee62470cc830d2c4a8811,605483,Elbow / UCL,ambiguous_elbow,False,,2026-05-12,,False,False,,False
+da4267e646a6bb7aa4e9ec91f6a50181,607074,Elbow / UCL,broader_elbow,False,postoperative_or_preexisting,2026-03-22,,False,False,,False
+f8ab83ce16e00269a18696e55ae00672,607074,Elbow / UCL,broader_elbow,False,,2026-06-30,,False,False,,False
+4e16b322f8a34b8ab79a5746949b9b6b,608331,Elbow / UCL,broader_elbow,False,,2026-05-14,,False,False,,False
+c5af368b8e54f3ddc6ad71bb13ad26a3,608331,Elbow / UCL,broader_elbow,False,,2026-08-14,,False,False,,False
+c41277fa382b5d66c21e711f0d99c62d,608337,Elbow / UCL,broader_elbow,False,missing_initial_date;left_censored;uncertain_timing,2026-08-24,,True,False,,False
+a4f5a53e83b7df2da6b1c2b7955da630,608566,Forearm,forearm_without_ucl_confirmation,False,,2026-05-02,,False,False,,False
+cfa9a55ed93d6c0ec57206542b744a44,621107,Elbow / UCL,confirmed_procedure_supported,True,,2026-04-01,2026-10-21 21:07:05.941885,True,True,266f0c2d732d823e02af37996c118829,False
+249a53a0ae1fc451be763da7f3928d85,621242,Elbow / UCL,ambiguous_elbow,False,,2026-04-20,,False,False,,False
+1b4716dd48fd880e129eae5b93951ded,621244,Elbow / UCL,probable_supplemental_documentation,False,inferred_continuation,2026-03-22,2026-10-21 21:07:05.941885,True,False,,False
+4e51200aa6a63a301f4d9f8bea45d72d,621383,Forearm,forearm_without_ucl_confirmation,False,,2026-07-09,,False,False,,False
+c13ce9347cbfb07f00c655d2e1e39e8f,622663,Unknown / Unspecified,other_or_unknown_injury,False,,2026-05-30,,True,False,,False
+87623eb56a2d7ef03b8c8b3ac6424089,623352,Upper Arm,other_or_unknown_injury,False,,2026-03-25,,False,False,,False
+b2cdaf5fc954facee54551516a615da6,623465,Forearm,forearm_without_ucl_confirmation,False,,2026-02-12,,False,False,,False
+4833dceb174e293f49d79f28992766b7,640451,Upper Arm,other_or_unknown_injury,False,,2026-04-09,,True,False,,False
+d921a85cc893eab62af7f0d9a256c96d,640462,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-02-15,2026-02-15 00:00:00.000000,True,False,,False
+b84b970da52d6d29655071b9cd8005ec,641154,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-02-26,2026-10-21 21:07:05.941885,True,False,,False
+8e64c6cd958ec6c61f4069b250d49060,641729,Unknown / Unspecified,other_or_unknown_injury,False,,2026-02-10,,True,False,,False
+d447706f6b056c0855ea014e73e1f917,641745,Forearm,forearm_without_ucl_confirmation,False,,2026-06-14,,False,False,,False
+01c06899a1dcdd2da5fb9ad2470d0158,641745,Elbow / UCL,confirmed_official_documentation,True,,2026-07-13,2026-07-16 00:00:00.000000,True,True,6bf23c7e03c57911f1682570f135c067,True
+4496e8e13f7265b7e7a3ed7fdf1bb728,641755,Elbow / UCL,broader_elbow,False,,2026-06-08,,False,False,,False
+4f8c021e231de4cecdfd3afff3919fff,641778,Elbow / UCL,broader_elbow,False,,2026-09-02,,True,False,,False
+6591536ed728ca075ba3d262a98e4ada,641927,Elbow / UCL,broader_elbow,False,,2026-05-31,,False,False,,False
+a981d723e4f75f670151bb333205afe7,642152,Unknown / Unspecified,other_or_unknown_injury,False,,2026-07-07,,True,False,,False
+2e0c5085e37e97e43686b04a8d54dcfe,643377,Elbow / UCL,broader_elbow,False,,2026-08-06,,False,False,,False
+a8ac8d5addfac4f2d82d54c1e10efacb,647336,Unknown / Unspecified,other_or_unknown_injury,False,,2026-08-23,,False,False,,False
+e627a7c9c17f7fe75b4cb027e2788eec,655889,Unknown / Unspecified,other_or_unknown_injury,False,,2026-02-10,,False,False,,False
+7fc50482fe5518375fa2dc41ca3a6d8a,656427,Unknown / Unspecified,other_or_unknown_injury,False,,2026-06-13,,False,False,,False
+a1338394c2e0346c506a90be298da02a,656427,Forearm,forearm_without_ucl_confirmation,False,,2026-07-21,,False,False,,False
+869ed3b215254026c2641d5c1fa90413,656529,Forearm,forearm_without_ucl_confirmation,False,,2026-08-27,,False,False,,False
+19c9e404aa2db0d091bf6f83f8e59c61,656546,Forearm,forearm_without_ucl_confirmation,False,overlapping_episode,2026-09-23,,False,False,,False
+a6cbdb9037fdf40a3a7c4c393efb90b8,656546,Forearm,forearm_without_ucl_confirmation,False,overlapping_episode,2026-09-23,,True,False,,False
+c8b3736e281909dc52e790088eed1414,656557,Unknown / Unspecified,other_or_unknown_injury,False,,2026-02-10,,False,False,,False
+055170c1b4a58491a0e14e55e7a9d953,656731,Elbow / UCL,broader_elbow,False,,2026-02-12,,True,False,,False
+efaef0f6e9fed864e61b47e28df6c117,656756,Elbow / UCL,probable_supplemental_documentation,False,overlapping_episode;postoperative_or_preexisting,2026-03-08,2026-03-08 00:00:00.000000,False,False,,False
+08e43e57f73aa3fcb531ab2489bc6790,656986,Elbow / UCL,broader_elbow,False,,2026-05-06,,False,False,,False
+494a1df9aafabb50877d403d8b065395,657006,Elbow / UCL,probable_supplemental_documentation,False,,2026-03-25,2026-10-21 21:07:05.941885,True,False,,False
+d992bfa7c4ad38aacd0d1597519742c2,657265,Forearm,forearm_without_ucl_confirmation,False,,2026-08-26,,False,False,,False
+39bc6a3094bc0396c05bc9b78ea5c30f,657376,Forearm,forearm_without_ucl_confirmation,False,,2026-02-12,,False,False,,False
+26462d229a15ee1018d0b5c502ccdb26,657376,Upper Arm,other_or_unknown_injury,False,,2026-09-21,,True,False,,False
+7f9da61cea2959957df025e00e0a6a45,657424,Elbow / UCL,broader_elbow,False,,2026-07-04,,True,False,,False
+a38f86940a5407997d472f0e213745b7,657585,Unknown / Unspecified,other_or_unknown_injury,False,,2026-02-10,,True,False,,False
+7d172190c4c3659ebc141ca6890ec53e,657649,Elbow / UCL,broader_elbow,False,,2026-04-05,,False,False,,False
+c579fb66ffeb2eccc4a30b809380de91,660271,Upper Arm,other_or_unknown_injury,False,,2026-09-08,,False,False,,False
+c3e2bc9ec8f37c4a4074fc3b0a395a92,660813,Unknown / Unspecified,other_or_unknown_injury,False,uncertain_timing;overlapping_episode,2026-03-22,,True,False,,False
+71defeedf24c68cd886e59cc8a800497,663158,Elbow / UCL,broader_elbow,False,,2026-06-23,,False,False,,False
+27e7898f18fd9683e2ca7a7acf2773a0,663362,Unknown / Unspecified,other_or_unknown_injury,False,postoperative_or_preexisting,2026-03-25,,False,False,,False
+d2d5390bbf7b00a76202907119acb934,663362,Unknown / Unspecified,other_or_unknown_injury,False,,2026-05-15,,False,False,,False
+952972b06d6d6c8e83730590d5688b65,663372,Elbow / UCL,broader_elbow,False,,2026-04-24,,False,False,,False
+0887067842d8bce1bab3a8c7be0ab19f,663460,Elbow / UCL,broader_elbow,False,inferred_continuation,2026-05-15,,False,False,,False
+5ec794112f0c446393e3145d61aa0982,663485,Forearm,forearm_without_ucl_confirmation,False,,2026-04-29,,False,False,,False
+b882936f876f92608a1daf5608bce773,663485,Elbow / UCL,broader_elbow,False,,2026-07-27,,True,False,,False
+08d04b28fc1e5da555b7cd643cce4c5b,663556,Forearm,forearm_without_ucl_confirmation,False,,2026-09-04,,False,False,,False
+ad5a10c25bc09280789a86f12af18041,663558,Elbow / UCL,broader_elbow,False,,2026-06-05,,False,False,,False
+9751582d92a51fc7b4d404fa1229f58b,663559,Elbow / UCL,broader_elbow,False,,2026-04-02,,False,False,,False
+c6e251acbf00af84a56310b5d5a2fbf4,663568,Forearm,probable_supplemental_documentation,False,unresolved_anatomy_conflict,2026-07-19,2026-10-21 21:07:05.941885,True,False,,False
+c6be444f26d32af451a98bd227e2ef09,663704,Elbow / UCL,broader_elbow,False,,2026-03-22,,False,False,,False
+5601d06c1c584a13c994891900f4ad89,663773,Elbow / UCL,broader_elbow,False,overlapping_episode,2026-03-22,,True,False,,False
+19b263f7beff8d7ab246b3aaf3c10285,663773,Elbow / UCL,broader_elbow,False,overlapping_episode;postoperative_or_preexisting,2026-03-25,,True,False,,False
+b623cfcb30a7846621370855947e213e,663776,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting;inferred_continuation,2026-03-22,2026-10-21 21:07:05.941885,False,False,,False
+bfb87817bc8d12bb09615340080169ec,663878,Elbow / UCL,broader_elbow,False,postoperative_or_preexisting,2026-03-25,,False,False,,False
+c3d81a34d6d5e8687288e27172e41109,663992,Upper Arm,other_or_unknown_injury,False,,2026-06-29,,False,False,,False
+8105f9bd9026de1eafdf40c023bc6dc5,664076,Forearm,forearm_without_ucl_confirmation,False,,2026-09-05,,False,False,,False
+bcbdad3730368291aeb0cbfc33c9afa3,664126,Unknown / Unspecified,other_or_unknown_injury,False,,2026-04-28,,False,False,,False
+d08968657a86b5857f755be4b3aa2c0c,664126,Unknown / Unspecified,other_or_unknown_injury,False,,2026-08-25,,False,False,,False
+67b7aa1770844a2427cf1c635aa1d9c7,664126,Unknown / Unspecified,other_or_unknown_injury,False,,2026-09-15,,False,False,,False
+a6b6b02aacf3fbe21a3d683e2ea741d1,664299,Unknown / Unspecified,other_or_unknown_injury,False,,2026-09-23,,False,False,,False
+e7cdfc292f3f1cef06e74e5a5f3aff2f,664776,Unknown / Unspecified,probable_supplemental_documentation,False,,2026-03-24,2026-10-21 21:07:05.941885,True,False,,False
+23e106046abd971f19286f5664236cc6,664849,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-03-25,2026-10-21 21:07:05.941885,False,False,,False
+d1b6c1de720186fc3e0e9f86d0b4adfc,664854,Elbow / UCL,broader_elbow,False,,2026-04-29,,False,False,,False
+7349500899bb12c8384546e586abf732,664854,Elbow / UCL,broader_elbow,False,,2026-06-30,,True,False,,False
+bbc4ffa7c189c0378fdf5812500ed6aa,665645,Elbow / UCL,broader_elbow,False,,2026-08-10,,True,False,,False
+fa77fa3fdfd88ee256067c34203f67cb,665665,Forearm,forearm_without_ucl_confirmation,False,multiple_regions;unresolved_anatomy_conflict;explicit_nonthrowing_side,2026-03-25,,False,False,,False
+3b402ae62b7319aba6f7f9bf61bb7fbe,666142,Elbow / UCL,confirmed_procedure_supported,False,inferred_continuation,2026-05-07,2026-10-21 21:07:05.941885,True,True,c847e0c3f83096aa72f417736f624a6a,False
+542ad7c8a6e7beec39d5011620a91378,666745,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-02-16,2026-02-16 00:00:00.000000,False,False,,False
+69c14f1ebd37446f99ce26cc6455d23d,667297,Forearm,forearm_without_ucl_confirmation,False,,2026-05-17,,False,False,,False
+154aeca23650f91e63992a6670d1a1de,668678,Elbow / UCL,broader_elbow,False,,2026-07-09,,False,False,,False
+d6576a25f86a1d0ec3c0ceb8223d39cd,668820,Elbow / UCL,broader_elbow,False,missing_initial_date;left_censored;uncertain_timing;postoperative_or_preexisting,2026-05-25,,False,False,,False
+652d3dfcb2652509b99bea1ab331540c,668881,Elbow / UCL,broader_elbow,False,postoperative_or_preexisting,2026-03-23,,False,False,,False
+9244d4f7915565200d7ddb61214fb5e3,668881,Elbow / UCL,confirmed_procedure_supported,True,,2026-08-02,2026-10-21 21:07:05.941885,True,True,2c70041f1200c1a6500d6a770ad90af2,True
+b5898f6a960bd1d322a05fc4a8e8e84b,668933,Elbow / UCL,confirmed_official_documentation,False,multiple_regions,2026-05-29,2026-05-29 00:00:00.000000,False,False,,False
+62746ae42bb87c1d7f997f3853c359cd,668941,Unknown / Unspecified,other_or_unknown_injury,False,overlapping_episode,2026-07-14,,True,False,,False
+5ab2660fe73480abe2dd38039ca8c0af,668941,Unknown / Unspecified,other_or_unknown_injury,False,overlapping_episode,2026-08-03,,False,False,,False
+6f8e49104e7148b706e840379ed38e8c,669093,Elbow / UCL,ambiguous_elbow,False,,2026-04-10,,False,False,,False
+3d85258e4d7cf4a3b6651f75b67db301,669169,Unknown / Unspecified,other_or_unknown_injury,False,,2026-05-29,,True,False,,False
+64ed419afa3e2699fe5487c170821e9f,669194,Elbow / UCL,broader_elbow,False,,2026-06-16,,False,False,,False
+854870c1abdd5283724895b7798edf17,669203,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-02-15,2026-02-15 00:00:00.000000,False,False,,False
+26891c4513559a90126d19a7cfc88740,669211,Elbow / UCL,confirmed_procedure_supported,True,,2026-06-28,2026-10-21 21:07:05.941885,True,True,8686f5a5f78f62fba050c02c49a846c8,True
+9bcc6333d9db80aa110d53e5ee62d72e,669330,Forearm,forearm_without_ucl_confirmation,False,,2026-09-13,,False,False,,False
+8d703c570ead17046cca8ecdf2ffdcbd,669372,Elbow / UCL,broader_elbow,False,,2026-09-05,,True,False,,False
+a1244418eb48686e7b56e27881de18d5,669373,Elbow / UCL,ambiguous_elbow,False,,2026-05-01,,False,False,,False
+cdd6cd3bb62634b5e3f8ec3b832471a8,669438,Forearm,forearm_without_ucl_confirmation,False,uncertain_timing,2026-04-16,,True,False,,False
+8fc8df411b4c8c75791efc6212adfcbf,669438,Forearm,forearm_without_ucl_confirmation,False,,2026-04-20,,False,False,,False
+1056048f6b8ac5efe24a186a82358a56,669456,Elbow / UCL,broader_elbow,False,,2026-03-22,,False,False,,False
+3ebc301dd418fa7fb778a2ddf312859e,669467,Elbow / UCL,broader_elbow,False,,2026-08-18,,False,False,,False
+f8f77c2da9b8bfce5ab67cb24eb5a27b,669684,Elbow / UCL,broader_elbow,False,,2026-04-08,,False,False,,False
+08739972b4f9943c107c972831d88d45,669684,Forearm,forearm_without_ucl_confirmation,False,,2026-08-07,,False,False,,False
+d5dd31659f7833979c1e0f47a0ac724b,669713,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-03-25,2026-10-21 21:07:05.941885,False,False,,False
+f0ac8c8c9a0a029ae7b1d02c56035368,669854,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-03-25,2026-10-21 21:07:05.941885,False,False,,False
+b1149f9474108cf15b1d098c394fbae4,670062,Elbow / UCL,ambiguous_elbow,False,,2026-09-17,,False,False,,False
+bd9edc36153f11f4ffb31c244b7d36b0,670102,Elbow / UCL,broader_elbow,False,postoperative_or_preexisting,2026-02-18,,True,False,,False
+396aa2c1c9576d069910d6814e392d29,670912,Elbow / UCL,broader_elbow,False,,2026-03-31,,True,False,,False
+bf6df745f0ea3636f75b7abd3fa67eed,671212,Elbow / UCL,broader_elbow,False,overlapping_episode,2026-04-10,,False,False,,False
+dd1c3097ff4040c8367e7e09b17694f6,671212,Unknown / Unspecified,other_or_unknown_injury,False,overlapping_episode,2026-04-10,,True,False,,False
+1a05d514073120faa4f0245c4e5ad94d,672335,Forearm,forearm_without_ucl_confirmation,False,,2026-07-30,,False,False,,False
+358024ca51729265060f931c2076ca35,672582,Forearm,confirmed_procedure_supported,True,,2026-04-26,2026-10-21 21:07:05.941885,True,True,34143411656b38d4192ed83bd352e233,True
+3756a899702a9c31c89a14c3c9d0a641,672841,Unknown / Unspecified,other_or_unknown_injury,False,missing_initial_date;left_censored;uncertain_timing;overlapping_episode,2026-03-24,,True,False,,False
+c6b4dd357c15e4aae0a1f0b6b8ca1006,672860,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-03-25,2026-10-21 21:07:05.941885,True,False,,False
+c2a79640deebff09fa071639b8ce45f1,673380,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-02-15,2026-02-15 00:00:00.000000,False,False,,False
+243c2617ad879fc80cec652c60d7ef37,673929,Forearm,confirmed_procedure_supported,True,,2026-05-29,2026-10-21 21:07:05.941885,True,True,0a3e20ac5bfd561d7a6ed5e3efbaa3a0,True
+d79769f7e88cbed53bb504aeacf4e33a,674003,Elbow / UCL,broader_elbow,False,postoperative_or_preexisting,2026-03-22,,False,False,,False
+a8065111bff694ecb7b989bd3dfb5491,675512,Unknown / Unspecified,other_or_unknown_injury,False,,2026-03-10,,False,False,,False
+9b9c876eef1cadbc85b6131539caff26,675512,Unknown / Unspecified,other_or_unknown_injury,False,,2026-09-21,,False,False,,False
+4370f0636eac059194209dc6172ef109,675911,Elbow / UCL,broader_elbow,False,,2026-06-13,,True,False,,False
+b2638ed74b1cda20c644d8b6b9c0f566,675989,Unknown / Unspecified,other_or_unknown_injury,False,,2026-04-13,,False,False,,False
+5a3dc9a2cd9adeb70652561228ec7374,676105,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-02-12,2026-02-12 00:00:00.000000,False,False,,False
+48047ee4c9fabf6f3589c0beb7c06701,676106,Unknown / Unspecified,other_or_unknown_injury,False,,2026-08-29,,False,False,,False
+4078179a601755aa795f7db732ec1db0,676477,Elbow / UCL,broader_elbow,False,,2026-08-10,,False,False,,False
+fd4863d884c38bbd41edced47a9bca8e,676571,Forearm,forearm_without_ucl_confirmation,False,,2026-07-16,,True,False,,False
+c882ffc3b32ab1eef6bf09617525d2eb,676604,Elbow / UCL,probable_supplemental_documentation,False,,2026-09-25,2026-10-21 21:07:05.941885,False,False,,False
+2a93d1cd73c7dbdba41080bf6aaf07aa,676684,Elbow / UCL,broader_elbow,False,,2026-06-28,,True,False,,False
+3f2f8b158a935b778771941127b084f7,676775,Elbow / UCL,broader_elbow,False,,2026-06-11,,False,False,,False
+920830ed570f51a26ac68fb1085d1c7e,676775,Elbow / UCL,broader_elbow,False,,2026-08-19,,True,False,,False
+fef9f353f0e2902f7af562edf4d3c6a3,677161,Elbow / UCL,broader_elbow,False,,2026-07-21,,True,False,,False
+79a5cc4f4af6f93a94d35f2c97265d18,677952,Unknown / Unspecified,other_or_unknown_injury,False,,2026-09-07,,False,False,,False
+7978e68488245ca66716bd8d506faa32,677960,Forearm,forearm_without_ucl_confirmation,False,,2026-08-23,,True,False,,False
+29ecb24da7eb9d923fb9b5ad57735053,678024,Elbow / UCL,confirmed_procedure_supported,False,overlapping_episode;postoperative_or_preexisting,2026-03-25,2026-10-21 21:07:05.941885,True,True,8b2bcfb004700d70db20180bd3ba2f92,False
+28e56e56334a5c7ff560a6533a586abd,678024,Elbow / UCL,probable_supplemental_documentation,False,overlapping_episode;postoperative_or_preexisting,2026-04-07,2026-04-07 00:00:00.000000,True,False,,False
+d87b6db605fb3d8e7d94944c668bf2d2,678692,Elbow / UCL,broader_elbow,False,postoperative_or_preexisting,2026-02-12,,True,False,,False
+9a24351c5898fe090b47ed4c4e138f5a,679775,Elbow / UCL,broader_elbow,False,,2026-04-27,,False,False,,False
+3e031217025485f54f21e8d93539fe11,679883,Forearm,confirmed_procedure_supported,True,,2026-08-02,2026-10-21 21:07:05.941885,True,True,a5891bd8401bf3410dd01c2df8487507,True
+0f6cfe344ec510428134c9434340be93,679885,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-02-14,2026-02-14 00:00:00.000000,False,False,,False
+0f99a08e9ec300642630d84dc5deafbf,680686,Forearm,forearm_without_ucl_confirmation,False,unresolved_anatomy_conflict,2026-03-23,,False,False,,False
+bb5cd6118ff6cd7f3593136d3760758f,680730,Elbow / UCL,confirmed_procedure_supported,True,,2026-06-29,2026-10-21 21:07:05.941885,True,True,f33f6fc677574154e8aa91205fa14ac6,True
+74f4306ec0dff4d4c6b26097b287911b,680736,Forearm,forearm_without_ucl_confirmation,False,,2026-08-16,,False,False,,False
+539c48f1c34e6f1dbc653c48c9d854d4,680744,Forearm,forearm_without_ucl_confirmation,False,,2026-05-16,,False,False,,False
+2357a66b0862a959daa8544382e672cb,680767,Elbow / UCL,broader_elbow,False,,2026-05-20,,False,False,,False
+2bf1fefa87572b4d1899be30caabcfb7,680885,Unknown / Unspecified,other_or_unknown_injury,False,,2026-02-10,,True,False,,False
+224ecd7733415ddd67cf41edf79b37e2,681066,Unknown / Unspecified,other_or_unknown_injury,False,,2026-02-10,,True,False,,False
+9beb99f5f68363f44f7c5796635aeab2,681168,Upper Arm,other_or_unknown_injury,False,,2026-04-15,,False,False,,False
+d4f63b54b86c05ddcb58fce076a56af7,681347,Elbow / UCL,broader_elbow,False,overlapping_episode,2026-07-07,,True,False,,False
+0ec053c3b6b6e0f3bd2bcdc9b1fe495d,681347,Unknown / Unspecified,other_or_unknown_injury,False,overlapping_episode,2026-09-06,,True,False,,False
+ad6f88f7cb21b3fc5f70d2634d5b5988,681751,Unknown / Unspecified,other_or_unknown_injury,False,,2026-04-05,,False,False,,False
+5a02beb10735b707ebe733862961e878,681799,Forearm,forearm_without_ucl_confirmation,False,,2026-06-29,,True,False,,False
+cde6e7312a762f88124a78e04d5dd362,681810,Forearm,forearm_without_ucl_confirmation,False,,2026-07-08,,False,False,,False
+08b9702a3e99d32939d1d73a515aaa4d,681870,Elbow / UCL,broader_elbow,False,,2026-05-22,,False,False,,False
+1c70e3b5dfd20c299dbd3f311fa34222,681895,Elbow / UCL,broader_elbow,False,,2026-07-01,,False,False,,False
+c7fb4e083967fe952860900b6a88efe1,681982,Upper Arm,other_or_unknown_injury,False,,2026-09-07,,False,False,,False
+b1d5b28ddd76c84417521126d43b8f16,682120,Elbow / UCL,broader_elbow,False,,2026-07-09,,False,False,,False
+4a48d1be8c4584c265d408bfb0db98c9,682608,Elbow / UCL,broader_elbow,False,,2026-08-30,,False,False,,False
+75ab49b550e3679a7c28a16a0cc31525,682842,Forearm,forearm_without_ucl_confirmation,False,,2026-08-11,,False,False,,False
+966f9fcdba5ae2b9b7f19f07f780e79c,683003,Unknown / Unspecified,other_or_unknown_injury,False,,2026-02-11,,False,False,,False
+10d57b5c4e752e62c3d631908a609bbd,683769,Forearm,forearm_without_ucl_confirmation,False,,2026-03-22,,False,False,,False
+3424fb72c2935d841fd7a1316a71b03a,686580,Elbow / UCL,broader_elbow,False,,2026-08-13,,True,False,,False
+f65eeb0a7b6bbcf0a49c5bc76911f148,686610,Forearm,confirmed_procedure_supported,True,,2026-04-13,2026-10-21 21:07:05.941885,True,True,299ac4d661d2ceb56d2ad126b71beaaa,True
+7fadec3c97c8a1f06e63ad58191f5e10,686790,Elbow / UCL,confirmed_procedure_supported,True,,2026-07-21,2026-10-21 21:07:05.941885,True,True,2880f033e8f09d8d3e69c5eae2f287f4,True
+a46dd4393b8ab523dc95e6b9588c76e4,686796,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-03-25,2026-10-21 21:07:05.941885,False,False,,False
+809198cd173eed0942d8c107fc21a45e,686799,Elbow / UCL,probable_supplemental_documentation,False,,2026-06-07,2026-10-21 21:07:05.941885,True,False,,False
+0dd87521a6202b7974fd87ac94c3185f,687377,Forearm,forearm_without_ucl_confirmation,False,,2026-09-04,,False,False,,False
+10af748351a03b5f02ab704cbf094fb8,687531,Elbow / UCL,broader_elbow,False,,2026-07-12,,True,False,,False
+9ae8f70bd2a1aeba8a3898a97ffb3986,687606,Elbow / UCL,broader_elbow,False,,2026-03-22,,False,False,,False
+0910909fec30390bd171fcf70c9f558c,687792,Unknown / Unspecified,other_or_unknown_injury,False,,2026-02-11,,False,False,,False
+3f3d3bb67ba8e04ac7c75ecc44300f92,687863,Elbow / UCL,confirmed_procedure_supported,True,,2026-03-22,2026-10-21 21:07:05.941885,True,True,afe74f1811d47120ebe2ec1e9f5e389c,False
+6032e94b6aa1f2f5919234ac9253e224,687888,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-03-25,2026-10-21 21:07:05.941885,True,False,,False
+bb5d4cac1c6fc33506b8d51bc6c6fe80,687931,Elbow / UCL,confirmed_procedure_supported,True,,2026-08-25,2026-10-21 21:07:05.941885,True,True,72d87d3ba484e4077e94525c973b6b0f,True
+282821d4f9a42f4befcdce1c6e843df0,688138,Elbow / UCL,confirmed_official_documentation,False,postoperative_or_preexisting,2026-02-16,2026-02-16 00:00:00.000000,True,False,,False
+a4a4457f207914960703d6c31f19707c,689017,Unknown / Unspecified,other_or_unknown_injury,False,missing_initial_date;left_censored;uncertain_timing;overlapping_episode,2026-03-22,,True,False,,False
+ffe5c7d43db0086f0324fdebdfec5b9e,689017,Unknown / Unspecified,other_or_unknown_injury,False,overlapping_episode,2026-03-22,,False,False,,False
+7e4d54e79066aca6b7d13b70d641826f,689441,Forearm,forearm_without_ucl_confirmation,False,,2026-06-10,,False,False,,False
+36cdb7750435bfdca415bb380da27f18,689520,Forearm,forearm_without_ucl_confirmation,False,,2026-04-09,,False,False,,False
+cc0203f50109533aa01d3ef9f96129b1,689672,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-03-25,2026-10-21 21:07:05.941885,False,False,,False
+26cf58a551456a0ce34822fdead8b0e3,690544,Elbow / UCL,probable_supplemental_documentation,False,inferred_continuation,2026-03-22,2026-10-21 21:07:05.941885,True,False,,False
+f1cce9d5007f59fc232b76acb3ad34fa,690928,Forearm,confirmed_procedure_supported,True,,2026-08-22,2026-10-21 21:07:05.941885,False,True,0397ac21e4b1364561bd9d562f691004,True
+99a179ff2e0d926bc14e85e6736165f0,690953,Elbow / UCL,broader_elbow,False,inferred_continuation,2026-04-17,,True,False,,False
+f17a1ddfb2d322933bd328a9bebf8295,690986,Forearm,forearm_without_ucl_confirmation,False,,2026-07-09,,False,False,,False
+bcae161b538c60c09173d1b421ba8a70,690990,Forearm,confirmed_procedure_supported,True,,2026-04-04,2026-10-21 21:07:05.941885,True,True,ded52271669156d55dab0718c810f7b1,False
+e3c7e3a8eb7fcc139077486e32458e06,691008,Elbow / UCL,confirmed_procedure_supported,True,,2026-07-04,2026-10-21 21:07:05.941885,True,True,61da5fe19c097836f2382b072104a92c,True
+aae781d6d335ba7226d19d2dffbb2979,691587,Unknown / Unspecified,other_or_unknown_injury,False,,2026-05-28,,False,False,,False
+f4b6c5f526f259bca1e7b946b0ef18af,692030,Unknown / Unspecified,other_or_unknown_injury,False,,2026-07-21,,True,False,,False
+dcc93610c9f7368363f7c34ae8c56909,692230,Unknown / Unspecified,other_or_unknown_injury,False,overlapping_episode,2026-05-31,,True,False,,False
+f098aeb545174ffd89bcc20a1ae3f384,692230,Unknown / Unspecified,other_or_unknown_injury,False,overlapping_episode,2026-05-31,,False,False,,False
+fca64400785c8b68582298136ae1188f,694037,Elbow / UCL,broader_elbow,False,inferred_continuation,2026-06-16,,False,False,,False
+e136087dc856f56c38ece464b3691916,694361,Elbow / UCL,broader_elbow,False,,2026-08-01,,True,False,,False
+e655bd0569517d8c47976c233bb5ed33,694462,Elbow / UCL,broader_elbow,False,postoperative_or_preexisting,2026-03-25,,False,False,,False
+d279b4a2f96e534bc0a82ff5c3edbb9a,694462,Elbow / UCL,confirmed_official_documentation,True,,2026-09-24,2026-09-24 00:00:00.000000,True,False,,False
+0db6b6fdaa2d8cff5f5f83850f21885b,694918,Elbow / UCL,confirmed_official_documentation,True,,2026-09-22,2026-09-22 00:00:00.000000,True,False,,True
+143497691ab1f2a899024f7fba37a7ed,695418,Unknown / Unspecified,other_or_unknown_injury,False,,2026-07-06,,False,False,,False
+519646d4c2152edc772f7492397f71e5,695549,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-02-10,2026-02-10 00:00:00.000000,False,False,,False
+f95e078f44183305d4fa8d37e41df245,696070,Elbow / UCL,broader_elbow,False,unresolved_anatomy_conflict,2026-05-26,,False,False,,False
+8245fba8e017c45d33f9f14fdfe331c2,696136,Elbow / UCL,broader_elbow,False,,2026-03-22,,False,False,,False
+7dc65a7790ad8ebc83d4cf580af645a5,696147,Forearm,forearm_without_ucl_confirmation,False,,2026-08-03,,False,False,,False
+d4fde2c24f3e504e1be88ace501f1f72,696275,Unknown / Unspecified,probable_supplemental_documentation,False,no_regular_season_pitcher_history,2026-03-25,2026-10-21 21:07:05.941885,True,False,,False
+082630de57c1b17e4e430b1f05ed2b4a,696519,Forearm,forearm_without_ucl_confirmation,False,,2026-09-13,,False,False,,False
+77c7aeb4a0dfcc0cd6d682148d70f2fb,700249,Elbow / UCL,broader_elbow,False,,2026-05-08,,False,False,,False
+f01e724092843e3dc3da60274bb9bfad,700327,Elbow / UCL,confirmed_procedure_supported,True,,2026-05-30,2026-10-21 21:07:05.941885,True,True,b6b9a55e7ba7fe0e84b6bf25a3ea5a34,False
+b53925bbf37c50fa6654abff5fe36186,700363,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-03-25,2026-10-21 21:07:05.941885,False,False,,False
+d8b7b9e4983d39369669d8e581e073af,701487,Unknown / Unspecified,probable_supplemental_documentation,False,,2026-03-25,2026-10-21 21:07:05.941885,True,False,,False
+86c2c5cb1e0812b31dbb160752629cee,701519,Upper Arm,other_or_unknown_injury,False,,2026-03-22,,False,False,,False
+cddf8d245ad3bdec36bf10f1ae430d88,702153,Elbow / UCL,confirmed_procedure_supported,True,,2026-06-06,2026-10-21 21:07:05.941885,True,True,ca5615852c87e159f13883fe15eef79d,True
+55ec09d4f346c35decb8ad3ffdcbed90,702281,Elbow / UCL,confirmed_official_documentation,True,,2026-05-13,2026-05-13 00:00:00.000000,True,True,5f3bdee145a68429d968955ae62c3975,False
+2473a19d972c21d8c2a5956ac360721a,702303,Elbow / UCL,broader_elbow,False,,2026-04-24,,True,False,,False
+fe4a092406ccc56b511af18761e48677,800049,Elbow / UCL,probable_supplemental_documentation,False,postoperative_or_preexisting,2026-03-25,2026-10-21 21:07:05.941885,True,False,,False
+bdeb0910cf8c7e12243685eb74bb45b5,801403,Elbow / UCL,confirmed_procedure_supported,True,,2026-05-15,2026-10-21 21:07:05.941885,True,True,4fc80c2a0be28af4f3cf9c901d5ca016,True
+964de9a6bd037a76cc86bdb8d7fca0a5,806185,Elbow / UCL,probable_supplemental_documentation,False,overlapping_episode;postoperative_or_preexisting,2026-03-21,2026-10-21 21:07:05.941885,True,False,,False
+2c6b31acc5d4819b7abb5f859f78f08f,807743,Unknown / Unspecified,other_or_unknown_injury,False,,2026-07-05,,True,False,,False
+a78d1493226cb7bb393f7259c8897f07,813349,Elbow / UCL,broader_elbow,False,overlapping_episode,2026-07-01,,True,False,,False
+fbff2539fdcaa8cc55a449e90fcc791d,813349,Elbow / UCL,broader_elbow,False,overlapping_episode,2026-07-26,,False,False,,False
+699be60d1cd75318ee9d9c31a8d0bbbe,814005,Unknown / Unspecified,other_or_unknown_injury,False,,2026-08-12,,True,False,,False

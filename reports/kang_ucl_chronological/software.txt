@@ -1,0 +1,4 @@
+R version 4.5.1 (2025-06-13) 
+xgboost 1.7.11.1 
+mgcv 1.9.3 
+jsonlite 2.0.0 

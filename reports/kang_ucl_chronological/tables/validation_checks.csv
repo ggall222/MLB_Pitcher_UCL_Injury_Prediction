@@ -1,0 +1,7 @@
+role,period,status,games,known_labels,independent_auc,no_cross_period_games,no_cross_period_pitcher_seasons,no_cross_period_positive_events
+starter,training,passed,25675,25675,1.0,True,True,True
+starter,validation,passed,7543,7543,0.5320219646848127,True,True,True
+starter,test,passed,3830,3830,0.6420805642998717,True,True,True
+reliever,training,passed,88220,88220,1.0,True,True,True
+reliever,validation,passed,26695,26695,0.47527668252104865,True,True,True
+reliever,test,passed,13421,13421,0.4015586488908806,True,True,True
